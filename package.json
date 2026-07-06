@@ -1,0 +1,13 @@
+{
+  "name": "ai-radar-news-feed",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-public-ai-news.mjs",
+    "update": "node scripts/build-public-ai-news.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
