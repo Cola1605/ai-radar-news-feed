@@ -1,158 +1,179 @@
 {
-  "generatedAt": "2026-07-07T02:41:34.971Z",
+  "generatedAt": "2026-07-07T07:03:44.461Z",
   "dateKey": "2026-07-07",
-  "source": "AI Radar public GitHub feed",
-  "sourceUrl": "https://hnrss.org/newest?q=AI, https://hnrss.org/newest?q=LLM, https://hnrss.org/newest?q=agent, https://simonwillison.net/atom/everything/",
+  "source": "AI Radar hot AI news feed",
+  "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 86,
+  "totalCount": 159,
   "items": [
     {
-      "id": "hacker-news-llm-llm-big-bang-i-gave-ai-agents-a-social-network-one-is-running-for-president",
-      "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
-      "summary": "Tin public từ Hacker News LLM về \"LLM Big Bang: I gave AI agents a social network. One is running for president\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://noozra.com/articles/the-llm-big-bang",
-      "sourceName": "Hacker News LLM",
-      "score": 9.5,
+      "id": "the-decoder-zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost",
+      "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+      "summary": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million tokens per day, and subscribers receive about 1.5 times more token quota through July 2026....",
+      "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
       "tags": [
-        "Agent AI",
-        "LLM"
+        "Hot News",
+        "Model"
       ],
-      "publishedAt": "2026-07-06T00:25:37.000Z"
+      "publishedAt": "2026-07-06T18:28:26.000Z"
     },
     {
-      "id": "hacker-news-agent-show-hn-xalgorix-autonomous-ai-pentesting-agent",
-      "title": "Show HN: Xalgorix – Autonomous AI Pentesting Agent",
-      "summary": "Self-hosted AI security testing with a local Web UI, live agent telemetry, verified findings, and branded PDF reports.",
-      "url": "https://github.com/xalgord/xalgorix",
-      "sourceName": "Hacker News Agent",
+      "id": "google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "Tin AI từ Google DeepMind về \"Google DeepMind and A24 announce first-of-its-kind research partnership\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "sourceName": "Google DeepMind",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-07-03T14:25:43.000Z"
+    },
+    {
+      "id": "openai-news-predicting-model-behavior-before-release-by-simulating-deployment",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "url": "https://openai.com/index/deployment-simulation",
+      "sourceName": "OpenAI News",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-06-16T00:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-claude-reaches-ga-on-microsoft-foundry-european-enterprises-cannot-deploy-it",
+      "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It",
+      "summary": "Claude models reached GA on Microsoft Foundry with Azure-native billing and governance, but no European data zone exists. Anthropic's own documentation confirms data residency guarantees apply to Bedrock and Vertex AI but not Foundry. European practitioners from banking and healthcare report the offering is unapproved for production. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-07-05T08:13:00.000Z"
+    },
+    {
+      "id": "openai-news-hp-inc-launches-frontier-strategic-partnership-with-openai",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-06-28T17:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-investing-in-multi-agent-ai-safety-research",
+      "title": "Investing in multi-agent AI safety research",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "sourceName": "Google DeepMind",
       "score": 9.1,
       "tags": [
+        "Hot News",
         "Agent AI",
-        "Security"
+        "Research",
+        "Policy",
+        "Business"
       ],
-      "publishedAt": "2026-07-06T14:49:22.000Z"
+      "publishedAt": "2026-06-10T10:21:19.000Z"
     },
     {
-      "id": "simon-willison-llm-coding-agent-0-1a0",
-      "title": "llm-coding-agent 0.1a0",
-      "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it....",
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-      "sourceName": "Simon Willison",
-      "score": 8.9,
+      "id": "openai-news-openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
+        "Hot News",
+        "Model",
         "Agent AI",
-        "LLM",
-        "Tooling"
+        "Research",
+        "Business"
       ],
-      "publishedAt": "2026-07-02T19:33:12.000Z"
+      "publishedAt": "2026-06-01T10:00:00.000Z"
     },
     {
-      "id": "hacker-news-ai-pi-rust-high-performance-ai-coding-agent-cli-written-in-rust",
-      "title": "Pi (Rust): High-performance AI coding agent CLI written in Rust",
-      "summary": "Tin public từ Hacker News AI về \"Pi (Rust): High-performance AI coding agent CLI written in Rust\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
+      "id": "techcrunch-ai-anthropic-is-discussing-a-new-custom-chip-with-samsung",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
       "tags": [
-        "Agent AI"
+        "Hot News",
+        "Business"
       ],
-      "publishedAt": "2026-07-07T01:54:19.000Z"
+      "publishedAt": "2026-07-02T18:31:09.000Z"
     },
     {
-      "id": "hacker-news-ai-claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-a-reduced-price-2026",
-      "title": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price (2026)",
-      "summary": "Tin public từ Hacker News AI về \"Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price (2026)\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://lucasaguiar.xyz/en/posts/claude-sonnet-5-2026/",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
+      "id": "infoq-ai-ml-data-engineering-microsoft-brings-ai-powered-vulnerability-remediation-to-azure-devops-with-copilot-autofix",
+      "title": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix",
+      "summary": "Microsoft has announced the limited public preview of Copilot Autofix for GitHub Advanced Security for Azure DevOps, extending AI-powered vulnerability remediation to teams using Azure Repos. By Craig Risi",
+      "url": "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.8,
       "tags": [
-        "Agent AI"
+        "Hot News",
+        "Policy"
       ],
-      "publishedAt": "2026-07-07T00:15:11.000Z"
+      "publishedAt": "2026-06-30T12:00:00.000Z"
     },
     {
-      "id": "hacker-news-ai-show-hn-nimbus-open-source-ai-agent-that-operates-your-aws-and-gcp",
-      "title": "Show HN: Nimbus - open-source AI agent that operates your AWS and GCP",
-      "summary": "Tin public từ Hacker News AI về \"Show HN: Nimbus - open-source AI agent that operates your AWS and GCP\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://github.com/hritvikgupta/nimbus",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
+      "id": "openai-news-openai-and-broadcom-unveil-llm-optimized-inference-chip",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
       "tags": [
-        "Agent AI"
+        "Hot News",
+        "Model",
+        "Infra"
       ],
-      "publishedAt": "2026-07-06T22:02:44.000Z"
+      "publishedAt": "2026-06-24T06:00:00.000Z"
     },
     {
-      "id": "hacker-news-ai-kennel-keep-your-ai-agents-running-between-tasks",
-      "title": "Kennel – Keep Your AI Agents Running Between Tasks",
-      "summary": "Tin public từ Hacker News AI về \"Kennel – Keep Your AI Agents Running Between Tasks\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://github.com/eranif/kennel",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
+      "id": "techcrunch-ai-what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.7,
       "tags": [
-        "Agent AI"
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-07-06T21:48:09.000Z"
+      "publishedAt": "2026-07-04T15:51:32.000Z"
     },
     {
-      "id": "hacker-news-ai-x-ai-voice-agent-builder",
-      "title": "x.ai Voice Agent Builder",
-      "summary": "Tin public từ Hacker News AI về \"x.ai Voice Agent Builder\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://x.ai/voice",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
+      "id": "infoq-ai-ml-data-engineering-presentation-fine-tuning-the-enterprise-reinforcement-learning-in-practice",
+      "title": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice",
+      "summary": "The speakers discuss Agent RFT, OpenAI’s platform for fine-tuning reasoning models via real-time tool interactions and custom reward signals. They explain how reinforcement learning solves complex credit assignment challenges within the context window. They share enterprise success stories, showing how Agent RFT eliminates long-tail token loops and drives extreme efficiency. By Wenjie Zi, Will Hang",
+      "url": "https://www.infoq.com/presentations/rft-openai-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.6,
       "tags": [
-        "Agent AI"
+        "Model",
+        "Agent AI",
+        "Business"
       ],
-      "publishedAt": "2026-07-06T21:44:04.000Z"
-    },
-    {
-      "id": "hacker-news-ai-attribute-knowledge-rag-pattern-for-governed-ai-agents",
-      "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
-      "summary": "Tin public từ Hacker News AI về \"Attribute Knowledge RAG Pattern for Governed AI Agents\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
-      "tags": [
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-06T21:40:45.000Z"
-    },
-    {
-      "id": "hacker-news-ai-jadepuffer-ransomware-used-ai-agent-to-automate-attack",
-      "title": "JadePuffer ransomware used AI agent to automate attack",
-      "summary": "Tin public từ Hacker News AI về \"JadePuffer ransomware used AI agent to automate attack\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "sourceName": "Hacker News AI",
-      "score": 8.4,
-      "tags": [
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-06T21:32:34.000Z"
-    },
-    {
-      "id": "hacker-news-agent-groundtruth-checks-your-ai-coding-agent-s-claims-against-the-git-diff",
-      "title": "Groundtruth – checks your AI coding agent's claims against the Git diff",
-      "summary": "Tin public từ Hacker News Agent về \"Groundtruth – checks your AI coding agent's claims against the Git diff\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://github.com/akahkhanna/groundtruth",
-      "sourceName": "Hacker News Agent",
-      "score": 8.4,
-      "tags": [
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-06T19:29:31.000Z"
-    },
-    {
-      "id": "hacker-news-agent-simple-ai-agent-in-posix-shell",
-      "title": "Simple AI agent in POSIX shell",
-      "summary": "Tin public từ Hacker News Agent về \"Simple AI agent in POSIX shell\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://github.com/patrickjh/ssa",
-      "sourceName": "Hacker News Agent",
-      "score": 8.4,
-      "tags": [
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-06T18:36:07.000Z"
+      "publishedAt": "2026-07-03T09:22:00.000Z"
     }
   ]
 }

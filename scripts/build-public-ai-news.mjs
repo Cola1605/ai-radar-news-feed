@@ -3,13 +3,32 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 export const DEFAULT_FEEDS = [
-  { sourceName: "Hacker News AI", url: "https://hnrss.org/newest?q=AI" },
-  { sourceName: "Hacker News LLM", url: "https://hnrss.org/newest?q=LLM" },
-  { sourceName: "Hacker News Agent", url: "https://hnrss.org/newest?q=agent" },
-  { sourceName: "Simon Willison", url: "https://simonwillison.net/atom/everything/" },
+  { sourceName: "OpenAI News", url: "https://openai.com/news/rss.xml", sourceWeight: 1.25 },
+  { sourceName: "Google DeepMind", url: "https://deepmind.google/blog/rss.xml", sourceWeight: 1.2 },
+  { sourceName: "Google Research", url: "https://research.google/blog/rss/", sourceWeight: 1.1 },
+  {
+    sourceName: "TechCrunch AI",
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/",
+    sourceWeight: 1.05,
+  },
+  { sourceName: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", sourceWeight: 1 },
+  { sourceName: "The Decoder", url: "https://the-decoder.com/feed/", sourceWeight: 1 },
+  { sourceName: "MIT Technology Review", url: "https://www.technologyreview.com/feed/", sourceWeight: 0.95 },
+  {
+    sourceName: "InfoQ AI/ML/Data Engineering",
+    url: "https://feed.infoq.com/ai-ml-data-eng/",
+    sourceWeight: 0.9,
+  },
+  {
+    sourceName: "Hacker News AI",
+    url: "https://hnrss.org/newest?q=AI",
+    sourceWeight: 0.75,
+    secondary: true,
+  },
 ];
 
 const MAX_ITEMS = 12;
+const MAX_NEWS_AGE_DAYS = 45;
 const XML_ENTITIES = new Map([
   ["amp", "&"],
   ["lt", "<"],
@@ -83,6 +102,38 @@ function canonicalizeUrl(value = "") {
   }
 }
 
+function hostnameForUrl(value = "") {
+  try {
+    return new URL(value).hostname.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function publisherNameForUrl(value = "", fallback = "AI news") {
+  return hostnameForUrl(value).replace(/^www\./, "") || fallback;
+}
+
+function isGitHubUrl(value = "") {
+  const hostname = hostnameForUrl(value);
+  return hostname === "github.com" || hostname.endsWith(".github.com");
+}
+
+function isHotNewsCandidate(item) {
+  if (isGitHubUrl(item.url)) return false;
+  if (/^show hn:/i.test(item.title) && /github/i.test(`${item.url} ${item.summary}`)) {
+    return false;
+  }
+  return true;
+}
+
+function isWithinNewsWindow(item, now = new Date()) {
+  const publishedTime = Date.parse(item.publishedAt);
+  if (!Number.isFinite(publishedTime)) return true;
+  const ageDays = (now.getTime() - publishedTime) / (24 * 60 * 60 * 1000);
+  return ageDays >= -1 && ageDays <= MAX_NEWS_AGE_DAYS;
+}
+
 function tokensForSimilarity(value = "") {
   const stopWords = new Set([
     "a",
@@ -131,21 +182,40 @@ function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
 }
 
-function scoreText(title, summary) {
+function recencyModifier(publishedAt, now = new Date()) {
+  const publishedTime = Date.parse(publishedAt);
+  if (!Number.isFinite(publishedTime)) return 0;
+  const ageHours = (now.getTime() - publishedTime) / (60 * 60 * 1000);
+  if (ageHours < 0) return 0;
+  if (ageHours <= 48) return 1;
+  if (ageHours <= 168) return 0.3;
+  if (ageHours <= 336) return -0.4;
+  return -1;
+}
+
+function scoreText(title, summary, item = {}, now = new Date()) {
   const text = `${title} ${summary}`.toLowerCase();
   const weights = [
-    [/agent|agentic|browser automation|workflow/, 1.8],
-    [/\bai\b|artificial intelligence|generative/, 1.2],
-    [/\bllm\b|language model|foundation model|small model/, 1.2],
-    [/inference|routing|serving|worker|cloudflare|deployment/, 0.9],
-    [/benchmark|eval|evaluation|research|paper/, 0.7],
-    [/security|safety|guardrail|sandbox|policy/, 0.7],
-    [/open source|github|release|framework|tool/, 0.5],
+    [
+      /openai|chatgpt|gpt-|gpt\b|sora|google deepmind|deepmind|gemini|anthropic|claude|meta ai|llama|microsoft|copilot|nvidia/,
+      1.5,
+    ],
+    [/launch|launched|release|released|announce|announced|introduc|unveil|rollout|available/, 1.15],
+    [/model|frontier|foundation model|reasoning|multimodal|video model|image model|llm/, 1.05],
+    [/benchmark|eval|evaluation|leaderboard|research|paper/, 0.75],
+    [/regulation|policy|copyright|lawsuit|safety|security|alignment|risk/, 0.7],
+    [/funding|acquisition|revenue|partnership|enterprise/, 0.55],
+    [/\bai\b|artificial intelligence|generative|agentic|agent\b/, 0.45],
   ];
-  const score = weights.reduce((total, [pattern, weight]) => {
+  const keywordScore = weights.reduce((total, [pattern, weight]) => {
     return pattern.test(text) ? total + weight : total;
-  }, 5.4);
-  return Number(clamp(score, 5, 9.5).toFixed(1));
+  }, 4.8);
+  const sourceWeight = Number.isFinite(Number(item.sourceWeight)) ? Number(item.sourceWeight) : 1;
+  const sourceModifier = sourceWeight - 1;
+  const secondaryModifier = item.secondary ? -0.35 : 0;
+  const score =
+    keywordScore + sourceModifier + secondaryModifier + recencyModifier(item.publishedAt, now);
+  return Number(clamp(score, 5, 9.7).toFixed(1));
 }
 
 function tagsFromText(title, summary) {
@@ -155,12 +225,15 @@ function tagsFromText(title, summary) {
     if (!tags.includes(tag)) tags.push(tag);
   };
 
+  if (/launch|release|announce|unveil|rollout|available/.test(text)) add("Hot News");
+  if (/model|frontier|foundation model|small model|llm|gpt|gemini|claude|llama/.test(text)) add("Model");
   if (/agent|agentic|browser automation|workflow/.test(text)) add("Agent AI");
-  if (/\bllm\b|language model|foundation model|small model/.test(text)) add("LLM");
-  if (/inference|routing|serving|worker|cloudflare|deployment/.test(text)) add("Infra");
   if (/benchmark|eval|evaluation|research|paper/.test(text)) add("Research");
-  if (/security|safety|guardrail|sandbox|policy/.test(text)) add("Security");
-  if (/open source|github|release|framework|tool/.test(text)) add("Tooling");
+  if (/regulation|policy|copyright|lawsuit|safety|security|alignment|risk/.test(text)) {
+    add("Policy");
+  }
+  if (/funding|acquisition|revenue|partnership|enterprise/.test(text)) add("Business");
+  if (/inference|routing|serving|worker|cloudflare|deployment/.test(text)) add("Infra");
   if (tags.length === 0 && /\bai\b|artificial intelligence|generative/.test(text)) {
     add("AI");
   }
@@ -196,7 +269,7 @@ function normalizeSummary(summary, title, sourceName) {
     .trim();
 
   if (!withoutMetadata || withoutMetadata.length < 40) {
-    return `Tin public từ ${sourceName} về "${title}". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.`;
+    return `Tin AI từ ${sourceName} về "${title}". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.`;
   }
 
   return truncateSummary(withoutMetadata);
@@ -208,7 +281,10 @@ function parseBlocks(text, tagName) {
   );
 }
 
-export function parseFeedItems({ sourceName, text, url }, now = new Date()) {
+export function parseFeedItems(
+  { sourceName, text, url, sourceWeight = 1, secondary = false },
+  now = new Date()
+) {
   const fallbackSource =
     sourceName || firstTag(text, "title") || new URL(url).hostname.replace(/^www\./, "");
   const rssItems = parseBlocks(text, "item").map((block) => {
@@ -235,7 +311,9 @@ export function parseFeedItems({ sourceName, text, url }, now = new Date()) {
     .filter((item) => item.title && item.url)
     .map((item) => ({
       ...item,
-      sourceName: fallbackSource,
+      sourceName: secondary ? publisherNameForUrl(item.url, fallbackSource) : fallbackSource,
+      sourceWeight,
+      secondary,
       summary: normalizeSummary(item.summary, item.title, fallbackSource),
     }));
 }
@@ -261,8 +339,8 @@ function isDuplicateFeedItem(current, existing) {
 }
 
 function preferredFeedItem(current, existing) {
-  const currentScore = scoreText(current.title, current.summary);
-  const existingScore = scoreText(existing.title, existing.summary);
+  const currentScore = scoreText(current.title, current.summary, current);
+  const existingScore = scoreText(existing.title, existing.summary, existing);
   if (currentScore !== existingScore) {
     return currentScore > existingScore ? current : existing;
   }
@@ -291,7 +369,10 @@ function dedupeFeedItems(items) {
 
 export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
   const allItems = feeds.flatMap((feed) => parseFeedItems(feed, now));
-  const deduped = dedupeFeedItems(allItems);
+  const hotNewsItems = allItems.filter(
+    (item) => isHotNewsCandidate(item) && isWithinNewsWindow(item, now)
+  );
+  const deduped = dedupeFeedItems(hotNewsItems);
 
   if (deduped.length === 0) {
     throw new Error("No usable public AI news items found.");
@@ -299,7 +380,7 @@ export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
 
   const scored = deduped
     .map((item, index) => {
-      const score = scoreText(item.title, item.summary);
+      const score = scoreText(item.title, item.summary, item, now);
       return {
         id: slugify(`${item.sourceName}-${item.title}`) || `public-news-${index + 1}`,
         title: item.title,
@@ -320,7 +401,7 @@ export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
   return {
     generatedAt: now.toISOString(),
     dateKey: formatVntDateKey(now),
-    source: "AI Radar public GitHub feed",
+    source: "AI Radar hot AI news feed",
     sourceUrl: DEFAULT_FEEDS.map((feed) => feed.url).join(", "),
     selectedCount: selected.length,
     totalCount: deduped.length,
