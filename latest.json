@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-07-07T01:19:21.757Z",
+  "generatedAt": "2026-07-07T02:37:42.213Z",
   "dateKey": "2026-07-07",
   "source": "AI Radar public GitHub feed",
   "sourceUrl": "https://hnrss.org/newest?q=AI, https://hnrss.org/newest?q=LLM, https://hnrss.org/newest?q=agent, https://simonwillison.net/atom/everything/",
   "selectedCount": 12,
-  "totalCount": 87,
+  "totalCount": 66,
   "items": [
-    {
-      "id": "hacker-news-llm-llm-big-bang-i-gave-ai-agents-a-social-network-one-is-running-for-president",
-      "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
-      "summary": "Tin public từ Hacker News LLM về \"LLM Big Bang: I gave AI agents a social network. One is running for president\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://noozra.com/articles/the-llm-big-bang",
-      "sourceName": "Hacker News LLM",
-      "score": 9.5,
-      "tags": [
-        "Agent AI",
-        "LLM"
-      ],
-      "publishedAt": "2026-07-06T00:25:37.000Z"
-    },
     {
       "id": "hacker-news-agent-show-hn-xalgorix-autonomous-ai-pentesting-agent",
       "title": "Show HN: Xalgorix – Autonomous AI Pentesting Agent",
@@ -45,6 +32,18 @@
         "Tooling"
       ],
       "publishedAt": "2026-07-02T19:33:12.000Z"
+    },
+    {
+      "id": "hacker-news-ai-pi-rust-high-performance-ai-coding-agent-cli-written-in-rust",
+      "title": "Pi (Rust): High-performance AI coding agent CLI written in Rust",
+      "summary": "Tin public từ Hacker News AI về \"Pi (Rust): High-performance AI coding agent CLI written in Rust\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://github.com/Dicklesworthstone/pi_agent_rust",
+      "sourceName": "Hacker News AI",
+      "score": 8.4,
+      "tags": [
+        "Agent AI"
+      ],
+      "publishedAt": "2026-07-07T01:54:19.000Z"
     },
     {
       "id": "hacker-news-ai-claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-a-reduced-price-2026",

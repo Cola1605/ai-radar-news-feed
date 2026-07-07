@@ -52,6 +52,75 @@ function slugify(value) {
     .replace(/^-|-$/g, "");
 }
 
+function normalizeComparableText(value = "") {
+  return value
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\b(show hn|gioi thieu)\b/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function canonicalizeUrl(value = "") {
+  try {
+    const url = new URL(value);
+    url.hash = "";
+    url.hostname = url.hostname.toLowerCase();
+    for (const key of [...url.searchParams.keys()]) {
+      if (/^utm_/i.test(key) || /^(fbclid|gclid|igshid|ref|ref_src)$/i.test(key)) {
+        url.searchParams.delete(key);
+      }
+    }
+    url.searchParams.sort();
+    const search = url.searchParams.toString();
+    const pathname =
+      url.pathname.length > 1 ? url.pathname.replace(/\/+$/g, "") : url.pathname;
+    return `${url.protocol}//${url.hostname}${pathname}${search ? `?${search}` : ""}`;
+  } catch {
+    return normalizeComparableText(value);
+  }
+}
+
+function tokensForSimilarity(value = "") {
+  const stopWords = new Set([
+    "a",
+    "an",
+    "and",
+    "ai",
+    "agent",
+    "agents",
+    "for",
+    "from",
+    "in",
+    "of",
+    "on",
+    "source",
+    "the",
+    "this",
+    "tin",
+    "to",
+    "ve",
+    "voi",
+    "with",
+  ]);
+  return new Set(
+    normalizeComparableText(value)
+      .split(" ")
+      .filter((token) => token.length > 2 && !stopWords.has(token))
+  );
+}
+
+function jaccardSimilarity(left, right) {
+  if (left.size === 0 || right.size === 0) return 0;
+  let intersection = 0;
+  for (const token of left) {
+    if (right.has(token)) intersection += 1;
+  }
+  return intersection / (left.size + right.size - intersection);
+}
+
 function formatVntDateKey(date) {
   return new Date(date.getTime() + 7 * 60 * 60 * 1000)
     .toISOString()
@@ -171,15 +240,58 @@ export function parseFeedItems({ sourceName, text, url }, now = new Date()) {
     }));
 }
 
+function isDuplicateFeedItem(current, existing) {
+  const currentUrl = canonicalizeUrl(current.url);
+  const existingUrl = canonicalizeUrl(existing.url);
+  if (currentUrl && existingUrl && currentUrl === existingUrl) return true;
+
+  const currentTitle = normalizeComparableText(current.title);
+  const existingTitle = normalizeComparableText(existing.title);
+  if (currentTitle && existingTitle && currentTitle === existingTitle) return true;
+
+  const titleSimilarity = jaccardSimilarity(
+    tokensForSimilarity(current.title),
+    tokensForSimilarity(existing.title)
+  );
+  const summarySimilarity = jaccardSimilarity(
+    tokensForSimilarity(current.summary),
+    tokensForSimilarity(existing.summary)
+  );
+  return titleSimilarity >= 0.86 && summarySimilarity >= 0.74;
+}
+
+function preferredFeedItem(current, existing) {
+  const currentScore = scoreText(current.title, current.summary);
+  const existingScore = scoreText(existing.title, existing.summary);
+  if (currentScore !== existingScore) {
+    return currentScore > existingScore ? current : existing;
+  }
+  const currentTime = Date.parse(current.publishedAt);
+  const existingTime = Date.parse(existing.publishedAt);
+  if (Number.isFinite(currentTime) && Number.isFinite(existingTime)) {
+    return currentTime > existingTime ? current : existing;
+  }
+  return existing;
+}
+
+function dedupeFeedItems(items) {
+  const deduped = [];
+  for (const item of items) {
+    const duplicateIndex = deduped.findIndex((existing) =>
+      isDuplicateFeedItem(item, existing)
+    );
+    if (duplicateIndex === -1) {
+      deduped.push(item);
+      continue;
+    }
+    deduped[duplicateIndex] = preferredFeedItem(item, deduped[duplicateIndex]);
+  }
+  return deduped;
+}
+
 export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
-  const seen = new Set();
   const allItems = feeds.flatMap((feed) => parseFeedItems(feed, now));
-  const deduped = allItems.filter((item) => {
-    const key = `${item.url} ${item.title}`.toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
+  const deduped = dedupeFeedItems(allItems);
 
   if (deduped.length === 0) {
     throw new Error("No usable public AI news items found.");
