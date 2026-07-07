@@ -270,7 +270,20 @@ async function fetchFeed(feed) {
 }
 
 export async function buildPublicSnapshot({ feeds = DEFAULT_FEEDS, now = new Date() } = {}) {
-  const feedTexts = await Promise.all(feeds.map(fetchFeed));
+  const settledFeeds = await Promise.allSettled(feeds.map(fetchFeed));
+  const feedTexts = settledFeeds
+    .filter((result) => result.status === "fulfilled")
+    .map((result) => result.value);
+  const failedFeeds = settledFeeds.filter((result) => result.status === "rejected");
+
+  for (const failure of failedFeeds) {
+    console.warn(failure.reason instanceof Error ? failure.reason.message : String(failure.reason));
+  }
+
+  if (feedTexts.length === 0) {
+    throw new Error("No public AI news feeds were reachable.");
+  }
+
   return buildSnapshotFromFeedTexts(feedTexts, { now });
 }
 
