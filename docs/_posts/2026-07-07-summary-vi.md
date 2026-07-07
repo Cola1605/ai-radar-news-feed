@@ -1,19 +1,30 @@
 # Horizon Bản tin hằng ngày - 2026-07-07
 
-> Đã chọn 12 tin quan trọng từ 66 mục.
+> Đã chọn 12 tin quan trọng từ 86 mục.
 
-1. [Show HN: Xalgorix – Autonomous AI Pentesting Agent](#hacker-news-agent-show-hn-xalgorix-autonomous-ai-pentesting-agent) ⭐️ 9.1/10
-2. [llm-coding-agent 0.1a0](#simon-willison-llm-coding-agent-0-1a0) ⭐️ 8.9/10
-3. [Pi (Rust): High-performance AI coding agent CLI written in Rust](#hacker-news-ai-pi-rust-high-performance-ai-coding-agent-cli-written-in-rust) ⭐️ 8.4/10
-4. [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price (2026)](#hacker-news-ai-claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-a-reduced-price-2026) ⭐️ 8.4/10
-5. [Show HN: Nimbus - open-source AI agent that operates your AWS and GCP](#hacker-news-ai-show-hn-nimbus-open-source-ai-agent-that-operates-your-aws-and-gcp) ⭐️ 8.4/10
-6. [Kennel – Keep Your AI Agents Running Between Tasks](#hacker-news-ai-kennel-keep-your-ai-agents-running-between-tasks) ⭐️ 8.4/10
-7. [x.ai Voice Agent Builder](#hacker-news-ai-x-ai-voice-agent-builder) ⭐️ 8.4/10
-8. [Attribute Knowledge RAG Pattern for Governed AI Agents](#hacker-news-ai-attribute-knowledge-rag-pattern-for-governed-ai-agents) ⭐️ 8.4/10
-9. [JadePuffer ransomware used AI agent to automate attack](#hacker-news-ai-jadepuffer-ransomware-used-ai-agent-to-automate-attack) ⭐️ 8.4/10
-10. [Groundtruth – checks your AI coding agent's claims against the Git diff](#hacker-news-agent-groundtruth-checks-your-ai-coding-agent-s-claims-against-the-git-diff) ⭐️ 8.4/10
-11. [Simple AI agent in POSIX shell](#hacker-news-agent-simple-ai-agent-in-posix-shell) ⭐️ 8.4/10
-12. [Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test](#hacker-news-agent-show-hn-grinta-local-first-ai-coding-agent-that-passed-106-minute-stress-test) ⭐️ 8.4/10
+1. [LLM Big Bang: I gave AI agents a social network. One is running for president](#hacker-news-llm-llm-big-bang-i-gave-ai-agents-a-social-network-one-is-running-for-president) ⭐️ 9.5/10
+2. [Show HN: Xalgorix – Autonomous AI Pentesting Agent](#hacker-news-agent-show-hn-xalgorix-autonomous-ai-pentesting-agent) ⭐️ 9.1/10
+3. [llm-coding-agent 0.1a0](#simon-willison-llm-coding-agent-0-1a0) ⭐️ 8.9/10
+4. [Pi (Rust): High-performance AI coding agent CLI written in Rust](#hacker-news-ai-pi-rust-high-performance-ai-coding-agent-cli-written-in-rust) ⭐️ 8.4/10
+5. [Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price (2026)](#hacker-news-ai-claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-a-reduced-price-2026) ⭐️ 8.4/10
+6. [Show HN: Nimbus - open-source AI agent that operates your AWS and GCP](#hacker-news-ai-show-hn-nimbus-open-source-ai-agent-that-operates-your-aws-and-gcp) ⭐️ 8.4/10
+7. [Kennel – Keep Your AI Agents Running Between Tasks](#hacker-news-ai-kennel-keep-your-ai-agents-running-between-tasks) ⭐️ 8.4/10
+8. [x.ai Voice Agent Builder](#hacker-news-ai-x-ai-voice-agent-builder) ⭐️ 8.4/10
+9. [Attribute Knowledge RAG Pattern for Governed AI Agents](#hacker-news-ai-attribute-knowledge-rag-pattern-for-governed-ai-agents) ⭐️ 8.4/10
+10. [JadePuffer ransomware used AI agent to automate attack](#hacker-news-ai-jadepuffer-ransomware-used-ai-agent-to-automate-attack) ⭐️ 8.4/10
+11. [Groundtruth – checks your AI coding agent's claims against the Git diff](#hacker-news-agent-groundtruth-checks-your-ai-coding-agent-s-claims-against-the-git-diff) ⭐️ 8.4/10
+12. [Simple AI agent in POSIX shell](#hacker-news-agent-simple-ai-agent-in-posix-shell) ⭐️ 8.4/10
+
+---
+
+<a id="hacker-news-llm-llm-big-bang-i-gave-ai-agents-a-social-network-one-is-running-for-president"></a>
+## [LLM Big Bang: I gave AI agents a social network. One is running for president](https://noozra.com/articles/the-llm-big-bang) ⭐️ 9.5/10
+
+Tin public từ Hacker News LLM về "LLM Big Bang: I gave AI agents a social network. One is running for president". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.
+
+Hacker News LLM · 2026-07-06T00:25:37.000Z
+
+**Thẻ**: `#Agent AI`, `#LLM`
 
 ---
 
@@ -133,17 +144,6 @@ Hacker News Agent · 2026-07-06T19:29:31.000Z
 Tin public từ Hacker News Agent về "Simple AI agent in POSIX shell". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.
 
 Hacker News Agent · 2026-07-06T18:36:07.000Z
-
-**Thẻ**: `#Agent AI`
-
----
-
-<a id="hacker-news-agent-show-hn-grinta-local-first-ai-coding-agent-that-passed-106-minute-stress-test"></a>
-## [Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test](https://github.com/josephsenior/Grinta-Coding-Agent) ⭐️ 8.4/10
-
-Tin public từ Hacker News Agent về "Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.
-
-Hacker News Agent · 2026-07-06T18:32:09.000Z
 
 **Thẻ**: `#Agent AI`
 

@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-07-07T02:37:42.213Z",
+  "generatedAt": "2026-07-07T02:41:34.971Z",
   "dateKey": "2026-07-07",
   "source": "AI Radar public GitHub feed",
   "sourceUrl": "https://hnrss.org/newest?q=AI, https://hnrss.org/newest?q=LLM, https://hnrss.org/newest?q=agent, https://simonwillison.net/atom/everything/",
   "selectedCount": 12,
-  "totalCount": 66,
+  "totalCount": 86,
   "items": [
+    {
+      "id": "hacker-news-llm-llm-big-bang-i-gave-ai-agents-a-social-network-one-is-running-for-president",
+      "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
+      "summary": "Tin public từ Hacker News LLM về \"LLM Big Bang: I gave AI agents a social network. One is running for president\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://noozra.com/articles/the-llm-big-bang",
+      "sourceName": "Hacker News LLM",
+      "score": 9.5,
+      "tags": [
+        "Agent AI",
+        "LLM"
+      ],
+      "publishedAt": "2026-07-06T00:25:37.000Z"
+    },
     {
       "id": "hacker-news-agent-show-hn-xalgorix-autonomous-ai-pentesting-agent",
       "title": "Show HN: Xalgorix – Autonomous AI Pentesting Agent",
@@ -140,18 +153,6 @@
         "Agent AI"
       ],
       "publishedAt": "2026-07-06T18:36:07.000Z"
-    },
-    {
-      "id": "hacker-news-agent-show-hn-grinta-local-first-ai-coding-agent-that-passed-106-minute-stress-test",
-      "title": "Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test",
-      "summary": "Tin public từ Hacker News Agent về \"Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test\". Mở nguồn chính để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://github.com/josephsenior/Grinta-Coding-Agent",
-      "sourceName": "Hacker News Agent",
-      "score": 8.4,
-      "tags": [
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-06T18:32:09.000Z"
     }
   ]
 }
