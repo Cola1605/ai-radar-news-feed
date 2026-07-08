@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-07-07T07:03:44.461Z",
-  "dateKey": "2026-07-07",
+  "generatedAt": "2026-07-08T00:58:10.227Z",
+  "dateKey": "2026-07-08",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 159,
+  "totalCount": 165,
   "items": [
-    {
-      "id": "the-decoder-zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost",
-      "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
-      "summary": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million tokens per day, and subscribers receive about 1.5 times more token quota through July 2026....",
-      "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-06T18:28:26.000Z"
-    },
     {
       "id": "google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -48,19 +35,6 @@
         "Infra"
       ],
       "publishedAt": "2026-06-16T00:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-claude-reaches-ga-on-microsoft-foundry-european-enterprises-cannot-deploy-it",
-      "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It",
-      "summary": "Claude models reached GA on Microsoft Foundry with Azure-native billing and governance, but no European data zone exists. Anthropic's own documentation confirms data residency guarantees apply to Bedrock and Vertex AI but not Foundry. European practitioners from banking and healthcare report the offering is unapproved for production. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-07-05T08:13:00.000Z"
     },
     {
       "id": "openai-news-hp-inc-launches-frontier-strategic-partnership-with-openai",
@@ -109,30 +83,66 @@
       "publishedAt": "2026-06-01T10:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-is-discussing-a-new-custom-chip-with-samsung",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "id": "the-decoder-anthropic-s-claude-cowork-ai-agent-is-now-available-on-mobile-and-web",
+      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+      "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a decision. The move blurs the line between Chat and Cowork even further....",
+      "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-07-07T17:04:30.000Z"
+    },
+    {
+      "id": "techcrunch-ai-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
-        "Hot News",
-        "Business"
+        "Model"
       ],
-      "publishedAt": "2026-07-02T18:31:09.000Z"
+      "publishedAt": "2026-07-07T20:04:32.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-microsoft-brings-ai-powered-vulnerability-remediation-to-azure-devops-with-copilot-autofix",
-      "title": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix",
-      "summary": "Microsoft has announced the limited public preview of Copilot Autofix for GitHub Advanced Security for Azure DevOps, extending AI-powered vulnerability remediation to teams using Azure Repos. By Craig Risi",
-      "url": "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "id": "techcrunch-ai-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
-        "Hot News",
-        "Policy"
+        "Model"
       ],
-      "publishedAt": "2026-06-30T12:00:00.000Z"
+      "publishedAt": "2026-07-07T19:58:20.000Z"
+    },
+    {
+      "id": "the-decoder-copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+      "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models. For Copilot customers, that could mean less performance for the same price....",
+      "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-07T18:35:58.000Z"
+    },
+    {
+      "id": "the-decoder-chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens",
+      "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
+      "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder .",
+      "url": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-07T11:34:52.000Z"
     },
     {
       "id": "openai-news-openai-and-broadcom-unveil-llm-optimized-inference-chip",
@@ -149,31 +159,17 @@
       "publishedAt": "2026-06-24T06:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "sourceName": "TechCrunch AI",
+      "id": "infoq-ai-ml-data-engineering-presentation-designing-ai-platforms-for-reliability-tools-for-certainty-agents-for-discovery",
+      "title": "Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery",
+      "summary": "Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies. For senior developers and architects, he outlines why balancing deterministic tools with agentic discovery is crucial. Discover how to leverage rare context, implement LLM-as-a-judge test pyramids, and avoid the paradox of choice to build highly reliable, production-grade AI systems at scale. By Aaron Erickson",
+      "url": "https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 8.7,
       "tags": [
         "Model",
-        "Business"
+        "Agent AI"
       ],
-      "publishedAt": "2026-07-04T15:51:32.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-fine-tuning-the-enterprise-reinforcement-learning-in-practice",
-      "title": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice",
-      "summary": "The speakers discuss Agent RFT, OpenAI’s platform for fine-tuning reasoning models via real-time tool interactions and custom reward signals. They explain how reinforcement learning solves complex credit assignment challenges within the context window. They share enterprise success stories, showing how Agent RFT eliminates long-tail token loops and drives extreme efficiency. By Wenjie Zi, Will Hang",
-      "url": "https://www.infoq.com/presentations/rft-openai-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.6,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-07-03T09:22:00.000Z"
+      "publishedAt": "2026-07-07T08:03:00.000Z"
     }
   ]
 }
