@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-09T01:08:49.308Z",
-  "dateKey": "2026-07-09",
+  "generatedAt": "2026-07-10T01:07:37.403Z",
+  "dateKey": "2026-07-10",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 167,
+  "totalCount": 145,
   "items": [
     {
-      "id": "the-decoder-grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much",
-      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
-      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected in mid-July....",
-      "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-openai-launches-its-new-family-of-models-with-gpt-5-6",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-07-08T19:01:44.000Z"
+      "publishedAt": "2026-07-09T22:24:24.000Z"
     },
     {
       "id": "openai-news-separating-signal-from-noise-in-coding-evaluations",
@@ -32,32 +32,6 @@
         "Research"
       ],
       "publishedAt": "2026-07-08T13:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-s-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government",
-      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
-      "summary": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing. Binding standards for future model approvals still don't exist. OpenAI says the Sol model beats Anthropic's Claude Mythos 5 on coding benchmarks at about half the cost. The article OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-08T08:00:30.000Z"
-    },
-    {
-      "id": "openai-news-introducing-gpt-live",
-      "title": "Introducing GPT-Live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-08T00:00:00.000Z"
     },
     {
       "id": "google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
@@ -74,17 +48,17 @@
       "publishedAt": "2026-07-03T14:25:43.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-releases-new-voice-models-for-more-natural-live-conversations",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "id": "techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
       "sourceName": "TechCrunch AI",
       "score": 9.6,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-07-08T17:00:00.000Z"
+      "publishedAt": "2026-07-09T18:22:39.000Z"
     },
     {
       "id": "openai-news-predicting-model-behavior-before-release-by-simulating-deployment",
@@ -101,6 +75,31 @@
         "Infra"
       ],
       "publishedAt": "2026-06-16T00:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-09T20:22:28.000Z"
+    },
+    {
+      "id": "openai-news-introducing-gpt-live",
+      "title": "Introducing GPT-Live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "sourceName": "OpenAI News",
+      "score": 9.5,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-08T00:00:00.000Z"
     },
     {
       "id": "openai-news-our-approach-to-government-and-national-security-partnerships",
@@ -128,6 +127,18 @@
         "Business"
       ],
       "publishedAt": "2026-06-28T17:00:00.000Z"
+    },
+    {
+      "id": "openai-news-gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-09T13:00:00.000Z"
     },
     {
       "id": "google-deepmind-investing-in-multi-agent-ai-safety-research",
@@ -160,19 +171,6 @@
         "Business"
       ],
       "publishedAt": "2026-06-01T10:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human",
-      "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
-      "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality. GPT-Live-1 is available now for paying ChatGPT users, with a mini version for free accounts. API access is coming soon....",
-      "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-08T18:18:55.000Z"
     }
   ]
 }
