@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-10T01:07:37.403Z",
-  "dateKey": "2026-07-10",
+  "generatedAt": "2026-07-11T00:55:25.071Z",
+  "dateKey": "2026-07-11",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 145,
+  "totalCount": 171,
   "items": [
     {
       "id": "techcrunch-ai-openai-launches-its-new-family-of-models-with-gpt-5-6",
@@ -19,33 +19,6 @@
         "Policy"
       ],
       "publishedAt": "2026-07-09T22:24:24.000Z"
-    },
-    {
-      "id": "openai-news-separating-signal-from-noise-in-coding-evaluations",
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-08T13:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "summary": "Tin AI từ Google DeepMind về \"Google DeepMind and A24 announce first-of-its-kind research partnership\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "sourceName": "Google DeepMind",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-07-03T14:25:43.000Z"
     },
     {
       "id": "techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release",
@@ -90,6 +63,33 @@
       "publishedAt": "2026-07-09T20:22:28.000Z"
     },
     {
+      "id": "the-decoder-gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost",
+      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
+      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges. In agentic coding, Sol beats every competitor, adding even more pricing pressure on Anthropic. The article GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-07-09T18:37:51.000Z"
+    },
+    {
+      "id": "the-decoder-openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken",
+      "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
+      "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds roughly 30 percent of popular AI coding test is broken appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-09T13:23:57.000Z"
+    },
+    {
       "id": "openai-news-introducing-gpt-live",
       "title": "Introducing GPT-Live",
       "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
@@ -100,19 +100,6 @@
         "Model"
       ],
       "publishedAt": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "id": "openai-news-our-approach-to-government-and-national-security-partnerships",
-      "title": "Our approach to government and national security partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Policy",
-        "Business"
-      ],
-      "publishedAt": "2026-07-08T13:30:00.000Z"
     },
     {
       "id": "openai-news-hp-inc-launches-frontier-strategic-partnership-with-openai",
@@ -129,6 +116,19 @@
       "publishedAt": "2026-06-28T17:00:00.000Z"
     },
     {
+      "id": "the-decoder-openai-s-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
+      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+      "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated researcher\" is within reach....",
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-10T21:12:47.000Z"
+    },
+    {
       "id": "openai-news-gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
@@ -139,6 +139,19 @@
         "Model"
       ],
       "publishedAt": "2026-07-09T13:00:00.000Z"
+    },
+    {
+      "id": "openai-news-separating-signal-from-noise-in-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-08T13:00:00.000Z"
     },
     {
       "id": "google-deepmind-investing-in-multi-agent-ai-safety-research",
@@ -155,22 +168,6 @@
         "Business"
       ],
       "publishedAt": "2026-06-10T10:21:19.000Z"
-    },
-    {
-      "id": "openai-news-openai-frontier-models-and-codex-are-now-available-on-aws",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-06-01T10:00:00.000Z"
     }
   ]
 }
