@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-11T00:55:25.071Z",
-  "dateKey": "2026-07-11",
+  "generatedAt": "2026-07-12T01:02:31.969Z",
+  "dateKey": "2026-07-12",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 171,
+  "totalCount": 164,
   "items": [
     {
       "id": "techcrunch-ai-openai-launches-its-new-family-of-models-with-gpt-5-6",
@@ -12,26 +12,13 @@
       "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
       "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "sourceName": "TechCrunch AI",
-      "score": 9.7,
+      "score": 9.6,
       "tags": [
         "Hot News",
         "Model",
         "Policy"
       ],
       "publishedAt": "2026-07-09T22:24:24.000Z"
-    },
-    {
-      "id": "techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-09T18:22:39.000Z"
     },
     {
       "id": "openai-news-predicting-model-behavior-before-release-by-simulating-deployment",
@@ -48,46 +35,6 @@
         "Infra"
       ],
       "publishedAt": "2026-06-16T00:00:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-09T20:22:28.000Z"
-    },
-    {
-      "id": "the-decoder-gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost",
-      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
-      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges. In agentic coding, Sol beats every competitor, adding even more pricing pressure on Anthropic. The article GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-07-09T18:37:51.000Z"
-    },
-    {
-      "id": "the-decoder-openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken",
-      "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
-      "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds roughly 30 percent of popular AI coding test is broken appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-09T13:23:57.000Z"
     },
     {
       "id": "openai-news-introducing-gpt-live",
@@ -116,6 +63,19 @@
       "publishedAt": "2026-06-28T17:00:00.000Z"
     },
     {
+      "id": "the-decoder-apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees",
+      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
+      "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan. The lawsuit hits OpenAI right as it's building out its own hardware division, with its first product not expected to ship until 2027 at the earliest....",
+      "url": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-11T06:56:20.000Z"
+    },
+    {
       "id": "the-decoder-openai-s-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
       "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
       "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated researcher\" is within reach....",
@@ -127,18 +87,6 @@
         "Research"
       ],
       "publishedAt": "2026-07-10T21:12:47.000Z"
-    },
-    {
-      "id": "openai-news-gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-09T13:00:00.000Z"
     },
     {
       "id": "openai-news-separating-signal-from-noise-in-coding-evaluations",
@@ -168,6 +116,62 @@
         "Business"
       ],
       "publishedAt": "2026-06-10T10:21:19.000Z"
+    },
+    {
+      "id": "openai-news-openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-06-01T10:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "Tin AI từ Google DeepMind về \"Google DeepMind and A24 announce first-of-its-kind research partnership\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Hot News",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-07-03T14:25:43.000Z"
+    },
+    {
+      "id": "the-decoder-openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt",
+      "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
+      "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI products. The article OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-10T12:19:21.000Z"
+    },
+    {
+      "id": "techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-09T18:22:39.000Z"
     }
   ]
 }
