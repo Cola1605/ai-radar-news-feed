@@ -1,158 +1,162 @@
 {
-  "generatedAt": "2026-07-13T01:49:05.444Z",
-  "latestPublishedAt": "2026-07-12T15:02:06.000Z",
-  "newItemCount": 0,
-  "dateKey": "2026-07-13",
+  "generatedAt": "2026-07-13T22:15:48.210Z",
+  "latestPublishedAt": "2026-07-13T21:31:08.000Z",
+  "newItemCount": 12,
+  "dateKey": "2026-07-14",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 165,
+  "totalCount": 163,
   "items": [
     {
-      "id": "the-decoder-terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI providers clearly isn't enough....",
-      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
+      "id": "mit-technology-review-what-anthropic-s-latest-ai-discovery-does-and-doesn-t-show",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.5,
       "tags": [
         "Model",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-07-11T17:04:28.000Z"
+      "publishedAt": "2026-07-13T18:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-the-download-claude-s-inner-workings-and-openai-s-super-app",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "sourceName": "MIT Technology Review",
+      "id": "the-decoder-german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+      "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts....",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-13T11:41:01.000Z"
+    },
+    {
+      "id": "the-decoder-google-s-sensorfm-turns-messy-wearable-sensor-data-into-a-general-purpose-health-intelligence-layer",
+      "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
+      "summary": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually power Google's AI health coach, but the company hasn't announced any integration plans yet....",
+      "url": "https://the-decoder.com/sensorfm/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-13T09:16:48.000Z"
+    },
+    {
+      "id": "the-decoder-nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-else-s-data",
+      "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+      "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control their own learning infrastructure. Microsoft, of course, sells exactly that....",
+      "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-13T14:28:50.000Z"
+    },
+    {
+      "id": "the-decoder-nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ai-s-economic-impact-is-closing-fast",
+      "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
+      "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revolution but unfold in a fraction of the time....",
+      "url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-07-13T16:00:24.000Z"
+    },
+    {
+      "id": "techcrunch-ai-the-wildest-allegations-in-apple-s-trade-secrets-lawsuit-against-openai",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "sourceName": "TechCrunch AI",
       "score": 8.1,
       "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-10T12:10:00.000Z"
-    },
-    {
-      "id": "the-decoder-s-p-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating",
-      "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating",
-      "summary": "S&P Global has downgraded Oracle's credit rating to \"BBB-,\" one notch above junk status. OpenAI accounts for roughly half of Oracle's $638 billion in contractual obligations. If OpenAI walked away, Oracle would be stuck with massive data center capacity it couldn't fill. The article S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating appeared first on The Decoder .",
-      "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/",
-      "sourceName": "The Decoder",
-      "score": 8,
-      "tags": [
         "Policy"
       ],
-      "publishedAt": "2026-07-12T11:43:36.000Z"
+      "publishedAt": "2026-07-13T18:22:10.000Z"
     },
     {
-      "id": "the-decoder-claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites",
-      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
-      "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code now has a built-in browser that lets the AI read, click, and type on external websites appeared first on The Decoder .",
-      "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-waze-adds-new-ai-powered-features-and-customization-updates",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "sourceName": "TechCrunch AI",
       "score": 7.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-12T15:02:06.000Z"
+      "publishedAt": "2026-07-13T14:18:16.000Z"
     },
     {
-      "id": "the-decoder-openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-      "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither the old doomsday predictions nor optimism....",
-      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/",
-      "sourceName": "The Decoder",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-07-12T09:15:49.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "id": "techcrunch-ai-satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
       "sourceName": "TechCrunch AI",
       "score": 7.3,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-11T14:13:00.000Z"
+      "publishedAt": "2026-07-13T20:59:00.000Z"
     },
     {
-      "id": "openai-news-how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "sourceName": "OpenAI News",
+      "id": "techcrunch-ai-anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "sourceName": "TechCrunch AI",
       "score": 7.3,
       "tags": [
-        "Agent AI"
+        "Model"
       ],
-      "publishedAt": "2026-07-10T07:00:00.000Z"
+      "publishedAt": "2026-07-13T15:34:59.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-presentation-chaos-engineering-gpu-clusters",
-      "title": "Presentation: Chaos Engineering GPU Clusters",
-      "summary": "Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters. He shares how engineering leaders can handle complex topologies, network protocols like RDMA, and NUMA misalignments. Discover seven practical fault-injection strategies to maximize multi-million dollar hardware efficiency and build robust observability loops. By Bryan Oliver",
-      "url": "https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "mit-technology-review-the-download-a-donor-conception-cap-and-world-models-for-ai",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "sourceName": "MIT Technology Review",
+      "score": 7.3,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-13T12:10:00.000Z"
+    },
+    {
+      "id": "cnbc-com-microsoft-commits-2-5b-6k-employees-ai-implementation-unit",
+      "title": "Microsoft commits $2.5B, 6k employees AI implementation unit",
+      "summary": "Tin AI từ Hacker News AI về \"Microsoft commits $2.5B, 6k employees AI implementation unit\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+      "sourceName": "cnbc.com",
+      "score": 7.2,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-07-13T21:31:08.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone",
+      "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone",
+      "summary": "DoorDash details the architecture behind Ask DoorDash, its AI-powered conversational shopping assistant, combining LLMs, specialized AI agents, MCP-based tooling, and an intelligence layer with persistent consumer memory and live backend data. Early results show up to 24% higher checkout conversion, 17% larger baskets, and improved intent accuracy using memory-backed sessions. By Leela Kumili",
+      "url": "https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 7.2,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-07-10T13:42:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-how-datadog-used-claude-and-cursor-for-test-driven-production-migration",
-      "title": "How Datadog Used Claude and Cursor for Test-Driven Production Migration",
-      "summary": "In a recent article, Datadog engineer Arnold Wakim shared what worked, what didn't, and the lessons they learned while evolving a critical production system using AI to overcome hard limits in its storage backend and significantly improve performance. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-10T08:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-meta-removes-controversial-ai-feature-on-instagram-after-backlash",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "sourceName": "TechCrunch AI",
-      "score": 6.7,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-07-10T23:55:07.000Z"
-    },
-    {
-      "id": "techcrunch-ai-apple-sues-openai-over-alleged-trade-secret-theft",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "sourceName": "TechCrunch AI",
-      "score": 6.6,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-07-10T21:00:29.000Z"
-    },
-    {
-      "id": "techcrunch-ai-open-source-ai-matters-more-than-ever-according-to-hugging-face-s-clem-delangue",
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "sourceName": "TechCrunch AI",
-      "score": 6.6,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-10T19:00:00.000Z"
+      "publishedAt": "2026-07-13T14:08:00.000Z"
     }
   ]
 }
