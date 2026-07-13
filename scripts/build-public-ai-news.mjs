@@ -1,4 +1,4 @@
-import { mkdir, rename, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -29,6 +29,10 @@ export const DEFAULT_FEEDS = [
 
 const MAX_ITEMS = 12;
 const MAX_NEWS_AGE_DAYS = 45;
+const FRESH_NEWS_HOURS = 72;
+const FALLBACK_NEWS_HOURS = 7 * 24;
+const MAX_OLDER_ITEMS = 2;
+const MAX_ITEMS_PER_SOURCE = 4;
 const XML_ENTITIES = new Map([
   ["amp", "&"],
   ["lt", "<"],
@@ -191,6 +195,12 @@ function recencyModifier(publishedAt, now = new Date()) {
   if (ageHours <= 168) return 0.3;
   if (ageHours <= 336) return -0.4;
   return -1;
+}
+
+function ageHoursFor(publishedAt, now = new Date()) {
+  const publishedTime = Date.parse(publishedAt);
+  if (!Number.isFinite(publishedTime)) return 0;
+  return Math.max(0, (now.getTime() - publishedTime) / (60 * 60 * 1000));
 }
 
 function scoreText(title, summary, item = {}, now = new Date()) {
@@ -367,7 +377,72 @@ function dedupeFeedItems(items) {
   return deduped;
 }
 
-export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
+function selectFreshDiverseItems(items) {
+  const tiers = [
+    items.filter((item) => item.ageHours <= FRESH_NEWS_HOURS),
+    items.filter(
+      (item) =>
+        item.ageHours > FRESH_NEWS_HOURS &&
+        item.ageHours <= FALLBACK_NEWS_HOURS
+    ),
+    items.filter((item) => item.ageHours > FALLBACK_NEWS_HOURS),
+  ];
+  const selected = [];
+  const selectedIds = new Set();
+  const sourceCounts = new Map();
+  let olderCount = 0;
+
+  const addFromTier = (tier, enforceSourceLimit) => {
+    for (const item of tier) {
+      if (selected.length >= MAX_ITEMS) return;
+      if (selectedIds.has(item.id)) continue;
+      const isOlder = item.ageHours > FALLBACK_NEWS_HOURS;
+      if (isOlder && olderCount >= MAX_OLDER_ITEMS) continue;
+      const sourceCount = sourceCounts.get(item.sourceName) ?? 0;
+      if (enforceSourceLimit && sourceCount >= MAX_ITEMS_PER_SOURCE) continue;
+
+      selected.push(item);
+      selectedIds.add(item.id);
+      sourceCounts.set(item.sourceName, sourceCount + 1);
+      if (isOlder) olderCount += 1;
+    }
+  };
+
+  for (const tier of tiers) {
+    addFromTier(tier, true);
+    addFromTier(tier, false);
+  }
+  return selected;
+}
+
+function countNewItems(items, previousSnapshot) {
+  if (!previousSnapshot?.items?.length) return items.length;
+  const previousUrls = new Set(
+    previousSnapshot.items.map((item) => canonicalizeUrl(item.url)).filter(Boolean)
+  );
+  const previousTitles = new Set(
+    previousSnapshot.items
+      .map((item) => normalizeComparableText(item.title))
+      .filter(Boolean)
+  );
+  return items.filter(
+    (item) =>
+      !previousUrls.has(canonicalizeUrl(item.url)) &&
+      !previousTitles.has(normalizeComparableText(item.title))
+  ).length;
+}
+
+function latestPublishedAtFor(items) {
+  return items
+    .map((item) => item.publishedAt)
+    .filter((value) => Number.isFinite(Date.parse(value)))
+    .sort((a, b) => Date.parse(b) - Date.parse(a))[0];
+}
+
+export function buildSnapshotFromFeedTexts(
+  feeds,
+  { now = new Date(), previousSnapshot } = {}
+) {
   const allItems = feeds.flatMap((feed) => parseFeedItems(feed, now));
   const hotNewsItems = allItems.filter(
     (item) => isHotNewsCandidate(item) && isWithinNewsWindow(item, now)
@@ -380,7 +455,12 @@ export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
 
   const scored = deduped
     .map((item, index) => {
-      const score = scoreText(item.title, item.summary, item, now);
+      const ageHours = ageHoursFor(item.publishedAt, now);
+      const rawScore = scoreText(item.title, item.summary, item, now);
+      const score = ageHours > FALLBACK_NEWS_HOURS ? Math.min(rawScore, 8.4) : rawScore;
+      const tags = tagsFromText(item.title, item.summary).filter(
+        (tag) => ageHours <= FALLBACK_NEWS_HOURS || tag !== "Hot News"
+      );
       return {
         id: slugify(`${item.sourceName}-${item.title}`) || `public-news-${index + 1}`,
         title: item.title,
@@ -388,8 +468,9 @@ export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
         url: item.url,
         sourceName: item.sourceName,
         score,
-        tags: tagsFromText(item.title, item.summary),
+        tags: tags.length > 0 ? tags : ["AI"],
         publishedAt: item.publishedAt,
+        ageHours,
       };
     })
     .sort((a, b) => {
@@ -397,9 +478,12 @@ export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
     });
 
-  const selected = scored.slice(0, MAX_ITEMS);
+  const selectedWithAge = selectFreshDiverseItems(scored);
+  const selected = selectedWithAge.map(({ ageHours: _ageHours, ...item }) => item);
   return {
     generatedAt: now.toISOString(),
+    latestPublishedAt: latestPublishedAtFor(selected),
+    newItemCount: countNewItems(selected, previousSnapshot),
     dateKey: formatVntDateKey(now),
     source: "AI Radar hot AI news feed",
     sourceUrl: DEFAULT_FEEDS.map((feed) => feed.url).join(", "),
@@ -407,6 +491,35 @@ export function buildSnapshotFromFeedTexts(feeds, { now = new Date() } = {}) {
     totalCount: deduped.length,
     items: selected,
   };
+}
+
+export function validateSnapshot(snapshot, { minItems = 1 } = {}) {
+  if (!snapshot || !Array.isArray(snapshot.items)) {
+    throw new Error("AI news snapshot is missing its items array.");
+  }
+  if (snapshot.items.length < minItems) {
+    throw new Error(
+      `AI news snapshot only has ${snapshot.items.length} items; expected at least ${minItems}.`
+    );
+  }
+  if (snapshot.selectedCount !== snapshot.items.length) {
+    throw new Error("AI news snapshot selectedCount does not match its items array.");
+  }
+  const canonicalUrls = new Set();
+  for (const item of snapshot.items) {
+    if (!item.title || !item.url || !item.publishedAt) {
+      throw new Error("AI news snapshot contains an incomplete item.");
+    }
+    if (isGitHubUrl(item.url)) {
+      throw new Error(`GitHub URL is not allowed in AI news: ${item.url}`);
+    }
+    const canonicalUrl = canonicalizeUrl(item.url);
+    if (canonicalUrls.has(canonicalUrl)) {
+      throw new Error(`Duplicate canonical URL in AI news: ${canonicalUrl}`);
+    }
+    canonicalUrls.add(canonicalUrl);
+  }
+  return snapshot;
 }
 
 function markdownForSnapshot(snapshot) {
@@ -462,7 +575,11 @@ async function fetchFeed(feed) {
   };
 }
 
-export async function buildPublicSnapshot({ feeds = DEFAULT_FEEDS, now = new Date() } = {}) {
+export async function buildPublicSnapshot({
+  feeds = DEFAULT_FEEDS,
+  now = new Date(),
+  previousSnapshot,
+} = {}) {
   const settledFeeds = await Promise.allSettled(feeds.map(fetchFeed));
   const feedTexts = settledFeeds
     .filter((result) => result.status === "fulfilled")
@@ -477,7 +594,7 @@ export async function buildPublicSnapshot({ feeds = DEFAULT_FEEDS, now = new Dat
     throw new Error("No public AI news feeds were reachable.");
   }
 
-  return buildSnapshotFromFeedTexts(feedTexts, { now });
+  return buildSnapshotFromFeedTexts(feedTexts, { now, previousSnapshot });
 }
 
 async function writeAtomic(filePath, content) {
@@ -488,9 +605,18 @@ async function writeAtomic(filePath, content) {
 }
 
 async function main() {
-  const snapshot = await buildPublicSnapshot();
   const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
   const jsonPath = path.join(root, "latest.json");
+  let previousSnapshot;
+  try {
+    previousSnapshot = JSON.parse(await readFile(jsonPath, "utf8"));
+  } catch {
+    previousSnapshot = undefined;
+  }
+  const snapshot = validateSnapshot(
+    await buildPublicSnapshot({ previousSnapshot }),
+    { minItems: 6 }
+  );
   const markdownPath = path.join(root, "docs/_posts", `${snapshot.dateKey}-summary-vi.md`);
 
   await writeAtomic(jsonPath, `${JSON.stringify(snapshot, null, 2)}\n`);

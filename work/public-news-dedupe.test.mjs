@@ -1,6 +1,9 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { buildSnapshotFromFeedTexts } from "../scripts/build-public-ai-news.mjs";
+import {
+  buildSnapshotFromFeedTexts,
+  validateSnapshot,
+} from "../scripts/build-public-ai-news.mjs";
 
 function rss(items) {
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -234,5 +237,112 @@ describe("public AI news dedupe", () => {
 
     assert.equal(snapshot.totalCount, 2);
     assert.equal(new Set(snapshot.items.map((item) => item.summary)).size, 2);
+  });
+
+  it("prioritizes the last 72 hours and limits news older than seven days", () => {
+    const oldItems = Array.from({ length: 5 }, (_, index) => ({
+      title: `OpenAI launches archived model update ${index + 1}`,
+      url: `https://example.com/archived-model-${index + 1}`,
+      publishedAt: `Wed, ${String(index + 1).padStart(2, "0")} Jul 2026 00:00:00 GMT`,
+      summary:
+        "OpenAI announced a model release, benchmark, enterprise rollout, safety research, and developer workflow update.",
+    }));
+    const snapshot = buildSnapshotFromFeedTexts(
+      [
+        {
+          sourceName: "AI News",
+          url: "https://example.com/feed.xml",
+          text: rss([
+            ...oldItems,
+            {
+              title: "Fresh AI infrastructure update for product teams",
+              url: "https://example.com/fresh-ai-infrastructure",
+              publishedAt: "Sun, 12 Jul 2026 18:00:00 GMT",
+              summary:
+                "A fresh AI infrastructure update changes deployment planning for product teams.",
+            },
+          ]),
+        },
+      ],
+      { now: new Date("2026-07-13T00:00:00.000Z") }
+    );
+
+    assert.equal(snapshot.items[0].url, "https://example.com/fresh-ai-infrastructure");
+    const olderItems = snapshot.items.filter(
+      (item) =>
+        new Date("2026-07-13T00:00:00.000Z").getTime() -
+          Date.parse(item.publishedAt) >
+        7 * 24 * 60 * 60 * 1000
+    );
+    assert.ok(olderItems.length > 0 && olderItems.length <= 2);
+    assert.ok(olderItems.every((item) => !item.tags.includes("Hot News")));
+    assert.ok(olderItems.every((item) => item.score <= 8.4));
+  });
+
+  it("reports the latest publication time and only counts genuinely new cards", () => {
+    const previousSnapshot = {
+      items: [
+        {
+          title: "Existing model release",
+          url: "https://example.com/existing-model?utm_source=old",
+        },
+      ],
+    };
+    const snapshot = buildSnapshotFromFeedTexts(
+      [
+        {
+          sourceName: "OpenAI News",
+          url: "https://example.com/feed.xml",
+          text: rss([
+            {
+              title: "Existing model release",
+              url: "https://example.com/existing-model",
+              publishedAt: "Sun, 12 Jul 2026 20:00:00 GMT",
+              summary:
+                "An existing AI model release adds enterprise controls and developer tooling.",
+            },
+            {
+              title: "New AI safety benchmark",
+              url: "https://example.com/new-ai-safety-benchmark",
+              publishedAt: "Sun, 12 Jul 2026 22:00:00 GMT",
+              summary:
+                "A new AI safety benchmark evaluates reasoning and frontier model behavior.",
+            },
+          ]),
+        },
+      ],
+      {
+        now: new Date("2026-07-13T00:00:00.000Z"),
+        previousSnapshot,
+      }
+    );
+
+    assert.equal(snapshot.newItemCount, 1);
+    assert.equal(snapshot.latestPublishedAt, "2026-07-12T22:00:00.000Z");
+  });
+
+  it("rejects invalid snapshots before latest.json can be replaced", () => {
+    assert.throws(
+      () =>
+        validateSnapshot(
+          {
+            selectedCount: 2,
+            items: [
+              {
+                title: "GitHub-only item",
+                url: "https://github.com/example/repo",
+                publishedAt: "2026-07-13T00:00:00.000Z",
+              },
+              {
+                title: "Duplicate URL",
+                url: "https://github.com/example/repo?utm_source=feed",
+                publishedAt: "2026-07-13T00:00:00.000Z",
+              },
+            ],
+          },
+          { minItems: 2 }
+        ),
+      /GitHub URL is not allowed/
+    );
   });
 });

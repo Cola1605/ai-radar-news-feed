@@ -1,178 +1,158 @@
 {
-  "generatedAt": "2026-07-13T01:02:38.888Z",
+  "generatedAt": "2026-07-13T01:44:18.245Z",
+  "latestPublishedAt": "2026-07-12T15:02:06.000Z",
+  "newItemCount": 12,
   "dateKey": "2026-07-13",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 164,
+  "totalCount": 165,
   "items": [
     {
-      "id": "techcrunch-ai-openai-launches-its-new-family-of-models-with-gpt-5-6",
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
+      "id": "the-decoder-terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI providers clearly isn't enough....",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
       "tags": [
-        "Hot News",
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-07-09T22:24:24.000Z"
+      "publishedAt": "2026-07-11T17:04:28.000Z"
     },
     {
-      "id": "openai-news-predicting-model-behavior-before-release-by-simulating-deployment",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "url": "https://openai.com/index/deployment-simulation",
-      "sourceName": "OpenAI News",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-06-16T00:00:00.000Z"
-    },
-    {
-      "id": "openai-news-introducing-gpt-live",
-      "title": "Introducing GPT-Live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "sourceName": "OpenAI News",
-      "score": 9.5,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "id": "openai-news-separating-signal-from-noise-in-coding-evaluations",
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-08T13:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-investing-in-multi-agent-ai-safety-research",
-      "title": "Investing in multi-agent AI safety research",
-      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Agent AI",
-        "Research",
-        "Policy",
-        "Business"
-      ],
-      "publishedAt": "2026-06-10T10:21:19.000Z"
-    },
-    {
-      "id": "openai-news-openai-frontier-models-and-codex-are-now-available-on-aws",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-06-01T10:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "summary": "Tin AI từ Google DeepMind về \"Google DeepMind and A24 announce first-of-its-kind research partnership\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "sourceName": "Google DeepMind",
-      "score": 9,
-      "tags": [
-        "Hot News",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-07-03T14:25:43.000Z"
-    },
-    {
-      "id": "techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-09T18:22:39.000Z"
-    },
-    {
-      "id": "mit-technology-review-anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "id": "mit-technology-review-the-download-claude-s-inner-workings-and-openai-s-super-app",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
       "sourceName": "MIT Technology Review",
-      "score": 8.8,
+      "score": 8.1,
       "tags": [
-        "Model",
-        "Research"
+        "Model"
       ],
-      "publishedAt": "2026-07-09T20:22:28.000Z"
+      "publishedAt": "2026-07-10T12:10:00.000Z"
     },
     {
-      "id": "openai-news-hp-inc-launches-frontier-strategic-partnership-with-openai",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "sourceName": "OpenAI News",
-      "score": 8.8,
+      "id": "the-decoder-s-p-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating",
+      "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating",
+      "summary": "S&P Global has downgraded Oracle's credit rating to \"BBB-,\" one notch above junk status. OpenAI accounts for roughly half of Oracle's $638 billion in contractual obligations. If OpenAI walked away, Oracle would be stuck with massive data center capacity it couldn't fill. The article S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating appeared first on The Decoder .",
+      "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/",
+      "sourceName": "The Decoder",
+      "score": 8,
       "tags": [
-        "Hot News",
-        "Model",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-06-28T17:00:00.000Z"
+      "publishedAt": "2026-07-12T11:43:36.000Z"
     },
     {
-      "id": "openai-news-our-approach-to-government-and-national-security-partnerships",
-      "title": "Our approach to government and national security partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
+      "id": "the-decoder-claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites",
+      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+      "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code now has a built-in browser that lets the AI read, click, and type on external websites appeared first on The Decoder .",
+      "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+      "sourceName": "The Decoder",
+      "score": 7.8,
       "tags": [
-        "Policy",
-        "Business"
+        "Model"
       ],
-      "publishedAt": "2026-07-08T13:30:00.000Z"
+      "publishedAt": "2026-07-12T15:02:06.000Z"
     },
     {
-      "id": "openai-news-introducing-new-capabilities-to-gpt-rosalind",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "id": "the-decoder-openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+      "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+      "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither the old doomsday predictions nor optimism....",
+      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/",
+      "sourceName": "The Decoder",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-07-12T09:15:49.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.3,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-11T14:13:00.000Z"
+    },
+    {
+      "id": "openai-news-how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "url": "https://openai.com/index/deutsche-telekom",
       "sourceName": "OpenAI News",
-      "score": 8.5,
+      "score": 7.3,
+      "tags": [
+        "Agent AI"
+      ],
+      "publishedAt": "2026-07-10T07:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-chaos-engineering-gpu-clusters",
+      "title": "Presentation: Chaos Engineering GPU Clusters",
+      "summary": "Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters. He shares how engineering leaders can handle complex topologies, network protocols like RDMA, and NUMA misalignments. Discover seven practical fault-injection strategies to maximize multi-million dollar hardware efficiency and build robust observability loops. By Bryan Oliver",
+      "url": "https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.2,
       "tags": [
         "Model",
-        "Agent AI",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-06-03T13:15:00.000Z"
+      "publishedAt": "2026-07-10T13:42:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-how-datadog-used-claude-and-cursor-for-test-driven-production-migration",
+      "title": "How Datadog Used Claude and Cursor for Test-Driven Production Migration",
+      "summary": "In a recent article, Datadog engineer Arnold Wakim shared what worked, what didn't, and the lessons they learned while evolving a critical production system using AI to overcome hard limits in its storage backend and significantly improve performance. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-10T08:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-meta-removes-controversial-ai-feature-on-instagram-after-backlash",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "sourceName": "TechCrunch AI",
+      "score": 6.7,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-07-10T23:55:07.000Z"
+    },
+    {
+      "id": "techcrunch-ai-apple-sues-openai-over-alleged-trade-secret-theft",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "sourceName": "TechCrunch AI",
+      "score": 6.6,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-07-10T21:00:29.000Z"
+    },
+    {
+      "id": "techcrunch-ai-open-source-ai-matters-more-than-ever-according-to-hugging-face-s-clem-delangue",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "sourceName": "TechCrunch AI",
+      "score": 6.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-10T19:00:00.000Z"
     }
   ]
 }

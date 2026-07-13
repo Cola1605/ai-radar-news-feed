@@ -1,150 +1,150 @@
 # Horizon Bản tin hằng ngày - 2026-07-13
 
-> Đã chọn 12 tin quan trọng từ 164 mục.
+> Đã chọn 12 tin quan trọng từ 165 mục.
 
-1. [OpenAI launches its new family of models with GPT-5.6](#techcrunch-ai-openai-launches-its-new-family-of-models-with-gpt-5-6) ⭐️ 9.6/10
-2. [Predicting model behavior before release by simulating deployment](#openai-news-predicting-model-behavior-before-release-by-simulating-deployment) ⭐️ 9.6/10
-3. [Introducing GPT-Live](#openai-news-introducing-gpt-live) ⭐️ 9.5/10
-4. [Separating signal from noise in coding evaluations](#openai-news-separating-signal-from-noise-in-coding-evaluations) ⭐️ 9.1/10
-5. [Investing in multi-agent AI safety research](#google-deepmind-investing-in-multi-agent-ai-safety-research) ⭐️ 9.1/10
-6. [OpenAI frontier models and Codex are now available on AWS](#openai-news-openai-frontier-models-and-codex-are-now-available-on-aws) ⭐️ 9.1/10
-7. [Google DeepMind and A24 announce first-of-its-kind research partnership](#google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership) ⭐️ 9/10
-8. [How did the government decide OpenAI’s frontier model was safe to release?](#techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release) ⭐️ 8.9/10
-9. [Anthropic found a hidden space where Claude puzzles over concepts](#mit-technology-review-anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts) ⭐️ 8.8/10
-10. [HP Inc. launches Frontier strategic partnership with OpenAI](#openai-news-hp-inc-launches-frontier-strategic-partnership-with-openai) ⭐️ 8.8/10
-11. [Our approach to government and national security partnerships](#openai-news-our-approach-to-government-and-national-security-partnerships) ⭐️ 8.6/10
-12. [Introducing new capabilities to GPT-Rosalind](#openai-news-introducing-new-capabilities-to-gpt-rosalind) ⭐️ 8.5/10
-
----
-
-<a id="techcrunch-ai-openai-launches-its-new-family-of-models-with-gpt-5-6"></a>
-## [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) ⭐️ 9.6/10
-
-OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.
-
-TechCrunch AI · 2026-07-09T22:24:24.000Z
-
-**Thẻ**: `#Hot News`, `#Model`, `#Policy`
+1. [Terrorist groups are using every major AI chatbot for attack planning and weapons development](#the-decoder-terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development) ⭐️ 8.4/10
+2. [The Download: Claude’s inner workings and OpenAI’s “super app”](#mit-technology-review-the-download-claude-s-inner-workings-and-openai-s-super-app) ⭐️ 8.1/10
+3. [S&P Global sees OpenAI as a "key credit risk" for Oracle and cuts its credit rating](#the-decoder-s-p-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating) ⭐️ 8/10
+4. [Claude Code now has a built-in browser that lets the AI read, click, and type on external websites](#the-decoder-claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites) ⭐️ 7.8/10
+5. [OpenAI CEO Altman is now "pretty sure" AI is net job-creating, which is quite the pivot from predicting mass layoffs](#the-decoder-openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs) ⭐️ 7.8/10
+6. [OpenAI bets on families as ChatGPT goes deeper into households](#techcrunch-ai-openai-bets-on-families-as-chatgpt-goes-deeper-into-households) ⭐️ 7.3/10
+7. [How Deutsche Telekom is rewiring telecommunications with AI](#openai-news-how-deutsche-telekom-is-rewiring-telecommunications-with-ai) ⭐️ 7.3/10
+8. [Presentation: Chaos Engineering GPU Clusters](#infoq-ai-ml-data-engineering-presentation-chaos-engineering-gpu-clusters) ⭐️ 7.2/10
+9. [How Datadog Used Claude and Cursor for Test-Driven Production Migration](#infoq-ai-ml-data-engineering-how-datadog-used-claude-and-cursor-for-test-driven-production-migration) ⭐️ 7/10
+10. [Meta removes controversial AI feature on Instagram after backlash](#techcrunch-ai-meta-removes-controversial-ai-feature-on-instagram-after-backlash) ⭐️ 6.7/10
+11. [Apple sues OpenAI over alleged trade secret theft](#techcrunch-ai-apple-sues-openai-over-alleged-trade-secret-theft) ⭐️ 6.6/10
+12. [Open source AI matters more than ever, according to Hugging Face’s Clem Delangue](#techcrunch-ai-open-source-ai-matters-more-than-ever-according-to-hugging-face-s-clem-delangue) ⭐️ 6.6/10
 
 ---
 
-<a id="openai-news-predicting-model-behavior-before-release-by-simulating-deployment"></a>
-## [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) ⭐️ 9.6/10
+<a id="the-decoder-terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development"></a>
+## [Terrorist groups are using every major AI chatbot for attack planning and weapons development](https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/) ⭐️ 8.4/10
 
-OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
+A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI providers clearly isn't enough....
 
-OpenAI News · 2026-06-16T00:00:00.000Z
+The Decoder · 2026-07-11T17:04:28.000Z
 
-**Thẻ**: `#Hot News`, `#Model`, `#Research`, `#Policy`, `#Infra`
+**Thẻ**: `#Model`, `#Policy`
 
 ---
 
-<a id="openai-news-introducing-gpt-live"></a>
-## [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live) ⭐️ 9.5/10
+<a id="mit-technology-review-the-download-claude-s-inner-workings-and-openai-s-super-app"></a>
+## [The Download: Claude’s inner workings and OpenAI’s “super app”](https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/) ⭐️ 8.1/10
 
-A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…
 
-OpenAI News · 2026-07-08T00:00:00.000Z
+MIT Technology Review · 2026-07-10T12:10:00.000Z
 
 **Thẻ**: `#Model`
 
 ---
 
-<a id="openai-news-separating-signal-from-noise-in-coding-evaluations"></a>
-## [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations) ⭐️ 9.1/10
+<a id="the-decoder-s-p-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating"></a>
+## [S&P Global sees OpenAI as a "key credit risk" for Oracle and cuts its credit rating](https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/) ⭐️ 8/10
 
-A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.
+S&P Global has downgraded Oracle's credit rating to "BBB-," one notch above junk status. OpenAI accounts for roughly half of Oracle's $638 billion in contractual obligations. If OpenAI walked away, Oracle would be stuck with massive data center capacity it couldn't fill. The article S&P Global sees OpenAI as a "key credit risk" for Oracle and cuts its credit rating appeared first on The Decoder .
 
-OpenAI News · 2026-07-08T13:00:00.000Z
+The Decoder · 2026-07-12T11:43:36.000Z
 
-**Thẻ**: `#Model`, `#Research`
-
----
-
-<a id="google-deepmind-investing-in-multi-agent-ai-safety-research"></a>
-## [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/) ⭐️ 9.1/10
-
-Google DeepMind and partners announce a $10M funding call for multi-agent safety research.
-
-Google DeepMind · 2026-06-10T10:21:19.000Z
-
-**Thẻ**: `#Hot News`, `#Agent AI`, `#Research`, `#Policy`, `#Business`
+**Thẻ**: `#Policy`
 
 ---
 
-<a id="openai-news-openai-frontier-models-and-codex-are-now-available-on-aws"></a>
-## [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws) ⭐️ 9.1/10
+<a id="the-decoder-claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites"></a>
+## [Claude Code now has a built-in browser that lets the AI read, click, and type on external websites](https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/) ⭐️ 7.8/10
 
-OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.
+Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code now has a built-in browser that lets the AI read, click, and type on external websites appeared first on The Decoder .
 
-OpenAI News · 2026-06-01T10:00:00.000Z
+The Decoder · 2026-07-12T15:02:06.000Z
 
-**Thẻ**: `#Hot News`, `#Model`, `#Agent AI`, `#Research`, `#Business`
-
----
-
-<a id="google-deepmind-google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"></a>
-## [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) ⭐️ 9/10
-
-Tin AI từ Google DeepMind về "Google DeepMind and A24 announce first-of-its-kind research partnership". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.
-
-Google DeepMind · 2026-07-03T14:25:43.000Z
-
-**Thẻ**: `#Hot News`, `#Research`, `#Business`
+**Thẻ**: `#Model`
 
 ---
 
-<a id="techcrunch-ai-how-did-the-government-decide-openai-s-frontier-model-was-safe-to-release"></a>
-## [How did the government decide OpenAI’s frontier model was safe to release?](https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/) ⭐️ 8.9/10
+<a id="the-decoder-openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs"></a>
+## [OpenAI CEO Altman is now "pretty sure" AI is net job-creating, which is quite the pivot from predicting mass layoffs](https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/) ⭐️ 7.8/10
 
-"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear."
+OpenAI CEO Sam Altman now says he's "pretty sure" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither the old doomsday predictions nor optimism....
 
-TechCrunch AI · 2026-07-09T18:22:39.000Z
+The Decoder · 2026-07-12T09:15:49.000Z
 
-**Thẻ**: `#Hot News`, `#Model`
-
----
-
-<a id="mit-technology-review-anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts"></a>
-## [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) ⭐️ 8.8/10
-
-The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…
-
-MIT Technology Review · 2026-07-09T20:22:28.000Z
-
-**Thẻ**: `#Model`, `#Research`
+**Thẻ**: `#AI`
 
 ---
 
-<a id="openai-news-hp-inc-launches-frontier-strategic-partnership-with-openai"></a>
-## [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership) ⭐️ 8.8/10
+<a id="techcrunch-ai-openai-bets-on-families-as-chatgpt-goes-deeper-into-households"></a>
+## [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/) ⭐️ 7.3/10
 
-HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
+ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
 
-OpenAI News · 2026-06-28T17:00:00.000Z
+TechCrunch AI · 2026-07-11T14:13:00.000Z
 
-**Thẻ**: `#Hot News`, `#Model`, `#Business`
-
----
-
-<a id="openai-news-our-approach-to-government-and-national-security-partnerships"></a>
-## [Our approach to government and national security partnerships](https://openai.com/index/government-national-security-partnerships) ⭐️ 8.6/10
-
-Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
-
-OpenAI News · 2026-07-08T13:30:00.000Z
-
-**Thẻ**: `#Policy`, `#Business`
+**Thẻ**: `#Model`
 
 ---
 
-<a id="openai-news-introducing-new-capabilities-to-gpt-rosalind"></a>
-## [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) ⭐️ 8.5/10
+<a id="openai-news-how-deutsche-telekom-is-rewiring-telecommunications-with-ai"></a>
+## [How Deutsche Telekom is rewiring telecommunications with AI](https://openai.com/index/deutsche-telekom) ⭐️ 7.3/10
 
-GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.
+How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
 
-OpenAI News · 2026-06-03T13:15:00.000Z
+OpenAI News · 2026-07-10T07:00:00.000Z
 
-**Thẻ**: `#Model`, `#Agent AI`, `#Research`
+**Thẻ**: `#Agent AI`
+
+---
+
+<a id="infoq-ai-ml-data-engineering-presentation-chaos-engineering-gpu-clusters"></a>
+## [Presentation: Chaos Engineering GPU Clusters](https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) ⭐️ 7.2/10
+
+Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters. He shares how engineering leaders can handle complex topologies, network protocols like RDMA, and NUMA misalignments. Discover seven practical fault-injection strategies to maximize multi-million dollar hardware efficiency and build robust observability loops. By Bryan Oliver
+
+InfoQ AI/ML/Data Engineering · 2026-07-10T13:42:00.000Z
+
+**Thẻ**: `#Model`, `#Policy`
+
+---
+
+<a id="infoq-ai-ml-data-engineering-how-datadog-used-claude-and-cursor-for-test-driven-production-migration"></a>
+## [How Datadog Used Claude and Cursor for Test-Driven Production Migration](https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) ⭐️ 7/10
+
+In a recent article, Datadog engineer Arnold Wakim shared what worked, what didn't, and the lessons they learned while evolving a critical production system using AI to overcome hard limits in its storage backend and significantly improve performance. By Sergio De Simone
+
+InfoQ AI/ML/Data Engineering · 2026-07-10T08:00:00.000Z
+
+**Thẻ**: `#Model`
+
+---
+
+<a id="techcrunch-ai-meta-removes-controversial-ai-feature-on-instagram-after-backlash"></a>
+## [Meta removes controversial AI feature on Instagram after backlash](https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/) ⭐️ 6.7/10
+
+"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."
+
+TechCrunch AI · 2026-07-10T23:55:07.000Z
+
+**Thẻ**: `#Hot News`
+
+---
+
+<a id="techcrunch-ai-apple-sues-openai-over-alleged-trade-secret-theft"></a>
+## [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/) ⭐️ 6.6/10
+
+Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
+
+TechCrunch AI · 2026-07-10T21:00:29.000Z
+
+**Thẻ**: `#AI`
+
+---
+
+<a id="techcrunch-ai-open-source-ai-matters-more-than-ever-according-to-hugging-face-s-clem-delangue"></a>
+## [Open source AI matters more than ever, according to Hugging Face’s Clem Delangue](https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/) ⭐️ 6.6/10
+
+Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]
+
+TechCrunch AI · 2026-07-10T19:00:00.000Z
+
+**Thẻ**: `#Model`
 
 ---

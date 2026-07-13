@@ -2,8 +2,13 @@ name: Update AI Radar news feed
 
 on:
   schedule:
+    - cron: "30 21 * * *"
     - cron: "30 23 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: update-ai-radar-news-feed
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,13 +16,37 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/build-public-ai-news.mjs
-      - run: |
+      - name: Check whether the fallback run is needed
+        id: update-gate
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          SHOULD_RUN=true
+          if [ "$EVENT_NAME" = "schedule" ] && [ "$EVENT_SCHEDULE" = "30 23 * * *" ]; then
+            TODAY=$(TZ=Asia/Ho_Chi_Minh date +%F)
+            FEED_DATE=$(node -e "const fs=require('fs');try{process.stdout.write(JSON.parse(fs.readFileSync('latest.json','utf8')).dateKey||'')}catch{}");
+            if [ "$FEED_DATE" = "$TODAY" ]; then
+              SHOULD_RUN=false
+              echo "Primary 04:30 VNT update already completed for $TODAY."
+            fi
+          fi
+          echo "run=$SHOULD_RUN" >> "$GITHUB_OUTPUT"
+      - name: Test feed parser and validation
+        if: steps.update-gate.outputs.run == 'true'
+        run: node --test work/*.test.mjs
+      - name: Build public AI news snapshot
+        if: steps.update-gate.outputs.run == 'true'
+        run: node scripts/build-public-ai-news.mjs
+      - name: Commit updated snapshot
+        if: steps.update-gate.outputs.run == 'true'
+        run: |
           if git diff --quiet latest.json docs/_posts; then
             echo "No AI news feed changes."
             exit 0
