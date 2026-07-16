@@ -1,53 +1,54 @@
 {
-  "generatedAt": "2026-07-15T22:26:47.206Z",
-  "latestPublishedAt": "2026-07-15T22:24:17.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-07-16",
+  "generatedAt": "2026-07-16T22:27:12.098Z",
+  "latestPublishedAt": "2026-07-16T19:49:39.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-07-17",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 170,
+  "totalCount": 174,
   "items": [
     {
-      "id": "techcrunch-ai-anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-just-models",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "id": "the-decoder-kimi-s-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai",
+      "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
+      "summary": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2, in some cases by a wide margin. The model is also significantly pricier than its predecessor. Full weights are scheduled for release by July 27....",
+      "url": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-16T19:49:39.000Z"
+    },
+    {
+      "id": "techcrunch-ai-how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
       "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Business"
+        "Research"
       ],
-      "publishedAt": "2026-07-15T13:10:47.000Z"
+      "publishedAt": "2026-07-16T15:02:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-sakana-ai-s-orchestrator-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models",
+      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
+      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner. However, the announcement does not yet provide specific benchmark figures for the new combination....",
+      "url": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
+      "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
-        "Research",
-        "Business"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-07-15T00:27:04.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-download-claude-s-inner-workings-and-the-future-of-world-models",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-14T12:10:00.000Z"
+      "publishedAt": "2026-07-16T14:02:13.000Z"
     },
     {
       "id": "techcrunch-ai-microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
@@ -63,17 +64,30 @@
       "publishedAt": "2026-07-15T16:20:18.000Z"
     },
     {
-      "id": "the-decoder-openai-s-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive",
-      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
-      "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could delay its planned 2027 launch....",
-      "url": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/",
+      "id": "the-decoder-ex-openai-cto-murati-s-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china",
+      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
+      "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S. open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on some tasks....",
+      "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/",
       "sourceName": "The Decoder",
-      "score": 9.6,
+      "score": 9.5,
       "tags": [
         "Hot News",
-        "Policy"
+        "Model"
       ],
-      "publishedAt": "2026-07-15T06:48:56.000Z"
+      "publishedAt": "2026-07-16T09:55:28.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-the-us",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.4,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-16T12:10:00.000Z"
     },
     {
       "id": "mit-technology-review-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
@@ -117,6 +131,31 @@
       "publishedAt": "2026-07-15T22:24:17.000Z"
     },
     {
+      "id": "mit-technology-review-the-download-claude-s-inner-workings-and-the-future-of-world-models",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-14T12:10:00.000Z"
+    },
+    {
+      "id": "google-deepmind-our-approach-to-bioresilience",
+      "title": "Our approach to bioresilience",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-16T09:30:42.000Z"
+    },
+    {
       "id": "infoq-ai-ml-data-engineering-aws-ships-claude-apps-gateway-as-self-hosted-control-plane-for-claude-code-and-claude-desktop",
       "title": "AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop",
       "summary": "AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS. By Steef-Jan Wiggers",
@@ -130,43 +169,6 @@
         "Infra"
       ],
       "publishedAt": "2026-07-15T11:04:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-is-now-using-ai-to-attack-its-own-ai-and-it-s-working-better-than-humans-ever-did",
-      "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-      "summary": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI, and it's working better than humans ever did appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-15T19:47:53.000Z"
-    },
-    {
-      "id": "mit-technology-review-what-anthropic-s-latest-ai-discovery-does-and-doesn-t-show",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-13T18:00:00.000Z"
-    },
-    {
-      "id": "openai-news-the-us-is-advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-07-15T12:00:00.000Z"
     }
   ]
 }
