@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-07-16T22:27:12.098Z",
-  "latestPublishedAt": "2026-07-16T19:49:39.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-07-17",
+  "generatedAt": "2026-07-17T22:10:39.438Z",
+  "latestPublishedAt": "2026-07-17T19:35:52.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-07-18",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 174,
+  "totalCount": 151,
   "items": [
+    {
+      "id": "the-decoder-just-like-deepseek-china-s-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage",
+      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
+      "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI communism.\" The release is reigniting the debate over how much computing power actually matters and whether U.S....",
+      "url": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-17T19:16:07.000Z"
+    },
     {
       "id": "the-decoder-kimi-s-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai",
       "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
@@ -51,30 +64,17 @@
       "publishedAt": "2026-07-16T14:02:13.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-15T16:20:18.000Z"
-    },
-    {
-      "id": "the-decoder-ex-openai-cto-murati-s-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china",
-      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
-      "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S. open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on some tasks....",
-      "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/",
+      "id": "the-decoder-gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldn-t-but-did",
+      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
+      "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has announced extra safeguards and a detailed post-mortem....",
+      "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-07-16T09:55:28.000Z"
+      "publishedAt": "2026-07-17T19:35:52.000Z"
     },
     {
       "id": "mit-technology-review-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-the-us",
@@ -88,32 +88,6 @@
         "Model"
       ],
       "publishedAt": "2026-07-16T12:10:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.4,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-15T17:09:37.000Z"
-    },
-    {
-      "id": "techcrunch-ai-inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise",
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others....",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.4,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-07-15T15:00:00.000Z"
     },
     {
       "id": "venturebeat-ai-agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
@@ -131,17 +105,16 @@
       "publishedAt": "2026-07-15T22:24:17.000Z"
     },
     {
-      "id": "mit-technology-review-the-download-claude-s-inner-workings-and-the-future-of-world-models",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.2,
+      "id": "openai-news-a-scorecard-for-the-ai-age",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
-        "Hot News",
-        "Model"
+        "AI"
       ],
-      "publishedAt": "2026-07-14T12:10:00.000Z"
+      "publishedAt": "2026-07-17T10:00:00.000Z"
     },
     {
       "id": "google-deepmind-our-approach-to-bioresilience",
@@ -156,19 +129,41 @@
       "publishedAt": "2026-07-16T09:30:42.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-aws-ships-claude-apps-gateway-as-self-hosted-control-plane-for-claude-code-and-claude-desktop",
-      "title": "AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop",
-      "summary": "AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9,
+      "id": "techcrunch-ai-moonshot-s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic-s-opus-4-8",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-16T14:26:29.000Z"
+    },
+    {
+      "id": "techcrunch-ai-microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-15T23:59:44.000Z"
+    },
+    {
+      "id": "mit-technology-review-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
       "tags": [
         "Hot News",
-        "Model",
-        "Policy",
-        "Infra"
+        "Model"
       ],
-      "publishedAt": "2026-07-15T11:04:00.000Z"
+      "publishedAt": "2026-07-15T17:09:37.000Z"
     }
   ]
 }
