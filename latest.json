@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-17T22:10:39.438Z",
-  "latestPublishedAt": "2026-07-17T19:35:52.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-07-18",
+  "generatedAt": "2026-07-18T22:11:26.250Z",
+  "latestPublishedAt": "2026-07-18T18:51:07.000Z",
+  "newItemCount": 3,
+  "dateKey": "2026-07-19",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 151,
+  "totalCount": 165,
   "items": [
     {
       "id": "the-decoder-just-like-deepseek-china-s-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage",
@@ -50,20 +50,6 @@
       "publishedAt": "2026-07-16T15:02:00.000Z"
     },
     {
-      "id": "the-decoder-sakana-ai-s-orchestrator-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models",
-      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
-      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner. However, the announcement does not yet provide specific benchmark figures for the new combination....",
-      "url": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-16T14:02:13.000Z"
-    },
-    {
       "id": "the-decoder-gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldn-t-but-did",
       "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
       "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has announced extra safeguards and a detailed post-mortem....",
@@ -75,34 +61,6 @@
         "Model"
       ],
       "publishedAt": "2026-07-17T19:35:52.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-the-us",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.4,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-16T12:10:00.000Z"
-    },
-    {
-      "id": "venturebeat-ai-agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution....",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "sourceName": "VentureBeat AI",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Business",
-        "Infra"
-      ],
-      "publishedAt": "2026-07-15T22:24:17.000Z"
     },
     {
       "id": "openai-news-a-scorecard-for-the-ai-age",
@@ -117,12 +75,68 @@
       "publishedAt": "2026-07-17T10:00:00.000Z"
     },
     {
+      "id": "mit-technology-review-the-download-openai-unveils-gpt-red-and-heat-pumps-rise-in-the-us",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-16T12:10:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-qcon-ai-boston-production-ai-moves-beyond-prompts-to-platforms-harnesses-and-evals",
+      "title": "QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals",
+      "summary": "QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a \"harness\" around agents, and adopting a comprehensive engineering model for AI. By Tatiana Fesenko",
+      "url": "https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-17T09:00:00.000Z"
+    },
+    {
+      "id": "venturebeat-ai-agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution....",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "sourceName": "VentureBeat AI",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Business",
+        "Infra"
+      ],
+      "publishedAt": "2026-07-15T22:24:17.000Z"
+    },
+    {
+      "id": "techcrunch-ai-kimi-threat-or-menace",
+      "title": "Kimi: Threat or menace?",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-18T18:51:07.000Z"
+    },
+    {
       "id": "google-deepmind-our-approach-to-bioresilience",
       "title": "Our approach to bioresilience",
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "sourceName": "Google DeepMind",
-      "score": 9,
+      "score": 8.3,
       "tags": [
         "Model"
       ],
@@ -134,36 +148,24 @@
       "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
       "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.2,
       "tags": [
         "Model"
       ],
       "publishedAt": "2026-07-16T14:26:29.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "id": "techcrunch-ai-databricks-hits-188b-valuation-extending-its-run-as-ai-s-favorite-second-act",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.1,
       "tags": [
-        "Model"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-07-15T23:59:44.000Z"
-    },
-    {
-      "id": "mit-technology-review-meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-15T17:09:37.000Z"
+      "publishedAt": "2026-07-17T22:12:56.000Z"
     }
   ]
 }
