@@ -1,13 +1,53 @@
 {
-  "generatedAt": "2026-07-19T22:13:05.815Z",
-  "latestPublishedAt": "2026-07-19T19:24:45.000Z",
+  "generatedAt": "2026-07-20T22:27:33.020Z",
+  "latestPublishedAt": "2026-07-20T21:21:15.000Z",
   "newItemCount": 8,
-  "dateKey": "2026-07-20",
+  "dateKey": "2026-07-21",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 158,
+  "totalCount": 161,
   "items": [
+    {
+      "id": "openai-news-safety-and-alignment-in-an-era-of-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure",
+      "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+      "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic....",
+      "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-20T14:03:53.000Z"
+    },
+    {
+      "id": "ai-world-bakeoff-pages-dev-show-hn-ai-world-bakeoff-9-models-3-three-js-worlds",
+      "title": "Show HN: AI World Bakeoff – 9 models × 3 Three.js worlds",
+      "summary": "With the releases of Fable 5, gpt 5.6 sol, and Kimi K3 I was curious how these models would perform building vivid 3d worlds, especially a Chinese open-weight one like Kimi. I also threw in some budget models so you can see how drastic the quality differences are.",
+      "url": "https://ai-world-bakeoff.pages.dev/",
+      "sourceName": "ai-world-bakeoff.pages.dev",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-20T19:49:44.000Z"
+    },
     {
       "id": "infoq-ai-ml-data-engineering-google-s-alphaevolve-reaches-general-availability-with-evolutionary-code-optimization-as-a-service",
       "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service",
@@ -24,17 +64,41 @@
       "publishedAt": "2026-07-19T10:16:00.000Z"
     },
     {
-      "id": "techcrunch-ai-kimi-threat-or-menace",
-      "title": "Kimi: Threat or menace?",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "id": "techcrunch-ai-google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-20T21:21:15.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-is-scared-of-open-weight-models-should-the-us-be",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-20T19:33:25.000Z"
+    },
+    {
+      "id": "the-decoder-district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+      "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next....",
+      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-07-18T18:51:07.000Z"
+      "publishedAt": "2026-07-20T17:32:41.000Z"
     },
     {
       "id": "the-decoder-alibaba-s-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5",
@@ -50,18 +114,6 @@
       "publishedAt": "2026-07-19T12:07:06.000Z"
     },
     {
-      "id": "openai-news-a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-07-17T10:00:00.000Z"
-    },
-    {
       "id": "the-decoder-google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing",
       "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
       "summary": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems with far less training data. The model trained almost entirely on synthetic videos. Its results add to the debate over whether video generators already contain a kind of universal world model....",
@@ -74,21 +126,9 @@
       "publishedAt": "2026-07-19T10:17:49.000Z"
     },
     {
-      "id": "the-decoder-moonshot-s-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math",
-      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math",
-      "summary": "Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin. But on advanced math, the gap is stark: Kimi K3 scores only about 39 percent on FrontierMath Tier 4, while models from OpenAI and Anthropic hit close to 90....",
-      "url": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
-      "sourceName": "The Decoder",
-      "score": 8.3,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-19T09:32:19.000Z"
-    },
-    {
       "id": "techcrunch-ai-can-an-apple-lawsuit-derail-openai-s-hardware-plans",
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "sourceName": "TechCrunch AI",
       "score": 8.1,
@@ -98,71 +138,30 @@
       "publishedAt": "2026-07-19T19:24:45.000Z"
     },
     {
-      "id": "the-decoder-ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-they-re-wrong",
-      "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
-      "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are still well ahead. Before AI can diagnose on its own, it needs to learn when it's better to say nothing....",
-      "url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
-      "sourceName": "The Decoder",
-      "score": 8.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-19T07:35:20.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-qcon-ai-boston-production-ai-moves-beyond-prompts-to-platforms-harnesses-and-evals",
-      "title": "QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals",
-      "summary": "QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a \"harness\" around agents, and adopting a comprehensive engineering model for AI. By Tatiana Fesenko",
-      "url": "https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "id": "mit-technology-review-ai-is-more-likely-than-humans-to-form-biases-when-hiring",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "sourceName": "MIT Technology Review",
       "score": 8,
       "tags": [
         "Model",
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-17T09:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-pinecone-introduces-nexus-engine-for-compiling-business-context-into-structured-data-for-ai-agents",
-      "title": "Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents",
-      "summary": "Now generally available, Pinecone Nexus is a \"knowledge engine\" for AI agents that transforms enterprise data into a structured layer agents can query directly. It enables teams to ingest and curate business context once for all, making it reusable across agents and reducing token costs while improving accuracy. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.8,
-      "tags": [
-        "Hot News",
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-07-18T14:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-databricks-hits-188b-valuation-extending-its-run-as-ai-s-favorite-second-act",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.4,
-      "tags": [
-        "Model",
         "Research"
       ],
-      "publishedAt": "2026-07-17T22:12:56.000Z"
+      "publishedAt": "2026-07-20T08:39:01.000Z"
     },
     {
-      "id": "techcrunch-ai-how-apple-s-big-lawsuit-could-disrupt-openai-s-ipo-plans",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
+      "id": "infoq-ai-ml-data-engineering-three-infoq-certification-cohorts-start-this-august-meet-the-facilitators",
+      "title": "Three InfoQ Certification Cohorts Start This August: Meet the Facilitators",
+      "summary": "InfoQ has opened enrollment for three five-week online certification cohorts starting in August, each led by a senior practitioner applying QCon talk frameworks to participants' own work: architecture with Luca Mezzalira, engineering leadership with Michelle Brush, and AI security and privacy with Katharine Jarmul. By Artenisa Chatziou",
+      "url": "https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.9,
       "tags": [
+        "Model",
         "Policy"
       ],
-      "publishedAt": "2026-07-17T17:45:46.000Z"
+      "publishedAt": "2026-07-20T13:00:00.000Z"
     }
   ]
 }
