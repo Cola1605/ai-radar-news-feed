@@ -1,13 +1,66 @@
 {
-  "generatedAt": "2026-07-20T22:27:33.020Z",
-  "latestPublishedAt": "2026-07-20T21:21:15.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-07-21",
+  "generatedAt": "2026-07-21T22:23:56.351Z",
+  "latestPublishedAt": "2026-07-21T20:56:55.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-07-22",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 161,
+  "totalCount": 165,
   "items": [
+    {
+      "id": "techcrunch-ai-google-releases-three-new-gemini-models-but-no-3-5-pro",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-21T17:11:50.000Z"
+    },
+    {
+      "id": "the-decoder-google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training",
+      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+      "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the frontier level....",
+      "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-21T16:52:51.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "sourceName": "Google DeepMind",
+      "score": 9.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-21T15:16:30.000Z"
+    },
+    {
+      "id": "openai-news-openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-21T07:00:00.000Z"
+    },
     {
       "id": "openai-news-safety-and-alignment-in-an-era-of-long-horizon-models",
       "title": "Safety and alignment in an era of long-horizon models",
@@ -23,45 +76,43 @@
       "publishedAt": "2026-07-20T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure",
-      "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
-      "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic....",
-      "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-openai-says-hugging-face-was-breached-by-its-own-pre-release-models",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-21T20:56:55.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-s-landmark-1-5b-copyright-settlement-is-approved",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "sourceName": "TechCrunch AI",
       "score": 9.5,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-07-20T14:03:53.000Z"
+      "publishedAt": "2026-07-21T00:12:24.000Z"
     },
     {
-      "id": "ai-world-bakeoff-pages-dev-show-hn-ai-world-bakeoff-9-models-3-three-js-worlds",
-      "title": "Show HN: AI World Bakeoff – 9 models × 3 Three.js worlds",
-      "summary": "With the releases of Fable 5, gpt 5.6 sol, and Kimi K3 I was curious how these models would perform building vivid 3d worlds, especially a Chinese open-weight one like Kimi. I also threw in some budget models so you can see how drastic the quality differences are.",
-      "url": "https://ai-world-bakeoff.pages.dev/",
-      "sourceName": "ai-world-bakeoff.pages.dev",
-      "score": 9.3,
+      "id": "openai-news-introducing-the-chatgpt-for-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-07-20T19:49:44.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-google-s-alphaevolve-reaches-general-availability-with-evolutionary-code-optimization-as-a-service",
-      "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service",
-      "summary": "Google's AlphaEvolve reached general availability on the Gemini Enterprise Agent Platform, turning the DeepMind research project into an evolutionary code optimization service. Evaluators run client-side so code never leaves the customer's infrastructure. Klarna doubled ML training throughput; practitioners note it only works where a measurable evaluation function exists. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-07-19T10:16:00.000Z"
+      "publishedAt": "2026-07-21T17:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
@@ -76,16 +127,17 @@
       "publishedAt": "2026-07-20T21:21:15.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-is-scared-of-open-weight-models-should-the-us-be",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "id": "the-decoder-an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested",
+      "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
+      "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per dollar invested....",
+      "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
       "tags": [
-        "Model"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-07-20T19:33:25.000Z"
+      "publishedAt": "2026-07-21T19:12:20.000Z"
     },
     {
       "id": "the-decoder-district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
@@ -101,67 +153,16 @@
       "publishedAt": "2026-07-20T17:32:41.000Z"
     },
     {
-      "id": "the-decoder-alibaba-s-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5",
-      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
-      "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\" appeared first on The Decoder .",
-      "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-19T12:07:06.000Z"
-    },
-    {
-      "id": "the-decoder-google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing",
-      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
-      "summary": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems with far less training data. The model trained almost entirely on synthetic videos. Its results add to the debate over whether video generators already contain a kind of universal world model....",
-      "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+      "id": "the-decoder-microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe",
+      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+      "summary": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder .",
+      "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
       "sourceName": "The Decoder",
       "score": 8.3,
       "tags": [
-        "Model"
+        "Business"
       ],
-      "publishedAt": "2026-07-19T10:17:49.000Z"
-    },
-    {
-      "id": "techcrunch-ai-can-an-apple-lawsuit-derail-openai-s-hardware-plans",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-07-19T19:24:45.000Z"
-    },
-    {
-      "id": "mit-technology-review-ai-is-more-likely-than-humans-to-form-biases-when-hiring",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "sourceName": "MIT Technology Review",
-      "score": 8,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-three-infoq-certification-cohorts-start-this-august-meet-the-facilitators",
-      "title": "Three InfoQ Certification Cohorts Start This August: Meet the Facilitators",
-      "summary": "InfoQ has opened enrollment for three five-week online certification cohorts starting in August, each led by a senior practitioner applying QCon talk frameworks to participants' own work: architecture with Luca Mezzalira, engineering leadership with Michelle Brush, and AI security and privacy with Katharine Jarmul. By Artenisa Chatziou",
-      "url": "https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-20T13:00:00.000Z"
+      "publishedAt": "2026-07-21T15:07:22.000Z"
     }
   ]
 }
