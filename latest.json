@@ -1,25 +1,68 @@
 {
-  "generatedAt": "2026-07-21T22:23:56.351Z",
-  "latestPublishedAt": "2026-07-21T20:56:55.000Z",
+  "generatedAt": "2026-07-22T22:30:40.953Z",
+  "latestPublishedAt": "2026-07-22T20:49:03.000Z",
   "newItemCount": 9,
-  "dateKey": "2026-07-22",
+  "dateKey": "2026-07-23",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 165,
+  "totalCount": 171,
   "items": [
     {
-      "id": "techcrunch-ai-google-releases-three-new-gemini-models-but-no-3-5-pro",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-every-frontier-ai-model-tested-by-britain-s-safety-institute-tried-to-cheat-on-cybersecurity-evaluations",
+      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
+      "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert. The article Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations appeared first on The Decoder .",
+      "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-22T16:41:49.000Z"
+    },
+    {
+      "id": "the-decoder-cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost",
+      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+      "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests. The article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost appeared first on The Decoder .",
+      "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+      "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
-        "Model"
+        "Model",
+        "Agent AI",
+        "Policy"
       ],
-      "publishedAt": "2026-07-21T17:11:50.000Z"
+      "publishedAt": "2026-07-22T16:28:08.000Z"
+    },
+    {
+      "id": "the-decoder-openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox",
+      "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
+      "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evaluation. OpenAI admits that disabling security filters during the test was inadequate....",
+      "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-22T08:41:30.000Z"
+    },
+    {
+      "id": "openai-news-introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Agent AI",
+        "Business"
+      ],
+      "publishedAt": "2026-07-22T05:30:00.000Z"
     },
     {
       "id": "the-decoder-google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training",
@@ -62,24 +105,10 @@
       "publishedAt": "2026-07-21T07:00:00.000Z"
     },
     {
-      "id": "openai-news-safety-and-alignment-in-an-era-of-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-07-20T10:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-says-hugging-face-was-breached-by-its-own-pre-release-models",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "id": "techcrunch-ai-openai-says-hugging-face-was-breached-by-its-pre-release-models",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
       "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "sourceName": "TechCrunch AI",
       "score": 9.6,
       "tags": [
@@ -89,80 +118,52 @@
       "publishedAt": "2026-07-21T20:56:55.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-s-landmark-1-5b-copyright-settlement-is-approved",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-21T00:12:24.000Z"
-    },
-    {
-      "id": "openai-news-introducing-the-chatgpt-for-small-business-program",
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "id": "openai-news-building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "sourceName": "OpenAI News",
       "score": 9.1,
       "tags": [
-        "Hot News",
-        "Model"
+        "Hot News"
       ],
-      "publishedAt": "2026-07-21T17:00:00.000Z"
+      "publishedAt": "2026-07-22T13:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "id": "openai-news-advancing-the-next-era-of-national-science",
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-20T21:21:15.000Z"
+      "publishedAt": "2026-07-22T12:00:00.000Z"
     },
     {
-      "id": "the-decoder-an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested",
-      "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
-      "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per dollar invested....",
-      "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-how-openai-s-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "sourceName": "TechCrunch AI",
       "score": 8.5,
       "tags": [
-        "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-07-21T19:12:20.000Z"
+      "publishedAt": "2026-07-22T19:11:46.000Z"
     },
     {
-      "id": "the-decoder-district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
-      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
-      "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next....",
-      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropic-s-fable",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "sourceName": "TechCrunch AI",
       "score": 8.4,
       "tags": [
-        "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-07-20T17:32:41.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe",
-      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
-      "summary": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder .",
-      "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
-      "sourceName": "The Decoder",
-      "score": 8.3,
-      "tags": [
-        "Business"
-      ],
-      "publishedAt": "2026-07-21T15:07:22.000Z"
+      "publishedAt": "2026-07-22T20:49:03.000Z"
     }
   ]
 }
