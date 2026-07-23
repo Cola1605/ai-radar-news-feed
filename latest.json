@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-22T22:30:40.953Z",
-  "latestPublishedAt": "2026-07-22T20:49:03.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-07-23",
+  "generatedAt": "2026-07-23T22:28:33.444Z",
+  "latestPublishedAt": "2026-07-23T17:07:35.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-07-24",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 171,
+  "totalCount": 167,
   "items": [
     {
       "id": "the-decoder-every-frontier-ai-model-tested-by-britain-s-safety-institute-tried-to-cheat-on-cybersecurity-evaluations",
@@ -38,20 +38,6 @@
       "publishedAt": "2026-07-22T16:28:08.000Z"
     },
     {
-      "id": "the-decoder-openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox",
-      "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
-      "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evaluation. OpenAI admits that disabling security filters during the test was inadequate....",
-      "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-22T08:41:30.000Z"
-    },
-    {
       "id": "openai-news-introducing-openai-presence",
       "title": "Introducing OpenAI Presence",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
@@ -63,32 +49,6 @@
         "Business"
       ],
       "publishedAt": "2026-07-22T05:30:00.000Z"
-    },
-    {
-      "id": "the-decoder-google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training",
-      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
-      "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the frontier level....",
-      "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-21T16:52:51.000Z"
-    },
-    {
-      "id": "google-deepmind-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-      "sourceName": "Google DeepMind",
-      "score": 9.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-21T15:16:30.000Z"
     },
     {
       "id": "openai-news-openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation",
@@ -105,17 +65,19 @@
       "publishedAt": "2026-07-21T07:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-says-hugging-face-was-breached-by-its-pre-release-models",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
+      "id": "the-decoder-poolside-s-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size",
+      "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+      "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much larger rivals in benchmarks. Poolside says it also solved a math problem that had been open since 1975 for under 10 cents....",
+      "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
         "Hot News",
-        "Model"
+        "Model",
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-07-21T20:56:55.000Z"
+      "publishedAt": "2026-07-23T12:24:53.000Z"
     },
     {
       "id": "openai-news-building-ai-infrastructure-with-the-effingham-county-community",
@@ -142,6 +104,56 @@
       "publishedAt": "2026-07-22T12:00:00.000Z"
     },
     {
+      "id": "google-deepmind-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-21T15:16:30.000Z"
+    },
+    {
+      "id": "the-decoder-google-ceo-pichai-says-gemini-s-next-leap-depends-on-building-much-larger-base-models",
+      "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+      "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run....",
+      "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-23T11:19:57.000Z"
+    },
+    {
+      "id": "techcrunch-ai-runway-launches-ai-model-router-as-generative-media-gets-crowded",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-23T17:07:35.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-makes-chatgpt-health-available-to-all-us-users",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-23T17:00:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-how-openai-s-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
@@ -152,18 +164,6 @@
         "Policy"
       ],
       "publishedAt": "2026-07-22T19:11:46.000Z"
-    },
-    {
-      "id": "techcrunch-ai-treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropic-s-fable",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.4,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-22T20:49:03.000Z"
     }
   ]
 }
