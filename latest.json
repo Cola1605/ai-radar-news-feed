@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-24T22:32:28.313Z",
-  "latestPublishedAt": "2026-07-24T18:36:42.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-07-25",
+  "generatedAt": "2026-07-25T22:14:49.064Z",
+  "latestPublishedAt": "2026-07-25T20:39:50.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-07-26",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 163,
+  "totalCount": 156,
   "items": [
     {
       "id": "the-decoder-sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool",
@@ -34,6 +34,19 @@
         "Policy"
       ],
       "publishedAt": "2026-07-24T14:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-new-reports-reveal-the-extent-of-openai-s-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+      "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+      "summary": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed before OpenAI realized what had happened. By then, the FBI was already involved. Earlier warning signs had apparently gone ignored....",
+      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-25T13:45:50.000Z"
     },
     {
       "id": "techcrunch-ai-as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions",
@@ -76,24 +89,9 @@
       "publishedAt": "2026-07-24T12:56:01.000Z"
     },
     {
-      "id": "the-decoder-poolside-s-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size",
-      "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
-      "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much larger rivals in benchmarks. Poolside says it also solved a math problem that had been open since 1975 for under 10 cents....",
-      "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-07-23T12:24:53.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-      "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder .",
+      "id": "the-decoder-anthropic-s-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+      "title": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+      "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol. The article Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price appeared first on The Decoder .",
       "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
       "sourceName": "The Decoder",
       "score": 9.1,
@@ -101,33 +99,7 @@
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-07-24T18:36:42.000Z"
-    },
-    {
-      "id": "openai-news-introducing-openai-presence",
-      "title": "Introducing OpenAI Presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-07-22T05:30:00.000Z"
-    },
-    {
-      "id": "openai-news-launching-health-in-chatgpt",
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-07-23T00:00:00.000Z"
+      "publishedAt": "2026-07-25T10:04:42.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-launches-opus-5",
@@ -142,28 +114,54 @@
       "publishedAt": "2026-07-24T17:00:00.000Z"
     },
     {
-      "id": "openai-news-building-ai-infrastructure-with-the-effingham-county-community",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-07-22T13:00:00.000Z"
-    },
-    {
-      "id": "openai-news-advancing-the-next-era-of-national-science",
-      "title": "Advancing the next era of national science",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
+      "id": "time-com-how-openai-lost-control-of-an-ai-model-and-what-needs-to-change",
+      "title": "How OpenAI Lost Control of an AI Model–and What Needs to Change",
+      "summary": "Tin AI từ Hacker News AI về \"How OpenAI Lost Control of an AI Model–and What Needs to Change\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+      "sourceName": "time.com",
+      "score": 8.2,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-22T12:00:00.000Z"
+      "publishedAt": "2026-07-25T20:39:50.000Z"
+    },
+    {
+      "id": "openai-news-launching-health-in-chatgpt",
+      "title": "Launching Health in ChatGPT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "sourceName": "OpenAI News",
+      "score": 8,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-expedia-uses-ai-driven-service-telemetry-analyzer-to-accelerate-incident-investigation",
+      "title": "Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
+      "summary": "Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service telemetry and LLMs. Built with FastAPI, Datadog, Celery, Redis, and Langfuse, STAR follows structured workflows to analyze telemetry, generate root cause assessments, and support incident response while keeping engineers in the loop. By Leela Kumili",
+      "url": "https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.6,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-07-23T14:15:00.000Z"
+    },
+    {
+      "id": "tomshardware-com-openai-agent-goes-rogue-hacks-ai-community-left-escape-plans-in-infrastructure",
+      "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure",
+      "summary": "Tin AI từ Hacker News AI về \"OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure",
+      "sourceName": "tomshardware.com",
+      "score": 7.2,
+      "tags": [
+        "Agent AI"
+      ],
+      "publishedAt": "2026-07-25T18:07:06.000Z"
     }
   ]
 }
