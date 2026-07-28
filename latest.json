@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T22:31:17.241Z",
-  "latestPublishedAt": "2026-07-27T19:35:08.000Z",
-  "newItemCount": 12,
-  "dateKey": "2026-07-28",
+  "generatedAt": "2026-07-28T22:30:30.199Z",
+  "latestPublishedAt": "2026-07-28T14:00:00.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-07-29",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
@@ -81,17 +81,55 @@
       "publishedAt": "2026-07-27T12:28:06.000Z"
     },
     {
-      "id": "the-decoder-delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agency-s-copyright-injunction",
-      "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
-      "summary": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use. ANI undermined its own case by citing articles published after the models were trained. The main trial is still pending....",
-      "url": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
+      "id": "the-decoder-anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban",
+      "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
+      "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks. Critics say he's mostly trying to protect his own business from cheaper competition....",
+      "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-07-27T17:55:24.000Z"
+      "publishedAt": "2026-07-28T12:06:42.000Z"
+    },
+    {
+      "id": "techcrunch-ai-fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "sourceName": "TechCrunch AI",
+      "score": 9,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-07-28T14:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-download-openai-s-predictable-hack-and-an-ai-stock-sell-off",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-28T12:10:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-07-28T00:13:33.000Z"
     },
     {
       "id": "mit-technology-review-openai-called-the-hugging-face-attack-unprecedented-but-we-ve-been-here-before",
@@ -120,18 +158,6 @@
       "publishedAt": "2026-07-27T03:30:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-s-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-07-27T17:28:42.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-article-an-evolutionary-architecture-pattern-for-managing-ai-s-pace-of-change",
       "title": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change",
       "summary": "Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks. Discover why enterprise engineering leaders are adopting AI Gateways as an evolutionary architecture seam. Centralize guardrails, model routing, agent identity, action policy, and semantic audit within a single control plane to prevent costly incidents while keeping core platforms stable....",
@@ -146,32 +172,6 @@
         "Infra"
       ],
       "publishedAt": "2026-07-27T11:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-threads-users-can-now-chat-with-meta-ai-in-their-dms",
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-07-27T16:45:24.000Z"
-    },
-    {
-      "id": "mit-technology-review-building-the-enterprise-environment-for-agentic-ai",
-      "title": "Building the enterprise environment for agentic AI",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "sourceName": "MIT Technology Review",
-      "score": 7.5,
-      "tags": [
-        "Agent AI",
-        "Policy",
-        "Business"
-      ],
-      "publishedAt": "2026-07-27T11:32:58.000Z"
     }
   ]
 }
