@@ -1,42 +1,39 @@
 {
-  "generatedAt": "2026-07-28T22:30:30.199Z",
-  "latestPublishedAt": "2026-07-28T14:00:00.000Z",
-  "newItemCount": 4,
-  "dateKey": "2026-07-29",
+  "generatedAt": "2026-07-29T22:25:41.087Z",
+  "latestPublishedAt": "2026-07-29T21:07:48.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-07-30",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 150,
   "items": [
     {
-      "id": "the-decoder-moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race",
-      "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
-      "summary": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation....",
-      "url": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+      "id": "the-decoder-openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval",
+      "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+      "summary": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than solve the tasks themselves....",
+      "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
-        "Hot News",
         "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-27T19:35:08.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks",
-      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
-      "summary": "Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since only tough cases get passed to GPT-5.4. For complex reasoning, Microsoft still relies on OpenAI....",
-      "url": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-07-27T18:50:07.000Z"
+      "publishedAt": "2026-07-29T16:26:56.000Z"
+    },
+    {
+      "id": "openai-news-accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-29T10:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurity-system",
@@ -54,44 +51,83 @@
       "publishedAt": "2026-07-27T18:32:11.000Z"
     },
     {
-      "id": "techcrunch-ai-ilya-sutskever-s-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research",
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-07-27T15:01:50.000Z"
-    },
-    {
-      "id": "the-decoder-metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans",
-      "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
-      "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture. The article METR introduces a new metric to calculate exactly when AI agents become more expensive than humans appeared first on The Decoder .",
-      "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-27T12:28:06.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban",
-      "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
-      "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks. Critics say he's mostly trying to protect his own business from cheaper competition....",
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
+      "id": "the-decoder-gpt-transcribe-improves-on-its-predecessor-but-can-t-catch-elevenlabs-google-or-mistral-on-error-rates",
+      "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
+      "summary": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
-        "Model",
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-29T12:45:33.000Z"
+    },
+    {
+      "id": "techcrunch-ai-thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-07-28T12:06:42.000Z"
+      "publishedAt": "2026-07-29T21:07:48.000Z"
+    },
+    {
+      "id": "techcrunch-ai-as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-29T11:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "summary": "Tin AI từ Google DeepMind về \"We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-07-29T16:02:10.000Z"
+    },
+    {
+      "id": "the-decoder-openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line",
+      "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
+      "summary": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI....",
+      "url": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-29T11:50:56.000Z"
+    },
+    {
+      "id": "openai-news-how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Infra"
+      ],
+      "publishedAt": "2026-07-29T00:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
@@ -120,58 +156,16 @@
       "publishedAt": "2026-07-28T12:10:00.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "id": "the-decoder-anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet",
+      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+      "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000....",
+      "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+      "sourceName": "The Decoder",
+      "score": 8.3,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-28T00:13:33.000Z"
-    },
-    {
-      "id": "mit-technology-review-openai-called-the-hugging-face-attack-unprecedented-but-we-ve-been-here-before",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "id": "openai-news-how-ai-is-expanding-what-people-do-at-work",
-      "title": "How AI is expanding what people do at work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "sourceName": "OpenAI News",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-07-27T03:30:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-article-an-evolutionary-architecture-pattern-for-managing-ai-s-pace-of-change",
-      "title": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change",
-      "summary": "Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks. Discover why enterprise engineering leaders are adopting AI Gateways as an evolutionary architecture seam. Centralize guardrails, model routing, agent identity, action policy, and semantic audit within a single control plane to prevent costly incidents while keeping core platforms stable....",
-      "url": "https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy",
-        "Business",
-        "Infra"
-      ],
-      "publishedAt": "2026-07-27T11:00:00.000Z"
+      "publishedAt": "2026-07-28T19:12:27.000Z"
     }
   ]
 }
