@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-29T22:25:41.087Z",
-  "latestPublishedAt": "2026-07-29T21:07:48.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-07-30",
+  "generatedAt": "2026-07-30T22:32:09.206Z",
+  "latestPublishedAt": "2026-07-30T18:57:58.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-07-31",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 150,
+  "totalCount": 156,
   "items": [
     {
       "id": "the-decoder-openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval",
@@ -36,32 +36,31 @@
       "publishedAt": "2026-07-29T10:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurity-system",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
+      "id": "openai-news-advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "sourceName": "OpenAI News",
+      "score": 9.6,
       "tags": [
-        "Hot News",
         "Model",
         "Agent AI",
-        "Policy"
+        "Business"
       ],
-      "publishedAt": "2026-07-27T18:32:11.000Z"
+      "publishedAt": "2026-07-30T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-gpt-transcribe-improves-on-its-predecessor-but-can-t-catch-elevenlabs-google-or-mistral-on-error-rates",
-      "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
-      "summary": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+      "id": "the-decoder-microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier",
+      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+      "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an orchestrator and reportedly costs half as much as Anthropic's Mythos, but it still relies on OpenAI for hard tasks....",
+      "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-07-29T12:45:33.000Z"
+      "publishedAt": "2026-07-30T13:11:48.000Z"
     },
     {
       "id": "techcrunch-ai-thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
@@ -77,18 +76,43 @@
       "publishedAt": "2026-07-29T21:07:48.000Z"
     },
     {
-      "id": "techcrunch-ai-as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "sourceName": "TechCrunch AI",
+      "id": "openai-news-how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "sourceName": "OpenAI News",
       "score": 9.3,
       "tags": [
-        "Hot News",
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-07-29T11:00:00.000Z"
+      "publishedAt": "2026-07-29T15:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-won-t-cut-it",
+      "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+      "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas....",
+      "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-30T18:07:17.000Z"
+    },
+    {
+      "id": "the-decoder-language-models-can-t-spark-scientific-revolutions-but-world-models-might",
+      "title": "Language models can't spark scientific revolutions, but world models might",
+      "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing the cognitive mechanism needed to create something truly new. The article Language models can't spark scientific revolutions, but world models might appeared first on The Decoder .",
+      "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-07-30T14:01:33.000Z"
     },
     {
       "id": "google-deepmind-we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
@@ -101,19 +125,6 @@
         "Hot News"
       ],
       "publishedAt": "2026-07-29T16:02:10.000Z"
-    },
-    {
-      "id": "the-decoder-openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line",
-      "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
-      "summary": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI....",
-      "url": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-29T11:50:56.000Z"
     },
     {
       "id": "openai-news-how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency",
@@ -130,42 +141,28 @@
       "publishedAt": "2026-07-29T00:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "id": "techcrunch-ai-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
       "sourceName": "TechCrunch AI",
-      "score": 9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-07-28T14:00:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-download-openai-s-predictable-hack-and-an-ai-stock-sell-off",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "sourceName": "MIT Technology Review",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-28T12:10:00.000Z"
+      "publishedAt": "2026-07-30T18:57:58.000Z"
     },
     {
-      "id": "the-decoder-anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet",
-      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
-      "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000....",
-      "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
-      "sourceName": "The Decoder",
-      "score": 8.3,
+      "id": "techcrunch-ai-microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-07-28T19:12:27.000Z"
+      "publishedAt": "2026-07-30T00:21:06.000Z"
     }
   ]
 }
