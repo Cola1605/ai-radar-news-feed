@@ -1,39 +1,26 @@
 {
-  "generatedAt": "2026-07-30T22:32:09.206Z",
-  "latestPublishedAt": "2026-07-30T18:57:58.000Z",
+  "generatedAt": "2026-07-31T22:29:30.750Z",
+  "latestPublishedAt": "2026-07-31T18:25:08.000Z",
   "newItemCount": 7,
-  "dateKey": "2026-07-31",
+  "dateKey": "2026-08-01",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 156,
+  "totalCount": 159,
   "items": [
     {
-      "id": "the-decoder-openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval",
-      "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
-      "summary": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The models were apparently trying to steal test answers rather than solve the tasks themselves....",
-      "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+      "id": "the-decoder-thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small",
+      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
+      "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over size with its second model, Inkling Small appeared first on The Decoder .",
+      "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-29T16:26:56.000Z"
-    },
-    {
-      "id": "openai-news-accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
+        "Hot News",
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-07-29T10:00:00.000Z"
+      "publishedAt": "2026-07-31T17:41:50.000Z"
     },
     {
       "id": "openai-news-advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -50,6 +37,58 @@
       "publishedAt": "2026-07-30T10:00:00.000Z"
     },
     {
+      "id": "the-decoder-google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids",
+      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
+      "summary": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks. The article Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-07-31T18:25:08.000Z"
+    },
+    {
+      "id": "techcrunch-ai-sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-31T17:26:32.000Z"
+    },
+    {
+      "id": "techcrunch-ai-ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-31T14:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-31T01:06:54.000Z"
+    },
+    {
       "id": "the-decoder-microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier",
       "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
       "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an orchestrator and reportedly costs half as much as Anthropic's Mythos, but it still relies on OpenAI for hard tasks....",
@@ -61,32 +100,6 @@
         "Research"
       ],
       "publishedAt": "2026-07-30T13:11:48.000Z"
-    },
-    {
-      "id": "techcrunch-ai-thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.3,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-29T21:07:48.000Z"
-    },
-    {
-      "id": "openai-news-how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-29T15:00:00.000Z"
     },
     {
       "id": "the-decoder-ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-won-t-cut-it",
@@ -102,43 +115,17 @@
       "publishedAt": "2026-07-30T18:07:17.000Z"
     },
     {
-      "id": "the-decoder-language-models-can-t-spark-scientific-revolutions-but-world-models-might",
-      "title": "Language models can't spark scientific revolutions, but world models might",
-      "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing the cognitive mechanism needed to create something truly new. The article Language models can't spark scientific revolutions, but world models might appeared first on The Decoder .",
-      "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "sourceName": "OpenAI News",
       "score": 9.1,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-07-30T14:01:33.000Z"
-    },
-    {
-      "id": "google-deepmind-we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summary": "Tin AI từ Google DeepMind về \"We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-07-29T16:02:10.000Z"
-    },
-    {
-      "id": "openai-news-how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Infra"
-      ],
-      "publishedAt": "2026-07-29T00:00:00.000Z"
+      "publishedAt": "2026-07-29T10:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai",
@@ -153,16 +140,30 @@
       "publishedAt": "2026-07-30T18:57:58.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "id": "openai-news-advancing-responsible-ai-across-europe",
+      "title": "Advancing responsible AI across Europe",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
-        "Model"
+        "Policy"
       ],
-      "publishedAt": "2026-07-30T00:21:06.000Z"
+      "publishedAt": "2026-07-31T15:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-07-30T10:15:19.000Z"
     }
   ]
 }
