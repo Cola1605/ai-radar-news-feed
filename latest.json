@@ -1,13 +1,28 @@
 {
-  "generatedAt": "2026-07-31T22:29:30.750Z",
-  "latestPublishedAt": "2026-07-31T18:25:08.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-08-01",
+  "generatedAt": "2026-08-01T22:23:11.996Z",
+  "latestPublishedAt": "2026-08-01T13:51:57.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-08-02",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 159,
+  "totalCount": 139,
   "items": [
+    {
+      "id": "the-decoder-openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions",
+      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
+      "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 variant....",
+      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-01T09:29:49.000Z"
+    },
     {
       "id": "the-decoder-thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small",
       "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
@@ -21,20 +36,6 @@
         "Research"
       ],
       "publishedAt": "2026-07-31T17:41:50.000Z"
-    },
-    {
-      "id": "openai-news-advancing-the-price-performance-frontier-with-gpt-5-6",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "sourceName": "OpenAI News",
-      "score": 9.6,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-07-30T10:00:00.000Z"
     },
     {
       "id": "the-decoder-google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids",
@@ -89,55 +90,31 @@
       "publishedAt": "2026-07-31T01:06:54.000Z"
     },
     {
-      "id": "the-decoder-microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier",
-      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
-      "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an orchestrator and reportedly costs half as much as Anthropic's Mythos, but it still relies on OpenAI for hard tasks....",
-      "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-30T13:11:48.000Z"
-    },
-    {
-      "id": "the-decoder-ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-won-t-cut-it",
-      "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
-      "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas....",
-      "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-07-30T18:07:17.000Z"
-    },
-    {
-      "id": "openai-news-accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "id": "openai-news-advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "sourceName": "OpenAI News",
-      "score": 9.1,
+      "score": 8.9,
       "tags": [
         "Model",
-        "Research"
+        "Agent AI",
+        "Business"
       ],
-      "publishedAt": "2026-07-29T10:00:00.000Z"
+      "publishedAt": "2026-07-30T10:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot",
+      "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
+      "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attempts....",
+      "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+      "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
-        "Model"
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-07-30T18:57:58.000Z"
+      "publishedAt": "2026-08-01T13:51:57.000Z"
     },
     {
       "id": "openai-news-advancing-responsible-ai-across-europe",
@@ -152,12 +129,37 @@
       "publishedAt": "2026-07-31T15:00:00.000Z"
     },
     {
+      "id": "openai-news-unive-builds-an-ai-ready-workforce",
+      "title": "Univé builds an AI-ready workforce",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "url": "https://openai.com/index/unive",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-07-31T07:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-07-30T23:25:58.000Z"
+    },
+    {
       "id": "mit-technology-review-a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "sourceName": "MIT Technology Review",
-      "score": 8.7,
+      "score": 8,
       "tags": [
         "Model",
         "Research",
