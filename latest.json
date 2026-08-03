@@ -1,79 +1,103 @@
 {
-  "generatedAt": "2026-08-02T22:15:36.092Z",
-  "latestPublishedAt": "2026-08-02T18:47:46.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-08-03",
+  "generatedAt": "2026-08-03T22:31:32.232Z",
+  "latestPublishedAt": "2026-08-03T21:05:47.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-08-04",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 153,
+  "totalCount": 157,
   "items": [
     {
-      "id": "the-decoder-after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior",
-      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
-      "summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Report documented 44 such incidents across all major AI companies, including sandbox escapes, fabricated results, and active cover-up behavior....",
-      "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+      "id": "the-decoder-alibaba-s-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters",
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week. The article Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters appeared first on The Decoder .",
+      "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9.2,
       "tags": [
+        "Hot News",
         "Model",
-        "Agent AI",
-        "Research",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-08-02T07:33:17.000Z"
+      "publishedAt": "2026-08-03T10:48:50.000Z"
     },
     {
-      "id": "the-decoder-a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot",
-      "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
-      "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attempts....",
-      "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+      "id": "the-decoder-two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
+      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The case raises a question: what does \"independent discovery\" mean when everyone uses the same models?...",
+      "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-03T10:49:58.000Z"
+    },
+    {
+      "id": "openai-news-how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-03T07:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-alibaba-s-new-qwen-model-is-also-taking-your-job-but-this-time-it-s-great",
+      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
+      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing. The article Alibaba's new Qwen model is also taking your job, but this time it's great appeared first on The Decoder .",
+      "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
-        "Research",
-        "Policy"
+        "Model"
       ],
-      "publishedAt": "2026-08-01T13:51:57.000Z"
+      "publishedAt": "2026-08-03T17:12:23.000Z"
     },
     {
-      "id": "techcrunch-ai-sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "sourceName": "TechCrunch AI",
+      "id": "mit-technology-review-the-download-reward-hacking-explained-and-suspected-iranian-cyberattacks",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "sourceName": "MIT Technology Review",
       "score": 8.8,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-07-31T17:26:32.000Z"
+      "publishedAt": "2026-08-03T12:08:00.000Z"
     },
     {
-      "id": "techcrunch-ai-ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "sourceName": "TechCrunch AI",
+      "id": "infoq-ai-ml-data-engineering-microsoft-agent-framework-harness-and-hosted-agents-reach-general-availability",
+      "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability",
+      "summary": "Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.8,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-08-03T10:30:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "sourceName": "MIT Technology Review",
       "score": 8.8,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-07-31T14:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-07-31T01:06:54.000Z"
+      "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
       "id": "the-decoder-meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track",
@@ -89,78 +113,55 @@
       "publishedAt": "2026-08-02T12:57:38.000Z"
     },
     {
-      "id": "the-decoder-ai-coding-agents-can-modernize-research-software-but-can-t-judge-if-the-science-is-right",
-      "title": "AI coding agents can modernize research software but can't judge if the science is right",
-      "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say. The effort shifts from writing code to the time-consuming work of verifying scientific correctness....",
-      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
+      "id": "infoq-ai-ml-data-engineering-embabel-agent-framework-reaches-1-0",
+      "title": "Embabel Agent Framework Reaches 1.0",
+      "summary": "Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow",
+      "url": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
       "tags": [
-        "Agent AI",
-        "Research"
+        "Hot News",
+        "Model",
+        "Agent AI"
       ],
-      "publishedAt": "2026-08-01T14:26:28.000Z"
+      "publishedAt": "2026-08-03T04:43:00.000Z"
     },
     {
-      "id": "wired-com-the-openai-and-anthropic-ai-hacking-sprees-are-a-messy-new-legal-frontier",
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "summary": "Tin AI từ Hacker News AI về \"The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "sourceName": "wired.com",
+      "id": "blog-neutrontech-ai-when-cloud-ai-escapes-openai-and-anthropic-models-breach-live-networks",
+      "title": "When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks",
+      "summary": "Tin AI từ Hacker News AI về \"When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://blog.neutrontech.ai/2026/08/03/when-cloud-ai-escapes-openai-anthropic-models-breach-live-networks/",
+      "sourceName": "blog.neutrontech.ai",
       "score": 8.2,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-02T18:47:46.000Z"
+      "publishedAt": "2026-08-03T21:05:47.000Z"
     },
     {
-      "id": "openai-news-advancing-responsible-ai-across-europe",
-      "title": "Advancing responsible AI across Europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "sourceName": "OpenAI News",
-      "score": 8,
+      "id": "techcrunch-ai-design-arena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
       "tags": [
-        "Policy"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-07-31T15:00:00.000Z"
+      "publishedAt": "2026-08-03T19:28:57.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "id": "techcrunch-ai-influencers-draw-backlash-for-attending-openai-s-first-luxury-trip",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
       "sourceName": "TechCrunch AI",
       "score": 7.8,
       "tags": [
-        "Agent AI"
-      ],
-      "publishedAt": "2026-07-31T22:47:26.000Z"
-    },
-    {
-      "id": "openai-news-unive-builds-an-ai-ready-workforce",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "url": "https://openai.com/index/unive",
-      "sourceName": "OpenAI News",
-      "score": 7.8,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-07-31T07:00:00.000Z"
-    },
-    {
-      "id": "openai-news-ten-advances-in-mathematics-and-theoretical-computer-science",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "sourceName": "OpenAI News",
-      "score": 7.5,
-      "tags": [
         "AI"
       ],
-      "publishedAt": "2026-08-01T00:00:00.000Z"
+      "publishedAt": "2026-08-03T19:09:56.000Z"
     }
   ]
 }
