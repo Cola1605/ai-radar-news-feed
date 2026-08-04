@@ -1,39 +1,54 @@
 {
-  "generatedAt": "2026-08-03T22:31:32.232Z",
-  "latestPublishedAt": "2026-08-03T21:05:47.000Z",
-  "newItemCount": 11,
-  "dateKey": "2026-08-04",
+  "generatedAt": "2026-08-04T22:32:43.255Z",
+  "latestPublishedAt": "2026-08-04T19:48:40.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-08-05",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 157,
+  "totalCount": 159,
   "items": [
     {
-      "id": "the-decoder-alibaba-s-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters",
-      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week. The article Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters appeared first on The Decoder .",
-      "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
+      "id": "openai-news-third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
       "tags": [
-        "Hot News",
         "Model",
-        "Research"
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-08-03T10:48:50.000Z"
+      "publishedAt": "2026-08-04T19:00:00.000Z"
     },
     {
-      "id": "the-decoder-two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
-      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
-      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The case raises a question: what does \"independent discovery\" mean when everyone uses the same models?...",
-      "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+      "id": "infoq-ai-ml-data-engineering-swarm-of-openai-agents-exploit-artifactory-zero-day-to-escape-sandbox-and-breach-hugging-face",
+      "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
+      "summary": "Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-04T06:42:00.000Z"
+    },
+    {
+      "id": "the-decoder-openai-fires-back-at-apple-s-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague",
+      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
+      "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out to their former colleague for technical help and internal files after he left the company....",
+      "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
       "sourceName": "The Decoder",
       "score": 9.1,
       "tags": [
-        "Model",
-        "Research"
+        "Hot News",
+        "Policy"
       ],
-      "publishedAt": "2026-08-03T10:49:58.000Z"
+      "publishedAt": "2026-08-04T10:22:53.000Z"
     },
     {
       "id": "openai-news-how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months",
@@ -46,6 +61,18 @@
         "Model"
       ],
       "publishedAt": "2026-08-03T07:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-silicon-valley-s-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai",
+      "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+      "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed off for now, but a decision is expected before Xi Jinping's visit in September....",
+      "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-04T12:23:43.000Z"
     },
     {
       "id": "the-decoder-alibaba-s-new-qwen-model-is-also-taking-your-job-but-this-time-it-s-great",
@@ -100,68 +127,41 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
-      "id": "the-decoder-meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track",
-      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
-      "summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent. The system improved scores by up to 8.3 percentage points across two benchmarks....",
-      "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+      "id": "the-decoder-google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet",
+      "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet. The setup leaves roughly $200 billion in contracts dependent on Anthropic's continued growth and ability to make its lease payments....",
+      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
       "sourceName": "The Decoder",
-      "score": 8.5,
+      "score": 8.4,
       "tags": [
-        "Agent AI",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-08-02T12:57:38.000Z"
+      "publishedAt": "2026-08-04T16:38:58.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-embabel-agent-framework-reaches-1-0",
-      "title": "Embabel Agent Framework Reaches 1.0",
-      "summary": "Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow",
-      "url": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "id": "techcrunch-ai-anthropic-signs-10b-deal-with-ai-cloud-startup-volta",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "sourceName": "TechCrunch AI",
       "score": 8.3,
       "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
+        "Business"
       ],
-      "publishedAt": "2026-08-03T04:43:00.000Z"
+      "publishedAt": "2026-08-04T19:48:40.000Z"
     },
     {
-      "id": "blog-neutrontech-ai-when-cloud-ai-escapes-openai-and-anthropic-models-breach-live-networks",
-      "title": "When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks",
-      "summary": "Tin AI từ Hacker News AI về \"When Cloud AI Escapes: OpenAI and Anthropic Models Breach Live Networks\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://blog.neutrontech.ai/2026/08/03/when-cloud-ai-escapes-openai-anthropic-models-breach-live-networks/",
-      "sourceName": "blog.neutrontech.ai",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-03T21:05:47.000Z"
-    },
-    {
-      "id": "techcrunch-ai-design-arena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
+      "id": "openai-news-new-ways-to-learn-and-teach-with-chatgpt-work-and-codex",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "sourceName": "OpenAI News",
+      "score": 8.3,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-08-03T19:28:57.000Z"
-    },
-    {
-      "id": "techcrunch-ai-influencers-draw-backlash-for-attending-openai-s-first-luxury-trip",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-08-03T19:09:56.000Z"
+      "publishedAt": "2026-08-04T00:00:00.000Z"
     }
   ]
 }
