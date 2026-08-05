@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-04T22:32:43.255Z",
-  "latestPublishedAt": "2026-08-04T19:48:40.000Z",
+  "generatedAt": "2026-08-05T22:32:23.995Z",
+  "latestPublishedAt": "2026-08-05T19:30:19.000Z",
   "newItemCount": 7,
-  "dateKey": "2026-08-05",
+  "dateKey": "2026-08-06",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 159,
+  "totalCount": 157,
   "items": [
     {
       "id": "openai-news-third-party-cyber-evaluations-involving-openai-models",
@@ -38,17 +38,68 @@
       "publishedAt": "2026-08-04T06:42:00.000Z"
     },
     {
-      "id": "the-decoder-openai-fires-back-at-apple-s-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague",
-      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
-      "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out to their former colleague for technical help and internal files after he left the company....",
-      "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+      "id": "the-decoder-an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
+      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+      "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned actions across 122 test runs, 17 came from Anthropic's Mythos 5....",
+      "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
       "sourceName": "The Decoder",
-      "score": 9.1,
+      "score": 9.6,
       "tags": [
         "Hot News",
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-08-04T10:22:53.000Z"
+      "publishedAt": "2026-08-05T10:15:49.000Z"
+    },
+    {
+      "id": "the-decoder-google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Google races to close the gap with its top AI rivals....",
+      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-08-05T18:20:53.000Z"
+    },
+    {
+      "id": "the-decoder-google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os",
+      "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
+      "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy....",
+      "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-05T17:59:38.000Z"
+    },
+    {
+      "id": "the-decoder-mistral-s-open-model-shieldstral-matches-much-larger-safety-models-at-a-fraction-of-the-size",
+      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
+      "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally....",
+      "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-05T16:35:07.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-is-hiring-an-ai-chip-design-team",
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-05T14:13:18.000Z"
     },
     {
       "id": "openai-news-how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months",
@@ -56,87 +107,11 @@
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "sourceName": "OpenAI News",
-      "score": 9.1,
+      "score": 8.4,
       "tags": [
         "Model"
       ],
       "publishedAt": "2026-08-03T07:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-silicon-valley-s-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai",
-      "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
-      "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed off for now, but a decision is expected before Xi Jinping's visit in September....",
-      "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-04T12:23:43.000Z"
-    },
-    {
-      "id": "the-decoder-alibaba-s-new-qwen-model-is-also-taking-your-job-but-this-time-it-s-great",
-      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
-      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing. The article Alibaba's new Qwen model is also taking your job, but this time it's great appeared first on The Decoder .",
-      "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-03T17:12:23.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-download-reward-hacking-explained-and-suspected-iranian-cyberattacks",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-03T12:08:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-microsoft-agent-framework-harness-and-hosted-agents-reach-general-availability",
-      "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability",
-      "summary": "Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-03T10:30:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-03T08:30:05.000Z"
-    },
-    {
-      "id": "the-decoder-google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet",
-      "title": "Google moves billions in Anthropic chip risk off its balance sheet",
-      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet. The setup leaves roughly $200 billion in contracts dependent on Anthropic's continued growth and ability to make its lease payments....",
-      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-08-04T16:38:58.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-signs-10b-deal-with-ai-cloud-startup-volta",
@@ -162,6 +137,32 @@
         "Research"
       ],
       "publishedAt": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.2,
+      "tags": [
+        "Hot News",
+        "Research"
+      ],
+      "publishedAt": "2026-08-05T19:30:19.000Z"
+    },
+    {
+      "id": "techcrunch-ai-open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-04T20:05:26.000Z"
     }
   ]
 }
