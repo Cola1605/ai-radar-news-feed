@@ -1,13 +1,28 @@
 {
-  "generatedAt": "2026-08-05T22:32:23.995Z",
-  "latestPublishedAt": "2026-08-05T19:30:19.000Z",
+  "generatedAt": "2026-08-07T01:03:04.393Z",
+  "latestPublishedAt": "2026-08-06T17:35:33.000Z",
   "newItemCount": 7,
-  "dateKey": "2026-08-06",
+  "dateKey": "2026-08-07",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 157,
+  "totalCount": 159,
   "items": [
+    {
+      "id": "the-decoder-openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected",
+      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using directory names....",
+      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-06T11:49:26.000Z"
+    },
     {
       "id": "openai-news-third-party-cyber-evaluations-involving-openai-models",
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -28,7 +43,7 @@
       "summary": "Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop",
       "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "score": 9.4,
       "tags": [
         "Model",
         "Agent AI",
@@ -38,18 +53,29 @@
       "publishedAt": "2026-08-04T06:42:00.000Z"
     },
     {
-      "id": "the-decoder-an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted",
-      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
-      "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned actions across 122 test runs, 17 came from Anthropic's Mythos 5....",
-      "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
+      "id": "the-decoder-microsoft-s-ai-revenue-reportedly-depends-on-openai-for-70-percent",
+      "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+      "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation....",
+      "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
       "sourceName": "The Decoder",
-      "score": 9.6,
+      "score": 9.3,
       "tags": [
-        "Hot News",
-        "Agent AI",
-        "Policy"
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-08-05T10:15:49.000Z"
+      "publishedAt": "2026-08-06T17:35:33.000Z"
+    },
+    {
+      "id": "google-deepmind-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "Tin AI từ Google DeepMind về \"WeatherNext: AI model achieves breakthrough in forecasting cyclones\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-06T15:06:15.000Z"
     },
     {
       "id": "the-decoder-google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
@@ -64,30 +90,16 @@
       "publishedAt": "2026-08-05T18:20:53.000Z"
     },
     {
-      "id": "the-decoder-google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os",
-      "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
-      "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy....",
-      "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
+      "id": "the-decoder-openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets",
+      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+      "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-05T17:59:38.000Z"
-    },
-    {
-      "id": "the-decoder-mistral-s-open-model-shieldstral-matches-much-larger-safety-models-at-a-fraction-of-the-size",
-      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
-      "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system, and the model can run locally....",
-      "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-05T16:35:07.000Z"
+      "publishedAt": "2026-08-06T10:11:02.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-is-hiring-an-ai-chip-design-team",
@@ -102,41 +114,16 @@
       "publishedAt": "2026-08-05T14:13:18.000Z"
     },
     {
-      "id": "openai-news-how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "id": "openai-news-improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "sourceName": "OpenAI News",
-      "score": 8.4,
+      "score": 8.7,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-03T07:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-signs-10b-deal-with-ai-cloud-startup-volta",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.3,
-      "tags": [
-        "Business"
-      ],
-      "publishedAt": "2026-08-04T19:48:40.000Z"
-    },
-    {
-      "id": "openai-news-new-ways-to-learn-and-teach-with-chatgpt-work-and-codex",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "sourceName": "OpenAI News",
-      "score": 8.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-04T00:00:00.000Z"
+      "publishedAt": "2026-08-06T10:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
@@ -152,17 +139,28 @@
       "publishedAt": "2026-08-05T19:30:19.000Z"
     },
     {
-      "id": "techcrunch-ai-open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "id": "techcrunch-ai-openai-says-apple-s-own-security-practices-undermine-its-trade-secrets-case",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
       "sourceName": "TechCrunch AI",
       "score": 8.1,
       "tags": [
-        "Model",
         "Policy"
       ],
-      "publishedAt": "2026-08-04T20:05:26.000Z"
+      "publishedAt": "2026-08-06T15:10:32.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-from-ms-to-s-oss-valkey-architecture-patterns-for-modern-ai",
+      "title": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
+      "summary": "Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores. Drawing lessons from NASA's Space Shuttle, he explains how proxy architectures introduce hidden CPU costs, elevated tail latencies, and blast-radius risks. He demonstrates how direct-access Valkey architectures achieve microsecond latency, improve resilience, and slash infrastructure costs. By Dumanshu Goyal",
+      "url": "https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-08-06T09:34:00.000Z"
     }
   ]
 }
