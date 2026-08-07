@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-08-07T01:03:04.393Z",
-  "latestPublishedAt": "2026-08-06T17:35:33.000Z",
+  "generatedAt": "2026-08-07T22:02:05.512Z",
+  "latestPublishedAt": "2026-08-07T19:41:06.000Z",
   "newItemCount": 7,
-  "dateKey": "2026-08-07",
+  "dateKey": "2026-08-08",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 159,
+  "totalCount": 158,
   "items": [
+    {
+      "id": "openai-news-responding-to-the-next-frontier-of-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-07T15:20:00.000Z"
+    },
     {
       "id": "the-decoder-openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected",
       "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
@@ -21,49 +35,35 @@
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-06T11:49:26.000Z"
+      "publishedAt": "2026-08-07T09:22:26.000Z"
     },
     {
-      "id": "openai-news-third-party-cyber-evaluations-involving-openai-models",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "sourceName": "OpenAI News",
+      "id": "infoq-ai-ml-data-engineering-azure-api-management-adds-dedicated-ai-gateway-tier-governing-models-and-mcp-tools",
+      "title": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools",
+      "summary": "Microsoft released a dedicated AI Gateway tier of Azure API Management in public preview, with a control plane built around models, MCP servers and tools rather than APIs. It fronts Foundry, Bedrock, Vertex AI and OpenAI behind one endpoint, with policy cards instead of XML. Architects welcomed the consolidation while questioning where the governance boundary sits. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
-        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-04T19:00:00.000Z"
+      "publishedAt": "2026-08-07T06:35:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-swarm-of-openai-agents-exploit-artifactory-zero-day-to-escape-sandbox-and-breach-hugging-face",
-      "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
-      "summary": "Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.4,
+      "id": "the-decoder-openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time",
+      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in which autonomous AI agents infiltrated OpenAI's own infrastructure undetected for weeks....",
+      "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
         "Model",
         "Agent AI",
-        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-04T06:42:00.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-s-ai-revenue-reportedly-depends-on-openai-for-70-percent",
-      "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
-      "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation....",
-      "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
-      "sourceName": "The Decoder",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-06T17:35:33.000Z"
+      "publishedAt": "2026-08-07T19:41:06.000Z"
     },
     {
       "id": "google-deepmind-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
@@ -78,40 +78,17 @@
       "publishedAt": "2026-08-06T15:06:15.000Z"
     },
     {
-      "id": "the-decoder-google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Google races to close the gap with its top AI rivals....",
-      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-08-05T18:20:53.000Z"
-    },
-    {
-      "id": "the-decoder-openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets",
-      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
-      "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/",
+      "id": "the-decoder-amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon",
+      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on a similar approach for Gemini....",
+      "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
-        "Model"
+        "Model",
+        "Infra"
       ],
-      "publishedAt": "2026-08-06T10:11:02.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-is-hiring-an-ai-chip-design-team",
-      "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-05T14:13:18.000Z"
+      "publishedAt": "2026-08-07T18:01:32.000Z"
     },
     {
       "id": "openai-news-improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
@@ -126,17 +103,29 @@
       "publishedAt": "2026-08-06T10:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
+      "id": "openai-news-how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
       "tags": [
-        "Hot News",
-        "Research"
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-08-05T19:30:19.000Z"
+      "publishedAt": "2026-08-07T09:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model",
+      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model still falls well short of its bigger siblings....",
+      "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+      "sourceName": "The Decoder",
+      "score": 8.3,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-07T08:29:27.000Z"
     },
     {
       "id": "techcrunch-ai-openai-says-apple-s-own-security-practices-undermine-its-trade-secrets-case",
@@ -161,6 +150,20 @@
         "Policy"
       ],
       "publishedAt": "2026-08-06T09:34:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-article-runtime-agnostic-ai-workflows-a-pattern-for-production-durability-and-fast-eval-iteration",
+      "title": "Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration",
+      "summary": "AI workflows have two needs that trade off directly. Running reliably in production requires persisting and distributing every step so it survives crashes, deploys, and restarts. But that same machinery is what makes runs too heavy for the fast, throwaway loop you need to check an LLM's output quality. The properties that buy durability are the ones that kill iteration speed. By Mateus Moury",
+      "url": "https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-08-06T09:00:00.000Z"
     }
   ]
 }
