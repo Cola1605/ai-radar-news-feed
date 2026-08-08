@@ -1,13 +1,28 @@
 {
-  "generatedAt": "2026-08-07T22:02:05.512Z",
-  "latestPublishedAt": "2026-08-07T19:41:06.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-08-08",
+  "generatedAt": "2026-08-08T21:51:44.735Z",
+  "latestPublishedAt": "2026-08-08T19:36:12.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-08-09",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 158,
+  "totalCount": 157,
   "items": [
+    {
+      "id": "the-decoder-xai-s-imagine-image-2-0-lands-just-behind-openai-s-gpt-image-2-in-arena-benchmarks",
+      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
+      "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref Editing, along with preconfigured templates, target practical creative workflows. The article xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks appeared first on The Decoder .",
+      "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-08-08T08:22:39.000Z"
+    },
     {
       "id": "openai-news-responding-to-the-next-frontier-of-critical-cyber-capabilities",
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -21,21 +36,6 @@
         "Policy"
       ],
       "publishedAt": "2026-08-07T15:20:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected",
-      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using directory names....",
-      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-07T09:22:26.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-azure-api-management-adds-dedicated-ai-gateway-tier-governing-models-and-mcp-tools",
@@ -63,44 +63,60 @@
         "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-08-07T19:41:06.000Z"
+      "publishedAt": "2026-08-08T07:21:06.000Z"
     },
     {
-      "id": "google-deepmind-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summary": "Tin AI từ Google DeepMind về \"WeatherNext: AI model achieves breakthrough in forecasting cyclones\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "sourceName": "Google DeepMind",
-      "score": 9,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-06T15:06:15.000Z"
-    },
-    {
-      "id": "the-decoder-amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon",
-      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
-      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on a similar approach for Gemini....",
-      "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
+      "id": "the-decoder-fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai",
+      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
+      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research. The article Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI appeared first on The Decoder .",
+      "url": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
       "sourceName": "The Decoder",
-      "score": 8.8,
+      "score": 9.2,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-08T11:08:48.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.1,
       "tags": [
         "Model",
-        "Infra"
+        "Policy"
       ],
-      "publishedAt": "2026-08-07T18:01:32.000Z"
+      "publishedAt": "2026-08-07T22:48:24.000Z"
     },
     {
-      "id": "openai-news-improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
+      "id": "the-decoder-backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours",
+      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts. The startup, backed by $30 million in funding, offers its tool as an add-in for Autodesk Fusion....",
+      "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
+      "sourceName": "The Decoder",
+      "score": 9,
       "tags": [
-        "Model"
+        "Hot News",
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-08-06T10:00:00.000Z"
+      "publishedAt": "2026-08-08T11:26:35.000Z"
+    },
+    {
+      "id": "theguardian-com-openai-to-pause-some-work-on-ai-model-astra-due-to-security-concerns",
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+      "summary": "Tin AI từ Hacker News AI về \"OpenAI to pause some work on AI model Astra due to security concerns\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "sourceName": "theguardian.com",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-08T19:36:12.000Z"
     },
     {
       "id": "openai-news-how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
@@ -116,54 +132,42 @@
       "publishedAt": "2026-08-07T09:00:00.000Z"
     },
     {
-      "id": "the-decoder-openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model",
-      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
-      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model still falls well short of its bigger siblings....",
-      "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
-      "sourceName": "The Decoder",
+      "id": "google-deepmind-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "Tin AI từ Google DeepMind về \"WeatherNext: AI model achieves breakthrough in forecasting cyclones\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "sourceName": "Google DeepMind",
       "score": 8.3,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-07T08:29:27.000Z"
+      "publishedAt": "2026-08-06T15:06:15.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-says-apple-s-own-security-practices-undermine-its-trade-secrets-case",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "sourceName": "TechCrunch AI",
+      "id": "infoq-ai-ml-data-engineering-cloudflare-s-precursor-detects-bots-and-ai-agents-through-continuous-behavioral-analysis",
+      "title": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
+      "summary": "Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse movements and keyboard timing, to improve detection of sophisticated bots and AI agents without relying solely on one-time challenges like CAPTCHAs. By Renato Losio",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 8.1,
       "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-08-06T15:10:32.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-from-ms-to-s-oss-valkey-architecture-patterns-for-modern-ai",
-      "title": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
-      "summary": "Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores. Drawing lessons from NASA's Space Shuttle, he explains how proxy architectures introduce hidden CPU costs, elevated tail latencies, and blast-radius risks. He demonstrates how direct-access Valkey architectures achieve microsecond latency, improve resilience, and slash infrastructure costs. By Dumanshu Goyal",
-      "url": "https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-08-06T09:34:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-article-runtime-agnostic-ai-workflows-a-pattern-for-production-durability-and-fast-eval-iteration",
-      "title": "Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration",
-      "summary": "AI workflows have two needs that trade off directly. Running reliably in production requires persisting and distributing every step so it survives crashes, deploys, and restarts. But that same machinery is what makes runs too heavy for the fast, throwaway loop you need to check an LLM's output quality. The properties that buy durability are the ones that kill iteration speed. By Mateus Moury",
-      "url": "https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Model",
         "Agent AI",
-        "Research"
+        "Research",
+        "Infra"
       ],
-      "publishedAt": "2026-08-06T09:00:00.000Z"
+      "publishedAt": "2026-08-08T07:54:00.000Z"
+    },
+    {
+      "id": "openai-news-improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "sourceName": "OpenAI News",
+      "score": 8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-06T10:00:00.000Z"
     }
   ]
 }
