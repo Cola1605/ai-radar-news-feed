@@ -1,42 +1,13 @@
 {
-  "generatedAt": "2026-08-08T21:51:44.735Z",
-  "latestPublishedAt": "2026-08-08T19:36:12.000Z",
+  "generatedAt": "2026-08-09T21:55:06.022Z",
+  "latestPublishedAt": "2026-08-09T19:20:32.000Z",
   "newItemCount": 6,
-  "dateKey": "2026-08-09",
+  "dateKey": "2026-08-10",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 157,
+  "totalCount": 152,
   "items": [
-    {
-      "id": "the-decoder-xai-s-imagine-image-2-0-lands-just-behind-openai-s-gpt-image-2-in-arena-benchmarks",
-      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
-      "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref Editing, along with preconfigured templates, target practical creative workflows. The article xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks appeared first on The Decoder .",
-      "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-08-08T08:22:39.000Z"
-    },
-    {
-      "id": "openai-news-responding-to-the-next-frontier-of-critical-cyber-capabilities",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-07T15:20:00.000Z"
-    },
     {
       "id": "infoq-ai-ml-data-engineering-azure-api-management-adds-dedicated-ai-gateway-tier-governing-models-and-mcp-tools",
       "title": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools",
@@ -52,31 +23,44 @@
       "publishedAt": "2026-08-07T06:35:00.000Z"
     },
     {
-      "id": "the-decoder-openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time",
-      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
-      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in which autonomous AI agents infiltrated OpenAI's own infrastructure undetected for weeks....",
-      "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+      "id": "the-decoder-google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit",
+      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area. Internally, Google is apparently struggling with serious problems training frontier models, even as its cloud business generates billions....",
+      "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Agent AI",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-08-08T07:21:06.000Z"
+      "publishedAt": "2026-08-09T08:56:12.000Z"
     },
     {
-      "id": "the-decoder-fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai",
-      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
-      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research. The article Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI appeared first on The Decoder .",
-      "url": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
+      "id": "openai-news-responding-to-the-next-frontier-of-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
       "tags": [
+        "Model",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-08T11:08:48.000Z"
+      "publishedAt": "2026-08-07T15:20:00.000Z"
+    },
+    {
+      "id": "the-decoder-google-s-diffusiongemma-proves-you-don-t-need-to-train-from-scratch-to-build-a-text-diffusion-model",
+      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+      "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second. Quality still trails the original autoregressive model in benchmarks, especially on reasoning tasks....",
+      "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-09T10:01:26.000Z"
     },
     {
       "id": "techcrunch-ai-openai-says-it-slowed-astra-model-development-over-security-concerns",
@@ -106,42 +90,30 @@
       "publishedAt": "2026-08-08T11:26:35.000Z"
     },
     {
-      "id": "theguardian-com-openai-to-pause-some-work-on-ai-model-astra-due-to-security-concerns",
-      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-      "summary": "Tin AI từ Hacker News AI về \"OpenAI to pause some work on AI model Astra due to security concerns\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-      "sourceName": "theguardian.com",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-08T19:36:12.000Z"
-    },
-    {
-      "id": "openai-news-how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-07T09:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summary": "Tin AI từ Google DeepMind về \"WeatherNext: AI model achieves breakthrough in forecasting cyclones\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "sourceName": "Google DeepMind",
-      "score": 8.3,
+      "id": "the-decoder-google-deepmind-s-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time",
+      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
+      "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub. The article Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-06T15:06:15.000Z"
+      "publishedAt": "2026-08-09T12:29:06.000Z"
+    },
+    {
+      "id": "techcrunch-ai-the-ai-safety-test-is-becoming-a-safety-risk",
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-09T14:30:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-cloudflare-s-precursor-detects-bots-and-ai-agents-through-continuous-behavioral-analysis",
@@ -158,16 +130,42 @@
       "publishedAt": "2026-08-08T07:54:00.000Z"
     },
     {
-      "id": "openai-news-improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "id": "openai-news-how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "url": "https://openai.com/index/hsp-gruppe",
       "sourceName": "OpenAI News",
-      "score": 8,
+      "score": 7.8,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-07T09:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-keeping-chatgpt-fast-as-ai-development-accelerates",
+      "title": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates",
+      "summary": "Martin Spier explains how agentic workflows dramatically increase code change volume at OpenAI. He discusses the hidden systemic performance costs of rapid shipping beyond GPUs, and shares how deploying always-on AI agents automates profiling, regression detection, and continuous optimization to maintain product speed and scalability at massive global scale. By Martin Spier",
+      "url": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.7,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-08-08T09:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.3,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-06T10:00:00.000Z"
+      "publishedAt": "2026-08-09T19:20:32.000Z"
     }
   ]
 }
