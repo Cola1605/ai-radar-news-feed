@@ -1,53 +1,81 @@
 {
-  "generatedAt": "2026-08-09T21:55:06.022Z",
-  "latestPublishedAt": "2026-08-09T19:20:32.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-08-10",
+  "generatedAt": "2026-08-10T22:03:31.387Z",
+  "latestPublishedAt": "2026-08-10T20:00:00.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-08-11",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 152,
+  "totalCount": 159,
   "items": [
     {
-      "id": "infoq-ai-ml-data-engineering-azure-api-management-adds-dedicated-ai-gateway-tier-governing-models-and-mcp-tools",
-      "title": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools",
-      "summary": "Microsoft released a dedicated AI Gateway tier of Azure API Management in public preview, with a control plane built around models, MCP servers and tools rather than APIs. It fronts Foundry, Bedrock, Vertex AI and OpenAI behind one endpoint, with policy cards instead of XML. Architects welcomed the consolidation while questioning where the governance boundary sits. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "id": "the-decoder-openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do",
+      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportunity for defenders is shrinking. Access requires identity verification....",
+      "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+      "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-08-07T06:35:00.000Z"
+      "publishedAt": "2026-08-10T18:01:30.000Z"
     },
     {
-      "id": "the-decoder-google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit",
-      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
-      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area. Internally, Google is apparently struggling with serious problems training frontier models, even as its cloud business generates billions....",
-      "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
+      "id": "the-decoder-meta-returns-to-open-models-with-zuckerberg-s-plan-to-out-copy-china-and-sell-compute-by-auction",
+      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
+      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defense of distilling other labs' models and calls for fewer restrictions on US labs, a direct counterpunch at OpenAI and Anthropic....",
+      "url": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
       "sourceName": "The Decoder",
-      "score": 9.5,
+      "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-08-09T08:56:12.000Z"
+      "publishedAt": "2026-08-10T13:50:19.000Z"
     },
     {
-      "id": "openai-news-responding-to-the-next-frontier-of-critical-cyber-capabilities",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "id": "openai-news-expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "sourceName": "OpenAI News",
-      "score": 9.3,
+      "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-07T15:20:00.000Z"
+      "publishedAt": "2026-08-10T10:00:00.000Z"
+    },
+    {
+      "id": "openai-news-model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "url": "https://openai.com/index/model-ml",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "openai-news-putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-10T10:00:00.000Z"
     },
     {
       "id": "the-decoder-google-s-diffusiongemma-proves-you-don-t-need-to-train-from-scratch-to-build-a-text-diffusion-model",
@@ -63,33 +91,6 @@
       "publishedAt": "2026-08-09T10:01:26.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-07T22:48:24.000Z"
-    },
-    {
-      "id": "the-decoder-backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours",
-      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
-      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts. The startup, backed by $30 million in funding, offers its tool as an add-in for Autodesk Fusion....",
-      "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
-      "sourceName": "The Decoder",
-      "score": 9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-08T11:26:35.000Z"
-    },
-    {
       "id": "the-decoder-google-deepmind-s-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time",
       "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
       "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub. The article Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time appeared first on The Decoder .",
@@ -102,9 +103,49 @@
       "publishedAt": "2026-08-09T12:29:06.000Z"
     },
     {
+      "id": "mit-technology-review-ai-for-science-needs-reasoning-not-just-data",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.4,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-08-10T09:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.4,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-07T22:48:24.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-cloudflare-previews-automatic-webmcp-support-for-web-pages",
+      "title": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
+      "summary": "Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch. This allows browser-based AI agents to interact with unmodified web pages through structured tools instead of scraping or guessing, keeping human traffic and control on the original site. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-10T20:00:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-the-ai-safety-test-is-becoming-a-safety-risk",
       "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "sourceName": "TechCrunch AI",
       "score": 8.1,
@@ -116,56 +157,16 @@
       "publishedAt": "2026-08-09T14:30:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-cloudflare-s-precursor-detects-bots-and-ai-agents-through-continuous-behavioral-analysis",
-      "title": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
-      "summary": "Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse movements and keyboard timing, to improve detection of sophisticated bots and AI agents without relying solely on one-time challenges like CAPTCHAs. By Renato Losio",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.1,
-      "tags": [
-        "Agent AI",
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-08T07:54:00.000Z"
-    },
-    {
-      "id": "openai-news-how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "url": "https://openai.com/index/hsp-gruppe",
+      "id": "openai-news-what-building-an-ai-native-finance-function-taught-me",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
       "sourceName": "OpenAI News",
-      "score": 7.8,
+      "score": 8,
       "tags": [
-        "Model",
-        "Business"
+        "AI"
       ],
-      "publishedAt": "2026-08-07T09:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-keeping-chatgpt-fast-as-ai-development-accelerates",
-      "title": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates",
-      "summary": "Martin Spier explains how agentic workflows dramatically increase code change volume at OpenAI. He discusses the hidden systemic performance costs of rapid shipping beyond GPUs, and shares how deploying always-on AI agents automates profiling, regression detection, and continuous optimization to maintain product speed and scalability at massive global scale. By Martin Spier",
-      "url": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.7,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-08T09:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-09T19:20:32.000Z"
+      "publishedAt": "2026-08-10T17:00:00.000Z"
     }
   ]
 }
