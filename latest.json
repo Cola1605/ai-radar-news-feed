@@ -1,13 +1,57 @@
 {
-  "generatedAt": "2026-08-10T22:03:31.387Z",
-  "latestPublishedAt": "2026-08-10T20:00:00.000Z",
+  "generatedAt": "2026-08-11T22:09:22.883Z",
+  "latestPublishedAt": "2026-08-11T17:38:49.000Z",
   "newItemCount": 8,
-  "dateKey": "2026-08-11",
+  "dateKey": "2026-08-12",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 159,
+  "totalCount": 162,
   "items": [
+    {
+      "id": "the-decoder-but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpt-s-hidden-reasoning",
+      "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+      "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing....",
+      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-11T17:38:49.000Z"
+    },
+    {
+      "id": "openai-news-daybreak-models-are-now-available-on-aws",
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-10T23:56:15.000Z"
+    },
     {
       "id": "the-decoder-openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do",
       "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
@@ -23,20 +67,6 @@
       "publishedAt": "2026-08-10T18:01:30.000Z"
     },
     {
-      "id": "the-decoder-meta-returns-to-open-models-with-zuckerberg-s-plan-to-out-copy-china-and-sell-compute-by-auction",
-      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
-      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defense of distilling other labs' models and calls for fewer restrictions on US labs, a direct counterpunch at OpenAI and Anthropic....",
-      "url": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-10T13:50:19.000Z"
-    },
-    {
       "id": "openai-news-expanding-daybreak-as-the-cyber-defense-window-narrows",
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
@@ -50,6 +80,19 @@
         "Policy"
       ],
       "publishedAt": "2026-08-10T10:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-unsolved-problems",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-11T16:25:20.000Z"
     },
     {
       "id": "openai-news-model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol",
@@ -78,95 +121,55 @@
       "publishedAt": "2026-08-10T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-google-s-diffusiongemma-proves-you-don-t-need-to-train-from-scratch-to-build-a-text-diffusion-model",
-      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
-      "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second. Quality still trails the original autoregressive model in benchmarks, especially on reasoning tasks....",
-      "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
-      "sourceName": "The Decoder",
+      "id": "mit-technology-review-the-download-the-next-big-thing-in-llms-and-how-ai-academic-research-is-shifting",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "sourceName": "MIT Technology Review",
       "score": 9.1,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-08-09T10:01:26.000Z"
+      "publishedAt": "2026-08-11T12:10:00.000Z"
     },
     {
-      "id": "the-decoder-google-deepmind-s-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time",
-      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
-      "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub. The article Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time appeared first on The Decoder .",
-      "url": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+      "id": "the-decoder-anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing",
+      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
+      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for third-party verification....",
+      "url": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
       "sourceName": "The Decoder",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-11T08:45:06.000Z"
+    },
+    {
+      "id": "the-decoder-openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens",
+      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
+      "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit. The move signals that the flat-rate pricing AI providers have offered so far was never going to last....",
+      "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-08-11T11:51:01.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-09T12:29:06.000Z"
-    },
-    {
-      "id": "mit-technology-review-ai-for-science-needs-reasoning-not-just-data",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.4,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-08-10T09:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.4,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-07T22:48:24.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-cloudflare-previews-automatic-webmcp-support-for-web-pages",
-      "title": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
-      "summary": "Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch. This allows browser-based AI agents to interact with unmodified web pages through structured tools instead of scraping or guessing, keeping human traffic and control on the original site. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-10T20:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-the-ai-safety-test-is-becoming-a-safety-risk",
-      "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-09T14:30:00.000Z"
-    },
-    {
-      "id": "openai-news-what-building-an-ai-native-finance-function-taught-me",
-      "title": "What building an AI-native finance function taught me",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "sourceName": "OpenAI News",
-      "score": 8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-08-10T17:00:00.000Z"
+      "publishedAt": "2026-08-11T12:13:47.000Z"
     }
   ]
 }
