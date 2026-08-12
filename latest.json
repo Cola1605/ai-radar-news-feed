@@ -1,26 +1,41 @@
 {
-  "generatedAt": "2026-08-11T22:09:22.883Z",
-  "latestPublishedAt": "2026-08-11T17:38:49.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-08-12",
+  "generatedAt": "2026-08-12T22:07:26.116Z",
+  "latestPublishedAt": "2026-08-12T18:33:21.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-08-13",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 162,
+  "totalCount": 164,
   "items": [
     {
-      "id": "the-decoder-but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpt-s-hidden-reasoning",
-      "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-      "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing....",
-      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+      "id": "the-decoder-microsoft-s-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance",
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
+      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash. The move fits a pattern: Microsoft talks up open AI, then bakes worse proprietary models into its apps to protect margins....",
+      "url": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
-        "Research",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-08-11T17:38:49.000Z"
+      "publishedAt": "2026-08-12T10:18:46.000Z"
+    },
+    {
+      "id": "openai-news-from-assistance-to-execution-how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-08-12T06:00:00.000Z"
     },
     {
       "id": "openai-news-daybreak-models-are-now-available-on-aws",
@@ -37,34 +52,6 @@
         "Business"
       ],
       "publishedAt": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-10T23:56:15.000Z"
-    },
-    {
-      "id": "the-decoder-openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do",
-      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
-      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportunity for defenders is shrinking. Access requires identity verification....",
-      "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-10T18:01:30.000Z"
     },
     {
       "id": "openai-news-expanding-daybreak-as-the-cyber-defense-window-narrows",
@@ -95,30 +82,17 @@
       "publishedAt": "2026-08-11T16:25:20.000Z"
     },
     {
-      "id": "openai-news-model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "url": "https://openai.com/index/model-ml",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
+      "id": "the-decoder-nvidia-s-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed",
+      "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
+      "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder .",
+      "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
-        "Model",
-        "Research"
+        "Hot News",
+        "Model"
       ],
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "openai-news-putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-10T10:00:00.000Z"
+      "publishedAt": "2026-08-12T12:37:58.000Z"
     },
     {
       "id": "mit-technology-review-the-download-the-next-big-thing-in-llms-and-how-ai-academic-research-is-shifting",
@@ -134,30 +108,29 @@
       "publishedAt": "2026-08-11T12:10:00.000Z"
     },
     {
-      "id": "the-decoder-anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing",
-      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
-      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for third-party verification....",
-      "url": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
+      "id": "the-decoder-spacexai-s-grok-4-6-matches-openai-s-best-model-and-undercuts-it-on-price",
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+      "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower. The article SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price appeared first on The Decoder .",
+      "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
       "sourceName": "The Decoder",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-11T08:45:06.000Z"
-    },
-    {
-      "id": "the-decoder-openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens",
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
-      "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit. The move signals that the flat-rate pricing AI providers have offered so far was never going to last....",
-      "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
+      "score": 8.8,
       "tags": [
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-08-11T11:51:01.000Z"
+      "publishedAt": "2026-08-12T18:33:21.000Z"
+    },
+    {
+      "id": "the-decoder-legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claude-s-push-into-law-practices",
+      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
+      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The article Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices appeared first on The Decoder .",
+      "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-12T13:51:18.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
@@ -170,6 +143,31 @@
         "Model"
       ],
       "publishedAt": "2026-08-11T12:13:47.000Z"
+    },
+    {
+      "id": "openai-news-model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "url": "https://openai.com/index/model-ml",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-putting-sign-language-ai-into-users-hands",
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "sourceName": "Google DeepMind",
+      "score": 8.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-12T14:01:59.000Z"
     }
   ]
 }
