@@ -1,26 +1,40 @@
 {
-  "generatedAt": "2026-08-12T22:07:26.116Z",
-  "latestPublishedAt": "2026-08-12T18:33:21.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-08-13",
+  "generatedAt": "2026-08-13T22:08:13.966Z",
+  "latestPublishedAt": "2026-08-13T19:22:40.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-08-14",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 164,
+  "totalCount": 169,
   "items": [
     {
-      "id": "the-decoder-microsoft-s-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance",
-      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
-      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash. The move fits a pattern: Microsoft talks up open AI, then bakes worse proprietary models into its apps to protect margins....",
-      "url": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Business"
       ],
-      "publishedAt": "2026-08-12T10:18:46.000Z"
+      "publishedAt": "2026-08-13T19:22:40.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-anthropic-s-claude-breaches-sandbox-during-model-security-evaluations",
+      "title": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations",
+      "summary": "Anthropic conducted an audit of 141006 evaluation runs after OpenAI's sandbox escape disclosure. The review identified three incidents where Claude models accessed the internet due to misconfigurations. These incidents involved unauthorised attacks on live targets. Anthropic has suspended offensive evaluations and plans to enhance security measures and collaborate with external auditors. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/08/claude-sandox-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-13T10:10:00.000Z"
     },
     {
       "id": "openai-news-from-assistance-to-execution-how-enterprises-put-ai-to-work",
@@ -54,58 +68,82 @@
       "publishedAt": "2026-08-11T10:00:00.000Z"
     },
     {
-      "id": "openai-news-expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-10T10:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-unsolved-problems",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-11T16:25:20.000Z"
-    },
-    {
-      "id": "the-decoder-nvidia-s-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed",
-      "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
-      "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder .",
-      "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+      "id": "the-decoder-gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessor-s-price-by-50",
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+      "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50% appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model"
+        "Model",
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-08-12T12:37:58.000Z"
+      "publishedAt": "2026-08-13T18:41:52.000Z"
     },
     {
-      "id": "mit-technology-review-the-download-the-next-big-thing-in-llms-and-how-ai-academic-research-is-shifting",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "sourceName": "MIT Technology Review",
+      "id": "techcrunch-ai-anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-13T18:28:14.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-3-7-flash",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.7 Flash\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-13T17:04:18.000Z"
+    },
+    {
+      "id": "openai-news-the-builder-s-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "sourceName": "OpenAI News",
       "score": 9.1,
       "tags": [
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-08-11T12:10:00.000Z"
+      "publishedAt": "2026-08-13T11:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-hires-new-cro-as-executive-shake-up-continues",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-13T17:07:13.000Z"
+    },
+    {
+      "id": "the-decoder-fable-5-s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling",
+      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
+      "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a ceiling, at least as long as performance gains don't translate into measurable everyday value....",
+      "url": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-13T10:46:20.000Z"
     },
     {
       "id": "the-decoder-spacexai-s-grok-4-6-matches-openai-s-best-model-and-undercuts-it-on-price",
@@ -121,53 +159,16 @@
       "publishedAt": "2026-08-12T18:33:21.000Z"
     },
     {
-      "id": "the-decoder-legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claude-s-push-into-law-practices",
-      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
-      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The article Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices appeared first on The Decoder .",
-      "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-12T13:51:18.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "id": "techcrunch-ai-microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-11T12:13:47.000Z"
-    },
-    {
-      "id": "openai-news-model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "url": "https://openai.com/index/model-ml",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-putting-sign-language-ai-into-users-hands",
-      "title": "Putting sign language AI into users’ hands",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "sourceName": "Google DeepMind",
       "score": 8.6,
       "tags": [
-        "Model"
+        "Research"
       ],
-      "publishedAt": "2026-08-12T14:01:59.000Z"
+      "publishedAt": "2026-08-13T15:30:52.000Z"
     }
   ]
 }
