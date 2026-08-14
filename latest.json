@@ -1,13 +1,57 @@
 {
-  "generatedAt": "2026-08-13T22:08:13.966Z",
-  "latestPublishedAt": "2026-08-13T19:22:40.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-08-14",
+  "generatedAt": "2026-08-14T21:45:59.481Z",
+  "latestPublishedAt": "2026-08-14T16:06:32.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-08-15",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 169,
+  "totalCount": 160,
   "items": [
+    {
+      "id": "the-decoder-study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
+      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+      "summary": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as \"Reject.\" According to the study, conducted with Princeton and the UK AI Security Institute, frontier models can handle the full research engineering process but fall short on research judgment,...",
+      "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-14T16:06:32.000Z"
+    },
+    {
+      "id": "the-decoder-zhipu-ai-releases-glm-5-3-claims-it-s-the-strongest-open-weights-coding-model",
+      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
+      "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. Trained for cybersecurity, GLM-5.3 helped security teams find 2,436 vulnerabilities across 269 projects. The model weights are set to go open source in two weeks....",
+      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-14T10:21:34.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-meta-open-sources-muse-glimmer-a-30b-local-agentic-model-optimised-for-on-device-execution",
+      "title": "Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution",
+      "summary": "Meta AI Research has introduced Muse Glimmer, a 30-billion-parameter open-weight model under the Apache 2.0 license, designed for local workflows. It enables autonomous agents and complex task execution on consumer GPUs without relying on cloud APIs. The model employs a multi-stage training approach for efficient performance and supports multimodal inputs, enhancing coding and automation tasks. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-08-14T05:05:00.000Z"
+    },
     {
       "id": "techcrunch-ai-openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -50,22 +94,6 @@
         "Business"
       ],
       "publishedAt": "2026-08-12T06:00:00.000Z"
-    },
-    {
-      "id": "openai-news-daybreak-models-are-now-available-on-aws",
-      "title": "Daybreak models are now available on AWS",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Policy",
-        "Business"
-      ],
-      "publishedAt": "2026-08-11T10:00:00.000Z"
     },
     {
       "id": "the-decoder-gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessor-s-price-by-50",
@@ -121,6 +149,21 @@
       "publishedAt": "2026-08-13T11:00:00.000Z"
     },
     {
+      "id": "the-decoder-gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras",
+      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+      "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference speed into its own product....",
+      "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
+      "sourceName": "The Decoder",
+      "score": 9,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-14T14:21:50.000Z"
+    },
+    {
       "id": "techcrunch-ai-openai-hires-new-cro-as-executive-shake-up-continues",
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
@@ -132,43 +175,6 @@
         "Business"
       ],
       "publishedAt": "2026-08-13T17:07:13.000Z"
-    },
-    {
-      "id": "the-decoder-fable-5-s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling",
-      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
-      "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a ceiling, at least as long as performance gains don't translate into measurable everyday value....",
-      "url": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-13T10:46:20.000Z"
-    },
-    {
-      "id": "the-decoder-spacexai-s-grok-4-6-matches-openai-s-best-model-and-undercuts-it-on-price",
-      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
-      "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower. The article SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price appeared first on The Decoder .",
-      "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-12T18:33:21.000Z"
-    },
-    {
-      "id": "techcrunch-ai-microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.6,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-08-13T15:30:52.000Z"
     }
   ]
 }
