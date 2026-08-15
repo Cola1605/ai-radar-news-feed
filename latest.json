@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-14T21:45:59.481Z",
-  "latestPublishedAt": "2026-08-14T16:06:32.000Z",
-  "newItemCount": 4,
-  "dateKey": "2026-08-15",
+  "generatedAt": "2026-08-15T21:41:30.494Z",
+  "latestPublishedAt": "2026-08-15T15:41:02.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-08-16",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 160,
+  "totalCount": 163,
   "items": [
     {
       "id": "the-decoder-study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
@@ -24,21 +24,6 @@
       "publishedAt": "2026-08-14T16:06:32.000Z"
     },
     {
-      "id": "the-decoder-zhipu-ai-releases-glm-5-3-claims-it-s-the-strongest-open-weights-coding-model",
-      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
-      "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. Trained for cybersecurity, GLM-5.3 helped security teams find 2,436 vulnerabilities across 269 projects. The model weights are set to go open source in two weeks....",
-      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-14T10:21:34.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-meta-open-sources-muse-glimmer-a-30b-local-agentic-model-optimised-for-on-device-execution",
       "title": "Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution",
       "summary": "Meta AI Research has introduced Muse Glimmer, a 30-billion-parameter open-weight model under the Apache 2.0 license, designed for local workflows. It enables autonomous agents and complex task execution on consumer GPUs without relying on cloud APIs. The model employs a multi-stage training approach for efficient performance and supports multimodal inputs, enhancing coding and automation tasks. By Olimpiu Pop",
@@ -53,12 +38,25 @@
       "publishedAt": "2026-08-14T05:05:00.000Z"
     },
     {
+      "id": "the-decoder-new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception",
+      "title": "New benchmark confirms AI models still perform poorly at visual perception",
+      "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage. The article New benchmark confirms AI models still perform poorly at visual perception appeared first on The Decoder .",
+      "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-15T05:30:18.000Z"
+    },
+    {
       "id": "techcrunch-ai-openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "sourceName": "TechCrunch AI",
-      "score": 9.7,
+      "score": 9.4,
       "tags": [
         "Hot News",
         "Model",
@@ -67,12 +65,25 @@
       "publishedAt": "2026-08-13T19:22:40.000Z"
     },
     {
+      "id": "the-decoder-investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropic-s-numbers-defy-bubble-warnings",
+      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter....",
+      "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+      "sourceName": "The Decoder",
+      "score": 9,
+      "tags": [
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-08-15T15:41:02.000Z"
+    },
+    {
       "id": "infoq-ai-ml-data-engineering-anthropic-s-claude-breaches-sandbox-during-model-security-evaluations",
       "title": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations",
       "summary": "Anthropic conducted an audit of 141006 evaluation runs after OpenAI's sandbox escape disclosure. The review identified three incidents where Claude models accessed the internet due to misconfigurations. These incidents involved unauthorised attacks on live targets. Anthropic has suspended offensive evaluations and plans to enhance security measures and collaborate with external auditors. By Olimpiu Pop",
       "url": "https://www.infoq.com/news/2026/08/claude-sandox-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "score": 9,
       "tags": [
         "Model",
         "Research",
@@ -81,33 +92,17 @@
       "publishedAt": "2026-08-13T10:10:00.000Z"
     },
     {
-      "id": "openai-news-from-assistance-to-execution-how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-08-12T06:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessor-s-price-by-50",
-      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
-      "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50% appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+      "id": "the-decoder-anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claude-s-ai-texts",
+      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+      "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with fact-heavy text, code, and heavy rewriting....",
+      "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
       "sourceName": "The Decoder",
-      "score": 9.5,
+      "score": 8.9,
       "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
+        "Hot News",
+        "Model"
       ],
-      "publishedAt": "2026-08-13T18:41:52.000Z"
+      "publishedAt": "2026-08-14T21:29:17.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
@@ -115,7 +110,7 @@
       "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "sourceName": "TechCrunch AI",
-      "score": 9.3,
+      "score": 8.6,
       "tags": [
         "Agent AI",
         "Research",
@@ -124,12 +119,38 @@
       "publishedAt": "2026-08-13T18:28:14.000Z"
     },
     {
+      "id": "techcrunch-ai-does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-14T15:43:28.000Z"
+    },
+    {
+      "id": "techcrunch-ai-meta-s-open-ai-and-a-250m-deal-gone-very-wrong",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-14T14:00:00.000Z"
+    },
+    {
       "id": "google-deepmind-introducing-gemini-3-7-flash",
       "title": "Introducing Gemini 3.7 Flash",
       "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.7 Flash\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "sourceName": "Google DeepMind",
-      "score": 9.1,
+      "score": 8.4,
       "tags": [
         "Model"
       ],
@@ -141,40 +162,12 @@
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "sourceName": "OpenAI News",
-      "score": 9.1,
+      "score": 8.4,
       "tags": [
         "Model",
         "Agent AI"
       ],
       "publishedAt": "2026-08-13T11:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras",
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-      "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference speed into its own product....",
-      "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
-      "sourceName": "The Decoder",
-      "score": 9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Business",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-14T14:21:50.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-hires-new-cro-as-executive-shake-up-continues",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-13T17:07:13.000Z"
     }
   ]
 }
