@@ -1,31 +1,44 @@
 {
-  "generatedAt": "2026-08-15T21:41:30.494Z",
-  "latestPublishedAt": "2026-08-15T15:41:02.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-08-16",
+  "generatedAt": "2026-08-16T21:40:19.404Z",
+  "latestPublishedAt": "2026-08-16T20:38:41.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-08-17",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 163,
+  "totalCount": 161,
   "items": [
     {
-      "id": "the-decoder-study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
-      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
-      "summary": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as \"Reject.\" According to the study, conducted with Princeton and the UK AI Security Institute, frontier models can handle the full research engineering process but fall short on research judgment,...",
-      "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+      "id": "axios-com-anthropic-sees-ai-risks-rising-no-plan-to-release-stronger-model-2",
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+      "summary": "Tin AI từ Hacker News AI về \"Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+      "sourceName": "axios.com",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-16T20:38:41.000Z"
+    },
+    {
+      "id": "the-decoder-openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
+      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+      "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"burbling sense of responsibility and dread\" that OpenAI isn't doing enough on safety....",
+      "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Model",
-        "Agent AI",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-14T16:06:32.000Z"
+      "publishedAt": "2026-08-16T08:12:52.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-meta-open-sources-muse-glimmer-a-30b-local-agentic-model-optimised-for-on-device-execution",
-      "title": "Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution",
+      "title": "Meta Open-Sources Muse Glimmer: a 30B Local Agentic Model Optimised for On-Device Execution",
       "summary": "Meta AI Research has introduced Muse Glimmer, a 30-billion-parameter open-weight model under the Apache 2.0 license, designed for local workflows. It enables autonomous agents and complex task execution on consumer GPUs without relying on cloud APIs. The model employs a multi-stage training approach for efficient performance and supports multimodal inputs, enhancing coding and automation tasks. By Olimpiu Pop",
       "url": "https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
@@ -38,31 +51,32 @@
       "publishedAt": "2026-08-14T05:05:00.000Z"
     },
     {
-      "id": "the-decoder-new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception",
-      "title": "New benchmark confirms AI models still perform poorly at visual perception",
-      "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage. The article New benchmark confirms AI models still perform poorly at visual perception appeared first on The Decoder .",
-      "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+      "id": "the-decoder-optima-tackles-ai-benchmarking-s-biggest-flaw-by-letting-users-test-models-against-their-own-data",
+      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+      "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metrics often tell you more than raw token pricing....",
+      "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
       "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-15T05:30:18.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.4,
+      "score": 9.2,
       "tags": [
         "Hot News",
         "Model",
-        "Business"
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-08-13T19:22:40.000Z"
+      "publishedAt": "2026-08-16T05:50:50.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-s-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests",
+      "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+      "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models. The article Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+      "sourceName": "The Decoder",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-16T07:20:06.000Z"
     },
     {
       "id": "the-decoder-investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropic-s-numbers-defy-bubble-warnings",
@@ -78,45 +92,31 @@
       "publishedAt": "2026-08-15T15:41:02.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-anthropic-s-claude-breaches-sandbox-during-model-security-evaluations",
-      "title": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations",
-      "summary": "Anthropic conducted an audit of 141006 evaluation runs after OpenAI's sandbox escape disclosure. The review identified three incidents where Claude models accessed the internet due to misconfigurations. These incidents involved unauthorised attacks on live targets. Anthropic has suspended offensive evaluations and plans to enhance security measures and collaborate with external auditors. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/08/claude-sandox-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "infoq-ai-ml-data-engineering-cloudflare-adds-agent-tracing-with-truncation-limits-and-uneven-payload-defaults",
+      "title": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
+      "summary": "Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces. Sessions replay turn by turn, though the docs warn traces are not lossless and payloads may be truncated. Payload recording defaults differ by framework, and from October 1, 2026 every span counts as a billable event. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-13T10:10:00.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claude-s-ai-texts",
-      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
-      "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with fact-heavy text, code, and heavy rewriting....",
-      "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
+      "score": 8.3,
       "tags": [
         "Hot News",
-        "Model"
+        "Model",
+        "Agent AI",
+        "Infra"
       ],
-      "publishedAt": "2026-08-14T21:29:17.000Z"
+      "publishedAt": "2026-08-15T10:46:00.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "id": "techcrunch-ai-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "sourceName": "TechCrunch AI",
-      "score": 8.6,
+      "score": 7.8,
       "tags": [
-        "Agent AI",
-        "Research",
-        "Policy"
+        "AI"
       ],
-      "publishedAt": "2026-08-13T18:28:14.000Z"
+      "publishedAt": "2026-08-16T16:53:51.000Z"
     },
     {
       "id": "techcrunch-ai-does-mark-zuckerberg-really-believe-ai-is-for-everyone",
@@ -124,7 +124,7 @@
       "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
       "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 7.8,
       "tags": [
         "Hot News",
         "Model"
@@ -137,7 +137,7 @@
       "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
       "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 7.8,
       "tags": [
         "Hot News",
         "Model"
@@ -145,29 +145,30 @@
       "publishedAt": "2026-08-14T14:00:00.000Z"
     },
     {
-      "id": "google-deepmind-introducing-gemini-3-7-flash",
-      "title": "Introducing Gemini 3.7 Flash",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.7 Flash\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "sourceName": "Google DeepMind",
-      "score": 8.4,
+      "id": "techcrunch-ai-anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.3,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-13T17:04:18.000Z"
+      "publishedAt": "2026-08-15T18:58:39.000Z"
     },
     {
-      "id": "openai-news-the-builder-s-guide-to-gpt-5-6",
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
+      "id": "infoq-ai-ml-data-engineering-presentation-the-right-300-tokens-beat-100k-noisy-ones-the-architecture-of-context-engineering",
+      "title": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering",
+      "summary": "Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts. They explain practical context engineering fixes, including lazy-loaded skills, versioned context artifacts, externalized memory banks, and LLM-as-a-judge evals. Software architects & engineering leaders will learn how to turn raw markdown files into reliable agentic workflows....",
+      "url": "https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.3,
       "tags": [
         "Model",
-        "Agent AI"
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-08-13T11:00:00.000Z"
+      "publishedAt": "2026-08-14T11:00:00.000Z"
     }
   ]
 }
