@@ -1,27 +1,13 @@
 {
-  "generatedAt": "2026-08-16T21:40:19.404Z",
-  "latestPublishedAt": "2026-08-16T20:38:41.000Z",
+  "generatedAt": "2026-08-17T21:45:40.438Z",
+  "latestPublishedAt": "2026-08-17T16:38:44.000Z",
   "newItemCount": 8,
-  "dateKey": "2026-08-17",
+  "dateKey": "2026-08-18",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 161,
+  "totalCount": 164,
   "items": [
-    {
-      "id": "axios-com-anthropic-sees-ai-risks-rising-no-plan-to-release-stronger-model-2",
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
-      "summary": "Tin AI từ Hacker News AI về \"Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
-      "sourceName": "axios.com",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-16T20:38:41.000Z"
-    },
     {
       "id": "the-decoder-openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
       "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
@@ -37,35 +23,6 @@
       "publishedAt": "2026-08-16T08:12:52.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-meta-open-sources-muse-glimmer-a-30b-local-agentic-model-optimised-for-on-device-execution",
-      "title": "Meta Open-Sources Muse Glimmer: a 30B Local Agentic Model Optimised for On-Device Execution",
-      "summary": "Meta AI Research has introduced Muse Glimmer, a 30-billion-parameter open-weight model under the Apache 2.0 license, designed for local workflows. It enables autonomous agents and complex task execution on consumer GPUs without relying on cloud APIs. The model employs a multi-stage training approach for efficient performance and supports multimodal inputs, enhancing coding and automation tasks. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/08/meta-muse-glimmer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-08-14T05:05:00.000Z"
-    },
-    {
-      "id": "the-decoder-optima-tackles-ai-benchmarking-s-biggest-flaw-by-letting-users-test-models-against-their-own-data",
-      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
-      "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metrics often tell you more than raw token pricing....",
-      "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-08-16T05:50:50.000Z"
-    },
-    {
       "id": "the-decoder-anthropic-s-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests",
       "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
       "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models. The article Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder .",
@@ -79,32 +36,91 @@
       "publishedAt": "2026-08-16T07:20:06.000Z"
     },
     {
-      "id": "the-decoder-investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropic-s-numbers-defy-bubble-warnings",
-      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
-      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter....",
-      "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
-      "sourceName": "The Decoder",
-      "score": 9,
+      "id": "openai-news-the-defender-s-window",
+      "title": "The Defender’s Window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "url": "https://openai.com/index/the-defenders-window",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
-        "Policy",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-08-15T15:41:02.000Z"
+      "publishedAt": "2026-08-17T05:30:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-cloudflare-adds-agent-tracing-with-truncation-limits-and-uneven-payload-defaults",
-      "title": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
-      "summary": "Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces. Sessions replay turn by turn, though the docs warn traces are not lossless and payloads may be truncated. Payload recording defaults differ by framework, and from October 1, 2026 every span counts as a billable event. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
+      "id": "openai-news-new-policy-ideas-for-the-intelligence-age",
+      "title": "New policy ideas for the Intelligence Age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-08-17T03:15:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-amazon-which-started-off-selling-books-is-destroying-rare-texts-to-train-ai",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
       "tags": [
         "Hot News",
-        "Model",
-        "Agent AI",
-        "Infra"
+        "Model"
       ],
-      "publishedAt": "2026-08-15T10:46:00.000Z"
+      "publishedAt": "2026-08-17T16:38:44.000Z"
+    },
+    {
+      "id": "the-decoder-when-ai-models-aren-t-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview",
+      "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+      "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife. A surgical cut in one place, it turns out, doesn't stay local....",
+      "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+      "sourceName": "The Decoder",
+      "score": 8.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-16T11:23:30.000Z"
+    },
+    {
+      "id": "techcrunch-ai-groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-08-17T16:15:12.000Z"
+    },
+    {
+      "id": "the-decoder-openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
+      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+      "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier. According to the Wall Street Journal, nine tech companies now hold around $3 trillion in AI commitments that don't appear on any balance sheet....",
+      "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+      "sourceName": "The Decoder",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-08-17T14:13:26.000Z"
+    },
+    {
+      "id": "google-research-seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "summary": "Tin AI từ Google Research về \"Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "sourceName": "Google Research",
+      "score": 7.8,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-17T10:34:00.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
@@ -119,56 +135,31 @@
       "publishedAt": "2026-08-16T16:53:51.000Z"
     },
     {
-      "id": "techcrunch-ai-does-mark-zuckerberg-really-believe-ai-is-for-everyone",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-14T15:43:28.000Z"
-    },
-    {
-      "id": "techcrunch-ai-meta-s-open-ai-and-a-250m-deal-gone-very-wrong",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-14T14:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-15T18:58:39.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-the-right-300-tokens-beat-100k-noisy-ones-the-architecture-of-context-engineering",
-      "title": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering",
-      "summary": "Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts. They explain practical context engineering fixes, including lazy-loaded skills, versioned context artifacts, externalized memory banks, and LLM-as-a-judge evals. Software architects & engineering leaders will learn how to turn raw markdown files into reliable agentic workflows....",
-      "url": "https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "infoq-ai-ml-data-engineering-cloudflare-adds-agent-tracing-with-truncation-limits-and-uneven-payload-defaults",
+      "title": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
+      "summary": "Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces. Sessions replay turn by turn, though the docs warn traces are not lossless and payloads may be truncated. Payload recording defaults differ by framework, and from October 1, 2026 every span counts as a billable event. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.3,
+      "score": 7.6,
       "tags": [
+        "Hot News",
         "Model",
         "Agent AI",
-        "Research"
+        "Infra"
       ],
-      "publishedAt": "2026-08-14T11:00:00.000Z"
+      "publishedAt": "2026-08-15T10:46:00.000Z"
+    },
+    {
+      "id": "openai-news-openai-joins-ports-pike-project",
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "sourceName": "OpenAI News",
+      "score": 7.5,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-08-17T05:00:00.000Z"
     }
   ]
 }
