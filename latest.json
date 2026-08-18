@@ -1,18 +1,31 @@
 {
-  "generatedAt": "2026-08-17T21:45:40.438Z",
-  "latestPublishedAt": "2026-08-17T16:38:44.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-08-18",
+  "generatedAt": "2026-08-18T21:43:27.886Z",
+  "latestPublishedAt": "2026-08-18T19:00:00.000Z",
+  "newItemCount": 12,
+  "dateKey": "2026-08-19",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 164,
+  "totalCount": 170,
   "items": [
     {
-      "id": "the-decoder-openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
-      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
-      "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"burbling sense of responsibility and dread\" that OpenAI isn't doing enough on safety....",
-      "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+      "id": "openai-news-strengthening-democratic-oversight-in-national-security",
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-18T19:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips",
+      "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
+      "summary": "An open fight over AI regulation has broken out on X. Investor Gavin Baker, former White House adviser David Sacks, and Meta researcher Yann LeCun accuse Anthropic CEO Dario Amodei of using fear rhetoric to buy himself a regulatory advantage. Amodei counters that regulation can also rein in corporate power, and that open models alone just shift power toward the players with the most computing muscle....",
+      "url": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
@@ -20,146 +33,141 @@
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-08-16T08:12:52.000Z"
+      "publishedAt": "2026-08-18T13:07:57.000Z"
     },
     {
-      "id": "the-decoder-anthropic-s-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests",
-      "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
-      "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models. The article Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
-      "sourceName": "The Decoder",
-      "score": 9,
+      "id": "openai-news-pacing-model-development-in-an-era-of-cyber-critical-capabilities",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-08-16T07:20:06.000Z"
+      "publishedAt": "2026-08-18T11:00:00.000Z"
     },
     {
-      "id": "openai-news-the-defender-s-window",
-      "title": "The Defender’s Window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "url": "https://openai.com/index/the-defenders-window",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-08-17T05:30:00.000Z"
-    },
-    {
-      "id": "openai-news-new-policy-ideas-for-the-intelligence-age",
-      "title": "New policy ideas for the Intelligence Age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-08-17T03:15:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-amazon-which-started-off-selling-books-is-destroying-rare-texts-to-train-ai",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-17T16:38:44.000Z"
-    },
-    {
-      "id": "the-decoder-when-ai-models-aren-t-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview",
-      "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
-      "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife. A surgical cut in one place, it turns out, doesn't stay local....",
-      "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+      "id": "the-decoder-new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed",
+      "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+      "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest. The article New benchmark ranks search APIs for AI agents on quality, cost, and speed appeared first on The Decoder .",
+      "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
       "sourceName": "The Decoder",
-      "score": 8.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-16T11:23:30.000Z"
-    },
-    {
-      "id": "techcrunch-ai-groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-08-17T16:15:12.000Z"
-    },
-    {
-      "id": "the-decoder-openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
-      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-      "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier. According to the Wall Street Journal, nine tech companies now hold around $3 trillion in AI commitments that don't appear on any balance sheet....",
-      "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
-      "sourceName": "The Decoder",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-08-17T14:13:26.000Z"
-    },
-    {
-      "id": "google-research-seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
-      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "summary": "Tin AI từ Google Research về \"Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "sourceName": "Google Research",
-      "score": 7.8,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-17T10:34:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-cloudflare-adds-agent-tracing-with-truncation-limits-and-uneven-payload-defaults",
-      "title": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
-      "summary": "Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces. Sessions replay turn by turn, though the docs warn traces are not lossless and payloads may be truncated. Payload recording defaults differ by framework, and from October 1, 2026 every span counts as a billable event. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.6,
+      "score": 9.6,
       "tags": [
         "Hot News",
         "Model",
         "Agent AI",
-        "Infra"
+        "Research"
       ],
-      "publishedAt": "2026-08-15T10:46:00.000Z"
+      "publishedAt": "2026-08-18T18:10:56.000Z"
     },
     {
-      "id": "openai-news-openai-joins-ports-pike-project",
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "sourceName": "OpenAI News",
-      "score": 7.5,
+      "id": "techcrunch-ai-openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
       "tags": [
-        "AI"
+        "Hot News",
+        "Model",
+        "Policy"
       ],
-      "publishedAt": "2026-08-17T05:00:00.000Z"
+      "publishedAt": "2026-08-18T13:50:30.000Z"
+    },
+    {
+      "id": "mit-technology-review-we-still-don-t-know-how-people-are-really-using-ai",
+      "title": "We still don’t know how people are really using AI",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-18T10:06:43.000Z"
+    },
+    {
+      "id": "the-decoder-openai-says-it-s-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous",
+      "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+      "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior. The article OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-18T18:43:06.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-institutes-new-safeguards-after-hugging-face-breach",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-18T18:00:00.000Z"
+    },
+    {
+      "id": "openai-news-introducing-chatgpt-for-teens-built-for-learning-backed-by-protections",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-18T11:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-cloudflare-writeguard-brings-fine-grained-security-controls-for-mcp-servers",
+      "title": "Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers",
+      "summary": "Cloudflare is introducing WriteGuard, now in private beta, to provide fine-grained security controls for MCP (Model Context Protocol) servers. It aims to make AI agents safer by controlling their access to tools that can modify data or perform actions, rather than simply read information. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-18T16:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-s-annualized-revenue-surges-to-65b",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-17T23:56:26.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-download-how-people-really-use-ai-and-flock-s-design-choices",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-08-18T12:10:00.000Z"
     }
   ]
 }
