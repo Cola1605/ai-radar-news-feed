@@ -1,16 +1,30 @@
 {
-  "generatedAt": "2026-08-20T21:49:32.351Z",
-  "latestPublishedAt": "2026-08-20T19:29:34.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-08-21",
+  "generatedAt": "2026-08-21T21:44:43.520Z",
+  "latestPublishedAt": "2026-08-21T19:43:39.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-08-22",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 174,
+  "totalCount": 176,
   "items": [
     {
-      "id": "techcrunch-ai-a-third-of-web-pages-published-since-chatgpt-s-launch-show-signs-of-ai-authorship-study-finds",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "id": "techcrunch-ai-openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-20T22:36:37.000Z"
+    },
+    {
+      "id": "techcrunch-ai-a-third-of-web-pages-published-since-chatgpt-launched-were-written-by-ai-study-finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "sourceName": "TechCrunch AI",
@@ -22,56 +36,33 @@
       "publishedAt": "2026-08-20T17:18:58.000Z"
     },
     {
-      "id": "the-decoder-anthropic-s-most-capable-model-codenamed-model-2-is-for-internal-use-only",
-      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
-      "summary": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude. The article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-20T10:04:45.000Z"
-    },
-    {
-      "id": "openai-news-offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-builds-safety-system-that-catches-misuse-without-storing-customer-data",
-      "title": "OpenAI builds safety system that catches misuse without storing customer data",
-      "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-20T08:01:18.000Z"
-    },
-    {
-      "id": "techcrunch-ai-researchers-say-openai-revoked-their-access-to-limited-cyber-program",
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "id": "techcrunch-ai-nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "sourceName": "TechCrunch AI",
-      "score": 9.2,
+      "score": 9.6,
       "tags": [
         "Model",
+        "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-08-19T18:46:14.000Z"
+      "publishedAt": "2026-08-21T19:43:39.000Z"
+    },
+    {
+      "id": "the-decoder-deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks",
+      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+      "summary": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it. The article Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks appeared first on The Decoder .",
+      "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-08-21T19:08:27.000Z"
     },
     {
       "id": "openai-news-introducing-ai-futures",
@@ -86,82 +77,95 @@
       "publishedAt": "2026-08-20T07:00:00.000Z"
     },
     {
-      "id": "openai-news-strengthening-democratic-oversight-in-national-security",
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
+      "id": "the-decoder-anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense",
+      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+      "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting critical infrastructure....",
+      "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+      "sourceName": "The Decoder",
+      "score": 9,
       "tags": [
-        "Hot News",
+        "Model",
         "Policy"
       ],
-      "publishedAt": "2026-08-18T19:00:00.000Z"
+      "publishedAt": "2026-08-21T19:35:37.000Z"
     },
     {
-      "id": "openai-news-pacing-model-development-in-an-era-of-cyber-critical-capabilities",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "id": "the-decoder-gpt-5-6-sol-drives-openai-s-revenue-surge-as-it-regains-ground-on-anthropic",
+      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+      "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overtaken OpenAI in quarterly revenue. The article GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+      "sourceName": "The Decoder",
+      "score": 9,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-21T08:26:05.000Z"
+    },
+    {
+      "id": "openai-news-offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "sourceName": "OpenAI News",
       "score": 9,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-adobe-firefly-adds-ai-audio-tools-and-google-s-gemini-omni-flash",
-      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
-      "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform. The article Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash appeared first on The Decoder .",
-      "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-20T19:29:34.000Z"
-    },
-    {
-      "id": "techcrunch-ai-google-packs-search-and-gemini-with-new-ai-study-tools",
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
       "publishedAt": "2026-08-19T19:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-we-still-don-t-know-how-people-are-really-using-ai",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-18T10:06:43.000Z"
-    },
-    {
-      "id": "the-decoder-china-now-has-its-own-ai-circular-financing-scheme",
-      "title": "China now has its own AI circular financing scheme",
-      "summary": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion. But an FT report shows much of the demand for its robots comes from state-backed training centers that buy the machines and sell the resulting data back to the manufacturers, a circular business model that echoes the Nvidia criticism in the US....",
-      "url": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/",
+      "id": "the-decoder-nvidia-is-acquiring-poolside-s-model-factory-and-109-employees-for-6-billion",
+      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
+      "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder .",
+      "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-08-20T09:23:37.000Z"
+      "publishedAt": "2026-08-21T08:27:23.000Z"
+    },
+    {
+      "id": "google-deepmind-from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "sourceName": "Google DeepMind",
+      "score": 8.7,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-08-21T11:59:48.000Z"
+    },
+    {
+      "id": "openai-news-stampli-cuts-launch-hours-by-68-using-chatgpt-work",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-ramp-launches-its-own-ai-model-router-called-router",
+      "title": "Ramp launches its own AI model router, called Router",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-20T16:46:00.000Z"
     }
   ]
 }
