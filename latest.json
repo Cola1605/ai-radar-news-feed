@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-08-21T21:44:43.520Z",
-  "latestPublishedAt": "2026-08-21T19:43:39.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-08-22",
+  "generatedAt": "2026-08-22T21:42:01.037Z",
+  "latestPublishedAt": "2026-08-22T19:00:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-08-23",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 176,
+  "totalCount": 168,
   "items": [
+    {
+      "id": "techcrunch-ai-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-08-22T19:00:00.000Z"
+    },
     {
       "id": "techcrunch-ai-openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -23,19 +37,6 @@
       "publishedAt": "2026-08-20T22:36:37.000Z"
     },
     {
-      "id": "techcrunch-ai-a-third-of-web-pages-published-since-chatgpt-launched-were-written-by-ai-study-finds",
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-20T17:18:58.000Z"
-    },
-    {
       "id": "techcrunch-ai-nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -48,6 +49,19 @@
         "Research"
       ],
       "publishedAt": "2026-08-21T19:43:39.000Z"
+    },
+    {
+      "id": "techcrunch-ai-a-third-of-web-pages-published-since-chatgpt-launched-were-written-by-ai-study-finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-20T17:18:58.000Z"
     },
     {
       "id": "the-decoder-deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks",
@@ -65,16 +79,17 @@
       "publishedAt": "2026-08-21T19:08:27.000Z"
     },
     {
-      "id": "openai-news-introducing-ai-futures",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "sourceName": "OpenAI News",
+      "id": "the-decoder-world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows",
+      "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+      "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models without mental modeling. The biggest bottleneck: predicting how physical and mental states change together....",
+      "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+      "sourceName": "The Decoder",
       "score": 9.1,
       "tags": [
-        "AI"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-08-20T07:00:00.000Z"
+      "publishedAt": "2026-08-22T09:00:20.000Z"
     },
     {
       "id": "the-decoder-anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense",
@@ -90,43 +105,18 @@
       "publishedAt": "2026-08-21T19:35:37.000Z"
     },
     {
-      "id": "the-decoder-gpt-5-6-sol-drives-openai-s-revenue-surge-as-it-regains-ground-on-anthropic",
-      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
-      "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overtaken OpenAI in quarterly revenue. The article GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
-      "sourceName": "The Decoder",
-      "score": 9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-21T08:26:05.000Z"
-    },
-    {
-      "id": "openai-news-offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-nvidia-is-acquiring-poolside-s-model-factory-and-109-employees-for-6-billion",
-      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
-      "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder .",
-      "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+      "id": "the-decoder-psychological-methods-reveal-major-weaknesses-in-ai-security-testing",
+      "title": "Psychological methods reveal major weaknesses in AI security testing",
+      "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day. The study also offers a method for catching models that act more cautious during tests than they do in normal use....",
+      "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
-        "Model"
+        "Model",
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-08-21T08:27:23.000Z"
+      "publishedAt": "2026-08-22T07:00:05.000Z"
     },
     {
       "id": "google-deepmind-from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
@@ -141,31 +131,42 @@
       "publishedAt": "2026-08-21T11:59:48.000Z"
     },
     {
-      "id": "openai-news-stampli-cuts-launch-hours-by-68-using-chatgpt-work",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
+      "id": "mit-technology-review-when-ai-designs-a-drug-who-gets-the-credit",
+      "title": "When AI designs a drug, who gets the credit?",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.4,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-08-20T00:00:00.000Z"
+      "publishedAt": "2026-08-21T09:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-ramp-launches-its-own-ai-model-router-called-router",
-      "title": "Ramp launches its own AI model router, called Router",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "id": "openai-news-introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-08-20T07:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-azure-devops-remote-mcp-server-reaches-ga-without-support-for-claude-chatgpt-or-cursor",
+      "title": "Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor",
+      "summary": "Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install. Claude Desktop, Claude Code, ChatGPT, and Cursor cannot connect yet because Entra lacks support for dynamic client registration and Client ID Metadata Documents. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
       "tags": [
         "Hot News",
-        "Model",
-        "Infra"
+        "Model"
       ],
-      "publishedAt": "2026-08-20T16:46:00.000Z"
+      "publishedAt": "2026-08-21T09:55:00.000Z"
     }
   ]
 }
