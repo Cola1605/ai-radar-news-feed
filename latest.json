@@ -1,20 +1,62 @@
 {
-  "generatedAt": "2026-08-23T21:41:42.483Z",
-  "latestPublishedAt": "2026-08-23T18:00:00.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-08-24",
+  "generatedAt": "2026-08-24T21:49:49.860Z",
+  "latestPublishedAt": "2026-08-24T20:45:07.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-08-25",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 166,
+  "totalCount": 167,
   "items": [
+    {
+      "id": "the-decoder-thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic",
+      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence you need to own....",
+      "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-24T12:59:43.000Z"
+    },
+    {
+      "id": "the-decoder-pew-study-confirms-sharp-rise-of-ai-written-text-on-the-web-since-chatgpt-s-launch",
+      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
+      "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content than .edu or .gov domains....",
+      "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+      "sourceName": "The Decoder",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-24T18:22:49.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-microsoft-moves-ai-governance-from-policy-to-runtime-enforcement",
+      "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
+      "summary": "Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili",
+      "url": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.1,
+      "tags": [
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-24T13:49:00.000Z"
+    },
     {
       "id": "techcrunch-ai-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "sourceName": "TechCrunch AI",
-      "score": 9.7,
+      "score": 9,
       "tags": [
         "Hot News",
         "Agent AI",
@@ -23,71 +65,69 @@
       "publishedAt": "2026-08-22T19:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "id": "techcrunch-ai-openai-is-building-ai-agents-for-everything-will-everyone-use-them",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-20T22:36:37.000Z"
-    },
-    {
-      "id": "the-decoder-world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows",
-      "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
-      "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models without mental modeling. The biggest bottleneck: predicting how physical and mental states change together....",
-      "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-22T09:00:20.000Z"
-    },
-    {
-      "id": "techcrunch-ai-nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-08-21T19:43:39.000Z"
-    },
-    {
-      "id": "the-decoder-psychological-methods-reveal-major-weaknesses-in-ai-security-testing",
-      "title": "Psychological methods reveal major weaknesses in AI security testing",
-      "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day. The study also offers a method for catching models that act more cautious during tests than they do in normal use....",
-      "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
-      "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
         "Model",
-        "Research",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-08-22T07:00:05.000Z"
+      "publishedAt": "2026-08-24T15:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-says-california-should-strengthen-its-ai-safety-bill",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "id": "mit-technology-review-kids-outlearn-ai-and-we-still-don-t-know-why",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,…",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
       "tags": [
-        "Policy"
+        "Hot News",
+        "Model"
       ],
-      "publishedAt": "2026-08-22T16:30:34.000Z"
+      "publishedAt": "2026-08-24T09:00:00.000Z"
+    },
+    {
+      "id": "openai-news-advancing-price-performance-for-developers-with-gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-24T12:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-how-to-encourage-smarter-ai-use-in-the-classroom",
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.4,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-24T14:20:19.000Z"
+    },
+    {
+      "id": "dactyl-dev-deno-team-releases-dactyl-an-ai-app-builder-that-runs-on-your-chatgpt-plan",
+      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+      "summary": "Tin AI từ Hacker News AI về \"Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://dactyl.dev/",
+      "sourceName": "dactyl.dev",
+      "score": 8.3,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-08-24T20:45:07.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-google-s-heir-aims-to-make-homomorphic-encrypted-inference-a-one-click-capability",
@@ -103,6 +143,19 @@
       "publishedAt": "2026-08-23T18:00:00.000Z"
     },
     {
+      "id": "techcrunch-ai-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-complicated",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-23T15:00:00.000Z"
+    },
+    {
       "id": "the-decoder-ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues",
       "title": "AI could make scientists do more work less well, not less work better, study argues",
       "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In two out of three modeled scenarios, the quality of individual publications drops....",
@@ -114,58 +167,6 @@
         "Research"
       ],
       "publishedAt": "2026-08-23T09:01:17.000Z"
-    },
-    {
-      "id": "the-decoder-how-china-s-gray-market-sells-claude-tokens-at-a-fraction-of-the-price",
-      "title": "How China's gray market sells Claude tokens at a fraction of the price",
-      "summary": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations.\" Chinese developers can buy Claude tokens for as little as ten percent of the list price. Analyst Zilan Qian warns that the circumvention infrastructure weakens export controls and Anthropic's own safety systems....",
-      "url": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
-      "sourceName": "The Decoder",
-      "score": 8,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-23T07:48:33.000Z"
-    },
-    {
-      "id": "google-deepmind-from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "sourceName": "Google DeepMind",
-      "score": 8,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-08-21T11:59:48.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-safechat-building-ai-powered-safety-systems-at-scale-in-a-real-time-marketplace",
-      "title": "Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace",
-      "summary": "Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting. Discover how this architectural pattern cut safety incidents while scaling to millions of daily messages. By Bruna Pereira",
-      "url": "https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.9,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-22T11:00:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-when-ai-designs-a-drug-who-gets-the-credit",
-      "title": "When AI designs a drug, who gets the credit?",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "sourceName": "MIT Technology Review",
-      "score": 7.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-21T09:00:00.000Z"
     }
   ]
 }
