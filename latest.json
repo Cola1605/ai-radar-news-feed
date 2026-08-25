@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-08-24T21:49:49.860Z",
-  "latestPublishedAt": "2026-08-24T20:45:07.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-08-25",
+  "generatedAt": "2026-08-25T21:49:21.735Z",
+  "latestPublishedAt": "2026-08-25T17:50:33.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-08-26",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 167,
+  "totalCount": 170,
   "items": [
     {
-      "id": "the-decoder-thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic",
-      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
-      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence you need to own....",
-      "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
+      "id": "the-decoder-google-launches-gemini-for-legal-work-to-automate-contracts-and-research",
+      "title": "Google launches Gemini for legal work to automate contracts and research",
+      "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other products....",
+      "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Agent AI",
+        "Research",
+        "Business"
       ],
-      "publishedAt": "2026-08-24T12:59:43.000Z"
+      "publishedAt": "2026-08-25T16:21:09.000Z"
     },
     {
       "id": "the-decoder-pew-study-confirms-sharp-rise-of-ai-written-text-on-the-web-since-chatgpt-s-launch",
@@ -37,6 +39,46 @@
       "publishedAt": "2026-08-24T18:22:49.000Z"
     },
     {
+      "id": "the-decoder-taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code. A UK study shows the cyber capabilities of open models are catching up fast....",
+      "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-25T08:40:14.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-s-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Research",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-25T14:22:04.000Z"
+    },
+    {
+      "id": "openai-news-jalapeno-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-25T07:00:00.000Z"
+    },
+    {
       "id": "infoq-ai-ml-data-engineering-microsoft-moves-ai-governance-from-policy-to-runtime-enforcement",
       "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
       "summary": "Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili",
@@ -49,20 +91,6 @@
         "Policy"
       ],
       "publishedAt": "2026-08-24T13:49:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "sourceName": "TechCrunch AI",
-      "score": 9,
-      "tags": [
-        "Hot News",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-08-22T19:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-openai-is-building-ai-agents-for-everything-will-everyone-use-them",
@@ -78,17 +106,16 @@
       "publishedAt": "2026-08-24T15:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-kids-outlearn-ai-and-we-still-don-t-know-why",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,…",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
+      "id": "openai-news-introducing-the-admin-plugin-for-chatgpt-work-and-codex",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
-        "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-08-24T09:00:00.000Z"
+      "publishedAt": "2026-08-25T00:00:00.000Z"
     },
     {
       "id": "openai-news-advancing-price-performance-for-developers-with-gpt-5-6-in-kiro",
@@ -104,69 +131,42 @@
       "publishedAt": "2026-08-24T12:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-how-to-encourage-smarter-ai-use-in-the-classroom",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "sourceName": "MIT Technology Review",
+      "id": "openai-news-the-full-stack-behind-abundant-intelligence",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-25T07:05:00.000Z"
+    },
+    {
+      "id": "the-decoder-meta-s-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october",
+      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+      "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder .",
+      "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+      "sourceName": "The Decoder",
       "score": 8.4,
       "tags": [
         "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-24T14:20:19.000Z"
-    },
-    {
-      "id": "dactyl-dev-deno-team-releases-dactyl-an-ai-app-builder-that-runs-on-your-chatgpt-plan",
-      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
-      "summary": "Tin AI từ Hacker News AI về \"Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://dactyl.dev/",
-      "sourceName": "dactyl.dev",
-      "score": 8.3,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-24T20:45:07.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-google-s-heir-aims-to-make-homomorphic-encrypted-inference-a-one-click-capability",
-      "title": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability",
-      "summary": "Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted computation easier to deploy. In particular, HEIR can compile pre-trained AI models built for conventional, unencrypted inputs so they can instead operate on encrypted data. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
-      "tags": [
         "Model",
-        "Infra"
+        "Agent AI"
       ],
-      "publishedAt": "2026-08-23T18:00:00.000Z"
+      "publishedAt": "2026-08-25T13:43:40.000Z"
     },
     {
-      "id": "techcrunch-ai-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-complicated",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "id": "techcrunch-ai-claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "sourceName": "TechCrunch AI",
-      "score": 8.1,
+      "score": 7.8,
       "tags": [
-        "Model",
-        "Policy"
+        "Model"
       ],
-      "publishedAt": "2026-08-23T15:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues",
-      "title": "AI could make scientists do more work less well, not less work better, study argues",
-      "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In two out of three modeled scenarios, the quality of individual publications drops....",
-      "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
-      "sourceName": "The Decoder",
-      "score": 8.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-23T09:01:17.000Z"
+      "publishedAt": "2026-08-25T17:50:33.000Z"
     }
   ]
 }
