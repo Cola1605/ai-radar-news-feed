@@ -1,69 +1,107 @@
 {
-  "generatedAt": "2026-08-25T21:49:21.735Z",
-  "latestPublishedAt": "2026-08-25T17:50:33.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-08-26",
+  "generatedAt": "2026-08-27T00:54:28.926Z",
+  "latestPublishedAt": "2026-08-26T19:05:22.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-08-27",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 170,
+  "totalCount": 178,
   "items": [
     {
-      "id": "the-decoder-google-launches-gemini-for-legal-work-to-automate-contracts-and-research",
-      "title": "Google launches Gemini for legal work to automate contracts and research",
-      "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other products....",
-      "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
-      "sourceName": "The Decoder",
+      "id": "mit-technology-review-the-inside-story-on-why-openai-agents-hacked-hugging-face",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "sourceName": "MIT Technology Review",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
         "Agent AI",
-        "Research",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-08-25T16:21:09.000Z"
+      "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
-      "id": "the-decoder-pew-study-confirms-sharp-rise-of-ai-written-text-on-the-web-since-chatgpt-s-launch",
-      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
-      "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content than .edu or .gov domains....",
-      "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+      "id": "the-decoder-alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency",
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+      "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding and office benchmarks, adding more pricing pressure on OpenAI and Anthropic....",
+      "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
       "sourceName": "The Decoder",
-      "score": 9.6,
+      "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-08-24T18:22:49.000Z"
+      "publishedAt": "2026-08-26T14:40:09.000Z"
     },
     {
-      "id": "the-decoder-taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks",
-      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
-      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code. A UK study shows the cyber capabilities of open models are catching up fast....",
-      "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "openai-news-the-hugging-face-incident-and-the-road-ahead",
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-08-25T08:40:14.000Z"
+      "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-s-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "id": "techcrunch-ai-surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
       "sourceName": "TechCrunch AI",
       "score": 9.3,
       "tags": [
         "Hot News",
-        "Research",
-        "Infra"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-08-25T14:22:04.000Z"
+      "publishedAt": "2026-08-26T14:19:29.000Z"
+    },
+    {
+      "id": "the-decoder-chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google",
+      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
+      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder .",
+      "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
+      "sourceName": "The Decoder",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-26T11:54:17.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-releases-its-official-report-on-the-hugging-face-breach",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-26T19:05:22.000Z"
+    },
+    {
+      "id": "the-decoder-sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition",
+      "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+      "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki....",
+      "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-08-26T17:30:29.000Z"
     },
     {
       "id": "openai-news-jalapeno-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference",
@@ -79,56 +117,32 @@
       "publishedAt": "2026-08-25T07:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-microsoft-moves-ai-governance-from-policy-to-runtime-enforcement",
-      "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
-      "summary": "Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili",
-      "url": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "infoq-ai-ml-data-engineering-presentation-can-claude-fix-itself-using-llms-for-incident-response",
+      "title": "Presentation: Can Claude Fix Itself? Using LLMs for Incident Response",
+      "summary": "Anthropic reliability engineer Alex Palcuie shares practical lessons on using LLMs for real-world incident response. He explains where AI acts as a superhuman for observing logs and traces, why it still struggles with causation versus correlation during root-cause analysis, and how engineering leaders can integrate AI into on-call workflows without eroding human expertise. By Alex Palcuie",
+      "url": "https://www.infoq.com/presentations/claude-sre-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.1,
-      "tags": [
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-24T13:49:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-is-building-ai-agents-for-everything-will-everyone-use-them",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.7,
       "tags": [
         "Model",
-        "Agent AI"
+        "Agent AI",
+        "Infra"
       ],
-      "publishedAt": "2026-08-24T15:00:00.000Z"
+      "publishedAt": "2026-08-26T11:00:00.000Z"
     },
     {
-      "id": "openai-news-introducing-the-admin-plugin-for-chatgpt-work-and-codex",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
+      "id": "techcrunch-ai-querystory-wants-you-to-believe-what-ai-is-telling-you",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
       "tags": [
-        "Model"
+        "Model",
+        "Policy",
+        "Business"
       ],
-      "publishedAt": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "id": "openai-news-advancing-price-performance-for-developers-with-gpt-5-6-in-kiro",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-08-24T12:00:00.000Z"
+      "publishedAt": "2026-08-26T13:00:00.000Z"
     },
     {
       "id": "openai-news-the-full-stack-behind-abundant-intelligence",
@@ -143,10 +157,10 @@
       "publishedAt": "2026-08-25T07:05:00.000Z"
     },
     {
-      "id": "the-decoder-meta-s-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october",
-      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
-      "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder .",
-      "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+      "id": "the-decoder-ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0",
+      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
+      "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own. All models are available under the Apache 2.0 license....",
+      "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/",
       "sourceName": "The Decoder",
       "score": 8.4,
       "tags": [
@@ -154,19 +168,7 @@
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-08-25T13:43:40.000Z"
-    },
-    {
-      "id": "techcrunch-ai-claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-25T17:50:33.000Z"
+      "publishedAt": "2026-08-26T10:37:56.000Z"
     }
   ]
 }
