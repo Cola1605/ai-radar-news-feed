@@ -1,13 +1,43 @@
 {
-  "generatedAt": "2026-08-27T00:54:28.926Z",
-  "latestPublishedAt": "2026-08-26T19:05:22.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-08-27",
+  "generatedAt": "2026-08-28T05:29:55.073Z",
+  "latestPublishedAt": "2026-08-27T17:43:24.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-08-28",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 178,
+  "totalCount": 182,
   "items": [
+    {
+      "id": "the-decoder-openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust",
+      "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
+      "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems. The warning comes as OpenAI unveils a new AI chip that significantly outperforms current hardware in inference speed....",
+      "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-27T15:04:20.000Z"
+    },
+    {
+      "id": "the-decoder-glm-5-3-flash-matches-top-models-at-a-fraction-of-the-cost-and-runs-without-nvidia",
+      "title": "GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia",
+      "summary": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters that lands just three points behind the larger GLM-5.3 on Artificial Analysis's Intelligence Index, at a seventh of the cost. What's notable is that all of the inference traffic ran on Chinese AI chips instead of Nvidia hardware....",
+      "url": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-27T10:24:49.000Z"
+    },
     {
       "id": "mit-technology-review-the-inside-story-on-why-openai-agents-hacked-hugging-face",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -24,31 +54,17 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
-      "id": "the-decoder-alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency",
-      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
-      "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding and office benchmarks, adding more pricing pressure on OpenAI and Anthropic....",
-      "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+      "id": "the-decoder-nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away",
+      "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
+      "summary": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest billions in open AI models while closed providers like OpenAI and Anthropic move away from Nvidia hardware. The article Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away appeared first on The Decoder .",
+      "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
       "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-26T14:40:09.000Z"
-    },
-    {
-      "id": "openai-news-the-hugging-face-incident-and-the-road-ahead",
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
+      "score": 9.3,
       "tags": [
         "Model",
-        "Policy"
+        "Business"
       ],
-      "publishedAt": "2026-08-26T00:00:00.000Z"
+      "publishedAt": "2026-08-27T07:14:38.000Z"
     },
     {
       "id": "techcrunch-ai-surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model",
@@ -65,17 +81,18 @@
       "publishedAt": "2026-08-26T14:19:29.000Z"
     },
     {
-      "id": "the-decoder-chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google",
-      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
-      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder .",
-      "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
+      "id": "the-decoder-openai-s-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+      "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+      "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure. Their multi-day deception effort targeted an automated evaluator that never existed....",
+      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
       "sourceName": "The Decoder",
-      "score": 9.3,
+      "score": 9.2,
       "tags": [
-        "Model",
-        "Business"
+        "Agent AI",
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-08-26T11:54:17.000Z"
+      "publishedAt": "2026-08-27T16:19:46.000Z"
     },
     {
       "id": "techcrunch-ai-openai-releases-its-official-report-on-the-hugging-face-breach",
@@ -91,30 +108,42 @@
       "publishedAt": "2026-08-26T19:05:22.000Z"
     },
     {
-      "id": "the-decoder-sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition",
-      "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
-      "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki....",
-      "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
+      "id": "openai-news-the-hugging-face-incident-and-the-road-ahead",
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "sourceName": "OpenAI News",
+      "score": 9,
       "tags": [
         "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-08-26T17:30:29.000Z"
+      "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "openai-news-jalapeno-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
+      "id": "techcrunch-ai-here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-27T14:01:42.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-download-inside-openai-s-hugging-face-hack-and-a-new-ev-takes-on-the-us",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
       "tags": [
         "Model",
-        "Infra"
+        "Agent AI"
       ],
-      "publishedAt": "2026-08-25T07:00:00.000Z"
+      "publishedAt": "2026-08-27T12:10:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-presentation-can-claude-fix-itself-using-llms-for-incident-response",
@@ -131,44 +160,16 @@
       "publishedAt": "2026-08-26T11:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-querystory-wants-you-to-believe-what-ai-is-telling-you",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "id": "techcrunch-ai-openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "sourceName": "TechCrunch AI",
-      "score": 8.6,
+      "score": 8.5,
       "tags": [
-        "Model",
-        "Policy",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-08-26T13:00:00.000Z"
-    },
-    {
-      "id": "openai-news-the-full-stack-behind-abundant-intelligence",
-      "title": "The full stack behind abundant intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-25T07:05:00.000Z"
-    },
-    {
-      "id": "the-decoder-ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0",
-      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
-      "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own. All models are available under the Apache 2.0 license....",
-      "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-26T10:37:56.000Z"
+      "publishedAt": "2026-08-27T17:43:24.000Z"
     }
   ]
 }
