@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-29T03:12:40.104Z",
-  "latestPublishedAt": "2026-08-28T19:30:38.000Z",
+  "generatedAt": "2026-08-29T23:26:48.236Z",
+  "latestPublishedAt": "2026-08-29T18:41:59.000Z",
   "newItemCount": 6,
-  "dateKey": "2026-08-29",
+  "dateKey": "2026-08-30",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 178,
+  "totalCount": 179,
   "items": [
     {
       "id": "the-decoder-ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it",
@@ -23,49 +23,31 @@
       "publishedAt": "2026-08-28T13:15:10.000Z"
     },
     {
-      "id": "the-decoder-openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust",
-      "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
-      "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems. The warning comes as OpenAI unveils a new AI chip that significantly outperforms current hardware in inference speed....",
-      "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+      "id": "the-decoder-openai-cuts-off-cursor-after-spacex-acquisition-citing-musk-s-history-of-breaking-contracts",
+      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9.3,
       "tags": [
-        "Hot News",
         "Model",
-        "Research",
-        "Policy",
-        "Infra"
+        "Business"
       ],
-      "publishedAt": "2026-08-27T15:04:20.000Z"
+      "publishedAt": "2026-08-29T13:33:35.000Z"
     },
     {
-      "id": "mit-technology-review-the-inside-story-on-why-openai-agents-hacked-hugging-face",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-26T19:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-s-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-      "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure. Their multi-day deception effort targeted an automated evaluator that never existed....",
-      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
+      "id": "the-decoder-google-s-wikiskill-gives-ai-agents-a-persistent-memory-of-past-mistakes-to-sharpen-future-performance",
+      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match the performance of larger ones without it....",
+      "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
       "sourceName": "The Decoder",
       "score": 9.2,
       "tags": [
+        "Model",
         "Agent AI",
-        "Research",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-08-27T16:19:46.000Z"
+      "publishedAt": "2026-08-29T12:51:24.000Z"
     },
     {
       "id": "openai-news-our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -93,41 +75,33 @@
       "publishedAt": "2026-08-28T02:00:00.000Z"
     },
     {
-      "id": "the-decoder-google-s-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible",
-      "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-      "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds. A new 360p draft mode runs up to 60 percent faster at a third of the cost....",
-      "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
+      "id": "the-decoder-laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research",
+      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+      "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows collecting copyrighted content for non-commercial research....",
+      "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
-        "Model"
+        "Model",
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-08-27T17:01:28.000Z"
+      "publishedAt": "2026-08-29T09:36:48.000Z"
     },
     {
-      "id": "techcrunch-ai-here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-27T14:01:42.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-download-inside-openai-s-hugging-face-hack-and-a-new-ev-takes-on-the-us",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
+      "id": "infoq-ai-ml-data-engineering-freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-via-dynamic-co-execution",
+      "title": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution",
+      "summary": "Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on consumer hardware. By implementing a dynamic scheduling policy and optimising weight management, FreeToken improves decoding speeds and execution efficiency in edge AI applications, fostering self-hosted reasoning systems. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.7,
       "tags": [
         "Model",
-        "Agent AI"
+        "Research",
+        "Policy",
+        "Infra"
       ],
-      "publishedAt": "2026-08-27T12:10:00.000Z"
+      "publishedAt": "2026-08-29T05:05:00.000Z"
     },
     {
       "id": "techcrunch-ai-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
@@ -154,16 +128,43 @@
       "publishedAt": "2026-08-28T12:46:12.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "id": "infoq-ai-ml-data-engineering-presentation-architecting-the-data-layer-for-ai-agents-from-transactional-systems-to-mcp-and-semantic-models",
+      "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+      "summary": "Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents. She discusses balancing deterministic logic and non-deterministic LLMs across precision, security, and cost. Nardon details using data mesh, low-latency database architectures, semantic ontologies, and dynamic MCP tool selection to optimize context windows and reduce token overhead in transactional systems. By Fabiane Nardon",
+      "url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.4,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-08-29T11:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 8.2,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-08-27T14:01:42.000Z"
+    },
+    {
+      "id": "techcrunch-ai-sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
       "tags": [
         "Policy"
       ],
-      "publishedAt": "2026-08-27T17:43:24.000Z"
+      "publishedAt": "2026-08-29T18:41:59.000Z"
     }
   ]
 }
