@@ -1,27 +1,13 @@
 {
-  "generatedAt": "2026-08-29T23:26:48.236Z",
-  "latestPublishedAt": "2026-08-29T18:41:59.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-08-30",
+  "generatedAt": "2026-08-30T23:37:39.502Z",
+  "latestPublishedAt": "2026-08-30T19:00:00.000Z",
+  "newItemCount": 3,
+  "dateKey": "2026-08-31",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 179,
+  "totalCount": 174,
   "items": [
-    {
-      "id": "the-decoder-ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it",
-      "title": "AI benchmarks have a trust problem and Google wants to fix it",
-      "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights. The pilot project with the Singapore AI Safety Institute uses a Gemini Flash Lite and could set a new standard for tamper-proof AI benchmarks....",
-      "url": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-28T13:15:10.000Z"
-    },
     {
       "id": "the-decoder-openai-cuts-off-cursor-after-spacex-acquisition-citing-musk-s-history-of-breaking-contracts",
       "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
@@ -50,31 +36,6 @@
       "publishedAt": "2026-08-29T12:51:24.000Z"
     },
     {
-      "id": "openai-news-our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-28T06:00:00.000Z"
-    },
-    {
-      "id": "openai-news-supporting-thailand-s-next-generation-of-ai-startups",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-08-28T02:00:00.000Z"
-    },
-    {
       "id": "the-decoder-laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research",
       "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
       "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows collecting copyrighted content for non-commercial research....",
@@ -87,6 +48,19 @@
         "Policy"
       ],
       "publishedAt": "2026-08-29T09:36:48.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software",
+      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+      "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now....",
+      "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-08-29T09:14:30.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-via-dynamic-co-execution",
@@ -104,32 +78,8 @@
       "publishedAt": "2026-08-29T05:05:00.000Z"
     },
     {
-      "id": "techcrunch-ai-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.6,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-08-28T19:30:38.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-risk-label",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-08-28T12:46:12.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-presentation-architecting-the-data-layer-for-ai-agents-from-transactional-systems-to-mcp-and-semantic-models",
-      "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+      "title": "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models",
       "summary": "Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents. She discusses balancing deterministic logic and non-deterministic LLMs across precision, security, and cost. Nardon details using data mesh, low-latency database architectures, semantic ontologies, and dynamic MCP tool selection to optimize context windows and reduce token overhead in transactional systems. By Fabiane Nardon",
       "url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
@@ -143,16 +93,29 @@
       "publishedAt": "2026-08-29T11:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
+      "id": "openai-news-our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
       "tags": [
-        "Model"
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-08-27T14:01:42.000Z"
+      "publishedAt": "2026-08-28T06:00:00.000Z"
+    },
+    {
+      "id": "openai-news-supporting-thailand-s-next-generation-of-ai-startups",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-08-28T02:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
@@ -165,6 +128,44 @@
         "Policy"
       ],
       "publishedAt": "2026-08-29T18:41:59.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-cloudflare-extends-ai-search-to-make-it-easier-for-agents-and-developers-to-search-custom-data",
+      "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
+      "summary": "Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integration, multimodal search, and seamless integration with other Cloudflare tools. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
+      "tags": [
+        "Agent AI",
+        "Research",
+        "Infra"
+      ],
+      "publishedAt": "2026-08-30T19:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-nvidia-s-ai-advantage-is-moving-beyond-the-gpu",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-08-29T13:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-08-28T19:30:38.000Z"
     }
   ]
 }
