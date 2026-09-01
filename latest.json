@@ -1,26 +1,94 @@
 {
-  "generatedAt": "2026-09-01T00:41:07.135Z",
-  "latestPublishedAt": "2026-08-31T20:13:45.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-09-01",
+  "generatedAt": "2026-09-01T23:25:11.902Z",
+  "latestPublishedAt": "2026-09-01T21:06:24.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-09-02",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 174,
+  "totalCount": 182,
   "items": [
     {
-      "id": "the-decoder-openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents",
-      "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
-      "summary": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 29 percent to $10.4 billion in the June quarter....",
-      "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
-      "sourceName": "The Decoder",
-      "score": 9.3,
+      "id": "techcrunch-ai-open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
       "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-01T21:06:24.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-s-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less",
+      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+      "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls. The article Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
         "Model",
         "Agent AI",
-        "Business"
+        "Research"
       ],
-      "publishedAt": "2026-08-31T08:55:12.000Z"
+      "publishedAt": "2026-09-01T20:32:55.000Z"
+    },
+    {
+      "id": "openai-news-path-to-astra-critical-capabilities-and-frontier-safeguards",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "url": "https://openai.com/index/path-to-astra",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others",
+      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+      "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use....",
+      "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+      "sourceName": "The Decoder",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-09-01T20:40:36.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-s-new-fable-release-is-cheaper-less-restrictive",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-01T19:39:22.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-agentic-video-understanding-with-gemini",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing agentic video understanding with Gemini\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-01T17:08:51.000Z"
     },
     {
       "id": "openai-news-polimill-builds-japan-s-next-generation-public-ai-infrastructure",
@@ -31,6 +99,31 @@
       "score": 9.1,
       "tags": [
         "Model"
+      ],
+      "publishedAt": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-google-deepmind-s-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters",
+      "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+      "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google Deepmind's new chief says frontier AI leadership is the only thing that matters appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-01T16:49:11.000Z"
+    },
+    {
+      "id": "openai-news-openai-supports-california-s-bill-to-advance-youth-ai-safety",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Policy",
+        "Infra"
       ],
       "publishedAt": "2026-08-31T07:00:00.000Z"
     },
@@ -48,6 +141,19 @@
       "publishedAt": "2026-08-31T04:00:00.000Z"
     },
     {
+      "id": "the-decoder-runway-s-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time",
+      "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
+      "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it. The article Runway's Solaris is an AI system that generates software interfaces in real time appeared first on The Decoder .",
+      "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-01T12:53:46.000Z"
+    },
+    {
       "id": "mit-technology-review-the-hugging-face-hack-could-indicate-cultural-issues-at-openai",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
@@ -59,112 +165,6 @@
         "Policy"
       ],
       "publishedAt": "2026-08-31T18:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-foundry-model-router-expands-from-two-regions-to-28-refreshing-its-model-pool",
-      "title": "Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool",
-      "summary": "Microsoft expanded Foundry's model router from two regions to 28 for global standard and 21 for data zone deployments, while adding Claude Opus 4.8 and GPT-5.6 and removing four deprecated models. Default deployments receive pool changes automatically; configured subsets exclude new models until added. The effective context window equals the smallest model in the pool. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
-      "tags": [
-        "Model",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-31T10:18:00.000Z"
-    },
-    {
-      "id": "google-research-timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "summary": "Tin AI từ Google Research về \"TimesFM-3: A zero-shot foundation model for multivariate forecasting\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-      "sourceName": "Google Research",
-      "score": 8.2,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-08-31T17:19:40.000Z"
-    },
-    {
-      "id": "the-decoder-bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis",
-      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
-      "summary": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries still lack rules for advanced AI....",
-      "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
-      "sourceName": "The Decoder",
-      "score": 8,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-31T18:01:21.000Z"
-    },
-    {
-      "id": "the-decoder-chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine",
-      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
-      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other things. Whether the Commission can also demand access to training data is disputed among legal experts....",
-      "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
-      "sourceName": "The Decoder",
-      "score": 8,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-31T14:31:37.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-cloudflare-extends-ai-search-to-make-it-easier-for-agents-and-developers-to-search-custom-data",
-      "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
-      "summary": "Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integration, multimodal search, and seamless integration with other Cloudflare tools. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Agent AI",
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-30T19:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-via-dynamic-co-execution",
-      "title": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution",
-      "summary": "Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on consumer hardware. By implementing a dynamic scheduling policy and optimising weight management, FreeToken improves decoding speeds and execution efficiency in edge AI applications, fostering self-hosted reasoning systems. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-29T05:05:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-31T20:13:45.000Z"
-    },
-    {
-      "id": "the-decoder-openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate",
-      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
-      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
-      "sourceName": "The Decoder",
-      "score": 7.8,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-31T15:24:59.000Z"
     }
   ]
 }
