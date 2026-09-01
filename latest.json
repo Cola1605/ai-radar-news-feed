@@ -1,133 +1,116 @@
 {
-  "generatedAt": "2026-08-30T23:37:39.502Z",
-  "latestPublishedAt": "2026-08-30T19:00:00.000Z",
-  "newItemCount": 3,
-  "dateKey": "2026-08-31",
+  "generatedAt": "2026-09-01T00:41:07.135Z",
+  "latestPublishedAt": "2026-08-31T20:13:45.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-09-01",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 174,
   "items": [
     {
-      "id": "the-decoder-openai-cuts-off-cursor-after-spacex-acquisition-citing-musk-s-history-of-breaking-contracts",
-      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+      "id": "the-decoder-openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents",
+      "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
+      "summary": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 29 percent to $10.4 billion in the June quarter....",
+      "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
       "sourceName": "The Decoder",
       "score": 9.3,
       "tags": [
         "Model",
+        "Agent AI",
         "Business"
       ],
-      "publishedAt": "2026-08-29T13:33:35.000Z"
+      "publishedAt": "2026-08-31T08:55:12.000Z"
     },
     {
-      "id": "the-decoder-google-s-wikiskill-gives-ai-agents-a-persistent-memory-of-past-mistakes-to-sharpen-future-performance",
-      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
-      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match the performance of larger ones without it....",
-      "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
+      "id": "openai-news-polimill-builds-japan-s-next-generation-public-ai-infrastructure",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "url": "https://openai.com/index/polimill",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
+        "Model"
       ],
-      "publishedAt": "2026-08-29T12:51:24.000Z"
+      "publishedAt": "2026-08-31T07:00:00.000Z"
     },
     {
-      "id": "the-decoder-laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research",
-      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
-      "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows collecting copyrighted content for non-commercial research....",
-      "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
+      "id": "openai-news-a-milestone-in-expanding-access-to-ai",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
       "tags": [
         "Model",
-        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-hugging-face-hack-could-indicate-cultural-issues-at-openai",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.4,
+      "tags": [
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-08-29T09:36:48.000Z"
+      "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
-      "id": "the-decoder-anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software",
-      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
-      "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now....",
-      "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-08-29T09:14:30.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-via-dynamic-co-execution",
-      "title": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution",
-      "summary": "Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on consumer hardware. By implementing a dynamic scheduling policy and optimising weight management, FreeToken improves decoding speeds and execution efficiency in edge AI applications, fostering self-hosted reasoning systems. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "infoq-ai-ml-data-engineering-foundry-model-router-expands-from-two-regions-to-28-refreshing-its-model-pool",
+      "title": "Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool",
+      "summary": "Microsoft expanded Foundry's model router from two regions to 28 for global standard and 21 for data zone deployments, while adding Claude Opus 4.8 and GPT-5.6 and removing four deprecated models. Default deployments receive pool changes automatically; configured subsets exclude new models until added. The effective context window equals the smallest model in the pool. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.7,
+      "score": 8.3,
       "tags": [
         "Model",
-        "Research",
-        "Policy",
         "Infra"
       ],
-      "publishedAt": "2026-08-29T05:05:00.000Z"
+      "publishedAt": "2026-08-31T10:18:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-presentation-architecting-the-data-layer-for-ai-agents-from-transactional-systems-to-mcp-and-semantic-models",
-      "title": "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models",
-      "summary": "Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents. She discusses balancing deterministic logic and non-deterministic LLMs across precision, security, and cost. Nardon details using data mesh, low-latency database architectures, semantic ontologies, and dynamic MCP tool selection to optimize context windows and reduce token overhead in transactional systems. By Fabiane Nardon",
-      "url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
+      "id": "google-research-timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
+      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+      "summary": "Tin AI từ Google Research về \"TimesFM-3: A zero-shot foundation model for multivariate forecasting\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "sourceName": "Google Research",
+      "score": 8.2,
       "tags": [
         "Model",
-        "Agent AI",
-        "Policy",
-        "Business"
+        "Research"
       ],
-      "publishedAt": "2026-08-29T11:00:00.000Z"
+      "publishedAt": "2026-08-31T17:19:40.000Z"
     },
     {
-      "id": "openai-news-our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
+      "id": "the-decoder-bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis",
+      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+      "summary": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries still lack rules for advanced AI....",
+      "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
+      "sourceName": "The Decoder",
+      "score": 8,
       "tags": [
         "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-08-28T06:00:00.000Z"
-    },
-    {
-      "id": "openai-news-supporting-thailand-s-next-generation-of-ai-startups",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-08-28T02:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
         "Policy"
       ],
-      "publishedAt": "2026-08-29T18:41:59.000Z"
+      "publishedAt": "2026-08-31T18:01:21.000Z"
+    },
+    {
+      "id": "the-decoder-chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine",
+      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other things. Whether the Commission can also demand access to training data is disputed among legal experts....",
+      "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
+      "sourceName": "The Decoder",
+      "score": 8,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-08-31T14:31:37.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-cloudflare-extends-ai-search-to-make-it-easier-for-agents-and-developers-to-search-custom-data",
@@ -144,28 +127,44 @@
       "publishedAt": "2026-08-30T19:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-nvidia-s-ai-advantage-is-moving-beyond-the-gpu",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
+      "id": "infoq-ai-ml-data-engineering-freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-via-dynamic-co-execution",
+      "title": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution",
+      "summary": "Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on consumer hardware. By implementing a dynamic scheduling policy and optimising weight management, FreeToken improves decoding speeds and execution efficiency in edge AI applications, fostering self-hosted reasoning systems. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
       "tags": [
-        "AI"
+        "Model",
+        "Research",
+        "Policy",
+        "Infra"
       ],
-      "publishedAt": "2026-08-29T13:00:00.000Z"
+      "publishedAt": "2026-08-29T05:05:00.000Z"
     },
     {
-      "id": "techcrunch-ai-an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "id": "techcrunch-ai-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "sourceName": "TechCrunch AI",
       "score": 7.8,
       "tags": [
-        "Research"
+        "Model"
       ],
-      "publishedAt": "2026-08-28T19:30:38.000Z"
+      "publishedAt": "2026-08-31T20:13:45.000Z"
+    },
+    {
+      "id": "the-decoder-openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate",
+      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
+      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
+      "sourceName": "The Decoder",
+      "score": 7.8,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-08-31T15:24:59.000Z"
     }
   ]
 }
