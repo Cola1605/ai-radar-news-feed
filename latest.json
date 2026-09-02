@@ -1,26 +1,13 @@
 {
-  "generatedAt": "2026-09-01T23:25:11.902Z",
-  "latestPublishedAt": "2026-09-01T21:06:24.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-09-02",
+  "generatedAt": "2026-09-02T23:24:56.629Z",
+  "latestPublishedAt": "2026-09-02T20:19:14.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-09-03",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 182,
+  "totalCount": 188,
   "items": [
-    {
-      "id": "techcrunch-ai-open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-01T21:06:24.000Z"
-    },
     {
       "id": "the-decoder-anthropic-s-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less",
       "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
@@ -51,6 +38,19 @@
       "publishedAt": "2026-09-01T13:00:00.000Z"
     },
     {
+      "id": "techcrunch-ai-openai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-01T21:06:24.000Z"
+    },
+    {
       "id": "the-decoder-anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others",
       "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
       "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use....",
@@ -78,6 +78,72 @@
       "publishedAt": "2026-09-01T19:39:22.000Z"
     },
     {
+      "id": "techcrunch-ai-openai-s-new-reasoning-technique-alarms-ai-safety-experts",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-02T20:19:14.000Z"
+    },
+    {
+      "id": "techcrunch-ai-us-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-02T17:09:06.000Z"
+    },
+    {
+      "id": "the-decoder-gemini-3-8-flash-is-google-s-third-budget-model-in-six-weeks-while-frontier-models-remain-mia",
+      "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+      "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical token rates....",
+      "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-02T16:59:29.000Z"
+    },
+    {
+      "id": "the-decoder-world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos",
+      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
+      "summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images. The company claims it beats specialized models by anchoring all inputs in 3D space rather than processing them as flat sequences. Atlas can also generate robot training data entirely in simulation....",
+      "url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-09-02T12:28:36.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-3-8-flash-and-3-8-flash-cyber",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Flash and 3.8 Flash Cyber\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-02T16:18:31.000Z"
+    },
+    {
       "id": "google-deepmind-introducing-agentic-video-understanding-with-gemini",
       "title": "Introducing agentic video understanding with Gemini",
       "summary": "Tin AI từ Google DeepMind về \"Introducing agentic video understanding with Gemini\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
@@ -91,80 +157,17 @@
       "publishedAt": "2026-09-01T17:08:51.000Z"
     },
     {
-      "id": "openai-news-polimill-builds-japan-s-next-generation-public-ai-infrastructure",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "url": "https://openai.com/index/polimill",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-08-31T07:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-google-deepmind-s-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters",
-      "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google Deepmind's new chief says frontier AI leadership is the only thing that matters appeared first on The Decoder .",
-      "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-01T16:49:11.000Z"
-    },
-    {
-      "id": "openai-news-openai-supports-california-s-bill-to-advance-youth-ai-safety",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-08-31T07:00:00.000Z"
-    },
-    {
-      "id": "openai-news-a-milestone-in-expanding-access-to-ai",
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "id": "openai-news-how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "url": "https://openai.com/index/gilbert-tobin",
       "sourceName": "OpenAI News",
       "score": 8.6,
       "tags": [
         "Model",
         "Business"
       ],
-      "publishedAt": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-runway-s-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time",
-      "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
-      "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it. The article Runway's Solaris is an AI system that generates software interfaces in real time appeared first on The Decoder .",
-      "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-01T12:53:46.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-hugging-face-hack-could-indicate-cultural-issues-at-openai",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.4,
-      "tags": [
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-08-31T18:00:00.000Z"
+      "publishedAt": "2026-09-01T01:00:00.000Z"
     }
   ]
 }
