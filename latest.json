@@ -1,18 +1,71 @@
 {
-  "generatedAt": "2026-09-02T23:24:56.629Z",
-  "latestPublishedAt": "2026-09-02T20:19:14.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-09-03",
+  "generatedAt": "2026-09-03T23:21:39.970Z",
+  "latestPublishedAt": "2026-09-03T19:25:40.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-09-04",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 188,
+  "totalCount": 189,
   "items": [
     {
-      "id": "the-decoder-anthropic-s-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less",
-      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-      "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls. The article Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+      "id": "the-decoder-gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+      "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it independently found two previously unknown zero-day vulnerabilities....",
+      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-03T19:25:40.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-launches-astra-its-powerful-and-controversial-new-model",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-03T18:01:45.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing WeatherNext 3, our most advanced and accurate global weather AI model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "sourceName": "Google DeepMind",
+      "score": 9.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-03T15:02:08.000Z"
+    },
+    {
+      "id": "openai-news-daybreak-for-frontline-defenders-1b-to-protect-essential-services",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-03T13:15:00.000Z"
+    },
+    {
+      "id": "the-decoder-meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price",
+      "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+      "summary": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models. The strongest argument is price. At $0.55 per task, Muse Spark undercuts every comparably scored rival....",
+      "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
@@ -21,7 +74,7 @@
         "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-09-01T20:32:55.000Z"
+      "publishedAt": "2026-09-03T11:45:41.000Z"
     },
     {
       "id": "openai-news-path-to-astra-critical-capabilities-and-frontier-safeguards",
@@ -36,46 +89,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-01T13:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-01T21:06:24.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others",
-      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
-      "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use....",
-      "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
-      "sourceName": "The Decoder",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-01T20:40:36.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-s-new-fable-release-is-cheaper-less-restrictive",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-01T19:39:22.000Z"
     },
     {
       "id": "techcrunch-ai-openai-s-new-reasoning-technique-alarms-ai-safety-experts",
@@ -118,18 +131,32 @@
       "publishedAt": "2026-09-02T16:59:29.000Z"
     },
     {
-      "id": "the-decoder-world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos",
-      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
-      "summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images. The company claims it beats specialized models by anchoring all inputs in 3D space rather than processing them as flat sequences. Atlas can also generate robot training data entirely in simulation....",
-      "url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-cohere-s-parse-5-promises-efficient-multi-modal-information-extraction-from-complex-documents",
+      "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents",
+      "summary": "Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents. The 2.3-billion-parameter system converts visually rich PDFs into Markdown while providing bounding box coordinates for visual grounding. It has been evaluated against over 2,000 enterprise pages, achieving an average score of 79.2 in key performance areas. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 9.2,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Research",
+        "Business"
       ],
-      "publishedAt": "2026-09-02T12:28:36.000Z"
+      "publishedAt": "2026-09-03T06:06:00.000Z"
     },
     {
       "id": "google-deepmind-introducing-gemini-3-8-flash-and-3-8-flash-cyber",
@@ -142,32 +169,6 @@
         "Model"
       ],
       "publishedAt": "2026-09-02T16:18:31.000Z"
-    },
-    {
-      "id": "google-deepmind-introducing-agentic-video-understanding-with-gemini",
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing agentic video understanding with Gemini\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-01T17:08:51.000Z"
-    },
-    {
-      "id": "openai-news-how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-09-01T01:00:00.000Z"
     }
   ]
 }
