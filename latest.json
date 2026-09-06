@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-09-05T23:02:19.670Z",
-  "latestPublishedAt": "2026-09-05T18:21:02.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-09-06",
+  "generatedAt": "2026-09-06T22:56:01.046Z",
+  "latestPublishedAt": "2026-09-06T20:26:45.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-09-07",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 178,
+  "totalCount": 179,
   "items": [
+    {
+      "id": "the-decoder-google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model",
+      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content. The article Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-06T09:56:24.000Z"
+    },
     {
       "id": "infoq-ai-ml-data-engineering-beyond-zero-google-publishes-successor-to-beyondcorp",
       "title": "Beyond Zero: Google Publishes Successor to BeyondCorp",
@@ -24,19 +37,6 @@
       "publishedAt": "2026-09-05T10:40:00.000Z"
     },
     {
-      "id": "openai-news-gpt-6-astra-a-new-generation-of-intelligence",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-03T11:00:00.000Z"
-    },
-    {
       "id": "the-decoder-openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki",
       "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
       "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki appeared first on The Decoder .",
@@ -49,57 +49,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-05T10:57:51.000Z"
-    },
-    {
-      "id": "techcrunch-ai-apple-s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-04T16:04:08.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-launches-astra-its-powerful-and-controversial-new-model",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-03T18:01:45.000Z"
-    },
-    {
-      "id": "openai-news-daybreak-for-frontline-defenders-1b-to-protect-essential-services",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "sourceName": "OpenAI News",
-      "score": 9.5,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-03T13:15:00.000Z"
-    },
-    {
-      "id": "google-deepmind-introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing WeatherNext 3, our most advanced and accurate global weather AI model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "sourceName": "Google DeepMind",
-      "score": 9.4,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-03T15:02:08.000Z"
     },
     {
       "id": "techcrunch-ai-openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
@@ -144,12 +93,38 @@
       "publishedAt": "2026-09-05T12:39:12.000Z"
     },
     {
+      "id": "techcrunch-ai-apple-s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-04T16:04:08.000Z"
+    },
+    {
+      "id": "openai-news-research-acceleration-the-view-inside-openai",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-06T08:00:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-lab-s-knowledge",
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "sourceName": "TechCrunch AI",
-      "score": 9.1,
+      "score": 8.4,
       "tags": [
         "Model",
         "Agent AI",
@@ -158,17 +133,41 @@
       "publishedAt": "2026-09-04T16:21:11.000Z"
     },
     {
-      "id": "the-decoder-openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 Astra Pro with separate weekly caps....",
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
+      "id": "techcrunch-ai-seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
       "tags": [
-        "Model",
-        "Business"
+        "AI"
       ],
-      "publishedAt": "2026-09-05T07:41:03.000Z"
+      "publishedAt": "2026-09-05T22:49:55.000Z"
+    },
+    {
+      "id": "provenbrief-com-google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
+      "title": "Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?",
+      "summary": "Tin AI từ Hacker News AI về \"Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://provenbrief.com/story/google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
+      "sourceName": "provenbrief.com",
+      "score": 7.2,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-06T20:26:45.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-how-figma-uses-ai-agents-for-security",
+      "title": "How Figma Uses AI Agents for Security",
+      "summary": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigations, reducing repetitive work and helping engineers resolve complex alerts about 70% faster. By Renato Losio",
+      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 6.9,
+      "tags": [
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-06T06:59:00.000Z"
     }
   ]
 }
