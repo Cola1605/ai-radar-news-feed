@@ -1,25 +1,65 @@
 {
-  "generatedAt": "2026-09-06T22:56:01.046Z",
-  "latestPublishedAt": "2026-09-06T20:26:45.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-09-07",
+  "generatedAt": "2026-09-07T23:36:47.450Z",
+  "latestPublishedAt": "2026-09-07T18:54:08.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-09-08",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 179,
+  "totalCount": 180,
   "items": [
     {
-      "id": "the-decoder-google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model",
-      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
-      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content. The article Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model appeared first on The Decoder .",
-      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+      "id": "the-decoder-how-ai-wiped-out-an-entire-industry-in-nairobi",
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder .",
+      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-09-07T13:18:57.000Z"
+    },
+    {
+      "id": "the-decoder-openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time",
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep scaling at maximum speed....",
+      "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-07T13:05:22.000Z"
+    },
+    {
+      "id": "the-decoder-qwen-drive-1-0-tells-you-why-it-brakes-just-don-t-expect-the-explanation-to-match-the-maneuver",
+      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained on purpose. The goal is a single model that runs both the cockpit and the driving system....",
+      "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
         "Hot News",
-        "Model"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-09-06T09:56:24.000Z"
+      "publishedAt": "2026-09-07T12:15:54.000Z"
+    },
+    {
+      "id": "openai-news-supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-09-07T00:00:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-beyond-zero-google-publishes-successor-to-beyondcorp",
@@ -27,7 +67,7 @@
       "summary": "In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic AI-driven decisions to enable machine-speed enforcement for humans and agents. By Renato Losio",
       "url": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "score": 9.1,
       "tags": [
         "Model",
         "Agent AI",
@@ -35,75 +75,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-05T10:40:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki",
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
-      "sourceName": "The Decoder",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-05T10:57:51.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.3,
-      "tags": [
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-04T23:15:11.000Z"
-    },
-    {
-      "id": "the-decoder-artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism",
-      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
-      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The article Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism appeared first on The Decoder .",
-      "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-05T18:21:02.000Z"
-    },
-    {
-      "id": "the-decoder-seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments",
-      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
-      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs about entirely different events....",
-      "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-05T12:39:12.000Z"
-    },
-    {
-      "id": "techcrunch-ai-apple-s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-04T16:04:08.000Z"
     },
     {
       "id": "openai-news-research-acceleration-the-view-inside-openai",
@@ -119,18 +90,52 @@
       "publishedAt": "2026-09-06T08:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-lab-s-knowledge",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.4,
+      "id": "the-decoder-chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists",
+      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+      "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an \"echo chamber of one\" that reinforces delusions....",
+      "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
       "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-09-04T16:21:11.000Z"
+      "publishedAt": "2026-09-06T11:57:12.000Z"
+    },
+    {
+      "id": "news-ycombinator-com-ask-hn-how-do-you-know-a-prompt-is-complex-for-an-ai-model",
+      "title": "Ask HN: How do you know a prompt is \"complex\" for an AI model?",
+      "summary": "I’m trying to balance API costs and latency in my applications. Right now, I default to frontier models (Claude Sonnet) because they are reliable, but I know I’m overpaying for tasks that smaller models (like Haiku, or lite open source models) could likely handle.",
+      "url": "https://news.ycombinator.com/item?id=49601670",
+      "sourceName": "news.ycombinator.com",
+      "score": 8.2,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-07T18:54:08.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-download-the-hunt-for-underground-hydrogen-and-more-rogue-openai-agents",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "sourceName": "MIT Technology Review",
+      "score": 7.3,
+      "tags": [
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-07T12:10:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.3,
+      "tags": [
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-06T20:47:37.000Z"
     },
     {
       "id": "techcrunch-ai-seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
@@ -138,36 +143,23 @@
       "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "sourceName": "TechCrunch AI",
-      "score": 7.8,
+      "score": 7.1,
       "tags": [
         "AI"
       ],
       "publishedAt": "2026-09-05T22:49:55.000Z"
     },
     {
-      "id": "provenbrief-com-google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
-      "title": "Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?",
-      "summary": "Tin AI từ Hacker News AI về \"Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://provenbrief.com/story/google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
-      "sourceName": "provenbrief.com",
-      "score": 7.2,
+      "id": "techcrunch-ai-openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosure",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.1,
       "tags": [
-        "Model"
+        "Agent AI"
       ],
-      "publishedAt": "2026-09-06T20:26:45.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-how-figma-uses-ai-agents-for-security",
-      "title": "How Figma Uses AI Agents for Security",
-      "summary": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigations, reducing repetitive work and helping engineers resolve complex alerts about 70% faster. By Renato Losio",
-      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 6.9,
-      "tags": [
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-06T06:59:00.000Z"
+      "publishedAt": "2026-09-05T18:05:27.000Z"
     }
   ]
 }
