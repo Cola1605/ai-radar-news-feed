@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-08T23:28:18.879Z",
-  "latestPublishedAt": "2026-09-08T21:10:27.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-09-09",
+  "generatedAt": "2026-09-09T23:22:15.604Z",
+  "latestPublishedAt": "2026-09-09T22:25:22.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-09-10",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 186,
+  "totalCount": 188,
   "items": [
     {
       "id": "openai-news-funding-grants-for-new-research-into-ai-and-teen-development",
@@ -23,29 +23,42 @@
       "publishedAt": "2026-09-08T09:00:00.000Z"
     },
     {
-      "id": "the-decoder-how-ai-wiped-out-an-entire-industry-in-nairobi",
-      "title": "How AI wiped out an entire industry in Nairobi",
-      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder .",
-      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "techcrunch-ai-openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
       "tags": [
-        "Model",
-        "Research"
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-09-07T13:18:57.000Z"
+      "publishedAt": "2026-09-09T22:25:22.000Z"
     },
     {
-      "id": "openai-news-supporting-independent-journalism-in-ukraine",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
+      "id": "the-decoder-anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade",
+      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
+      "summary": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more than ten percent....",
+      "url": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
-        "Hot News"
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-09-07T00:00:00.000Z"
+      "publishedAt": "2026-09-09T12:48:41.000Z"
+    },
+    {
+      "id": "openai-news-paul-christiano-joins-openai-foundation-board",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-09-09T17:00:00.000Z"
     },
     {
       "id": "openai-news-introducing-chatgpt-images-2-5",
@@ -60,6 +73,66 @@
       "publishedAt": "2026-09-08T11:30:00.000Z"
     },
     {
+      "id": "techcrunch-ai-gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-09-09T15:02:47.000Z"
+    },
+    {
+      "id": "openai-news-gpt-6-astra-the-next-generation-in-intelligence-for-work",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-09T11:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-superintelligence-is-coming-should-we-let-it",
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?...",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-09-09T16:05:35.000Z"
+    },
+    {
+      "id": "techcrunch-ai-controlai-s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it-s-an-adversary",
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?...",
+      "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-09-09T15:50:13.000Z"
+    },
+    {
+      "id": "the-decoder-openai-s-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+      "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\" The article OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-09-09T10:27:37.000Z"
+    },
+    {
       "id": "the-decoder-openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper",
       "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
       "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when he refused, according to Buckmaster's account. OpenAI then claimed its own breakthrough using the same unusual solution path....",
@@ -72,92 +145,17 @@
       "publishedAt": "2026-09-08T19:23:04.000Z"
     },
     {
-      "id": "openai-news-how-gpt-5-6-sol-helps-run-quantum-computing-experiments",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "sourceName": "OpenAI News",
-      "score": 8.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-08T17:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours",
-      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
-      "summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\" The article GPT-6 Astra beat Portal start to finish without human help in under 24 hours appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+      "id": "the-decoder-suno-launches-v6-music-models-built-with-warner-bmg-and-believe",
+      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
+      "summary": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down. Songs can now be partially changed through text commands or generated multimodally from text, audio, and images. The company won't say which catalogs went into training, while Universal and Sony keep suing....",
+      "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
       "sourceName": "The Decoder",
-      "score": 8.3,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-07T17:39:32.000Z"
-    },
-    {
-      "id": "techcrunch-ai-chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
+      "score": 8.4,
       "tags": [
         "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-08T15:04:09.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-      "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-      "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainable silliness\" in the compute buildout, especially from neo-cloud providers....",
-      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
-      "sourceName": "The Decoder",
-      "score": 8,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-09-07T18:12:41.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-gitlab-warns-that-ai-agent-sandboxes-are-only-as-secure-as-their-network-access",
-      "title": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access",
-      "summary": "GitLab warns that isolating an AI coding agent in a sandbox does not necessarily make the agent safe. In a new security analysis, the company describes an internal evaluation in which an AI agent escaped its sandbox by exploiting a vulnerable package proxy that had been explicitly placed on the sandbox's allowlist. By Craig Risi",
-      "url": "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.6,
-      "tags": [
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-08T12:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-hackers-are-stealing-claude-tokens-from-subscribers",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
-      "tags": [
         "Model"
       ],
-      "publishedAt": "2026-09-08T21:10:27.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-09-08T17:32:15.000Z"
+      "publishedAt": "2026-09-09T14:06:57.000Z"
     }
   ]
 }
