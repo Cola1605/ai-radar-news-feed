@@ -1,26 +1,83 @@
 {
-  "generatedAt": "2026-09-09T23:22:15.604Z",
-  "latestPublishedAt": "2026-09-09T22:25:22.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-09-10",
+  "generatedAt": "2026-09-10T23:15:35.985Z",
+  "latestPublishedAt": "2026-09-10T20:57:30.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-09-11",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 188,
+  "totalCount": 178,
   "items": [
     {
-      "id": "openai-news-funding-grants-for-new-research-into-ai-and-teen-development",
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "url": "https://openai.com/index/teen-development-research-grants",
+      "id": "infoq-ai-ml-data-engineering-openai-releases-gpt-6-astra-for-coding-and-computer-use",
+      "title": "OpenAI Releases GPT-6 Astra for Coding and Computer Use",
+      "summary": "OpenAI has released GPT-6 Astra, a new model focused on coding, computer use, long-running agentic tasks, and cybersecurity, with availability across ChatGPT, Codex, and the OpenAI API. By Daniel Dominguez",
+      "url": "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-10T17:49:00.000Z"
+    },
+    {
+      "id": "the-decoder-new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+      "summary": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The model ships under the MIT license and targets much cheaper AI agents....",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-10T12:40:51.000Z"
+    },
+    {
+      "id": "openai-news-introducing-chatgpt-for-financial-services",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
       "sourceName": "OpenAI News",
       "score": 9.7,
       "tags": [
-        "Research",
-        "Policy",
-        "Business"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-09-08T09:00:00.000Z"
+      "publishedAt": "2026-09-10T07:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp",
+      "title": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
+      "summary": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent called Sentinel monitors every action before it reaches the internet....",
+      "url": "https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/",
+      "sourceName": "The Decoder",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-10T12:27:18.000Z"
+    },
+    {
+      "id": "the-decoder-openai-s-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time",
+      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+      "summary": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap. The article OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-10T17:47:35.000Z"
     },
     {
       "id": "techcrunch-ai-openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
@@ -36,17 +93,43 @@
       "publishedAt": "2026-09-09T22:25:22.000Z"
     },
     {
-      "id": "the-decoder-anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade",
-      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
-      "summary": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more than ten percent....",
-      "url": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/",
+      "id": "openai-news-funding-grants-for-new-research-into-ai-and-teen-development",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Research",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-09-08T09:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-ai-safety-panic-goes-mainstream-after-anthropic-researcher-s-warnings-land-on-cnn-and-fox-news",
+      "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
+      "summary": "Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic. But cultural and financial interests are also at play behind these warnings, and the extinction scenario remains an extreme and contested position....",
+      "url": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/",
       "sourceName": "The Decoder",
       "score": 9.2,
       "tags": [
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-09-09T12:48:41.000Z"
+      "publishedAt": "2026-09-10T10:31:20.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-09-10T20:57:30.000Z"
     },
     {
       "id": "openai-news-paul-christiano-joins-openai-foundation-board",
@@ -59,30 +142,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-09T17:00:00.000Z"
-    },
-    {
-      "id": "openai-news-introducing-chatgpt-images-2-5",
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-08T11:30:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.6,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-09-09T15:02:47.000Z"
     },
     {
       "id": "openai-news-gpt-6-astra-the-next-generation-in-intelligence-for-work",
@@ -107,55 +166,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-09T16:05:35.000Z"
-    },
-    {
-      "id": "techcrunch-ai-controlai-s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it-s-an-adversary",
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?...",
-      "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-09-09T15:50:13.000Z"
-    },
-    {
-      "id": "the-decoder-openai-s-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
-      "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-      "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\" The article OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-09-09T10:27:37.000Z"
-    },
-    {
-      "id": "the-decoder-openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper",
-      "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
-      "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when he refused, according to Buckmaster's account. OpenAI then claimed its own breakthrough using the same unusual solution path....",
-      "url": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-09-08T19:23:04.000Z"
-    },
-    {
-      "id": "the-decoder-suno-launches-v6-music-models-built-with-warner-bmg-and-believe",
-      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
-      "summary": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down. Songs can now be partially changed through text commands or generated multimodally from text, audio, and images. The company won't say which catalogs went into training, while Universal and Sony keep suing....",
-      "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-09T14:06:57.000Z"
     }
   ]
 }
