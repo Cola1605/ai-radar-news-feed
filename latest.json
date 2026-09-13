@@ -1,55 +1,26 @@
 {
-  "generatedAt": "2026-09-12T23:06:37.522Z",
-  "latestPublishedAt": "2026-09-12T19:34:44.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-09-13",
+  "generatedAt": "2026-09-13T23:15:27.780Z",
+  "latestPublishedAt": "2026-09-14T00:00:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-09-14",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 192,
+  "totalCount": 191,
   "items": [
     {
-      "id": "infoq-ai-ml-data-engineering-nvidia-personal-ai-router-distributes-ai-tasks-across-local-compute",
-      "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
-      "summary": "NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute AI requests among them. It is primarily designed for local multi-agent AI workloads, where multiple independent model calls can otherwise overwhelm one GPU. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "id": "the-decoder-gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people....",
+      "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
-        "Hot News",
         "Model",
         "Agent AI",
-        "Infra"
-      ],
-      "publishedAt": "2026-09-11T15:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-openai-releases-gpt-6-astra-for-coding-and-computer-use",
-      "title": "OpenAI Releases GPT-6 Astra for Coding and Computer Use",
-      "summary": "OpenAI has released GPT-6 Astra, a new model focused on coding, computer use, long-running agentic tasks, and cybersecurity, with availability across ChatGPT, Codex, and the OpenAI API. By Daniel Dominguez",
-      "url": "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-10T17:49:00.000Z"
-    },
-    {
-      "id": "openai-news-introducing-chatgpt-for-financial-services",
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
         "Research"
       ],
-      "publishedAt": "2026-09-10T07:00:00.000Z"
+      "publishedAt": "2026-09-13T10:52:16.000Z"
     },
     {
       "id": "the-decoder-anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control",
@@ -65,18 +36,19 @@
       "publishedAt": "2026-09-12T15:03:21.000Z"
     },
     {
-      "id": "the-decoder-google-s-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules",
-      "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
-      "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compounding errors....",
-      "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
-      "sourceName": "The Decoder",
+      "id": "infoq-ai-ml-data-engineering-nvidia-personal-ai-router-distributes-ai-tasks-across-local-compute",
+      "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
+      "summary": "NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute AI requests among them. It is primarily designed for local multi-agent AI workloads, where multiple independent model calls can otherwise overwhelm one GPU. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 9.2,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Agent AI",
+        "Infra"
       ],
-      "publishedAt": "2026-09-12T09:26:05.000Z"
+      "publishedAt": "2026-09-11T15:00:00.000Z"
     },
     {
       "id": "the-decoder-gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks",
@@ -92,18 +64,33 @@
       "publishedAt": "2026-09-12T14:26:09.000Z"
     },
     {
-      "id": "the-decoder-openai-agents-launched-a-2-000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google",
-      "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-      "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected....",
-      "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/",
+      "id": "infoq-ai-ml-data-engineering-github-copilot-s-project-hydrafusion-promises-frontier-level-performance-through-multi-model-routing",
+      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+      "summary": "GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestration. It dynamically assembles execution plans using models from various providers. The system employs three execution patterns based on task complexity. Evaluations indicate that it achieves high task quality while significantly reducing operational costs. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Research",
+        "Infra"
+      ],
+      "publishedAt": "2026-09-13T06:06:00.000Z"
+    },
+    {
+      "id": "the-decoder-iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class",
+      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work....",
+      "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
       "sourceName": "The Decoder",
-      "score": 9.1,
+      "score": 8.8,
       "tags": [
         "Hot News",
+        "Model",
         "Agent AI",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-09-12T10:08:43.000Z"
+      "publishedAt": "2026-09-13T12:58:18.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-ceo-outlines-plan-to-slow-ai-development",
@@ -123,24 +110,12 @@
       "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back....",
       "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.1,
       "tags": [
         "Research",
         "Policy"
       ],
       "publishedAt": "2026-09-11T18:41:49.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.3,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-09-10T20:57:30.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-presentation-from-retrieval-to-reasoning-building-production-ready-agentic-ai-systems-with-knowledge-graphs",
@@ -156,12 +131,36 @@
       "publishedAt": "2026-09-12T11:00:00.000Z"
     },
     {
+      "id": "openai-news-perplexity-trusts-gpt-6-astra-with-end-to-end-systems",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "sourceName": "OpenAI News",
+      "score": 7.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.3,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-12T20:19:16.000Z"
+    },
+    {
       "id": "techcrunch-ai-kimi-maker-moonshot-ai-targets-2b-in-annual-revenue",
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "sourceName": "TechCrunch AI",
-      "score": 7.9,
+      "score": 7.2,
       "tags": [
         "Model",
         "Business"
