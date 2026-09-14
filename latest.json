@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-09-13T23:15:27.780Z",
-  "latestPublishedAt": "2026-09-14T00:00:00.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-09-14",
+  "generatedAt": "2026-09-14T23:54:20.961Z",
+  "latestPublishedAt": "2026-09-14T17:54:22.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-09-15",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 191,
+  "totalCount": 186,
   "items": [
+    {
+      "id": "techcrunch-ai-microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-14T16:27:53.000Z"
+    },
     {
       "id": "the-decoder-gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
       "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
@@ -23,49 +36,34 @@
       "publishedAt": "2026-09-13T10:52:16.000Z"
     },
     {
-      "id": "the-decoder-anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control",
-      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
-      "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled after the SALT disarmament treaties....",
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-12T15:03:21.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-nvidia-personal-ai-router-distributes-ai-tasks-across-local-compute",
-      "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
-      "summary": "NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute AI requests among them. It is primarily designed for local multi-agent AI workloads, where multiple independent model calls can otherwise overwhelm one GPU. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Infra"
-      ],
-      "publishedAt": "2026-09-11T15:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks",
-      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
-      "summary": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one. A researcher calls it a \"step change in spatial reasoning.\" The article GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
-      "sourceName": "The Decoder",
+      "id": "mit-technology-review-ai-agents-blew-the-whistle-on-their-cheating-colleagues",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "sourceName": "MIT Technology Review",
       "score": 9.1,
       "tags": [
-        "Model",
-        "Research"
+        "Agent AI",
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-09-12T14:26:09.000Z"
+      "publishedAt": "2026-09-14T16:00:00.000Z"
+    },
+    {
+      "id": "openai-news-how-fyxer-built-an-ai-executive-assistant-people-trust",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-14T12:00:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-github-copilot-s-project-hydrafusion-promises-frontier-level-performance-through-multi-model-routing",
-      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
       "summary": "GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestration. It dynamically assembles execution plans using models from various providers. The system employs three execution patterns based on task complexity. Evaluations indicate that it achieves high task quality while significantly reducing operational costs. By Olimpiu Pop",
       "url": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
@@ -76,6 +74,42 @@
         "Infra"
       ],
       "publishedAt": "2026-09-13T06:06:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-ai-industry-has-taken-a-doomer-turn-what-now",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-14T17:54:22.000Z"
+    },
+    {
+      "id": "the-decoder-microsoft-s-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights",
+      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models....",
+      "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-14T15:52:51.000Z"
+    },
+    {
+      "id": "techcrunch-ai-only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-14T15:00:00.000Z"
     },
     {
       "id": "the-decoder-iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class",
@@ -93,79 +127,40 @@
       "publishedAt": "2026-09-13T12:58:18.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-ceo-outlines-plan-to-slow-ai-development",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-12T19:34:44.000Z"
-    },
-    {
-      "id": "techcrunch-ai-an-anthropic-researcher-s-doomsday-warning-comes-at-a-very-interesting-time",
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back....",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-11T18:41:49.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-from-retrieval-to-reasoning-building-production-ready-agentic-ai-systems-with-knowledge-graphs",
-      "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
-      "summary": "Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as truth, and agent visibility. She demonstrates an engineering harness built on a knowledge graph to streamline feedback loops, optimize token usage, and maintain system reliability. By Cassie Shum",
-      "url": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-09-12T11:00:00.000Z"
-    },
-    {
       "id": "openai-news-perplexity-trusts-gpt-6-astra-with-end-to-end-systems",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "sourceName": "OpenAI News",
-      "score": 7.6,
+      "score": 8.6,
       "tags": [
         "Model"
       ],
       "publishedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
+      "id": "the-decoder-china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage",
+      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
+      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling for a slowdown either but for faster AI infrastructure buildout. Trump also opposes any slowdown. The article China fires back at U.S....",
+      "url": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
       "tags": [
-        "AI"
+        "Policy"
       ],
-      "publishedAt": "2026-09-12T20:19:16.000Z"
+      "publishedAt": "2026-09-14T12:20:22.000Z"
     },
     {
-      "id": "techcrunch-ai-kimi-maker-moonshot-ai-targets-2b-in-annual-revenue",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "id": "techcrunch-ai-anthropic-ceo-outlines-plan-to-slow-ai-development",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "sourceName": "TechCrunch AI",
-      "score": 7.2,
+      "score": 8.2,
       "tags": [
-        "Model",
-        "Business"
+        "Model"
       ],
-      "publishedAt": "2026-09-11T19:35:54.000Z"
+      "publishedAt": "2026-09-12T19:34:44.000Z"
     }
   ]
 }
