@@ -1,13 +1,65 @@
 {
-  "generatedAt": "2026-09-14T23:54:20.961Z",
-  "latestPublishedAt": "2026-09-14T17:54:22.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-09-15",
+  "generatedAt": "2026-09-15T23:33:29.417Z",
+  "latestPublishedAt": "2026-09-15T19:00:00.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-09-16",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 186,
+  "totalCount": 188,
   "items": [
+    {
+      "id": "the-decoder-google-launches-gemini-3-8-live-to-take-on-openai-s-gpt-live-1-at-a-fraction-of-the-cost",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex....",
+      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-15T18:23:20.000Z"
+    },
+    {
+      "id": "the-decoder-apple-brings-a-fully-revamped-siri-built-on-google-s-gemini-but-not-to-the-eu",
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now....",
+      "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-15T10:33:03.000Z"
+    },
+    {
+      "id": "the-decoder-ai-labs-have-a-data-trust-problem-that-their-policies-haven-t-solved",
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem....",
+      "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-09-15T17:52:05.000Z"
+    },
+    {
+      "id": "the-decoder-not-everyone-is-convinced-that-big-ai-s-proposed-slowdown-is-really-about-safety",
+      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move....",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-15T09:04:36.000Z"
+    },
     {
       "id": "techcrunch-ai-microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
       "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
@@ -22,18 +74,29 @@
       "publishedAt": "2026-09-14T16:27:53.000Z"
     },
     {
-      "id": "the-decoder-gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
-      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
-      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people....",
-      "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "mit-technology-review-ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.4,
       "tags": [
         "Model",
-        "Agent AI",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-09-13T10:52:16.000Z"
+      "publishedAt": "2026-09-15T12:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-15T17:05:57.000Z"
     },
     {
       "id": "mit-technology-review-ai-agents-blew-the-whistle-on-their-cheating-colleagues",
@@ -62,18 +125,28 @@
       "publishedAt": "2026-09-14T12:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-github-copilot-s-project-hydrafusion-promises-frontier-level-performance-through-multi-model-routing",
-      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
-      "summary": "GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestration. It dynamically assembles execution plans using models from various providers. The system employs three execution patterns based on task complexity. Evaluations indicate that it achieves high task quality while significantly reducing operational costs. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9,
+      "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
       "tags": [
-        "Model",
-        "Research",
-        "Infra"
+        "Hot News"
       ],
-      "publishedAt": "2026-09-13T06:06:00.000Z"
+      "publishedAt": "2026-09-15T19:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-salesforce-and-nvidia-s-new-reasoning-model-is-everything-the-ai-labs-should-fear",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-15T12:00:00.000Z"
     },
     {
       "id": "mit-technology-review-the-ai-industry-has-taken-a-doomer-turn-what-now",
@@ -86,81 +159,6 @@
         "Model"
       ],
       "publishedAt": "2026-09-14T17:54:22.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-s-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights",
-      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models....",
-      "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-14T15:52:51.000Z"
-    },
-    {
-      "id": "techcrunch-ai-only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-14T15:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class",
-      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
-      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work....",
-      "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-09-13T12:58:18.000Z"
-    },
-    {
-      "id": "openai-news-perplexity-trusts-gpt-6-astra-with-end-to-end-systems",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage",
-      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
-      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling for a slowdown either but for faster AI infrastructure buildout. Trump also opposes any slowdown. The article China fires back at U.S....",
-      "url": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-09-14T12:20:22.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-ceo-outlines-plan-to-slow-ai-development",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-12T19:34:44.000Z"
     }
   ]
 }
