@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-09-15T23:33:29.417Z",
-  "latestPublishedAt": "2026-09-15T19:00:00.000Z",
+  "generatedAt": "2026-09-16T23:41:37.980Z",
+  "latestPublishedAt": "2026-09-16T21:07:24.000Z",
   "newItemCount": 8,
-  "dateKey": "2026-09-16",
+  "dateKey": "2026-09-17",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 188,
+  "totalCount": 193,
   "items": [
+    {
+      "id": "the-decoder-google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi",
+      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, humanities, and policy alongside technologists....",
+      "url": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-16T17:00:28.000Z"
+    },
     {
       "id": "the-decoder-google-launches-gemini-3-8-live-to-take-on-openai-s-gpt-live-1-at-a-fraction-of-the-cost",
       "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
@@ -22,56 +36,30 @@
       "publishedAt": "2026-09-15T18:23:20.000Z"
     },
     {
-      "id": "the-decoder-apple-brings-a-fully-revamped-siri-built-on-google-s-gemini-but-not-to-the-eu",
-      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
-      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now....",
-      "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-15T10:33:03.000Z"
-    },
-    {
-      "id": "the-decoder-ai-labs-have-a-data-trust-problem-that-their-policies-haven-t-solved",
-      "title": "AI labs have a data trust problem that their policies haven't solved",
-      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem....",
-      "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
+      "id": "the-decoder-former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text",
+      "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only guarantees that it will stick strictly to the preset options....",
+      "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-09-15T17:52:05.000Z"
+      "publishedAt": "2026-09-16T15:19:19.000Z"
     },
     {
-      "id": "the-decoder-not-everyone-is-convinced-that-big-ai-s-proposed-slowdown-is-really-about-safety",
-      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move....",
-      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
+      "id": "the-decoder-political-opposites-unite-in-washington-to-rein-in-ai",
+      "title": "Political opposites unite in Washington to rein in AI",
+      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first time. Despite Trump's skepticism, bipartisan pressure for binding AI rules keeps growing....",
+      "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-09-15T09:04:36.000Z"
-    },
-    {
-      "id": "techcrunch-ai-microsoft-s-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-14T16:27:53.000Z"
+      "publishedAt": "2026-09-16T14:59:58.000Z"
     },
     {
       "id": "mit-technology-review-ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
@@ -87,6 +75,32 @@
       "publishedAt": "2026-09-15T12:00:00.000Z"
     },
     {
+      "id": "techcrunch-ai-anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-16T21:07:24.000Z"
+    },
+    {
+      "id": "openai-news-our-framework-for-reporting-model-misalignment",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-16T17:00:00.000Z"
+    },
+    {
       "id": "google-deepmind-introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
@@ -99,30 +113,18 @@
       "publishedAt": "2026-09-15T17:05:57.000Z"
     },
     {
-      "id": "mit-technology-review-ai-agents-blew-the-whistle-on-their-cheating-colleagues",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.1,
+      "id": "techcrunch-ai-your-ai-agents-can-now-control-your-google-home-devices",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
       "tags": [
-        "Agent AI",
-        "Research",
-        "Policy"
+        "Hot News",
+        "Model",
+        "Agent AI"
       ],
-      "publishedAt": "2026-09-14T16:00:00.000Z"
-    },
-    {
-      "id": "openai-news-how-fyxer-built-an-ai-executive-assistant-people-trust",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "url": "https://openai.com/index/fyxer",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-14T12:00:00.000Z"
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
@@ -137,28 +139,30 @@
       "publishedAt": "2026-09-15T19:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-salesforce-and-nvidia-s-new-reasoning-model-is-everything-the-ai-labs-should-fear",
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "sourceName": "TechCrunch AI",
+      "id": "openai-news-how-workers-are-unlocking-new-ways-of-working",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "sourceName": "OpenAI News",
       "score": 8.8,
       "tags": [
-        "Model"
+        "Research",
+        "Infra"
       ],
-      "publishedAt": "2026-09-15T12:00:00.000Z"
+      "publishedAt": "2026-09-16T09:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-the-ai-industry-has-taken-a-doomer-turn-what-now",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
+      "id": "infoq-ai-ml-data-engineering-article-your-next-dsl-author-is-a-language-model",
+      "title": "Article: Your Next DSL Author Is a Language Model",
+      "summary": "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrastructure-as-code example, he explores how compiler validation and generate-compile-repair loops can make model-generated DSL output more reliable. By Irakli Betchvaia",
+      "url": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.6,
       "tags": [
-        "Model"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-09-14T17:54:22.000Z"
+      "publishedAt": "2026-09-16T11:00:00.000Z"
     }
   ]
 }
