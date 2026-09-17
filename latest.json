@@ -1,13 +1,57 @@
 {
-  "generatedAt": "2026-09-16T23:41:37.980Z",
-  "latestPublishedAt": "2026-09-16T21:07:24.000Z",
+  "generatedAt": "2026-09-17T23:34:57.566Z",
+  "latestPublishedAt": "2026-09-17T20:34:24.000Z",
   "newItemCount": 8,
-  "dateKey": "2026-09-17",
+  "dateKey": "2026-09-18",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 193,
   "items": [
+    {
+      "id": "techcrunch-ai-base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-09-17T17:15:59.000Z"
+    },
+    {
+      "id": "the-decoder-an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-aren-t-sure-why",
+      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
+      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override subsequent instructions....",
+      "url": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-17T13:37:55.000Z"
+    },
+    {
+      "id": "openai-news-introducing-astra-for-law",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-17T00:00:00.000Z"
+    },
     {
       "id": "the-decoder-google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi",
       "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
@@ -23,69 +67,31 @@
       "publishedAt": "2026-09-16T17:00:28.000Z"
     },
     {
-      "id": "the-decoder-google-launches-gemini-3-8-live-to-take-on-openai-s-gpt-live-1-at-a-fraction-of-the-cost",
-      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex....",
-      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-15T18:23:20.000Z"
-    },
-    {
-      "id": "the-decoder-former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text",
-      "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
-      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only guarantees that it will stick strictly to the preset options....",
-      "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-16T15:19:19.000Z"
-    },
-    {
-      "id": "the-decoder-political-opposites-unite-in-washington-to-rein-in-ai",
-      "title": "Political opposites unite in Washington to rein in AI",
-      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first time. Despite Trump's skepticism, bipartisan pressure for binding AI rules keeps growing....",
-      "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "sourceName": "TechCrunch AI",
       "score": 9.5,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-09-16T14:59:58.000Z"
+      "publishedAt": "2026-09-17T20:34:24.000Z"
     },
     {
-      "id": "mit-technology-review-ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "sourceName": "MIT Technology Review",
+      "id": "the-decoder-apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips",
+      "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+      "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips. The project could get a boost from OpenAI and Anthropic already buying Mac hardware in bulk for AI workloads....",
+      "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
+      "sourceName": "The Decoder",
       "score": 9.4,
       "tags": [
-        "Model",
-        "Policy"
+        "Hot News",
+        "Business",
+        "Infra"
       ],
-      "publishedAt": "2026-09-15T12:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.3,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-16T21:07:24.000Z"
+      "publishedAt": "2026-09-16T18:16:27.000Z"
     },
     {
       "id": "openai-news-our-framework-for-reporting-model-misalignment",
@@ -101,42 +107,43 @@
       "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "google-deepmind-introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-15T17:05:57.000Z"
-    },
-    {
-      "id": "techcrunch-ai-your-ai-agents-can-now-control-your-google-home-devices",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows",
+      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
+      "summary": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
+      "sourceName": "The Decoder",
       "score": 8.9,
       "tags": [
         "Hot News",
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-09-16T17:00:00.000Z"
+      "publishedAt": "2026-09-17T18:35:01.000Z"
     },
     {
-      "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "id": "techcrunch-ai-huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
       "sourceName": "TechCrunch AI",
       "score": 8.9,
       "tags": [
         "Hot News"
       ],
-      "publishedAt": "2026-09-15T19:00:00.000Z"
+      "publishedAt": "2026-09-17T14:06:14.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-gpt-6-astra-is-the-first-model-openai-classifies-as-critical-for-cybersecurity",
+      "title": "GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity",
+      "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel and built working exploits. The same system card reports a substantial decline in chain-of-thought monitorability. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-17T04:59:00.000Z"
     },
     {
       "id": "openai-news-how-workers-are-unlocking-new-ways-of-working",
@@ -152,17 +159,17 @@
       "publishedAt": "2026-09-16T09:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-article-your-next-dsl-author-is-a-language-model",
-      "title": "Article: Your Next DSL Author Is a Language Model",
-      "summary": "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrastructure-as-code example, he explores how compiler validation and generate-compile-repair loops can make model-generated DSL output more reliable. By Irakli Betchvaia",
-      "url": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.6,
+      "id": "mit-technology-review-ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.7,
       "tags": [
         "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-09-16T11:00:00.000Z"
+      "publishedAt": "2026-09-15T12:00:00.000Z"
     }
   ]
 }
