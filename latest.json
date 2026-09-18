@@ -1,43 +1,82 @@
 {
-  "generatedAt": "2026-09-17T23:34:57.566Z",
-  "latestPublishedAt": "2026-09-17T20:34:24.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-09-18",
+  "generatedAt": "2026-09-18T23:23:42.539Z",
+  "latestPublishedAt": "2026-09-18T21:44:33.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-09-19",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 193,
   "items": [
     {
-      "id": "techcrunch-ai-base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "id": "the-decoder-security-researchers-used-anthropic-s-claude-to-hack-openai-s-internal-systems-in-under-72-hours",
+      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
+      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure. The attack shows how newer AI models can cut the time and expertise needed to exploit security flaws....",
+      "url": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-18T17:20:30.000Z"
+    },
+    {
+      "id": "techcrunch-ai-dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-but-how",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-18T17:09:56.000Z"
+    },
+    {
+      "id": "techcrunch-ai-automattic-s-33-hour-coup-and-can-ai-labs-police-themselves",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-18T17:06:32.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-openai-introduces-triage-framework-and-case-studies-to-report-model-misalignment",
+      "title": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment",
+      "summary": "OpenAI has released a disclosure framework for model misalignment during its lifecycle. Employees can flag potential issues, prompting technical staff to label incidents. The initial case studies outline unexpected model behaviours, providing insights into deviations from expected parameters. Community reactions show both approval and scepticism regarding transparency and corporate narratives. By Olimpiu Pop",
+      "url": "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-18T05:05:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-google-deepmind-launches-institute-to-widen-the-agi-debate",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Research",
-        "Policy",
-        "Business"
+        "Research"
       ],
-      "publishedAt": "2026-09-17T17:15:59.000Z"
-    },
-    {
-      "id": "the-decoder-an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-aren-t-sure-why",
-      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
-      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override subsequent instructions....",
-      "url": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-17T13:37:55.000Z"
+      "publishedAt": "2026-09-17T23:21:17.000Z"
     },
     {
       "id": "openai-news-introducing-astra-for-law",
@@ -53,88 +92,63 @@
       "publishedAt": "2026-09-17T00:00:00.000Z"
     },
     {
-      "id": "the-decoder-google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi",
-      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
-      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, humanities, and policy alongside technologists....",
-      "url": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
+      "id": "infoq-ai-ml-data-engineering-wso2-releases-agent-manager-as-enterprises-look-to-control-growing-ai-agent-sprawl",
+      "title": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl",
+      "summary": "WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, security controls, and operational oversight for AI agents running across different models, frameworks, and deployment environments. By Craig Risi",
+      "url": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.6,
       "tags": [
         "Hot News",
-        "Research",
-        "Policy"
+        "Model",
+        "Agent AI",
+        "Policy",
+        "Business",
+        "Infra"
       ],
-      "publishedAt": "2026-09-16T17:00:28.000Z"
+      "publishedAt": "2026-09-18T12:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away",
+      "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
+      "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder .",
+      "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
+      "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-09-17T20:34:24.000Z"
+      "publishedAt": "2026-09-18T14:32:49.000Z"
     },
     {
-      "id": "the-decoder-apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips",
-      "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
-      "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips. The project could get a boost from OpenAI and Anthropic already buying Mac hardware in bulk for AI workloads....",
-      "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
+      "id": "the-decoder-anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesn-t-mean-what-you-think",
+      "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
+      "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February. But the underlying scale is fuzzy, the scoring comes from Claude itself, and \"lead\" means less than it sounds....",
+      "url": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/",
       "sourceName": "The Decoder",
-      "score": 9.4,
-      "tags": [
-        "Hot News",
-        "Business",
-        "Infra"
-      ],
-      "publishedAt": "2026-09-16T18:16:27.000Z"
-    },
-    {
-      "id": "openai-news-our-framework-for-reporting-model-misalignment",
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
+      "score": 9.5,
       "tags": [
         "Model",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-09-16T17:00:00.000Z"
+      "publishedAt": "2026-09-18T14:06:50.000Z"
     },
     {
-      "id": "the-decoder-anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows",
-      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
-      "summary": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
+      "id": "the-decoder-openai-takes-aim-at-the-legal-market-with-astra-for-law",
+      "title": "OpenAI takes aim at the legal market with Astra for Law",
+      "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/",
       "sourceName": "The Decoder",
-      "score": 8.9,
+      "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
+        "Model"
       ],
-      "publishedAt": "2026-09-17T18:35:01.000Z"
-    },
-    {
-      "id": "techcrunch-ai-huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-09-17T14:06:14.000Z"
+      "publishedAt": "2026-09-18T13:42:43.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-gpt-6-astra-is-the-first-model-openai-classifies-as-critical-for-cybersecurity",
-      "title": "GPT-6 Astra Is the First Model OpenAI Classifies as Critical for Cybersecurity",
+      "title": "GPT-6 Astra is the First Model OpenAI Classifies as Critical for Cybersecurity",
       "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel and built working exploits. The same system card reports a substantial decline in chain-of-thought monitorability. By Steef-Jan Wiggers",
       "url": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
@@ -146,30 +160,17 @@
       "publishedAt": "2026-09-17T04:59:00.000Z"
     },
     {
-      "id": "openai-news-how-workers-are-unlocking-new-ways-of-working",
-      "title": "How workers are unlocking new ways of working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "sourceName": "OpenAI News",
+      "id": "techcrunch-ai-anthropic-s-first-embedded-evaluator-is-accenture",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
         "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-09-16T09:00:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.7,
-      "tags": [
-        "Model",
         "Policy"
       ],
-      "publishedAt": "2026-09-15T12:00:00.000Z"
+      "publishedAt": "2026-09-18T21:44:33.000Z"
     }
   ]
 }
