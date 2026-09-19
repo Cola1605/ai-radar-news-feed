@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-09-18T23:23:42.539Z",
-  "latestPublishedAt": "2026-09-18T21:44:33.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-09-19",
+  "generatedAt": "2026-09-19T23:15:48.302Z",
+  "latestPublishedAt": "2026-09-19T17:30:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-09-20",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 193,
+  "totalCount": 194,
   "items": [
+    {
+      "id": "the-decoder-gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark",
+      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
+      "summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove. None of the three models tested reliably rejected unsafe commands....",
+      "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-19T13:28:55.000Z"
+    },
     {
       "id": "the-decoder-security-researchers-used-anthropic-s-claude-to-hack-openai-s-internal-systems-in-under-72-hours",
       "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
@@ -51,6 +65,18 @@
       "publishedAt": "2026-09-18T17:06:32.000Z"
     },
     {
+      "id": "openai-news-introducing-the-australian-youth-safety-blueprint",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-09-18T12:00:00.000Z"
+    },
+    {
       "id": "infoq-ai-ml-data-engineering-openai-introduces-triage-framework-and-case-studies-to-report-model-misalignment",
       "title": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment",
       "summary": "OpenAI has released a disclosure framework for model misalignment during its lifecycle. Employees can flag potential issues, prompting technical staff to label incidents. The initial case studies outline unexpected model behaviours, providing insights into deviations from expected parameters. Community reactions show both approval and scepticism regarding transparency and corporate narratives. By Olimpiu Pop",
@@ -63,33 +89,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-18T05:05:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-google-deepmind-launches-institute-to-widen-the-agi-debate",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-17T23:21:17.000Z"
-    },
-    {
-      "id": "openai-news-introducing-astra-for-law",
-      "title": "Introducing Astra for Law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "url": "https://openai.com/index/astra-for-law",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-17T00:00:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-wso2-releases-agent-manager-as-enterprises-look-to-control-growing-ai-agent-sprawl",
@@ -109,55 +108,56 @@
       "publishedAt": "2026-09-18T12:00:00.000Z"
     },
     {
-      "id": "the-decoder-visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away",
-      "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
-      "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder .",
-      "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
+      "id": "the-decoder-qwen3-8-omni-flash-undercuts-google-s-gemini-flash-pricing-while-matching-its-multimodal-benchmarks",
+      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the API cost....",
+      "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-19T14:30:57.000Z"
+    },
+    {
+      "id": "the-decoder-google-s-gemini-also-accidentally-hacked-three-real-companies-during-security-testing",
+      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+      "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidentally. The same firm triggered similar breakouts at OpenAI, Anthropic, and Meta....",
+      "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-09-18T14:32:49.000Z"
+      "publishedAt": "2026-09-19T09:31:03.000Z"
     },
     {
-      "id": "the-decoder-anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesn-t-mean-what-you-think",
-      "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
-      "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February. But the underlying scale is fuzzy, the scoring comes from Claude itself, and \"lead\" means less than it sounds....",
-      "url": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "openai-news-introducing-astra-for-law",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-09-18T14:06:50.000Z"
+      "publishedAt": "2026-09-17T00:00:00.000Z"
     },
     {
-      "id": "the-decoder-openai-takes-aim-at-the-legal-market-with-astra-for-law",
-      "title": "OpenAI takes aim at the legal market with Astra for Law",
-      "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "techcrunch-ai-google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-09-18T13:42:43.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-gpt-6-astra-is-the-first-model-openai-classifies-as-critical-for-cybersecurity",
-      "title": "GPT-6 Astra is the First Model OpenAI Classifies as Critical for Cybersecurity",
-      "summary": "OpenAI has classified GPT-6 Astra at the Critical cybersecurity threshold under its Preparedness Framework, a first. In expert-led testing the model found previously unknown vulnerabilities in a browser and an OS kernel and built working exploits. The same system card reports a substantial decline in chain-of-thought monitorability. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-17T04:59:00.000Z"
+      "publishedAt": "2026-09-19T17:30:00.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-s-first-embedded-evaluator-is-accenture",
