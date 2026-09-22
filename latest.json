@@ -1,13 +1,65 @@
 {
-  "generatedAt": "2026-09-22T00:11:32.793Z",
-  "latestPublishedAt": "2026-09-21T20:15:58.000Z",
-  "newItemCount": 11,
-  "dateKey": "2026-09-22",
+  "generatedAt": "2026-09-22T23:39:34.907Z",
+  "latestPublishedAt": "2026-09-22T20:06:51.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-09-23",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 194,
+  "totalCount": 179,
   "items": [
+    {
+      "id": "openai-news-introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-22T18:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-claude-opus-5-5-matches-fable-5-1-performance-at-lower-cost-and-promises-less-claudish-writing",
+      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+      "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks....",
+      "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-09-22T17:11:07.000Z"
+    },
+    {
+      "id": "the-decoder-xiaomi-s-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there",
+      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude....",
+      "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-22T11:42:11.000Z"
+    },
+    {
+      "id": "openai-news-priorities-and-principles-for-effective-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
     {
       "id": "the-decoder-xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6",
       "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
@@ -24,6 +76,58 @@
       "publishedAt": "2026-09-21T16:56:36.000Z"
     },
     {
+      "id": "techcrunch-ai-openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mistakes",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-22T18:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-22T16:30:07.000Z"
+    },
+    {
+      "id": "the-decoder-openai-s-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance",
+      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+      "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming....",
+      "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-22T20:06:51.000Z"
+    },
+    {
+      "id": "mit-technology-review-don-t-be-fooled-by-this-summer-of-ai-hype",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-22T11:04:51.000Z"
+    },
+    {
       "id": "openai-news-building-standards-for-the-next-phase-of-ai",
       "title": "Building standards for the next phase of AI",
       "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
@@ -35,6 +139,20 @@
         "Policy"
       ],
       "publishedAt": "2026-09-21T10:00:00.000Z"
+    },
+    {
+      "id": "openai-news-parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-22T12:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch",
@@ -49,120 +167,6 @@
         "Agent AI"
       ],
       "publishedAt": "2026-09-21T19:19:21.000Z"
-    },
-    {
-      "id": "the-decoder-alibaba-s-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters",
-      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
-      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license....",
-      "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-20T16:10:52.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-the-agent-harness-control-planes-invariants-and-approval-boundaries-for-production-ai-agents",
-      "title": "Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents",
-      "summary": "OpenAI’s Vinoth Govindarajan discusses why production AI agents fail beyond model hallucination. Using real-world case studies like OpenClaw, he explains the key principles of reliable agent harnesses: establishing explicit state ownership, serializing concurrent state mutations, scoping execution authority, and validating actions at the user-visible edge. By Vinoth Govindarajan",
-      "url": "https://www.infoq.com/presentations/ai-agent-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-21T11:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.6,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-09-21T20:15:58.000Z"
-    },
-    {
-      "id": "techcrunch-ai-google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-19T17:30:00.000Z"
-    },
-    {
-      "id": "the-decoder-bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it",
-      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
-      "summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit. The goal is to catch models that work technically but can still be dangerously wrong in the clinic....",
-      "url": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/",
-      "sourceName": "The Decoder",
-      "score": 8.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-21T14:06:28.000Z"
-    },
-    {
-      "id": "the-decoder-us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit",
-      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
-      "summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trump and Xi in Washington, the first on US soil since 2017....",
-      "url": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
-      "sourceName": "The Decoder",
-      "score": 8.1,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-21T13:43:33.000Z"
-    },
-    {
-      "id": "openai-news-advisory-group-on-mathematics-and-artificial-intelligence",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "sourceName": "OpenAI News",
-      "score": 8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "id": "openai-news-higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "sourceName": "OpenAI News",
-      "score": 8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-podcast-securing-ai-agents-identity-authorization-and-the-dpact-framework",
-      "title": "Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework",
-      "summary": "In this episode, Sahil Agarwal talks about the critical challenges of identity, authorisation, and security in the age of AI agents. Sahil introduces the DPACT framework (Delegation, Policy, Auditability, Context, and Time) as a blueprint for building responsible, guardrailed agentic systems, moving away from simple token-based access toward bounded, delegated authority. By Sahil Agarwal",
-      "url": "https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-21T11:00:00.000Z"
     }
   ]
 }
