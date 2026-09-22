@@ -1,111 +1,93 @@
 {
-  "generatedAt": "2026-09-20T23:19:27.673Z",
-  "latestPublishedAt": "2026-09-20T20:09:19.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-09-21",
+  "generatedAt": "2026-09-22T00:11:32.793Z",
+  "latestPublishedAt": "2026-09-21T20:15:58.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-09-22",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 190,
+  "totalCount": 194,
   "items": [
     {
-      "id": "the-decoder-gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark",
-      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-      "summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove. None of the three models tested reliably rejected unsafe commands....",
-      "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+      "id": "the-decoder-xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6",
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on The Decoder .",
+      "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-19T13:28:55.000Z"
-    },
-    {
-      "id": "the-decoder-qwen3-8-omni-flash-undercuts-google-s-gemini-flash-pricing-while-matching-its-multimodal-benchmarks",
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the API cost....",
-      "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
+        "Hot News",
         "Model",
         "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-09-19T14:30:57.000Z"
+      "publishedAt": "2026-09-21T16:56:36.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-openai-introduces-triage-framework-and-case-studies-to-report-model-misalignment",
-      "title": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment",
-      "summary": "OpenAI has released a disclosure framework for model misalignment during its lifecycle. Employees can flag potential issues, prompting technical staff to label incidents. The initial case studies outline unexpected model behaviours, providing insights into deviations from expected parameters. Community reactions show both approval and scepticism regarding transparency and corporate narratives. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "id": "openai-news-building-standards-for-the-next-phase-of-ai",
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "sourceName": "OpenAI News",
       "score": 9.4,
       "tags": [
-        "Hot News",
-        "Model",
+        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-09-18T05:05:00.000Z"
+      "publishedAt": "2026-09-21T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
-      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
-      "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth appeared first on The Decoder .",
-      "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-20T08:52:06.000Z"
-    },
-    {
-      "id": "openai-news-introducing-the-australian-youth-safety-blueprint",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-09-18T12:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials",
-      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-      "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder .",
-      "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "sourceName": "TechCrunch AI",
       "score": 8.9,
       "tags": [
         "Hot News",
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-09-19T13:31:46.000Z"
+      "publishedAt": "2026-09-21T19:19:21.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-wso2-releases-agent-manager-as-enterprises-look-to-control-growing-ai-agent-sprawl",
-      "title": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl",
-      "summary": "WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, security controls, and operational oversight for AI agents running across different models, frameworks, and deployment environments. By Craig Risi",
-      "url": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.9,
+      "id": "the-decoder-alibaba-s-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters",
+      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license....",
+      "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
         "Hot News",
         "Model",
-        "Agent AI",
-        "Policy",
-        "Business",
-        "Infra"
+        "Research"
       ],
-      "publishedAt": "2026-09-18T12:00:00.000Z"
+      "publishedAt": "2026-09-20T16:10:52.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-the-agent-harness-control-planes-invariants-and-approval-boundaries-for-production-ai-agents",
+      "title": "Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents",
+      "summary": "OpenAI’s Vinoth Govindarajan discusses why production AI agents fail beyond model hallucination. Using real-world case studies like OpenClaw, he explains the key principles of reliable agent harnesses: establishing explicit state ownership, serializing concurrent state mutations, scoping execution authority, and validating actions at the user-visible edge. By Vinoth Govindarajan",
+      "url": "https://www.infoq.com/presentations/ai-agent-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-21T11:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-09-21T20:15:58.000Z"
     },
     {
       "id": "techcrunch-ai-google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
@@ -113,61 +95,74 @@
       "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.2,
       "tags": [
         "Model"
       ],
       "publishedAt": "2026-09-19T17:30:00.000Z"
     },
     {
-      "id": "techcrunch-ai-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-18T18:49:30.000Z"
-    },
-    {
-      "id": "techcrunch-ai-vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it",
+      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
+      "summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit. The goal is to catch models that work technically but can still be dangerously wrong in the clinic....",
+      "url": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/",
+      "sourceName": "The Decoder",
       "score": 8.1,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-09-19T13:00:00.000Z"
+      "publishedAt": "2026-09-21T14:06:28.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-s-first-embedded-evaluator-is-accenture",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit",
+      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+      "summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trump and Xi in Washington, the first on US soil since 2017....",
+      "url": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
+      "sourceName": "The Decoder",
       "score": 8.1,
       "tags": [
-        "Research",
+        "Hot News",
         "Policy"
       ],
-      "publishedAt": "2026-09-18T21:44:33.000Z"
+      "publishedAt": "2026-09-21T13:43:33.000Z"
     },
     {
-      "id": "cnn-com-lawsuit-says-anthropic-openai-and-google-made-illegal-agreement-on-ai-slowdown",
-      "title": "Lawsuit says Anthropic, OpenAI and Google made illegal agreement on AI slowdown",
-      "summary": "Tin AI từ Hacker News AI về \"Lawsuit says Anthropic, OpenAI and Google made illegal agreement on AI slowdown\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
-      "sourceName": "cnn.com",
-      "score": 7.9,
+      "id": "openai-news-advisory-group-on-mathematics-and-artificial-intelligence",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceName": "OpenAI News",
+      "score": 8,
       "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": "openai-news-higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "sourceName": "OpenAI News",
+      "score": 8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-podcast-securing-ai-agents-identity-authorization-and-the-dpact-framework",
+      "title": "Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework",
+      "summary": "In this episode, Sahil Agarwal talks about the critical challenges of identity, authorisation, and security in the age of AI agents. Sahil introduces the DPACT framework (Delegation, Policy, Auditability, Context, and Time) as a blueprint for building responsible, guardrailed agentic systems, moving away from simple token-based access toward bounded, delegated authority. By Sahil Agarwal",
+      "url": "https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
+      "tags": [
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-09-20T20:09:19.000Z"
+      "publishedAt": "2026-09-21T11:00:00.000Z"
     }
   ]
 }
