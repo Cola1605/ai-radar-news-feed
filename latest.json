@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-09-22T23:39:34.907Z",
-  "latestPublishedAt": "2026-09-22T20:06:51.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-09-23",
+  "generatedAt": "2026-09-23T23:48:42.817Z",
+  "latestPublishedAt": "2026-09-23T17:39:10.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-09-24",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 179,
+  "totalCount": 190,
   "items": [
+    {
+      "id": "the-decoder-google-s-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions",
+      "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
+      "summary": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages. Flash TTS can create new voices from text descriptions, and both models let users add stage directions to individual lines and generate two-voice dialogue from a single script. A voice cloning feature can build a voice profile from a 30-second sample....",
+      "url": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-23T17:39:10.000Z"
+    },
     {
       "id": "openai-news-introducing-gpt-6-sol-and-luna",
       "title": "Introducing GPT-6 Sol and Luna",
@@ -21,33 +33,6 @@
       "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
-      "id": "the-decoder-claude-opus-5-5-matches-fable-5-1-performance-at-lower-cost-and-promises-less-claudish-writing",
-      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
-      "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks....",
-      "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-22T17:11:07.000Z"
-    },
-    {
-      "id": "the-decoder-xiaomi-s-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there",
-      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude....",
-      "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-22T11:42:11.000Z"
-    },
-    {
       "id": "openai-news-priorities-and-principles-for-effective-third-party-assessments",
       "title": "Priorities and principles for effective third party assessments",
       "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
@@ -59,21 +44,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6",
-      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
-      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on The Decoder .",
-      "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-09-21T16:56:36.000Z"
     },
     {
       "id": "techcrunch-ai-openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mistakes",
@@ -102,6 +72,19 @@
       "publishedAt": "2026-09-22T16:30:07.000Z"
     },
     {
+      "id": "the-decoder-inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data",
+      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies....",
+      "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-09-23T13:52:23.000Z"
+    },
+    {
       "id": "the-decoder-openai-s-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance",
       "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
       "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming....",
@@ -115,6 +98,20 @@
       "publishedAt": "2026-09-22T20:06:51.000Z"
     },
     {
+      "id": "mit-technology-review-the-ai-hype-index-ai-loves-cheating",
+      "title": "The AI Hype Index: AI loves cheating",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-23T09:00:00.000Z"
+    },
+    {
       "id": "mit-technology-review-don-t-be-fooled-by-this-summer-of-ai-hype",
       "title": "Don’t be fooled by this summer of AI hype",
       "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
@@ -126,19 +123,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-22T11:04:51.000Z"
-    },
-    {
-      "id": "openai-news-building-standards-for-the-next-phase-of-ai",
-      "title": "Building standards for the next phase of AI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "sourceName": "OpenAI News",
-      "score": 9.4,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-21T10:00:00.000Z"
     },
     {
       "id": "openai-news-parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra",
@@ -155,18 +139,28 @@
       "publishedAt": "2026-09-22T12:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
+      "id": "openai-news-grab-and-openai-bring-practical-ai-skills-to-southeast-asia",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
+        "Hot News"
       ],
-      "publishedAt": "2026-09-21T19:19:21.000Z"
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-engineer-explains-why-claude-s-writing-got-worse-although-the-model-got-smarter",
+      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans. Opus 5.5 tries to fix this, but Opus 4.6 remains unmatched as a pure writing model....",
+      "url": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-23T15:14:34.000Z"
     }
   ]
 }
