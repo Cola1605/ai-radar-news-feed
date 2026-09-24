@@ -1,101 +1,39 @@
 {
-  "generatedAt": "2026-09-23T23:48:42.817Z",
-  "latestPublishedAt": "2026-09-23T17:39:10.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-09-24",
+  "generatedAt": "2026-09-24T23:55:11.313Z",
+  "latestPublishedAt": "2026-09-24T19:18:33.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-09-25",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 190,
+  "totalCount": 203,
   "items": [
     {
-      "id": "the-decoder-google-s-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions",
-      "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
-      "summary": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages. Flash TTS can create new voices from text descriptions, and both models let users add stage directions to individual lines and generate two-voice dialogue from a single script. A voice cloning feature can build a voice profile from a 30-second sample....",
-      "url": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-23T17:39:10.000Z"
-    },
-    {
-      "id": "openai-news-introducing-gpt-6-sol-and-luna",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "id": "openai-news-priorities-and-principles-for-effective-third-party-assessments",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mistakes",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-22T18:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-22T16:30:07.000Z"
-    },
-    {
-      "id": "the-decoder-inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data",
-      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
-      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies....",
-      "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
+      "id": "the-decoder-anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-09-23T13:52:23.000Z"
+      "publishedAt": "2026-09-24T16:04:26.000Z"
     },
     {
-      "id": "the-decoder-openai-s-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance",
-      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
-      "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming....",
-      "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "id": "the-decoder-deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door",
+      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
+      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and says trustworthy agents matter more....",
+      "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Hot News",
-        "Model"
+        "Model",
+        "Agent AI"
       ],
-      "publishedAt": "2026-09-22T20:06:51.000Z"
+      "publishedAt": "2026-09-24T13:35:44.000Z"
     },
     {
       "id": "mit-technology-review-the-ai-hype-index-ai-loves-cheating",
@@ -112,31 +50,30 @@
       "publishedAt": "2026-09-23T09:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-don-t-be-fooled-by-this-summer-of-ai-hype",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.4,
+      "id": "the-decoder-black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model",
+      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
+      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than the previous top model. The article Black Forest Labs launches FLUX 3 Action, an open robotics AI model appeared first on The Decoder .",
+      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
+        "Hot News",
         "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-22T11:04:51.000Z"
-    },
-    {
-      "id": "openai-news-parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-09-22T12:00:00.000Z"
+      "publishedAt": "2026-09-24T17:01:03.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-3-8-live-with-live-avatar",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Live with Live Avatar\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
       "id": "openai-news-grab-and-openai-bring-practical-ai-skills-to-southeast-asia",
@@ -151,16 +88,80 @@
       "publishedAt": "2026-09-23T00:00:00.000Z"
     },
     {
-      "id": "the-decoder-anthropic-engineer-explains-why-claude-s-writing-got-worse-although-the-model-got-smarter",
-      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
-      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans. Opus 5.5 tries to fix this, but Opus 4.6 remains unmatched as a pure writing model....",
-      "url": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
+      "id": "openai-news-introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-09-23T15:14:34.000Z"
+      "publishedAt": "2026-09-22T18:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds",
+      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
+      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed picture....",
+      "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
+      "sourceName": "The Decoder",
+      "score": 9,
+      "tags": [
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-09-24T19:18:33.000Z"
+    },
+    {
+      "id": "openai-news-priorities-and-principles-for-effective-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "sourceName": "OpenAI News",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-google-tests-letting-gemini-call-businesses-for-you",
+      "title": "Google tests letting Gemini call businesses for you",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-24T16:00:00.000Z"
+    },
+    {
+      "id": "openai-news-sam-altman-s-remarks-at-the-united-nations-security-council",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-don-t-be-fooled-by-this-summer-of-ai-hype",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-22T11:04:51.000Z"
     }
   ]
 }
