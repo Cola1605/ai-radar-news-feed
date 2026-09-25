@@ -1,67 +1,25 @@
 {
-  "generatedAt": "2026-09-24T23:55:11.313Z",
-  "latestPublishedAt": "2026-09-24T19:18:33.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-09-25",
+  "generatedAt": "2026-09-25T23:58:43.460Z",
+  "latestPublishedAt": "2026-09-25T22:20:47.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-09-26",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 203,
   "items": [
     {
-      "id": "the-decoder-anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
-      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
-      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
+      "id": "the-decoder-white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers",
+      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder .",
+      "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-24T16:04:26.000Z"
-    },
-    {
-      "id": "the-decoder-deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door",
-      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and says trustworthy agents matter more....",
-      "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-24T13:35:44.000Z"
-    },
-    {
-      "id": "mit-technology-review-the-ai-hype-index-ai-loves-cheating",
-      "title": "The AI Hype Index: AI loves cheating",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.4,
-      "tags": [
-        "Model",
-        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-09-23T09:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model",
-      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
-      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than the previous top model. The article Black Forest Labs launches FLUX 3 Action, an open robotics AI model appeared first on The Decoder .",
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-24T17:01:03.000Z"
+      "publishedAt": "2026-09-25T08:12:14.000Z"
     },
     {
       "id": "google-deepmind-introducing-gemini-3-8-live-with-live-avatar",
@@ -74,30 +32,6 @@
         "Model"
       ],
       "publishedAt": "2026-09-24T16:20:39.000Z"
-    },
-    {
-      "id": "openai-news-grab-and-openai-bring-practical-ai-skills-to-southeast-asia",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "id": "openai-news-introducing-gpt-6-sol-and-luna",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
       "id": "the-decoder-top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds",
@@ -113,55 +47,118 @@
       "publishedAt": "2026-09-24T19:18:33.000Z"
     },
     {
-      "id": "openai-news-priorities-and-principles-for-effective-third-party-assessments",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-google-tests-letting-gemini-call-businesses-for-you",
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "id": "techcrunch-ai-meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later....",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
       "sourceName": "TechCrunch AI",
-      "score": 8.9,
+      "score": 8.8,
       "tags": [
-        "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-09-24T16:00:00.000Z"
+      "publishedAt": "2026-09-25T18:22:47.000Z"
     },
     {
-      "id": "openai-news-sam-altman-s-remarks-at-the-united-nations-security-council",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
+      "id": "the-decoder-microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing",
+      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
+      "summary": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft. For Autopilot and Code, the company is also switching to usage-based billing instead of flat-rate pricing, moving further away from its AI subsidy model....",
+      "url": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
-        "Policy"
+        "Model",
+        "Agent AI"
       ],
-      "publishedAt": "2026-09-23T12:00:00.000Z"
+      "publishedAt": "2026-09-25T16:30:57.000Z"
     },
     {
-      "id": "mit-technology-review-don-t-be-fooled-by-this-summer-of-ai-hype",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "id": "techcrunch-ai-meta-s-ai-tamagotchi-bet-is-working",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later....",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-25T16:00:00.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-ai-hype-index-ai-loves-cheating",
+      "title": "The AI Hype Index: AI loves cheating",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "sourceName": "MIT Technology Review",
       "score": 8.7,
       "tags": [
         "Model",
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-09-22T11:04:51.000Z"
+      "publishedAt": "2026-09-23T09:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-knowledge",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
+      "tags": [
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-25T22:20:47.000Z"
+    },
+    {
+      "id": "techcrunch-ai-for-months-openai-s-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
+      "tags": [
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-09-25T15:48:14.000Z"
+    },
+    {
+      "id": "the-decoder-another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible",
+      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+      "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he says....",
+      "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-09-25T17:55:51.000Z"
+    },
+    {
+      "id": "openai-news-grab-and-openai-bring-practical-ai-skills-to-southeast-asia",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-infoq-launches-high-performing-teams-certification-program",
+      "title": "InfoQ Launches High-Performing Teams Certification Program",
+      "summary": "InfoQ has opened enrollment for a new five-week certification program covering engineering team design, delivery flow, AI-enabled work, and metrics, facilitated by InfoQ editor and podcast co-host Olimpiu Pop. By Artenisa Chatziou",
+      "url": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-24T15:00:00.000Z"
     }
   ]
 }
