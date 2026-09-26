@@ -1,50 +1,54 @@
 {
-  "generatedAt": "2026-09-25T23:58:43.460Z",
-  "latestPublishedAt": "2026-09-25T22:20:47.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-09-26",
+  "generatedAt": "2026-09-26T23:41:52.059Z",
+  "latestPublishedAt": "2026-09-26T11:00:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-09-27",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 203,
+  "totalCount": 197,
   "items": [
     {
-      "id": "the-decoder-white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers",
-      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
-      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder .",
-      "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
+      "id": "the-decoder-openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI has paused tool-based training, evaluation, and inference for its most capable models....",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-09-26T09:06:36.000Z"
+    },
+    {
+      "id": "the-decoder-nvidia-s-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness",
+      "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+      "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smaller on other benchmarks....",
+      "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-09-25T08:12:14.000Z"
+      "publishedAt": "2026-09-26T10:30:32.000Z"
     },
     {
-      "id": "google-deepmind-introducing-gemini-3-8-live-with-live-avatar",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Live with Live Avatar\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
+      "id": "the-decoder-openai-s-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf",
+      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+      "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-time assembly guidance, but the gap is closing quickly....",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-09-24T16:20:39.000Z"
-    },
-    {
-      "id": "the-decoder-top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds",
-      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
-      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed picture....",
-      "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
-      "sourceName": "The Decoder",
-      "score": 9,
-      "tags": [
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-09-24T19:18:33.000Z"
+      "publishedAt": "2026-09-26T09:44:54.000Z"
     },
     {
       "id": "techcrunch-ai-meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
@@ -84,20 +88,6 @@
       "publishedAt": "2026-09-25T16:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-the-ai-hype-index-ai-loves-cheating",
-      "title": "The AI Hype Index: AI loves cheating",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-23T09:00:00.000Z"
-    },
-    {
       "id": "techcrunch-ai-unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-knowledge",
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
@@ -124,28 +114,16 @@
       "publishedAt": "2026-09-25T15:48:14.000Z"
     },
     {
-      "id": "the-decoder-another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible",
-      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
-      "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he says....",
-      "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-09-25T17:55:51.000Z"
-    },
-    {
-      "id": "openai-news-grab-and-openai-bring-practical-ai-skills-to-southeast-asia",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "sourceName": "OpenAI News",
+      "id": "google-deepmind-introducing-gemini-3-8-live-with-live-avatar",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 3.8 Live with Live Avatar\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "sourceName": "Google DeepMind",
       "score": 8.4,
       "tags": [
-        "Hot News"
+        "Model"
       ],
-      "publishedAt": "2026-09-23T00:00:00.000Z"
+      "publishedAt": "2026-09-24T16:20:39.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-infoq-launches-high-performing-teams-certification-program",
@@ -153,12 +131,38 @@
       "summary": "InfoQ has opened enrollment for a new five-week certification program covering engineering team design, delivery flow, AI-enabled work, and metrics, facilitated by InfoQ editor and podcast co-host Olimpiu Pop. By Artenisa Chatziou",
       "url": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
+      "score": 7.6,
       "tags": [
         "Hot News",
         "Model"
       ],
       "publishedAt": "2026-09-24T15:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-adaptive-recommenders-in-the-real-world-inference-evals-and-system-design",
+      "title": "Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design",
+      "summary": "Mallika Rao explains that the true complexity of adaptive recommendation systems lies outside model architecture. She discusses how real-time feedback loops, retrieval freshness, multi-stage orchestration, and end-to-end latency budgeting enable systems to continuously learn and evolve in production under real-world operational constraints like latency, cost, and observability. By Mallika Rao",
+      "url": "https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.5,
+      "tags": [
+        "Model",
+        "Research",
+        "Infra"
+      ],
+      "publishedAt": "2026-09-26T11:00:00.000Z"
+    },
+    {
+      "id": "openai-news-proaction-boosts-sales-60-and-saves-75-hours-with-codex",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "url": "https://openai.com/index/proaction",
+      "sourceName": "OpenAI News",
+      "score": 7.5,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-25T19:00:00.000Z"
     }
   ]
 }
