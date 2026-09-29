@@ -1,65 +1,119 @@
 {
-  "generatedAt": "2026-09-27T23:51:01.032Z",
-  "latestPublishedAt": "2026-09-27T19:57:30.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-09-28",
+  "generatedAt": "2026-09-29T01:04:48.777Z",
+  "latestPublishedAt": "2026-09-28T23:39:20.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-09-29",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 194,
+  "totalCount": 198,
   "items": [
     {
-      "id": "the-decoder-nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time",
-      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-      "summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder .",
-      "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
+      "id": "wsj-com-openai-scraps-release-of-new-ai-model-over-safety-concerns",
+      "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
+      "summary": "Tin AI từ Hacker News AI về \"OpenAI Scraps Release of New AI Model over Safety Concerns\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
+      "sourceName": "wsj.com",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-28T22:07:59.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-s-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+      "title": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model jumps from 10.3 to 70.6 percent....",
+      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-27T11:01:13.000Z"
-    },
-    {
-      "id": "the-decoder-openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond",
-      "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
-      "summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model performance as the biggest problem. Most users don't even know what they can do with AI....",
-      "url": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-09-27T10:36:29.000Z"
+      "publishedAt": "2026-09-28T18:02:10.000Z"
     },
     {
-      "id": "the-decoder-tens-of-thousands-of-security-probes-show-openai-s-hugging-face-incident-was-just-the-beginning",
-      "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
-      "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets. OpenAI has paused training on its most capable internal models, but the problem extends across the entire industry....",
-      "url": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "techcrunch-ai-nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
       "tags": [
-        "Model",
+        "Hot News",
         "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-09-27T09:23:36.000Z"
+      "publishedAt": "2026-09-28T18:31:23.000Z"
     },
     {
-      "id": "the-decoder-researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen",
-      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
-      "summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating. The article Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen appeared first on The Decoder .",
-      "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
+      "id": "techcrunch-ai-anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-09-28T18:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-reportedly-ditches-model-over-safety-concerns",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.5,
       "tags": [
         "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-09-27T10:59:11.000Z"
+      "publishedAt": "2026-09-28T23:39:20.000Z"
+    },
+    {
+      "id": "the-decoder-more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks",
+      "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
+      "summary": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months. The article More than 20 leading AI researchers warn that automated AI research poses extreme risks appeared first on The Decoder .",
+      "url": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-28T19:26:21.000Z"
+    },
+    {
+      "id": "the-decoder-every-ai-lab-thinks-it-s-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-that-s-what-keeps-the-arms-race-going",
+      "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
+      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10 percent. Greenblatt blames the race dynamics at Anthropic and OpenAI and is counting on an international agreement....",
+      "url": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-28T12:11:27.000Z"
+    },
+    {
+      "id": "theverge-com-nvidia-announces-ai-safety-platform",
+      "title": "Nvidia announces AI safety platform",
+      "summary": "Tin AI từ Hacker News AI về \"Nvidia announces AI safety platform\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "sourceName": "theverge.com",
+      "score": 9,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-28T23:38:02.000Z"
     },
     {
       "id": "techcrunch-ai-can-muse-overcome-meta-s-trust-issues",
@@ -74,92 +128,43 @@
       "publishedAt": "2026-09-27T19:57:30.000Z"
     },
     {
-      "id": "techcrunch-ai-google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
+      "id": "mit-technology-review-when-can-we-say-ai-made-a-scientific-discovery",
+      "title": "When can we say AI made a scientific discovery?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.8,
       "tags": [
         "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-09-27T01:30:00.000Z"
-    },
-    {
-      "id": "heysquint-com-show-hn-squint-drag-a-box-on-your-screen-and-ask-ai-about-it",
-      "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
-      "summary": "It improves the usual workflow: take a screenshot, switch to a chat tab, upload it, switch back. - Built with Rust and Tauri v2, including a built-in native screenshot solution for maximum performance and stability. - Answers come from OpenAI models. Fast, the default, usually starts answering within 1–2 seconds; Best is slightly slower, but provides a much higher quality response....",
-      "url": "https://heysquint.com/",
-      "sourceName": "heysquint.com",
-      "score": 8.2,
-      "tags": [
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-09-27T19:29:41.000Z"
+      "publishedAt": "2026-09-28T17:03:16.000Z"
     },
     {
-      "id": "orglet-codepawl-com-show-hn-orglet-an-open-source-desktop-app-for-your-own-team-of-cute-ai-workers",
-      "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
-      "summary": "I’m building Orglet, a desktop app where you give AI workers (I call them orglets, and they are cute) their own instructions and talk to them individually or together in a group chat. You can build your own army of orglets using your existing Claude Code or Codex subscription, an API provider, or even locally hosted models....",
-      "url": "https://orglet.codepawl.com/",
-      "sourceName": "orglet.codepawl.com",
-      "score": 8.2,
+      "id": "openai-news-the-lenfest-institute-grows-landmark-program-with-expanded-openai-support",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
       "tags": [
-        "Model",
-        "Infra"
+        "Business"
       ],
-      "publishedAt": "2026-09-27T18:37:45.000Z"
+      "publishedAt": "2026-09-28T07:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later....",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
+      "id": "the-decoder-openai-s-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data",
+      "title": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
+      "summary": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases that show how hard it is to keep agentic AI systems in check....",
+      "url": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
       "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-25T18:22:47.000Z"
-    },
-    {
-      "id": "techcrunch-ai-meta-s-ai-tamagotchi-bet-is-working",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later....",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-25T16:00:00.000Z"
-    },
-    {
-      "id": "apnews-com-anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-to-control-it",
-      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
-      "summary": "Tin AI từ Hacker News AI về \"Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
-      "sourceName": "apnews.com",
-      "score": 7.9,
-      "tags": [
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-09-27T18:34:38.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-gke-pod-snapshots-cut-model-load-times-and-move-the-work-to-snapshot-lifecycle-management",
-      "title": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management",
-      "summary": "Google has published benchmarks for GKE Pod snapshots, reporting up to 89% lower startup latency and a 70B model loading in 37 seconds. The feature checkpoints CPU and GPU memory through gVisor into Cloud Storage. Practitioners have asked whether invalidation is the harder problem, since snapshots match on a spec hash, machine series, and kernel and driver versions. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-27T06:46:00.000Z"
+      "publishedAt": "2026-09-28T16:56:06.000Z"
     }
   ]
 }
