@@ -1,67 +1,52 @@
 {
-  "generatedAt": "2026-09-29T01:04:48.777Z",
-  "latestPublishedAt": "2026-09-28T23:39:20.000Z",
-  "newItemCount": 11,
-  "dateKey": "2026-09-29",
+  "generatedAt": "2026-09-30T00:36:01.539Z",
+  "latestPublishedAt": "2026-09-29T22:20:59.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-09-30",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 198,
+  "totalCount": 203,
   "items": [
     {
-      "id": "wsj-com-openai-scraps-release-of-new-ai-model-over-safety-concerns",
-      "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-      "summary": "Tin AI từ Hacker News AI về \"OpenAI Scraps Release of New AI Model over Safety Concerns\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
-      "sourceName": "wsj.com",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-28T22:07:59.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-s-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "title": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model jumps from 10.3 to 70.6 percent....",
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+      "id": "the-decoder-gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price",
+      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+      "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission. The article GPT-6.1 Sol comes close to Astra at a fifth of the price appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
-        "Hot News",
         "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-09-28T18:02:10.000Z"
-    },
-    {
-      "id": "techcrunch-ai-nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Agent AI",
+        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-09-28T18:31:23.000Z"
+      "publishedAt": "2026-09-29T17:14:27.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
+      "id": "the-decoder-uk-ai-security-institute-finds-gpt-6-astra-s-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent of runs. Explicit restrictions reduced attacks but didn't stop them entirely....",
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model"
+        "Model",
+        "Policy"
       ],
-      "publishedAt": "2026-09-28T18:00:00.000Z"
+      "publishedAt": "2026-09-29T19:24:12.000Z"
+    },
+    {
+      "id": "the-decoder-elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent",
+      "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
+      "summary": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Analysis' Voice Arena leaderboard, v4 ranks ahead of Cartesia and Google's Gemini....",
+      "url": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-29T14:45:17.000Z"
     },
     {
       "id": "techcrunch-ai-openai-reportedly-ditches-model-over-safety-concerns",
@@ -77,55 +62,71 @@
       "publishedAt": "2026-09-28T23:39:20.000Z"
     },
     {
-      "id": "the-decoder-more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks",
-      "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
-      "summary": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months. The article More than 20 leading AI researchers warn that automated AI research poses extreme risks appeared first on The Decoder .",
-      "url": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
+      "id": "openai-news-devday-2026-recap",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "sourceName": "OpenAI News",
+      "score": 9.4,
       "tags": [
-        "Research",
+        "Hot News",
+        "Model",
         "Policy"
       ],
-      "publishedAt": "2026-09-28T19:26:21.000Z"
+      "publishedAt": "2026-09-29T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-every-ai-lab-thinks-it-s-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-that-s-what-keeps-the-arms-race-going",
-      "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
-      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10 percent. Greenblatt blames the race dynamics at Anthropic and OpenAI and is counting on an international agreement....",
-      "url": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/",
+      "id": "the-decoder-openai-s-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+      "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+      "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marketplace with 32 partners, and a new Pro 500 pricing tier....",
+      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
       "sourceName": "The Decoder",
-      "score": 9.2,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-28T12:11:27.000Z"
-    },
-    {
-      "id": "theverge-com-nvidia-announces-ai-safety-platform",
-      "title": "Nvidia announces AI safety platform",
-      "summary": "Tin AI từ Hacker News AI về \"Nvidia announces AI safety platform\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "sourceName": "theverge.com",
       "score": 9,
       "tags": [
         "Hot News",
-        "Policy"
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-09-28T23:38:02.000Z"
+      "publishedAt": "2026-09-29T17:23:22.000Z"
     },
     {
-      "id": "techcrunch-ai-can-muse-overcome-meta-s-trust-issues",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "id": "techcrunch-ai-the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "sourceName": "TechCrunch AI",
       "score": 8.9,
       "tags": [
-        "Hot News"
+        "Hot News",
+        "Agent AI"
       ],
-      "publishedAt": "2026-09-27T19:57:30.000Z"
+      "publishedAt": "2026-09-29T22:20:59.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-launches-dots-its-bubbly-agentic-avatar",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-29T17:17:15.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-s-latest-features-take-direct-aim-at-the-app-store-model",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-09-29T20:15:47.000Z"
     },
     {
       "id": "mit-technology-review-when-can-we-say-ai-made-a-scientific-discovery",
@@ -142,29 +143,28 @@
       "publishedAt": "2026-09-28T17:03:16.000Z"
     },
     {
-      "id": "openai-news-the-lenfest-institute-grows-landmark-program-with-expanded-openai-support",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "id": "openai-news-introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "sourceName": "OpenAI News",
-      "score": 8.6,
+      "score": 8.7,
       "tags": [
-        "Business"
+        "Model"
       ],
-      "publishedAt": "2026-09-28T07:00:00.000Z"
+      "publishedAt": "2026-09-29T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-openai-s-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data",
-      "title": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
-      "summary": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases that show how hard it is to keep agentic AI systems in check....",
-      "url": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
+      "id": "openai-news-introducing-dots",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "url": "https://openai.com/index/introducing-dots",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
-        "Agent AI",
-        "Policy"
+        "AI"
       ],
-      "publishedAt": "2026-09-28T16:56:06.000Z"
+      "publishedAt": "2026-09-29T00:00:00.000Z"
     }
   ]
 }
