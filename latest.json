@@ -1,26 +1,39 @@
 {
-  "generatedAt": "2026-09-30T00:36:01.539Z",
-  "latestPublishedAt": "2026-09-29T22:20:59.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-09-30",
+  "generatedAt": "2026-10-01T00:37:56.620Z",
+  "latestPublishedAt": "2026-09-30T23:43:07.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-10-01",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 203,
+  "totalCount": 205,
   "items": [
     {
-      "id": "the-decoder-gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price",
-      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
-      "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission. The article GPT-6.1 Sol comes close to Astra at a fifth of the price appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
-        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-09-29T17:14:27.000Z"
+      "publishedAt": "2026-09-30T23:43:07.000Z"
+    },
+    {
+      "id": "the-decoder-meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments",
+      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
+      "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion. The tax credit dates back to 1981, and even Meta's own accountants see the strategy as legally risky, the New York Times reports....",
+      "url": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-30T17:22:34.000Z"
     },
     {
       "id": "the-decoder-uk-ai-security-institute-finds-gpt-6-astra-s-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
@@ -34,32 +47,6 @@
         "Policy"
       ],
       "publishedAt": "2026-09-29T19:24:12.000Z"
-    },
-    {
-      "id": "the-decoder-elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent",
-      "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
-      "summary": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Analysis' Voice Arena leaderboard, v4 ranks ahead of Cartesia and Google's Gemini....",
-      "url": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-29T14:45:17.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-reportedly-ditches-model-over-safety-concerns",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-28T23:39:20.000Z"
     },
     {
       "id": "openai-news-devday-2026-recap",
@@ -76,18 +63,42 @@
       "publishedAt": "2026-09-29T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-openai-s-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
-      "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-      "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marketplace with 32 partners, and a new Pro 500 pricing tier....",
-      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
+      "id": "the-decoder-openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer",
+      "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
+      "summary": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the partnership to advance its own chip development as well....",
+      "url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
       "sourceName": "The Decoder",
-      "score": 9,
+      "score": 9.3,
       "tags": [
-        "Hot News",
         "Model",
         "Business"
       ],
-      "publishedAt": "2026-09-29T17:23:22.000Z"
+      "publishedAt": "2026-09-30T19:12:30.000Z"
+    },
+    {
+      "id": "the-decoder-china-s-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huawei-s-ascend-chips",
+      "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
+      "summary": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA. The partnership targets the biggest obstacle for China's AI industry, which is software that gets the most out of domestic chips....",
+      "url": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+      "sourceName": "The Decoder",
+      "score": 9.3,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-09-30T14:37:24.000Z"
+    },
+    {
+      "id": "google-deepmind-gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Argon: our next era of frontier intelligence\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-09-30T20:01:45.000Z"
     },
     {
       "id": "techcrunch-ai-the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch",
@@ -103,19 +114,6 @@
       "publishedAt": "2026-09-29T22:20:59.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-launches-dots-its-bubbly-agentic-avatar",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-29T17:17:15.000Z"
-    },
-    {
       "id": "techcrunch-ai-openai-s-latest-features-take-direct-aim-at-the-app-store-model",
       "title": "OpenAI’s latest features take direct aim at the app store model",
       "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
@@ -127,20 +125,6 @@
         "Agent AI"
       ],
       "publishedAt": "2026-09-29T20:15:47.000Z"
-    },
-    {
-      "id": "mit-technology-review-when-can-we-say-ai-made-a-scientific-discovery",
-      "title": "When can we say AI made a scientific discovery?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-09-28T17:03:16.000Z"
     },
     {
       "id": "openai-news-introducing-gpt-6-1-sol",
@@ -155,16 +139,29 @@
       "publishedAt": "2026-09-29T10:00:00.000Z"
     },
     {
-      "id": "openai-news-introducing-dots",
-      "title": "Introducing dots",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots",
+      "id": "openai-news-disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "sourceName": "OpenAI News",
-      "score": 8.7,
+      "score": 8.6,
       "tags": [
-        "AI"
+        "Model"
       ],
-      "publishedAt": "2026-09-29T00:00:00.000Z"
+      "publishedAt": "2026-09-30T10:30:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-here-s-why-openai-is-absent-from-nvidia-s-industry-wide-effort-to-end-rogue-ai-agents",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-09-29T18:35:00.000Z"
     }
   ]
 }
