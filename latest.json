@@ -1,16 +1,44 @@
 {
-  "generatedAt": "2026-10-02T00:56:50.662Z",
-  "latestPublishedAt": "2026-10-01T18:14:42.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-10-02",
+  "generatedAt": "2026-10-03T00:34:06.488Z",
+  "latestPublishedAt": "2026-10-02T19:41:05.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-10-03",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 200,
+  "totalCount": 183,
   "items": [
     {
+      "id": "the-decoder-anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually",
+      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up....",
+      "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-02T19:41:05.000Z"
+    },
+    {
+      "id": "the-decoder-microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents",
+      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder .",
+      "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-02T09:20:39.000Z"
+    },
+    {
       "id": "infoq-ai-ml-data-engineering-typesafe-ai-releases-jev-a-decision-only-model-that-returns-typed-probabilities-instead-of-text",
-      "title": "TypeSafe AI Releases Jev: A Decision-Only Model That Returns Typed Probabilities Instead of Text",
+      "title": "TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text",
       "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabilistic scores and confidence values. Jev's adoption has been swift, with integrations into platforms like Vercel and Netlify, highlighting its efficiency over traditional models. By Daniel Curtis",
       "url": "https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
@@ -23,69 +51,17 @@
       "publishedAt": "2026-10-01T06:47:00.000Z"
     },
     {
-      "id": "techcrunch-ai-google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
+      "id": "the-decoder-three-firings-and-a-fourth-departure-shake-up-openai-s-safety-team",
+      "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+      "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder .",
+      "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
-        "Hot News",
-        "Model",
+        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-09-30T23:43:07.000Z"
-    },
-    {
-      "id": "the-decoder-openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
-      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
-      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers found that the same attack kept working on Microsoft Azure for weeks, even against the new GPT-6 Astra....",
-      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-01T12:05:49.000Z"
-    },
-    {
-      "id": "the-decoder-meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments",
-      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
-      "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion. The tax credit dates back to 1981, and even Meta's own accountants see the strategy as legally risky, the New York Times reports....",
-      "url": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-30T17:22:34.000Z"
-    },
-    {
-      "id": "the-decoder-openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer",
-      "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
-      "summary": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the partnership to advance its own chip development as well....",
-      "url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
-      "sourceName": "The Decoder",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-09-30T19:12:30.000Z"
-    },
-    {
-      "id": "google-deepmind-gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Argon: our next era of frontier intelligence\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "sourceName": "Google DeepMind",
-      "score": 9,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-30T20:01:45.000Z"
+      "publishedAt": "2026-10-02T12:51:08.000Z"
     },
     {
       "id": "techcrunch-ai-openai-cuts-ties-with-3-safety-researchers-wsj-reports",
@@ -115,57 +91,79 @@
       "publishedAt": "2026-10-01T16:49:22.000Z"
     },
     {
-      "id": "openai-news-devday-2026-recap",
-      "title": "DevDay 2026 Recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-09-29T10:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on",
-      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
-      "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as enterprise customers, pay for what they use with fixed spending caps, and can set budgets for each department....",
-      "url": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
-      "sourceName": "The Decoder",
-      "score": 8.6,
-      "tags": [
-        "Model",
-        "Policy",
-        "Business"
-      ],
-      "publishedAt": "2026-10-01T14:26:54.000Z"
-    },
-    {
-      "id": "openai-news-disrupting-a-coordinated-model-distillation-campaign",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "id": "openai-news-a-model-guide-for-the-gpt-6-family",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "sourceName": "OpenAI News",
       "score": 8.6,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-09-30T10:30:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.4,
       "tags": [
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-09-30T19:00:57.000Z"
+      "publishedAt": "2026-10-02T16:15:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-10-02T17:56:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-it-s-not-ai-anymore-it-s-super-intelligence-according-to-the-white-house",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-10-02T17:48:16.000Z"
+    },
+    {
+      "id": "the-decoder-nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call",
+      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+      "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute call. Previous systems maxed out at two percent....",
+      "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-01T18:03:40.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-openai-devday-2026-recap-for-developers",
+      "title": "OpenAI DevDay 2026 Recap for Developers",
+      "summary": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez",
+      "url": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-02T10:39:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-container-apps-express-reaches-ga-on-a-newly-generally-available-sandbox-layer",
+      "title": "Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer",
+      "summary": "Microsoft has made Azure Container Apps Express generally available alongside Container Apps Sandboxes, the microVM compute layer it runs on. Express skips environment provisioning and scales to zero, with subsecond startup from prewarmed pools. Custom domains, zone redundancy, Key Vault references, OpenTelemetry and Dapr are not supported. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-01T06:31:00.000Z"
     }
   ]
 }
