@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-10-03T00:34:06.488Z",
-  "latestPublishedAt": "2026-10-02T19:41:05.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-10-03",
+  "generatedAt": "2026-10-03T23:55:45.293Z",
+  "latestPublishedAt": "2026-10-03T23:41:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-10-04",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 183,
+  "totalCount": 200,
   "items": [
+    {
+      "id": "infoq-ai-ml-data-engineering-new-archestra-s-openappa-saturates-two-major-security-benchmarks-with-a-0-attack-success-rate",
+      "title": "New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate",
+      "summary": "Archestra released OpenAPPA, an open-source security engine designed to stop data exfiltration caused by prompt injection or model hallucination. The team reports zero successful attacks when running security benchmarks Bench-Corp (20 multi-step enterprise workflows) and AgentThreatBench, versus 10% for Claude Code’s auto mode and 31% for Microsoft FIDES. By Bruno Couriol",
+      "url": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-10-03T23:41:00.000Z"
+    },
+    {
+      "id": "the-decoder-another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings",
+      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+      "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multiple layers of redundancy instead of trial and error....",
+      "url": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-03T14:01:14.000Z"
+    },
     {
       "id": "the-decoder-anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually",
       "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
@@ -21,20 +54,6 @@
         "Policy"
       ],
       "publishedAt": "2026-10-02T19:41:05.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents",
-      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder .",
-      "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-02T09:20:39.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-typesafe-ai-releases-jev-a-decision-only-model-that-returns-typed-probabilities-instead-of-text",
@@ -51,44 +70,31 @@
       "publishedAt": "2026-10-01T06:47:00.000Z"
     },
     {
-      "id": "the-decoder-three-firings-and-a-fourth-departure-shake-up-openai-s-safety-team",
-      "title": "Three firings and a fourth departure shake up OpenAI's safety team",
-      "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder .",
-      "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+      "id": "the-decoder-apparently-openai-isn-t-trying-to-build-magic-intelligence-in-the-sky-anymore",
+      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI....",
+      "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
       "sourceName": "The Decoder",
-      "score": 9.2,
+      "score": 9.5,
       "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-02T12:51:08.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-cuts-ties-with-3-safety-researchers-wsj-reports",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-01T18:14:42.000Z"
-    },
-    {
-      "id": "techcrunch-ai-amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
         "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-03T18:56:30.000Z"
+    },
+    {
+      "id": "the-decoder-deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity",
+      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+      "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The article Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity appeared first on The Decoder .",
+      "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-10-01T16:49:22.000Z"
+      "publishedAt": "2026-10-03T10:21:23.000Z"
     },
     {
       "id": "openai-news-a-model-guide-for-the-gpt-6-family",
@@ -102,6 +108,18 @@
         "Agent AI"
       ],
       "publishedAt": "2026-10-02T16:15:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-safety-employee-resigns-claiming-the-company-s-culture-is-broken",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-10-03T16:30:01.000Z"
     },
     {
       "id": "techcrunch-ai-call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
@@ -128,18 +146,6 @@
       "publishedAt": "2026-10-02T17:48:16.000Z"
     },
     {
-      "id": "the-decoder-nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call",
-      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-      "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute call. Previous systems maxed out at two percent....",
-      "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-01T18:03:40.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-openai-devday-2026-recap-for-developers",
       "title": "OpenAI DevDay 2026 Recap for Developers",
       "summary": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez",
@@ -154,16 +160,17 @@
       "publishedAt": "2026-10-02T10:39:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-container-apps-express-reaches-ga-on-a-newly-generally-available-sandbox-layer",
-      "title": "Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer",
-      "summary": "Microsoft has made Azure Container Apps Express generally available alongside Container Apps Sandboxes, the microVM compute layer it runs on. Express skips environment provisioning and scales to zero, with subsecond startup from prewarmed pools. Custom domains, zone redundancy, Key Vault references, OpenTelemetry and Dapr are not supported. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
+      "id": "techcrunch-ai-openai-cuts-ties-with-3-safety-researchers-wsj-reports",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
       "tags": [
-        "Hot News"
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-10-01T06:31:00.000Z"
+      "publishedAt": "2026-10-01T18:14:42.000Z"
     }
   ]
 }
