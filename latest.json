@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-03T23:55:45.293Z",
-  "latestPublishedAt": "2026-10-03T23:41:00.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-10-04",
+  "generatedAt": "2026-10-05T00:01:08.880Z",
+  "latestPublishedAt": "2026-10-04T15:15:10.000Z",
+  "newItemCount": 3,
+  "dateKey": "2026-10-05",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 200,
+  "totalCount": 198,
   "items": [
     {
       "id": "infoq-ai-ml-data-engineering-new-archestra-s-openappa-saturates-two-major-security-benchmarks-with-a-0-attack-success-rate",
@@ -42,34 +42,6 @@
       "publishedAt": "2026-10-03T14:01:14.000Z"
     },
     {
-      "id": "the-decoder-anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually",
-      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up....",
-      "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-02T19:41:05.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-typesafe-ai-releases-jev-a-decision-only-model-that-returns-typed-probabilities-instead-of-text",
-      "title": "TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text",
-      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabilistic scores and confidence values. Jev's adoption has been swift, with integrations into platforms like Vercel and Netlify, highlighting its efficiency over traditional models. By Daniel Curtis",
-      "url": "https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-01T06:47:00.000Z"
-    },
-    {
       "id": "the-decoder-apparently-openai-isn-t-trying-to-build-magic-intelligence-in-the-sky-anymore",
       "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
       "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI....",
@@ -97,17 +69,16 @@
       "publishedAt": "2026-10-03T10:21:23.000Z"
     },
     {
-      "id": "openai-news-a-model-guide-for-the-gpt-6-family",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
+      "id": "the-decoder-open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations",
+      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+      "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at everything yourself,\" Schwartz says....",
+      "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
-        "Model",
-        "Agent AI"
+        "Model"
       ],
-      "publishedAt": "2026-10-02T16:15:00.000Z"
+      "publishedAt": "2026-10-03T09:19:23.000Z"
     },
     {
       "id": "techcrunch-ai-openai-safety-employee-resigns-claiming-the-company-s-culture-is-broken",
@@ -122,12 +93,38 @@
       "publishedAt": "2026-10-03T16:30:01.000Z"
     },
     {
+      "id": "techcrunch-ai-trump-unveils-his-new-super-intelligence-force",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-04T15:15:10.000Z"
+    },
+    {
+      "id": "openai-news-a-model-guide-for-the-gpt-6-family",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "sourceName": "OpenAI News",
+      "score": 7.9,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-02T16:15:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
       "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
       "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 7.8,
       "tags": [
         "Policy"
       ],
@@ -139,7 +136,7 @@
       "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
       "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 7.8,
       "tags": [
         "Policy"
       ],
@@ -151,7 +148,7 @@
       "summary": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez",
       "url": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
+      "score": 7.6,
       "tags": [
         "Hot News",
         "Model",
@@ -160,17 +157,17 @@
       "publishedAt": "2026-10-02T10:39:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-cuts-ties-with-3-safety-researchers-wsj-reports",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
+      "id": "infoq-ai-ml-data-engineering-presentation-building-genai-platform-at-doordash",
+      "title": "Presentation: Building GenAI Platform at DoorDash",
+      "summary": "Swaroop Chitlur and Sidd Kodwani share DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets, transitioning from vendor-first setups to open-weights models, navigating LLM and agent gateways, and balancing accuracy, latency, and cost for over 5,000 internal users. By Siddharth Kodwani, Swaroop Chitlur",
+      "url": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.2,
       "tags": [
-        "Research",
-        "Policy"
+        "Model",
+        "Agent AI"
       ],
-      "publishedAt": "2026-10-01T18:14:42.000Z"
+      "publishedAt": "2026-10-03T11:00:00.000Z"
     }
   ]
 }
