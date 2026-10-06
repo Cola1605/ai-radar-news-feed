@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-10-05T00:01:08.880Z",
-  "latestPublishedAt": "2026-10-04T15:15:10.000Z",
-  "newItemCount": 3,
-  "dateKey": "2026-10-05",
+  "generatedAt": "2026-10-06T01:47:54.542Z",
+  "latestPublishedAt": "2026-10-05T21:08:31.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-10-06",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 198,
   "items": [
+    {
+      "id": "openai-news-building-advertising-for-the-way-people-use-ai",
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-10-05T10:00:00.000Z"
+    },
     {
       "id": "infoq-ai-ml-data-engineering-new-archestra-s-openappa-saturates-two-major-security-benchmarks-with-a-0-attack-success-rate",
       "title": "New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate",
@@ -26,71 +39,71 @@
       "publishedAt": "2026-10-03T23:41:00.000Z"
     },
     {
-      "id": "the-decoder-another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings",
-      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-      "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multiple layers of redundancy instead of trial and error....",
-      "url": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+      "id": "the-decoder-meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor",
+      "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+      "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their own AI tools instead. For Anthropic, that reliance on a few major clients is turning into a strategic risk....",
+      "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9,
       "tags": [
-        "Hot News",
+        "Model",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-10-05T18:59:19.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-building-reusable-evaluation-frameworks-for-agentic-ai-products",
+      "title": "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products",
+      "summary": "Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data science evals with TypeScript production code, and implementing deep tracing to catch regressions across complex RAG and cybersecurity workloads while preserving domain context. By Susan Chang",
+      "url": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.7,
+      "tags": [
         "Model",
         "Agent AI",
         "Research",
-        "Policy"
+        "Policy",
+        "Infra"
       ],
-      "publishedAt": "2026-10-03T14:01:14.000Z"
+      "publishedAt": "2026-10-05T11:19:00.000Z"
     },
     {
-      "id": "the-decoder-apparently-openai-isn-t-trying-to-build-magic-intelligence-in-the-sky-anymore",
-      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
-      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI....",
-      "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-03T18:56:30.000Z"
-    },
-    {
-      "id": "the-decoder-deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity",
-      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
-      "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The article Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity appeared first on The Decoder .",
-      "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-03T10:21:23.000Z"
-    },
-    {
-      "id": "the-decoder-open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations",
-      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
-      "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at everything yourself,\" Schwartz says....",
-      "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-03T09:19:23.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-safety-employee-resigns-claiming-the-company-s-culture-is-broken",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "id": "techcrunch-ai-openai-launches-visual-ads-that-appear-alongside-image-generation-results",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "sourceName": "TechCrunch AI",
       "score": 8.5,
       "tags": [
-        "Policy"
+        "Hot News"
       ],
-      "publishedAt": "2026-10-03T16:30:01.000Z"
+      "publishedAt": "2026-10-05T15:14:24.000Z"
+    },
+    {
+      "id": "the-decoder-aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty",
+      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+      "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPUs in Germany and Finland, and the weights are freely available under the Apache 2.0 license....",
+      "url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-10-05T14:12:50.000Z"
+    },
+    {
+      "id": "openai-news-our-approach-to-eu-text-provenance-rules",
+      "title": "Our approach to EU text provenance rules",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "sourceName": "OpenAI News",
+      "score": 8.3,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-10-05T15:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-trump-unveils-his-new-super-intelligence-force",
@@ -106,68 +119,57 @@
       "publishedAt": "2026-10-04T15:15:10.000Z"
     },
     {
-      "id": "openai-news-a-model-guide-for-the-gpt-6-family",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "sourceName": "OpenAI News",
+      "id": "techcrunch-ai-reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "sourceName": "TechCrunch AI",
       "score": 7.9,
       "tags": [
         "Model",
-        "Agent AI"
+        "Business"
       ],
-      "publishedAt": "2026-10-02T16:15:00.000Z"
+      "publishedAt": "2026-10-05T19:33:53.000Z"
     },
     {
-      "id": "techcrunch-ai-call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "id": "google-research-open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "summary": "Tin AI từ Google Research về \"Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "sourceName": "Google Research",
+      "score": 7.8,
+      "tags": [
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-05T21:08:31.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-will-start-watermarking-chatgpt-s-text-in-the-eu",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "sourceName": "TechCrunch AI",
       "score": 7.8,
       "tags": [
-        "Policy"
+        "Model"
       ],
-      "publishedAt": "2026-10-02T17:56:00.000Z"
+      "publishedAt": "2026-10-05T20:36:48.000Z"
     },
     {
-      "id": "techcrunch-ai-it-s-not-ai-anymore-it-s-super-intelligence-according-to-the-white-house",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "sourceName": "TechCrunch AI",
+      "id": "mit-technology-review-bringing-predictive-analytics-to-the-agentic-ai-era",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "sourceName": "MIT Technology Review",
       "score": 7.8,
       "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-10-02T17:48:16.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-openai-devday-2026-recap-for-developers",
-      "title": "OpenAI DevDay 2026 Recap for Developers",
-      "summary": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez",
-      "url": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.6,
-      "tags": [
-        "Hot News",
         "Model",
-        "Agent AI"
+        "Agent AI",
+        "Business"
       ],
-      "publishedAt": "2026-10-02T10:39:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-building-genai-platform-at-doordash",
-      "title": "Presentation: Building GenAI Platform at DoorDash",
-      "summary": "Swaroop Chitlur and Sidd Kodwani share DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets, transitioning from vendor-first setups to open-weights models, navigating LLM and agent gateways, and balancing accuracy, latency, and cost for over 5,000 internal users. By Siddharth Kodwani, Swaroop Chitlur",
-      "url": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.2,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-03T11:00:00.000Z"
+      "publishedAt": "2026-10-05T13:29:32.000Z"
     }
   ]
 }
