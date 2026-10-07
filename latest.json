@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-10-06T01:47:54.542Z",
-  "latestPublishedAt": "2026-10-05T21:08:31.000Z",
+  "generatedAt": "2026-10-07T00:50:34.132Z",
+  "latestPublishedAt": "2026-10-06T20:35:20.000Z",
   "newItemCount": 10,
-  "dateKey": "2026-10-06",
+  "dateKey": "2026-10-07",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 198,
+  "totalCount": 203,
   "items": [
+    {
+      "id": "openai-news-sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-06T12:00:00.000Z"
+    },
     {
       "id": "openai-news-building-advertising-for-the-way-people-use-ai",
       "title": "Building advertising for the way people use AI",
@@ -22,35 +35,121 @@
       "publishedAt": "2026-10-05T10:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-new-archestra-s-openappa-saturates-two-major-security-benchmarks-with-a-0-attack-success-rate",
-      "title": "New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate",
-      "summary": "Archestra released OpenAPPA, an open-source security engine designed to stop data exfiltration caused by prompt injection or model hallucination. The team reports zero successful attacks when running security benchmarks Bench-Corp (20 multi-step enterprise workflows) and AgentThreatBench, versus 10% for Claude Code’s auto mode and 31% for Microsoft FIDES. By Bruno Couriol",
-      "url": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "id": "techcrunch-ai-how-ai-decision-models-could-change-content-moderation",
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.2,
       "tags": [
         "Hot News",
         "Model",
-        "Agent AI",
-        "Research",
-        "Policy",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-10-03T23:41:00.000Z"
+      "publishedAt": "2026-10-06T20:35:20.000Z"
     },
     {
-      "id": "the-decoder-meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor",
-      "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
-      "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their own AI tools instead. For Anthropic, that reliance on a few major clients is turning into a strategic risk....",
-      "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+      "id": "the-decoder-google-s-new-image-model-nano-banana-2-1-generates-better-images-for-less-money",
+      "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+      "summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The article Google's new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder .",
+      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-06T19:29:42.000Z"
+    },
+    {
+      "id": "openai-news-atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "Tin AI từ Google DeepMind về \"EmbeddingGemma 2: an open, lightweight multimodal embedding model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-06T19:57:04.000Z"
+    },
+    {
+      "id": "the-decoder-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us-models-that-refuse-security-work",
+      "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
+      "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors. Mistral's main pitch is cybersecurity work that closed US models refuse to do....",
+      "url": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
       "sourceName": "The Decoder",
       "score": 9,
       "tags": [
         "Model",
-        "Policy",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-10-05T18:59:19.000Z"
+      "publishedAt": "2026-10-06T14:18:08.000Z"
+    },
+    {
+      "id": "the-decoder-microsoft-publishes-nobel-economist-s-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade",
+      "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+      "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done....",
+      "url": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-06T17:31:51.000Z"
+    },
+    {
+      "id": "techcrunch-ai-mirror-particle-is-building-a-world-model-of-human-behavior",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-06T16:35:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-credits",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-06T16:00:00.000Z"
+    },
+    {
+      "id": "openai-news-how-jump-trading-is-scaling-quant-research-with-chatgpt",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "url": "https://openai.com/index/jump-trading",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-06T12:00:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-presentation-building-reusable-evaluation-frameworks-for-agentic-ai-products",
@@ -67,109 +166,6 @@
         "Infra"
       ],
       "publishedAt": "2026-10-05T11:19:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-launches-visual-ads-that-appear-alongside-image-generation-results",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-10-05T15:14:24.000Z"
-    },
-    {
-      "id": "the-decoder-aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty",
-      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
-      "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPUs in Germany and Finland, and the weights are freely available under the Apache 2.0 license....",
-      "url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-05T14:12:50.000Z"
-    },
-    {
-      "id": "openai-news-our-approach-to-eu-text-provenance-rules",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "sourceName": "OpenAI News",
-      "score": 8.3,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-10-05T15:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-trump-unveils-his-new-super-intelligence-force",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-04T15:15:10.000Z"
-    },
-    {
-      "id": "techcrunch-ai-reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.9,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-10-05T19:33:53.000Z"
-    },
-    {
-      "id": "google-research-open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "summary": "Tin AI từ Google Research về \"Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "sourceName": "Google Research",
-      "score": 7.8,
-      "tags": [
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-05T21:08:31.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-will-start-watermarking-chatgpt-s-text-in-the-eu",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-05T20:36:48.000Z"
-    },
-    {
-      "id": "mit-technology-review-bringing-predictive-analytics-to-the-agentic-ai-era",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "sourceName": "MIT Technology Review",
-      "score": 7.8,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-10-05T13:29:32.000Z"
     }
   ]
 }
