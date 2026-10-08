@@ -1,13 +1,55 @@
 {
-  "generatedAt": "2026-10-07T00:50:34.132Z",
-  "latestPublishedAt": "2026-10-06T20:35:20.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-10-07",
+  "generatedAt": "2026-10-08T01:06:21.542Z",
+  "latestPublishedAt": "2026-10-07T20:22:37.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-10-08",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 203,
+  "totalCount": 209,
   "items": [
+    {
+      "id": "techcrunch-ai-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-07T20:22:37.000Z"
+    },
+    {
+      "id": "the-decoder-zuckerberg-s-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
+      "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+      "summary": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A first dataset should be ready in about a year....",
+      "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-10-07T17:58:20.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions",
+      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or critical....",
+      "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-07T12:05:20.000Z"
+    },
     {
       "id": "openai-news-sharing-ai-progress-in-mathematics",
       "title": "Sharing AI progress in mathematics",
@@ -22,17 +64,17 @@
       "publishedAt": "2026-10-06T12:00:00.000Z"
     },
     {
-      "id": "openai-news-building-advertising-for-the-way-people-use-ai",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
+      "id": "the-decoder-openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one",
+      "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+      "summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
-        "Model",
-        "Business"
+        "Hot News",
+        "Research"
       ],
-      "publishedAt": "2026-10-05T10:00:00.000Z"
+      "publishedAt": "2026-10-07T15:36:39.000Z"
     },
     {
       "id": "techcrunch-ai-how-ai-decision-models-could-change-content-moderation",
@@ -47,19 +89,6 @@
         "Policy"
       ],
       "publishedAt": "2026-10-06T20:35:20.000Z"
-    },
-    {
-      "id": "the-decoder-google-s-new-image-model-nano-banana-2-1-generates-better-images-for-less-money",
-      "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
-      "summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The article Google's new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder .",
-      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-06T19:29:42.000Z"
     },
     {
       "id": "openai-news-atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
@@ -87,29 +116,42 @@
       "publishedAt": "2026-10-06T19:57:04.000Z"
     },
     {
-      "id": "the-decoder-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us-models-that-refuse-security-work",
-      "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
-      "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors. Mistral's main pitch is cybersecurity work that closed US models refuse to do....",
-      "url": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-building-advertising-for-the-way-people-use-ai",
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "sourceName": "OpenAI News",
       "score": 9,
       "tags": [
         "Model",
-        "Policy"
+        "Business"
       ],
-      "publishedAt": "2026-10-06T14:18:08.000Z"
+      "publishedAt": "2026-10-05T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-microsoft-publishes-nobel-economist-s-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade",
-      "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
-      "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done....",
-      "url": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+      "id": "the-decoder-google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature",
+      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
+      "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026....",
+      "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
       "sourceName": "The Decoder",
-      "score": 8.8,
+      "score": 8.9,
       "tags": [
+        "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-10-06T17:31:51.000Z"
+      "publishedAt": "2026-10-07T14:44:42.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-s-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots",
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-07T14:30:00.000Z"
     },
     {
       "id": "techcrunch-ai-mirror-particle-is-building-a-world-model-of-human-behavior",
@@ -124,48 +166,6 @@
         "Research"
       ],
       "publishedAt": "2026-10-06T16:35:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-credits",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-06T16:00:00.000Z"
-    },
-    {
-      "id": "openai-news-how-jump-trading-is-scaling-quant-research-with-chatgpt",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "url": "https://openai.com/index/jump-trading",
-      "sourceName": "OpenAI News",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-06T12:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-building-reusable-evaluation-frameworks-for-agentic-ai-products",
-      "title": "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products",
-      "summary": "Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data science evals with TypeScript production code, and implementing deep tracing to catch regressions across complex RAG and cybersecurity workloads while preserving domain context. By Susan Chang",
-      "url": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research",
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-10-05T11:19:00.000Z"
     }
   ]
 }
