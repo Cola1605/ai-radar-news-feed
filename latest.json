@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T01:06:21.542Z",
-  "latestPublishedAt": "2026-10-07T20:22:37.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-10-08",
+  "generatedAt": "2026-10-09T01:17:26.456Z",
+  "latestPublishedAt": "2026-10-08T20:04:26.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-10-09",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 209,
+  "totalCount": 208,
   "items": [
     {
       "id": "techcrunch-ai-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
@@ -37,18 +37,56 @@
       "publishedAt": "2026-10-07T17:58:20.000Z"
     },
     {
-      "id": "the-decoder-anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions",
-      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
-      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or critical....",
-      "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+      "id": "the-decoder-some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" of open problems leaves entire branches of mathematics less fertile....",
+      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9.6,
       "tags": [
-        "Model",
+        "Hot News",
+        "Research"
+      ],
+      "publishedAt": "2026-10-08T18:17:07.000Z"
+    },
+    {
+      "id": "techcrunch-ai-fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-10-07T12:05:20.000Z"
+      "publishedAt": "2026-10-08T20:04:26.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-s-math-solutions-aren-t-meeting-the-field-s-standards-yet",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.2,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-08T18:10:55.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-08T18:16:24.000Z"
     },
     {
       "id": "openai-news-sharing-ai-progress-in-mathematics",
@@ -56,7 +94,7 @@
       "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "sourceName": "OpenAI News",
-      "score": 9.7,
+      "score": 9.1,
       "tags": [
         "Model",
         "Research"
@@ -64,31 +102,30 @@
       "publishedAt": "2026-10-06T12:00:00.000Z"
     },
     {
-      "id": "the-decoder-openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one",
-      "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-      "summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
+      "id": "the-decoder-being-mean-to-claude-can-now-get-your-account-suspended-under-anthropic-s-new-tos",
+      "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
+      "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve protection. The article Being mean to Claude can now get your account suspended under Anthropic's new TOS appeared first on The Decoder .",
+      "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
       "sourceName": "The Decoder",
-      "score": 9.2,
+      "score": 9,
       "tags": [
-        "Hot News",
-        "Research"
-      ],
-      "publishedAt": "2026-10-07T15:36:39.000Z"
-    },
-    {
-      "id": "techcrunch-ai-how-ai-decision-models-could-change-content-moderation",
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.2,
-      "tags": [
-        "Hot News",
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-10-06T20:35:20.000Z"
+      "publishedAt": "2026-10-08T19:03:14.000Z"
+    },
+    {
+      "id": "the-decoder-claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over",
+      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder .",
+      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-08T10:30:23.000Z"
     },
     {
       "id": "openai-news-atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
@@ -96,7 +133,7 @@
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "url": "https://openai.com/index/atlassian-partnership",
       "sourceName": "OpenAI News",
-      "score": 9.1,
+      "score": 8.4,
       "tags": [
         "Model",
         "Business"
@@ -104,68 +141,31 @@
       "publishedAt": "2026-10-06T16:00:00.000Z"
     },
     {
+      "id": "infoq-ai-ml-data-engineering-cloudflare-open-sources-decision-models-for-ai-agents",
+      "title": "Cloudflare Open Sources Decision Models for AI Agents",
+      "summary": "During its recent “Birthday Week”, Cloudflare announced Clef, a set of open-weight AI models designed to choose between predefined options rather than generate text. Cloudflare released 9B- and 27B-parameter models, along with a platform for adapting them to specific decision-making tasks. By Renato Losio",
+      "url": "https://www.infoq.com/news/2026/10/clef-decision-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Infra"
+      ],
+      "publishedAt": "2026-10-08T06:54:00.000Z"
+    },
+    {
       "id": "google-deepmind-embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "summary": "Tin AI từ Google DeepMind về \"EmbeddingGemma 2: an open, lightweight multimodal embedding model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "sourceName": "Google DeepMind",
-      "score": 9,
+      "score": 8.3,
       "tags": [
         "Model"
       ],
       "publishedAt": "2026-10-06T19:57:04.000Z"
-    },
-    {
-      "id": "openai-news-building-advertising-for-the-way-people-use-ai",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-10-05T10:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature",
-      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
-      "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026....",
-      "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-07T14:44:42.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-s-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-10-07T14:30:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-mirror-particle-is-building-a-world-model-of-human-behavior",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-06T16:35:00.000Z"
     }
   ]
 }
