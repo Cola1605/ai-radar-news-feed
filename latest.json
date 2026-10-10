@@ -1,41 +1,13 @@
 {
-  "generatedAt": "2026-10-09T01:17:26.456Z",
-  "latestPublishedAt": "2026-10-08T20:04:26.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-10-09",
+  "generatedAt": "2026-10-10T01:02:09.220Z",
+  "latestPublishedAt": "2026-10-09T19:36:56.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-10-10",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 208,
+  "totalCount": 207,
   "items": [
-    {
-      "id": "techcrunch-ai-microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-07T20:22:37.000Z"
-    },
-    {
-      "id": "the-decoder-zuckerberg-s-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
-      "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
-      "summary": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A first dataset should be ready in about a year....",
-      "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-10-07T17:58:20.000Z"
-    },
     {
       "id": "the-decoder-some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
       "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
@@ -76,6 +48,34 @@
       "publishedAt": "2026-10-08T18:10:55.000Z"
     },
     {
+      "id": "infoq-ai-ml-data-engineering-android-bench-2-adds-support-for-long-horizon-tasks-agentic-evaluation-and-continuous-scoring",
+      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
+      "summary": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agent-based evaluation, and continuous scoring to better assess performance on complex, multi-step development tasks. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.1,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-09T17:00:00.000Z"
+    },
+    {
+      "id": "openai-news-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
       "title": "Anthropic changes usage policy to ban model abuse and election interference",
       "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
@@ -87,19 +87,6 @@
         "Policy"
       ],
       "publishedAt": "2026-10-08T18:16:24.000Z"
-    },
-    {
-      "id": "openai-news-sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-06T12:00:00.000Z"
     },
     {
       "id": "the-decoder-being-mean-to-claude-can-now-get-your-account-suspended-under-anthropic-s-new-tos",
@@ -115,30 +102,53 @@
       "publishedAt": "2026-10-08T19:03:14.000Z"
     },
     {
-      "id": "the-decoder-claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over",
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder .",
-      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+      "id": "the-decoder-anthropic-launches-a-free-ai-scanner-for-open-source-projects",
+      "title": "Anthropic launches a free AI scanner for open-source projects",
+      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent....",
+      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
       "sourceName": "The Decoder",
-      "score": 8.5,
+      "score": 8.9,
       "tags": [
-        "Model",
-        "Research"
+        "Hot News"
       ],
-      "publishedAt": "2026-10-08T10:30:23.000Z"
+      "publishedAt": "2026-10-09T17:54:44.000Z"
     },
     {
-      "id": "openai-news-atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
+      "id": "techcrunch-ai-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
       "tags": [
-        "Model",
-        "Business"
+        "Model"
       ],
-      "publishedAt": "2026-10-06T16:00:00.000Z"
+      "publishedAt": "2026-10-09T19:36:56.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-github-migrates-copilot-runtime-to-rust-with-ai-assisted-rewrite",
+      "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
+      "summary": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperability, automated testing, human review, and 128 pull requests while continuing to ship releases. By Leela Kumili",
+      "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.8,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-09T14:29:00.000Z"
+    },
+    {
+      "id": "the-decoder-openai-s-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse",
+      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI's safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-09T11:45:04.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-cloudflare-open-sources-decision-models-for-ai-agents",
@@ -154,18 +164,6 @@
         "Infra"
       ],
       "publishedAt": "2026-10-08T06:54:00.000Z"
-    },
-    {
-      "id": "google-deepmind-embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "Tin AI từ Google DeepMind về \"EmbeddingGemma 2: an open, lightweight multimodal embedding model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "sourceName": "Google DeepMind",
-      "score": 8.3,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-06T19:57:04.000Z"
     }
   ]
 }
