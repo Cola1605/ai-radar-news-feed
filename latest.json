@@ -1,25 +1,39 @@
 {
-  "generatedAt": "2026-10-11T00:16:26.562Z",
-  "latestPublishedAt": "2026-10-10T21:47:51.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-10-11",
+  "generatedAt": "2026-10-12T00:38:53.053Z",
+  "latestPublishedAt": "2026-10-11T14:00:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-10-12",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 203,
+  "totalCount": 198,
   "items": [
     {
-      "id": "the-decoder-google-s-gemini-4-carbon-model-reportedly-feels-like-anthropic-s-opus-5-5-coding-performance",
-      "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
-      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch....",
-      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+      "id": "the-decoder-ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question their own results....",
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model"
+        "Model",
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-10-10T08:59:49.000Z"
+      "publishedAt": "2026-10-11T13:44:32.000Z"
+    },
+    {
+      "id": "the-decoder-microsoft-s-nadella-bows-to-trump-s-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic",
+      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real motive is business: Microsoft risks falling behind as AI labs turn their models into the primary computer interface....",
+      "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-11T09:08:35.000Z"
     },
     {
       "id": "the-decoder-microsoft-s-decision-1-model-enters-the-fast-growing-ai-decision-model-race",
@@ -36,58 +50,18 @@
       "publishedAt": "2026-10-10T14:57:33.000Z"
     },
     {
-      "id": "the-decoder-openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data",
-      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
-      "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients....",
-      "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+      "id": "the-decoder-odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free",
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits....",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
       "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-10-10T15:15:40.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-android-bench-2-adds-support-for-long-horizon-tasks-agentic-evaluation-and-continuous-scoring",
-      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
-      "summary": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agent-based evaluation, and continuous scoring to better assess performance on complex, multi-step development tasks. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.1,
+      "score": 9.2,
       "tags": [
         "Hot News",
         "Model",
-        "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-10-09T17:00:00.000Z"
-    },
-    {
-      "id": "openai-news-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-launches-a-free-ai-scanner-for-open-source-projects",
-      "title": "Anthropic launches a free AI scanner for open-source projects",
-      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent....",
-      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-10-09T17:54:44.000Z"
+      "publishedAt": "2026-10-11T07:48:01.000Z"
     },
     {
       "id": "techcrunch-ai-microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake",
@@ -102,12 +76,53 @@
       "publishedAt": "2026-10-10T21:47:51.000Z"
     },
     {
+      "id": "infoq-ai-ml-data-engineering-context-language-models-self-managing-context-to-improve-performance-and-reduce-compute-costs",
+      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
+      "summary": "Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs), a new approach that enables language models to manage and edit their own context rather than relying on predefined mechanisms for summarization, compression, and information retrieval, reporting substantial gains in both performance and computational efficiency. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.6,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-11T14:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-android-bench-2-adds-support-for-long-horizon-tasks-agentic-evaluation-and-continuous-scoring",
+      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
+      "summary": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agent-based evaluation, and continuous scoring to better assess performance on complex, multi-step development tasks. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.4,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-09T17:00:00.000Z"
+    },
+    {
+      "id": "openai-news-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-09T07:00:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
       "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.2,
       "tags": [
         "Model"
       ],
@@ -119,11 +134,23 @@
       "summary": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperability, automated testing, human review, and 128 pull requests while continuing to ship releases. By Leela Kumili",
       "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.8,
+      "score": 8.1,
       "tags": [
         "Hot News"
       ],
       "publishedAt": "2026-10-09T14:29:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-11T14:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-internal-evals-from-the-live-internet-instead",
@@ -131,38 +158,12 @@
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "sourceName": "TechCrunch AI",
-      "score": 8.6,
+      "score": 7.8,
       "tags": [
         "Agent AI",
         "Research"
       ],
       "publishedAt": "2026-10-10T00:18:32.000Z"
-    },
-    {
-      "id": "techcrunch-ai-fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.6,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-08T20:04:26.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-ontology-driven-observability-building-the-e2e-knowledge-graph-at-netflix-scale",
-      "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
-      "summary": "Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec. They discuss replacing reactive monitoring with an AI-driven operational ontology and agentic workflows using Claude and graph databases. They explain how unifying MELT telemetry into queryable knowledge graphs enables automated triaging, root-cause analysis, and self-healing systems....",
-      "url": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.7,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-09T11:00:00.000Z"
     }
   ]
 }
