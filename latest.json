@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-10-12T00:38:53.053Z",
-  "latestPublishedAt": "2026-10-11T14:00:00.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-10-12",
+  "generatedAt": "2026-10-13T02:38:06.430Z",
+  "latestPublishedAt": "2026-10-13T02:07:08.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-10-13",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 198,
+  "totalCount": 194,
   "items": [
+    {
+      "id": "the-decoder-white-house-reverses-course-and-restores-uk-ai-safety-institute-s-access-to-frontier-models",
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic pressure from AI Minister Kanishka Narayan led to the reversal....",
+      "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-12T13:14:54.000Z"
+    },
     {
       "id": "the-decoder-ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
       "title": "AI agents overstate their results and remain far from autonomous research, study finds",
@@ -23,57 +36,31 @@
       "publishedAt": "2026-10-11T13:44:32.000Z"
     },
     {
-      "id": "the-decoder-microsoft-s-nadella-bows-to-trump-s-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic",
-      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
-      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real motive is business: Microsoft risks falling behind as AI labs turn their models into the primary computer interface....",
-      "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-11T09:08:35.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-s-decision-1-model-enters-the-fast-growing-ai-decision-model-race",
-      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
-      "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft's Decision-1 model enters the fast-growing AI decision model race appeared first on The Decoder .",
-      "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-10-10T14:57:33.000Z"
-    },
-    {
-      "id": "the-decoder-odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free",
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits....",
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
-      "sourceName": "The Decoder",
-      "score": 9.2,
+      "id": "techcrunch-ai-meta-releases-its-first-frontier-model-muse-wonder",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
       "tags": [
         "Hot News",
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-10-11T07:48:01.000Z"
+      "publishedAt": "2026-10-12T17:56:56.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-anthropic-s-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do",
+      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years. The public, at best, sees a weird chatbot....",
+      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+      "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
-        "Model"
+        "Model",
+        "Agent AI"
       ],
-      "publishedAt": "2026-10-10T21:47:51.000Z"
+      "publishedAt": "2026-10-12T12:51:21.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-context-language-models-self-managing-context-to-improve-performance-and-reduce-compute-costs",
@@ -89,61 +76,58 @@
       "publishedAt": "2026-10-11T14:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-android-bench-2-adds-support-for-long-horizon-tasks-agentic-evaluation-and-continuous-scoring",
-      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
-      "summary": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agent-based evaluation, and continuous scoring to better assess performance on complex, multi-step development tasks. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
+      "id": "the-decoder-clearing-chat-history-helps-ai-agents-find-better-solutions",
+      "title": "Clearing chat history helps AI agents find better solutions",
+      "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 percent better results on the same compute budget....",
+      "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
       "tags": [
-        "Hot News",
-        "Model",
         "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-10-09T17:00:00.000Z"
+      "publishedAt": "2026-10-12T16:10:00.000Z"
     },
     {
-      "id": "openai-news-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
+      "id": "techcrunch-ai-microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
       "tags": [
-        "Model",
-        "Agent AI"
+        "Policy"
       ],
-      "publishedAt": "2026-10-09T07:00:00.000Z"
+      "publishedAt": "2026-10-12T15:31:19.000Z"
     },
     {
-      "id": "techcrunch-ai-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "id": "techcrunch-com-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "summary": "Tin AI từ Hacker News AI về \"An Anthropic AI model sent a false homicide tip to Philadelphia police\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
       "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "sourceName": "techcrunch.com",
+      "score": 8.2,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-13T01:25:28.000Z"
+    },
+    {
+      "id": "techcrunch-ai-microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "sourceName": "TechCrunch AI",
       "score": 8.2,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-09T19:36:56.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-github-migrates-copilot-runtime-to-rust-with-ai-assisted-rewrite",
-      "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
-      "summary": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperability, automated testing, human review, and 128 pull requests while continuing to ship releases. By Leela Kumili",
-      "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.1,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-10-09T14:29:00.000Z"
+      "publishedAt": "2026-10-10T21:47:51.000Z"
     },
     {
       "id": "techcrunch-ai-these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "sourceName": "TechCrunch AI",
       "score": 7.8,
@@ -153,17 +137,28 @@
       "publishedAt": "2026-10-11T14:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
+      "id": "askbaab-com-show-hn-i-ran-the-same-founder-dilemma-through-chatgpt-claude-and-baab-ai",
+      "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
+      "summary": "Tin AI từ Hacker News AI về \"Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
+      "sourceName": "askbaab.com",
+      "score": 7.2,
       "tags": [
-        "Agent AI",
-        "Research"
+        "Model"
       ],
-      "publishedAt": "2026-10-10T00:18:32.000Z"
+      "publishedAt": "2026-10-12T23:16:46.000Z"
+    },
+    {
+      "id": "arxiv-org-ai-models-can-provably-hide-arbitrary-capabilities",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "summary": "Tin AI từ Hacker News AI về \"AI Models Can Provably Hide Arbitrary Capabilities\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "sourceName": "arxiv.org",
+      "score": 6.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-13T02:07:08.000Z"
     }
   ]
 }
