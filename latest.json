@@ -1,13 +1,43 @@
 {
-  "generatedAt": "2026-10-14T00:24:18.941Z",
-  "latestPublishedAt": "2026-10-13T19:43:07.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-10-14",
+  "generatedAt": "2026-10-14T23:59:06.224Z",
+  "latestPublishedAt": "2026-10-14T16:14:16.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-10-15",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 200,
+  "totalCount": 209,
   "items": [
+    {
+      "id": "the-decoder-nvidia-s-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs",
+      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. The article Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs appeared first on The Decoder .",
+      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-14T14:24:34.000Z"
+    },
+    {
+      "id": "the-decoder-ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap",
+      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process....",
+      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-14T13:24:22.000Z"
+    },
     {
       "id": "the-decoder-gemini-4-argon-is-now-available-worldwide-as-google-s-most-capable-frontier-model",
       "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
@@ -51,67 +81,83 @@
       "publishedAt": "2026-10-13T10:00:00.000Z"
     },
     {
-      "id": "the-decoder-anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices",
-      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
-      "summary": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain....",
-      "url": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+      "id": "openai-news-how-third-moment-research-runs-10-000-agents-for-36-hours",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "url": "https://openai.com/index/third-moment-research",
+      "sourceName": "OpenAI News",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-14T07:00:00.000Z"
+    },
+    {
+      "id": "openai-news-amp-puts-ai-agents-to-work-beyond-code-with-openai-models",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-14T12:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work",
+      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page. Whether or not the flagship is ready in time, employees say one or two new models will likely ship by year's end....",
+      "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
       "sourceName": "The Decoder",
-      "score": 8.8,
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-14T16:14:16.000Z"
+    },
+    {
+      "id": "google-deepmind-google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-13T10:33:28.000Z"
+      "publishedAt": "2026-10-14T02:00:14.000Z"
     },
     {
-      "id": "techcrunch-ai-meta-releases-its-first-frontier-model-muse-wonder",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-12T17:56:56.000Z"
-    },
-    {
-      "id": "the-decoder-clearing-chat-history-helps-ai-agents-find-better-solutions",
-      "title": "Clearing chat history helps AI agents find better solutions",
-      "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 percent better results on the same compute budget....",
-      "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-12T16:10:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "id": "openai-news-how-block-is-building-ai-powered-security-with-openai-technology",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
         "Policy"
       ],
-      "publishedAt": "2026-10-12T15:31:19.000Z"
+      "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
-      "id": "the-decoder-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation",
-      "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
-      "summary": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts. The article Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
-      "sourceName": "The Decoder",
+      "id": "infoq-ai-ml-data-engineering-google-antigravity-sdk-adds-local-model-support-for-greater-token-efficiency-and-code-privacy",
+      "title": "Google Antigravity SDK Adds Local Model Support for Greater Token Efficiency and Code Privacy",
+      "summary": "Google has introduced support for local models in the Antigravity SDK, enabling developers to build and execute agentic workflows directly on their own machines, while retaining the flexibility to mix in cloud-based models for higher-level tasks. This approach gives developers greater control over data privacy, inference costs, network dependencies, and computational workload distribution. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
       "score": 8.3,
       "tags": [
-        "Model"
+        "Model",
+        "Agent AI",
+        "Infra"
       ],
-      "publishedAt": "2026-10-13T11:06:46.000Z"
+      "publishedAt": "2026-10-14T09:00:00.000Z"
     },
     {
       "id": "google-deepmind-developing-gemini-4-argon-responsibly-and-safely",
@@ -124,42 +170,6 @@
         "Model"
       ],
       "publishedAt": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "id": "google-deepmind-gemini-4-argon-for-robotics",
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Argon for Robotics\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "sourceName": "Google DeepMind",
-      "score": 8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-13T16:01:58.000Z"
-    },
-    {
-      "id": "google-deepmind-gemini-4-argon-built-to-solve-your-hardest-problems",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Argon: Built to solve your hardest problems\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "sourceName": "Google DeepMind",
-      "score": 8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-13T16:01:52.000Z"
-    },
-    {
-      "id": "openai-news-higgsfield-takes-ai-video-from-1-minute-to-over-10",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "sourceName": "OpenAI News",
-      "score": 8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-13T12:00:00.000Z"
     }
   ]
 }
