@@ -1,39 +1,66 @@
 {
-  "generatedAt": "2026-10-13T02:38:06.430Z",
-  "latestPublishedAt": "2026-10-13T02:07:08.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-10-13",
+  "generatedAt": "2026-10-14T00:24:18.941Z",
+  "latestPublishedAt": "2026-10-13T19:43:07.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-10-14",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 194,
+  "totalCount": 200,
   "items": [
     {
-      "id": "the-decoder-white-house-reverses-course-and-restores-uk-ai-safety-institute-s-access-to-frontier-models",
-      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic pressure from AI Minister Kanishka Narayan led to the reversal....",
-      "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "id": "the-decoder-gemini-4-argon-is-now-available-worldwide-as-google-s-most-capable-frontier-model",
+      "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks from months to weeks....",
+      "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
       "sourceName": "The Decoder",
-      "score": 9.5,
+      "score": 9.7,
       "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-13T18:00:49.000Z"
+    },
+    {
+      "id": "mit-technology-review-the-download-open-model-trade-offs-and-geothermal-power-s-promise",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-10-12T13:14:54.000Z"
+      "publishedAt": "2026-10-13T12:00:00.000Z"
     },
     {
-      "id": "the-decoder-ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
-      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
-      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question their own results....",
-      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "mit-technology-review-open-models-have-real-benefits-do-they-outweigh-the-risks",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
-        "Agent AI",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-10-11T13:44:32.000Z"
+      "publishedAt": "2026-10-13T10:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices",
+      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
+      "summary": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain....",
+      "url": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-13T10:33:28.000Z"
     },
     {
       "id": "techcrunch-ai-meta-releases-its-first-frontier-model-muse-wonder",
@@ -48,32 +75,6 @@
         "Research"
       ],
       "publishedAt": "2026-10-12T17:56:56.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-s-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do",
-      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
-      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years. The public, at best, sees a weird chatbot....",
-      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-12T12:51:21.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-context-language-models-self-managing-context-to-improve-performance-and-reduce-compute-costs",
-      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
-      "summary": "Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs), a new approach that enables language models to manage and edit their own context rather than relying on predefined mechanisms for summarization, compression, and information retrieval, reporting substantial gains in both performance and computational efficiency. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.6,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-11T14:00:00.000Z"
     },
     {
       "id": "the-decoder-clearing-chat-history-helps-ai-agents-find-better-solutions",
@@ -101,64 +102,64 @@
       "publishedAt": "2026-10-12T15:31:19.000Z"
     },
     {
-      "id": "techcrunch-com-an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Tin AI từ Hacker News AI về \"An Anthropic AI model sent a false homicide tip to Philadelphia police\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "sourceName": "techcrunch.com",
-      "score": 8.2,
+      "id": "the-decoder-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation",
+      "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+      "summary": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts. The article Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+      "sourceName": "The Decoder",
+      "score": 8.3,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-13T01:25:28.000Z"
+      "publishedAt": "2026-10-13T11:06:46.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.2,
+      "id": "google-deepmind-developing-gemini-4-argon-responsibly-and-safely",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "Tin AI từ Google DeepMind về \"Developing Gemini 4 Argon responsibly and safely\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "sourceName": "Google DeepMind",
+      "score": 8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-10T21:47:51.000Z"
+      "publishedAt": "2026-10-13T19:43:07.000Z"
     },
     {
-      "id": "techcrunch-ai-these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
+      "id": "google-deepmind-gemini-4-argon-for-robotics",
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Argon for Robotics\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "sourceName": "Google DeepMind",
+      "score": 8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-11T14:00:00.000Z"
+      "publishedAt": "2026-10-13T16:01:58.000Z"
     },
     {
-      "id": "askbaab-com-show-hn-i-ran-the-same-founder-dilemma-through-chatgpt-claude-and-baab-ai",
-      "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
-      "summary": "Tin AI từ Hacker News AI về \"Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
-      "sourceName": "askbaab.com",
-      "score": 7.2,
+      "id": "google-deepmind-gemini-4-argon-built-to-solve-your-hardest-problems",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Argon: Built to solve your hardest problems\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "sourceName": "Google DeepMind",
+      "score": 8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-12T23:16:46.000Z"
+      "publishedAt": "2026-10-13T16:01:52.000Z"
     },
     {
-      "id": "arxiv-org-ai-models-can-provably-hide-arbitrary-capabilities",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "summary": "Tin AI từ Hacker News AI về \"AI Models Can Provably Hide Arbitrary Capabilities\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "sourceName": "arxiv.org",
-      "score": 6.7,
+      "id": "openai-news-higgsfield-takes-ai-video-from-1-minute-to-over-10",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "sourceName": "OpenAI News",
+      "score": 8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-13T02:07:08.000Z"
+      "publishedAt": "2026-10-13T12:00:00.000Z"
     }
   ]
 }
