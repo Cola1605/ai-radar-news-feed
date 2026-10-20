@@ -1,46 +1,71 @@
 {
-  "generatedAt": "2026-10-20T00:27:42.523Z",
-  "latestPublishedAt": "2026-10-19T23:39:38.000Z",
-  "newItemCount": 11,
-  "dateKey": "2026-10-20",
+  "generatedAt": "2026-10-20T23:59:04.386Z",
+  "latestPublishedAt": "2026-10-20T23:01:23.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-10-21",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 197,
+  "totalCount": 199,
   "items": [
     {
-      "id": "techcrunch-ai-nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "id": "techcrunch-ai-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Agent AI",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-10-19T15:37:09.000Z"
+      "publishedAt": "2026-10-20T23:01:23.000Z"
     },
     {
-      "id": "the-decoder-ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it",
-      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
-      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder .",
-      "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+      "id": "the-decoder-deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model",
+      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the inference engine that powers its fastest and cheapest AI model appeared first on The Decoder .",
+      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Infra"
+      ],
+      "publishedAt": "2026-10-20T18:56:15.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-20T20:35:10.000Z"
+    },
+    {
+      "id": "the-decoder-sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-else-s-gpus",
+      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+      "summary": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute....",
+      "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Agent AI",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-10-18T08:49:41.000Z"
+      "publishedAt": "2026-10-20T17:00:59.000Z"
     },
     {
       "id": "techcrunch-ai-microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-can-t-be-trusted",
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "sourceName": "TechCrunch AI",
       "score": 9.4,
@@ -52,31 +77,18 @@
       "publishedAt": "2026-10-19T22:04:28.000Z"
     },
     {
-      "id": "techcrunch-ai-embedded-ai-evaluators-won-t-be-an-easy-solution-hugging-face-s-policy-chief-says",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-19T22:49:27.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
-      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
-      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Claude in areas where reliable training data is scarce....",
-      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+      "id": "the-decoder-elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations",
+      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+      "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more accurate....",
+      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
       "sourceName": "The Decoder",
-      "score": 8.8,
+      "score": 9.2,
       "tags": [
+        "Hot News",
         "Model",
-        "Agent AI"
+        "Research"
       ],
-      "publishedAt": "2026-10-18T09:11:29.000Z"
+      "publishedAt": "2026-10-20T19:03:15.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-embeddinggemma-2-expands-beyond-text-to-support-code-images-video-and-audio",
@@ -94,56 +106,18 @@
       "publishedAt": "2026-10-19T10:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-10-19T23:39:38.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a \"tragedy of the cognitive commons\": if junior positions disappear, experienced specialists will be in short supply down the road....",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-18T13:22:26.000Z"
-    },
-    {
-      "id": "the-decoder-kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant",
-      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
-      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an early sign that the breakneck pace of progress in AI video models is starting to level off....",
-      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+      "id": "the-decoder-mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time",
+      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+      "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control....",
+      "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
       "sourceName": "The Decoder",
       "score": 8.4,
       "tags": [
         "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-19T17:36:26.000Z"
-    },
-    {
-      "id": "mit-technology-review-ai-researchers-stranded-claude-on-a-virtual-desert-island-it-started-to-play",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.4,
-      "tags": [
         "Model",
-        "Agent AI",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-10-19T09:08:05.000Z"
+      "publishedAt": "2026-10-20T17:17:55.000Z"
     },
     {
       "id": "openai-news-advancing-coding-in-low-resource-programming-languages",
@@ -159,16 +133,43 @@
       "publishedAt": "2026-10-19T12:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-article-from-microservices-to-agents-the-next-evolution-of-distributed-systems",
-      "title": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems",
-      "summary": "The article examines the transition from microservices to agentic AI architecture in distributed systems. Microservices allow for functional decomposition, while agentic systems focus on decision decomposition. This shift introduces new complexities in observability, reliability, and system design, highlighting the need for updated architectural patterns and practices. By Mallika Rao",
-      "url": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.3,
+      "id": "techcrunch-ai-otter-ai-raises-320-million-from-general-catalyst-s-growth-fund-for-its-meeting-tool",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "sourceName": "TechCrunch AI",
+      "score": 8,
       "tags": [
-        "Agent AI"
+        "Hot News",
+        "Business"
       ],
-      "publishedAt": "2026-10-19T11:00:00.000Z"
+      "publishedAt": "2026-10-20T11:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-beyond-the-prototype-scaling-framework-agnostic-ai-agent-infrastructure-with-ray",
+      "title": "Presentation: Beyond the Prototype: Scaling Framework Agnostic AI Agent Infrastructure with Ray",
+      "summary": "The speakers discuss transitioning AI agents from local FastAPI prototypes to resilient production systems on Kubernetes using Ray. They share operational insights on RayCluster topology, stateful memory handling, auto-scaling on dynamic traffic, and robust control plane designs, while highlighting critical guardrails, multi-region setups, and LLM-as-a-judge evaluation pipelines....",
+      "url": "https://www.infoq.com/presentations/scale-llm-agents-production-ray/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-20T11:00:00.000Z"
+    },
+    {
+      "id": "openai-news-openai-acquires-orchestra-bio",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "sourceName": "OpenAI News",
+      "score": 8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-20T00:00:00.000Z"
     }
   ]
 }
