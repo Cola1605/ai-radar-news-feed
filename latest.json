@@ -1,40 +1,27 @@
 {
-  "generatedAt": "2026-10-18T23:23:48.772Z",
-  "latestPublishedAt": "2026-10-18T22:46:19.000Z",
-  "newItemCount": 4,
-  "dateKey": "2026-10-19",
+  "generatedAt": "2026-10-20T00:27:42.523Z",
+  "latestPublishedAt": "2026-10-19T23:39:38.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-10-20",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 195,
+  "totalCount": 197,
   "items": [
     {
-      "id": "the-decoder-deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs",
-      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in tools like Claude Code and Codex get free access for now....",
-      "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
         "Agent AI",
-        "Research"
+        "Business"
       ],
-      "publishedAt": "2026-10-17T10:33:28.000Z"
-    },
-    {
-      "id": "techcrunch-ai-replit-makes-openai-its-default-over-anthropic-ceo-says",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-17T18:48:08.000Z"
+      "publishedAt": "2026-10-19T15:37:09.000Z"
     },
     {
       "id": "the-decoder-ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it",
@@ -51,124 +38,137 @@
       "publishedAt": "2026-10-18T08:49:41.000Z"
     },
     {
-      "id": "the-decoder-an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet",
-      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning the unauthorized access....",
-      "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-17T15:36:11.000Z"
-    },
-    {
-      "id": "the-decoder-ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help",
-      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
-      "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but one sentence in your prompt can help appeared first on The Decoder .",
-      "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "techcrunch-ai-microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-can-t-be-trusted",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.4,
       "tags": [
         "Model",
         "Agent AI",
-        "Research"
+        "Business"
       ],
-      "publishedAt": "2026-10-17T09:54:36.000Z"
+      "publishedAt": "2026-10-19T22:04:28.000Z"
     },
     {
-      "id": "techcrunch-ai-elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-16T16:01:37.000Z"
-    },
-    {
-      "id": "techcrunch-ai-physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "id": "techcrunch-ai-embedded-ai-evaluators-won-t-be-an-easy-solution-hugging-face-s-policy-chief-says",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
         "Model",
+        "Research",
         "Policy"
       ],
-      "publishedAt": "2026-10-16T16:30:00.000Z"
+      "publishedAt": "2026-10-19T22:49:27.000Z"
     },
     {
-      "id": "techcrunch-ai-an-nvidia-insider-turned-vc-on-why-robotics-hasn-t-hit-its-chatgpt-moment-yet",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "id": "the-decoder-anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Claude in areas where reliable training data is scarce....",
+      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-18T09:11:29.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-embeddinggemma-2-expands-beyond-text-to-support-code-images-video-and-audio",
+      "title": "EmbeddingGemma 2 Expands beyond Text to Support Code, Images, Video, and Audio",
+      "summary": "Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make semantic search and retrieval-augmented generation (RAG) more efficient while optimizing performance for on-device deployment. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Infra"
+      ],
+      "publishedAt": "2026-10-19T10:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-19T23:39:38.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a \"tragedy of the cognitive commons\": if junior positions disappear, experienced specialists will be in short supply down the road....",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
+      "tags": [
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-18T13:22:26.000Z"
+    },
+    {
+      "id": "the-decoder-kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant",
+      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an early sign that the breakneck pace of progress in AI video models is starting to level off....",
+      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-10-19T17:36:26.000Z"
+    },
+    {
+      "id": "mit-technology-review-ai-researchers-stranded-claude-on-a-virtual-desert-island-it-started-to-play",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "sourceName": "MIT Technology Review",
       "score": 8.4,
       "tags": [
         "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-16T16:30:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-ai-in-production-panellists-highlight-silent-failures-harness-engineering-and-agent-governance",
-      "title": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance",
-      "summary": "A recent InfoQ webinar examined operational challenges in deploying agentic systems. Key points included issues like semantic and embedding drift, which can lead to significant errors. Experts discussed the need for automated code reviews, continuous evaluation of models, and enhanced privacy measures. The session emphasised a strategic approach to deployment and security management. By Olimpiu Pop",
-      "url": "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Model",
         "Agent AI",
-        "Research",
-        "Policy",
-        "Infra"
+        "Research"
       ],
-      "publishedAt": "2026-10-16T14:14:00.000Z"
+      "publishedAt": "2026-10-19T09:08:05.000Z"
     },
     {
-      "id": "politico-com-anthropic-proposes-ai-safety-bill-with-1b-50-death-treshold",
-      "title": "Anthropic proposes AI safety bill with $1B / 50-death treshold",
-      "summary": "Tin AI từ Hacker News AI về \"Anthropic proposes AI safety bill with $1B / 50-death treshold\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
-      "sourceName": "politico.com",
-      "score": 7.9,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-10-18T22:46:19.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-reverse-engineer-anything-project-brings-ai-agents-to-binary-analysis",
-      "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
-      "summary": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and IDA. The project lets developers inspect compiled binaries, trace function calls, and investigate how applications implement specific features. By Renato Losio",
-      "url": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.7,
+      "id": "openai-news-advancing-coding-in-low-resource-programming-languages",
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "sourceName": "OpenAI News",
+      "score": 8.3,
       "tags": [
         "Model",
-        "Agent AI"
+        "Research"
       ],
-      "publishedAt": "2026-10-17T06:28:00.000Z"
+      "publishedAt": "2026-10-19T12:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-aws-introduces-strands-decider-2b-and-strands-box-for-ai-agent-development",
-      "title": "AWS Introduces Strands Decider 2B and Strands Box for AI Agent Development",
-      "summary": "AWS has introduced two open-source projects for AI agent development: Strands Decider 2B, a small model designed to make decisions within agent workflows, and Strands Box, a sandbox for controlling agent execution. Both projects address different aspects of building agents that use tools, execute code, and interact with external systems. By Daniel Dominguez",
-      "url": "https://www.infoq.com/news/2026/10/aws-strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "infoq-ai-ml-data-engineering-article-from-microservices-to-agents-the-next-evolution-of-distributed-systems",
+      "title": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems",
+      "summary": "The article examines the transition from microservices to agentic AI architecture in distributed systems. Microservices allow for functional decomposition, while agentic systems focus on decision decomposition. This shift introduces new complexities in observability, reliability, and system design, highlighting the need for updated architectural patterns and practices. By Mallika Rao",
+      "url": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.6,
+      "score": 7.3,
       "tags": [
-        "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-10-16T10:47:00.000Z"
+      "publishedAt": "2026-10-19T11:00:00.000Z"
     }
   ]
 }
