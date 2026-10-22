@@ -1,17 +1,72 @@
 {
-  "generatedAt": "2026-10-20T23:59:04.386Z",
-  "latestPublishedAt": "2026-10-20T23:01:23.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-10-21",
+  "generatedAt": "2026-10-22T00:02:56.083Z",
+  "latestPublishedAt": "2026-10-21T20:27:41.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-10-22",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 199,
+  "totalCount": 207,
   "items": [
+    {
+      "id": "the-decoder-google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three",
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-10-21T17:44:22.000Z"
+    },
+    {
+      "id": "the-decoder-inception-s-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first on The Decoder .",
+      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-21T14:45:45.000Z"
+    },
+    {
+      "id": "openai-news-openai-models-are-coming-to-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "id": "openai-news-democratic-governance-of-frontier-ai-part-ii-empowering-cyber-defenders",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-21T00:00:00.000Z"
+    },
     {
       "id": "techcrunch-ai-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "sourceName": "TechCrunch AI",
       "score": 9.7,
@@ -21,20 +76,6 @@
         "Policy"
       ],
       "publishedAt": "2026-10-20T23:01:23.000Z"
-    },
-    {
-      "id": "the-decoder-deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model",
-      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
-      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the inference engine that powers its fastest and cheapest AI model appeared first on The Decoder .",
-      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Infra"
-      ],
-      "publishedAt": "2026-10-20T18:56:15.000Z"
     },
     {
       "id": "techcrunch-ai-openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business",
@@ -50,126 +91,82 @@
       "publishedAt": "2026-10-20T20:35:10.000Z"
     },
     {
-      "id": "the-decoder-sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-else-s-gpus",
-      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
-      "summary": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute....",
-      "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "techcrunch-ai-recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-21T20:27:41.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-google-synthid-detector-simplifies-watermark-detection-and-expands-support-to-other-ai-providers",
+      "title": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers",
+      "summary": "Google DeepMind announced the global availability of SynthID Detector, a tool designed to help identify AI-generated content, including media created using AI tools from SynthID partners such as OpenAI, NVIDIA, and Kakao, with Apple support expected soon. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.8,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-21T10:00:00.000Z"
+    },
+    {
+      "id": "openai-news-using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-21T04:50:00.000Z"
+    },
+    {
+      "id": "openai-news-terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-1",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
       "tags": [
         "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-20T07:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-internet",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
         "Policy"
       ],
-      "publishedAt": "2026-10-20T17:00:59.000Z"
+      "publishedAt": "2026-10-21T17:59:12.000Z"
     },
     {
-      "id": "techcrunch-ai-microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-can-t-be-trusted",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.4,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-10-19T22:04:28.000Z"
-    },
-    {
-      "id": "the-decoder-elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations",
-      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
-      "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more accurate....",
-      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+      "id": "the-decoder-openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development",
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research....",
+      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
       "sourceName": "The Decoder",
-      "score": 9.2,
+      "score": 8.5,
       "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-20T19:03:15.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-embeddinggemma-2-expands-beyond-text-to-support-code-images-video-and-audio",
-      "title": "EmbeddingGemma 2 Expands beyond Text to Support Code, Images, Video, and Audio",
-      "summary": "Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make semantic search and retrieval-augmented generation (RAG) more efficient while optimizing performance for on-device deployment. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.6,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-10-19T10:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time",
-      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
-      "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control....",
-      "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-20T17:17:55.000Z"
-    },
-    {
-      "id": "openai-news-advancing-coding-in-low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "sourceName": "OpenAI News",
-      "score": 8.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-19T12:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-otter-ai-raises-320-million-from-general-catalyst-s-growth-fund-for-its-meeting-tool",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "sourceName": "TechCrunch AI",
-      "score": 8,
-      "tags": [
-        "Hot News",
-        "Business"
-      ],
-      "publishedAt": "2026-10-20T11:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-presentation-beyond-the-prototype-scaling-framework-agnostic-ai-agent-infrastructure-with-ray",
-      "title": "Presentation: Beyond the Prototype: Scaling Framework Agnostic AI Agent Infrastructure with Ray",
-      "summary": "The speakers discuss transitioning AI agents from local FastAPI prototypes to resilient production systems on Kubernetes using Ray. They share operational insights on RayCluster topology, stateful memory handling, auto-scaling on dynamic traffic, and robust control plane designs, while highlighting critical guardrails, multi-region setups, and LLM-as-a-judge evaluation pipelines....",
-      "url": "https://www.infoq.com/presentations/scale-llm-agents-production-ray/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8,
-      "tags": [
-        "Model",
         "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-10-20T11:00:00.000Z"
-    },
-    {
-      "id": "openai-news-openai-acquires-orchestra-bio",
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "sourceName": "OpenAI News",
-      "score": 8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-10-20T00:00:00.000Z"
+      "publishedAt": "2026-10-21T08:32:54.000Z"
     }
   ]
 }
