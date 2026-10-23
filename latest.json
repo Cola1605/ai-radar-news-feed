@@ -1,13 +1,43 @@
 {
-  "generatedAt": "2026-10-22T00:02:56.083Z",
-  "latestPublishedAt": "2026-10-21T20:27:41.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-10-22",
+  "generatedAt": "2026-10-23T00:01:35.186Z",
+  "latestPublishedAt": "2026-10-22T21:17:29.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-10-23",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 207,
+  "totalCount": 211,
   "items": [
+    {
+      "id": "the-decoder-recursive-shows-first-result-of-its-ai-driven-research-process-with-flint",
+      "title": "Recursive shows first result of its AI-driven research process with Flint",
+      "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, \"Eureka Machine,\" which independently tests and optimizes architectures. Recursive has yet to prove whether this approach will actually lead to self-improving AI....",
+      "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-22T14:40:16.000Z"
+    },
+    {
+      "id": "the-decoder-an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+      "summary": "Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked model gets stuck with the bill....",
+      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-22T11:30:56.000Z"
+    },
     {
       "id": "the-decoder-google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three",
       "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
@@ -21,20 +51,6 @@
         "Business"
       ],
       "publishedAt": "2026-10-21T17:44:22.000Z"
-    },
-    {
-      "id": "the-decoder-inception-s-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait",
-      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
-      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first on The Decoder .",
-      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-21T14:45:45.000Z"
     },
     {
       "id": "openai-news-openai-models-are-coming-to-google-cloud",
@@ -51,44 +67,17 @@
       "publishedAt": "2026-10-21T12:00:00.000Z"
     },
     {
-      "id": "openai-news-democratic-governance-of-frontier-ai-part-ii-empowering-cyber-defenders",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-20T23:01:23.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "id": "techcrunch-ai-openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "sourceName": "TechCrunch AI",
       "score": 9.6,
       "tags": [
-        "Model",
-        "Research"
+        "Hot News",
+        "Model"
       ],
-      "publishedAt": "2026-10-20T20:35:10.000Z"
+      "publishedAt": "2026-10-22T19:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
@@ -103,6 +92,44 @@
         "Research"
       ],
       "publishedAt": "2026-10-21T20:27:41.000Z"
+    },
+    {
+      "id": "openai-news-democratic-governance-of-frontier-ai-part-ii-empowering-cyber-defenders",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "sourceName": "OpenAI News",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-google-s-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine",
+      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder .",
+      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-22T17:50:09.000Z"
+    },
+    {
+      "id": "techcrunch-ai-microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-22T18:43:53.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-google-synthid-detector-simplifies-watermark-detection-and-expands-support-to-other-ai-providers",
@@ -130,43 +157,19 @@
       "publishedAt": "2026-10-21T04:50:00.000Z"
     },
     {
-      "id": "openai-news-terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-1",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x",
-      "sourceName": "OpenAI News",
-      "score": 8.8,
+      "id": "mit-technology-review-designing-an-ai-serving-harness-built-to-last",
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.6,
       "tags": [
         "Model",
-        "Agent AI",
-        "Research"
+        "Research",
+        "Business",
+        "Infra"
       ],
-      "publishedAt": "2026-10-20T07:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-php-armageddon-openai-google-s-wiz-find-ancient-holes-panicking-the-internet",
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-10-21T17:59:12.000Z"
-    },
-    {
-      "id": "the-decoder-openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development",
-      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research....",
-      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-21T08:32:54.000Z"
+      "publishedAt": "2026-10-22T21:17:29.000Z"
     }
   ]
 }
