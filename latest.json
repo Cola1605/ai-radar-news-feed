@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T23:53:14.773Z",
-  "latestPublishedAt": "2026-10-23T23:05:49.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-10-24",
+  "generatedAt": "2026-10-24T23:26:36.937Z",
+  "latestPublishedAt": "2026-10-24T19:00:00.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-10-25",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 206,
+  "totalCount": 201,
   "items": [
     {
       "id": "the-decoder-chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropic-s-claude-opus-5-5",
@@ -67,17 +67,18 @@
       "publishedAt": "2026-10-23T09:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
+      "id": "the-decoder-openai-s-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain....",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model"
+        "Model",
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-10-22T19:00:00.000Z"
+      "publishedAt": "2026-10-24T11:12:36.000Z"
     },
     {
       "id": "techcrunch-ai-openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
@@ -91,19 +92,6 @@
         "Policy"
       ],
       "publishedAt": "2026-10-23T23:05:49.000Z"
-    },
-    {
-      "id": "the-decoder-openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us",
-      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-      "summary": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot....",
-      "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-23T15:42:18.000Z"
     },
     {
       "id": "openai-news-openai-and-poland-s-nask-partner-to-advance-ai-safety-and-security",
@@ -132,43 +120,54 @@
       "publishedAt": "2026-10-23T10:00:00.000Z"
     },
     {
-      "id": "openai-news-openai-models-are-coming-to-google-cloud",
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
+      "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-24T19:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
       "tags": [
         "Hot News",
-        "Model",
-        "Agent AI"
+        "Model"
       ],
-      "publishedAt": "2026-10-21T12:00:00.000Z"
+      "publishedAt": "2026-10-22T19:00:00.000Z"
     },
     {
-      "id": "openai-news-democratic-governance-of-frontier-ai-part-ii-empowering-cyber-defenders",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "id": "techcrunch-ai-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democrats",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-22T18:43:53.000Z"
+      "publishedAt": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "id": "google-research-bringing-foundational-models-to-the-front-lines-of-tb-screening",
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "summary": "Tin AI từ Google Research về \"Bringing foundational models to the front lines of TB screening\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "sourceName": "Google Research",
+      "score": 8.2,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-23T18:51:33.000Z"
     }
   ]
 }
