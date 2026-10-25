@@ -1,57 +1,13 @@
 {
-  "generatedAt": "2026-10-24T23:26:36.937Z",
-  "latestPublishedAt": "2026-10-24T19:00:00.000Z",
-  "newItemCount": 4,
-  "dateKey": "2026-10-25",
+  "generatedAt": "2026-10-25T23:22:32.548Z",
+  "latestPublishedAt": "2026-10-25T18:00:00.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-10-26",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 201,
+  "totalCount": 194,
   "items": [
-    {
-      "id": "the-decoder-chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropic-s-claude-opus-5-5",
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-      "summary": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models shrinks to just three points....",
-      "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-23T19:00:07.000Z"
-    },
-    {
-      "id": "the-decoder-three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring",
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted large portions of the 61-page report, and only a summary is publicly available....",
-      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-23T18:00:32.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1",
-      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-      "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. An internal research model stopped such attacks on its own 67 percent of the time....",
-      "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-23T17:19:49.000Z"
-    },
     {
       "id": "infoq-ai-ml-data-engineering-anthropic-adds-opt-in-security-scanning-for-critical-open-source-projects",
       "title": "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
@@ -65,6 +21,33 @@
         "Policy"
       ],
       "publishedAt": "2026-10-23T09:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027",
+      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027 appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-25T09:37:46.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition....",
+      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-10-25T09:12:10.000Z"
     },
     {
       "id": "the-decoder-openai-s-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
@@ -81,43 +64,17 @@
       "publishedAt": "2026-10-24T11:12:36.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-23T23:05:49.000Z"
-    },
-    {
-      "id": "openai-news-openai-and-poland-s-nask-partner-to-advance-ai-safety-and-security",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "sourceName": "OpenAI News",
-      "score": 9.4,
+      "id": "the-decoder-three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are easier to scrutinize. The researchers say OpenAI never told them in writing which information they allegedly mishandled....",
+      "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
       "tags": [
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "openai-news-securing-our-frontier-model-training-environment",
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-23T10:00:00.000Z"
+      "publishedAt": "2026-10-24T15:19:33.000Z"
     },
     {
       "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
@@ -132,19 +89,6 @@
       "publishedAt": "2026-10-24T19:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-22T19:00:00.000Z"
-    },
-    {
       "id": "techcrunch-ai-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democrats",
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -157,17 +101,70 @@
       "publishedAt": "2026-10-24T15:00:00.000Z"
     },
     {
-      "id": "google-research-bringing-foundational-models-to-the-front-lines-of-tb-screening",
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "summary": "Tin AI từ Google Research về \"Bringing foundational models to the front lines of TB screening\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "sourceName": "Google Research",
-      "score": 8.2,
+      "id": "techcrunch-ai-openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-23T23:05:49.000Z"
+    },
+    {
+      "id": "openai-news-openai-and-poland-s-nask-partner-to-advance-ai-safety-and-security",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "openai-news-securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-10-23T18:51:33.000Z"
+      "publishedAt": "2026-10-23T10:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-google-s-data-agent-kit-hits-ga-splitting-agent-guardrails-between-skills-and-iam",
+      "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+      "summary": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services. Two kinds of guardrail ship with it, and practitioners need to tell them apart: one is a skill asking the agent to stop, the other an IAM deny policy that refuses the call. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8,
+      "tags": [
+        "Hot News",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-24T08:34:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-pytorch-conference-2026-google-and-meta-open-source-torchtpu-for-native-pytorch-on-tpus",
+      "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+      "summary": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026, and Meta said it plans to move larger LLM workloads onto TPUs with it. AWS released TorchNeuron for Trainium the same week, while developers questioned TPU availability and where vendor lock-in now sits. By Andrew Hoblitzell",
+      "url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 7.9,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-10-25T18:00:00.000Z"
     }
   ]
 }
