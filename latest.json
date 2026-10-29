@@ -1,13 +1,68 @@
 {
-  "generatedAt": "2026-10-28T00:35:21.865Z",
-  "latestPublishedAt": "2026-10-27T17:25:09.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-10-28",
+  "generatedAt": "2026-10-29T01:04:43.134Z",
+  "latestPublishedAt": "2026-10-28T19:19:58.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-10-29",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 210,
+  "totalCount": 195,
   "items": [
+    {
+      "id": "techcrunch-ai-anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-10-28T19:19:58.000Z"
+    },
+    {
+      "id": "the-decoder-google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board",
+      "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+      "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced security capabilities, access is limited to selected security experts at first....",
+      "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-28T19:17:58.000Z"
+    },
+    {
+      "id": "the-decoder-nvidia-s-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition",
+      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival. Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning....",
+      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-10-28T15:49:39.000Z"
+    },
+    {
+      "id": "techcrunch-ai-voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-10-28T15:00:00.000Z"
+    },
     {
       "id": "the-decoder-google-deepmind-s-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms",
       "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
@@ -38,19 +93,6 @@
       "publishedAt": "2026-10-27T15:00:00.000Z"
     },
     {
-      "id": "the-decoder-gpt-6-1-terra-halves-openai-s-api-prices-and-still-gains-ground-on-its-larger-models",
-      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
-      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-26T20:30:55.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-cloudflare-s-auto-router-rates-each-request-for-stakes-from-the-most-recent-turns",
       "title": "Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns",
       "summary": "Cloudflare has released Auto Router in public beta through AI Gateway, picking a model per request from a classifier that scores complexity, ambiguity, stakes and context dependence. Cloudflare’s own benchmark puts it ten points below Claude Opus 5.5 on success rate at a third of the cost, and practitioners have questioned how stakes survive a long agent session. By Steef-Jan Wiggers",
@@ -67,82 +109,57 @@
       "publishedAt": "2026-10-26T10:20:00.000Z"
     },
     {
-      "id": "the-decoder-former-deepmind-researcher-thinks-alphago-s-playbook-can-cure-ai-hallucinations",
-      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
-      "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks....",
-      "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "id": "the-decoder-ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs are through their external software dependencies....",
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-27T13:55:24.000Z"
-    },
-    {
-      "id": "the-decoder-openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation....",
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-27T12:37:24.000Z"
-    },
-    {
-      "id": "techcrunch-ai-nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.4,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-10-27T11:00:00.000Z"
-    },
-    {
-      "id": "openai-news-working-with-academic-communities-to-build-scientific-understanding",
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-26T14:30:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-officially-files-for-its-public-debut",
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.1,
-      "tags": [
-        "Policy",
-        "Business"
-      ],
-      "publishedAt": "2026-10-26T14:35:22.000Z"
-    },
-    {
-      "id": "openai-news-how-check-point-accelerates-vulnerability-research-with-daybreak",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Research",
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-10-27T00:00:00.000Z"
+      "publishedAt": "2026-10-28T10:56:24.000Z"
+    },
+    {
+      "id": "openai-news-openai-and-servicenow-expand-partnership-across-enterprise-workflows",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Business"
+      ],
+      "publishedAt": "2026-10-28T13:15:00.000Z"
+    },
+    {
+      "id": "openai-news-legora-is-building-the-agentic-operating-system-for-legal-work",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "url": "https://openai.com/index/legora",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-28T09:30:00.000Z"
+    },
+    {
+      "id": "google-deepmind-gemini-4-carbon-our-next-frontier-model",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Carbon: Our next frontier model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "sourceName": "Google DeepMind",
+      "score": 9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-28T17:00:58.000Z"
     },
     {
       "id": "techcrunch-ai-frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
@@ -155,20 +172,6 @@
         "Model"
       ],
       "publishedAt": "2026-10-27T17:08:08.000Z"
-    },
-    {
-      "id": "openai-news-gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-26T13:45:00.000Z"
     }
   ]
 }
