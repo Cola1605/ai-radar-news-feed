@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-10-29T01:04:43.134Z",
-  "latestPublishedAt": "2026-10-28T19:19:58.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-10-29",
+  "generatedAt": "2026-10-30T01:10:57.996Z",
+  "latestPublishedAt": "2026-10-29T20:01:27.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-10-30",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 195,
+  "totalCount": 216,
   "items": [
+    {
+      "id": "openai-news-how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-29T09:00:00.000Z"
+    },
     {
       "id": "techcrunch-ai-anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -37,47 +51,6 @@
       "publishedAt": "2026-10-28T19:17:58.000Z"
     },
     {
-      "id": "the-decoder-nvidia-s-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition",
-      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
-      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival. Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning....",
-      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-10-28T15:49:39.000Z"
-    },
-    {
-      "id": "techcrunch-ai-voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-28T15:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-google-deepmind-s-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms",
-      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
-      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies....",
-      "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-27T17:25:09.000Z"
-    },
-    {
       "id": "openai-news-retell-uses-openai-models-to-help-power-100m-monthly-calls",
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
       "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
@@ -93,34 +66,45 @@
       "publishedAt": "2026-10-27T15:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-cloudflare-s-auto-router-rates-each-request-for-stakes-from-the-most-recent-turns",
-      "title": "Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns",
-      "summary": "Cloudflare has released Auto Router in public beta through AI Gateway, picking a model per request from a classifier that scores complexity, ambiguity, stakes and context dependence. Cloudflare’s own benchmark puts it ten points below Claude Opus 5.5 on success rate at a third of the cost, and practitioners have questioned how stakes survive a long agent session. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "techcrunch-ai-mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-29T17:00:00.000Z"
+    },
+    {
+      "id": "openai-news-an-updated-model-spec-for-more-capable-and-beneficial-ai",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-29T17:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-bug0-releases-qa-agent-to-automate-regression-testing-with-cached-playwright-replays",
+      "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+      "summary": "QA Agent is a new source-available Playwright library for agentic browser regression testing. The agent associates test instructions expressed in natural language to actions on the user interface, caches those when appropriate for faster CI replays, remapping them to test specifications when the user interface changes. Verification is based on multi-model consensus and vision model evaluations. By Bruno Couriol",
+      "url": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "score": 9.1,
       "tags": [
         "Hot News",
         "Model",
         "Agent AI",
-        "Research",
-        "Infra"
+        "Research"
       ],
-      "publishedAt": "2026-10-26T10:20:00.000Z"
-    },
-    {
-      "id": "the-decoder-ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs are through their external software dependencies....",
-      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-28T10:56:24.000Z"
+      "publishedAt": "2026-10-29T15:17:00.000Z"
     },
     {
       "id": "openai-news-openai-and-servicenow-expand-partnership-across-enterprise-workflows",
@@ -137,19 +121,6 @@
       "publishedAt": "2026-10-28T13:15:00.000Z"
     },
     {
-      "id": "openai-news-legora-is-building-the-agentic-operating-system-for-legal-work",
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-28T09:30:00.000Z"
-    },
-    {
       "id": "google-deepmind-gemini-4-carbon-our-next-frontier-model",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Carbon: Our next frontier model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
@@ -162,16 +133,42 @@
       "publishedAt": "2026-10-28T17:00:58.000Z"
     },
     {
-      "id": "techcrunch-ai-frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too....",
+      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-10-28T16:59:59.000Z"
+    },
+    {
+      "id": "the-decoder-openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform",
+      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January....",
+      "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-10-28T16:25:02.000Z"
+    },
+    {
+      "id": "the-decoder-openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up",
+      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+      "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI....",
+      "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+      "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-27T17:08:08.000Z"
+      "publishedAt": "2026-10-29T20:01:27.000Z"
     }
   ]
 }
