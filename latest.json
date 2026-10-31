@@ -1,13 +1,28 @@
 {
-  "generatedAt": "2026-10-30T01:10:57.996Z",
-  "latestPublishedAt": "2026-10-29T20:01:27.000Z",
+  "generatedAt": "2026-10-31T00:53:44.686Z",
+  "latestPublishedAt": "2026-10-30T19:42:59.000Z",
   "newItemCount": 7,
-  "dateKey": "2026-10-30",
+  "dateKey": "2026-10-31",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 216,
+  "totalCount": 217,
   "items": [
+    {
+      "id": "the-decoder-open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours",
+      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested....",
+      "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-30T12:22:18.000Z"
+    },
     {
       "id": "openai-news-how-we-detect-frontier-model-misalignment",
       "title": "How we detect frontier model misalignment",
@@ -23,47 +38,18 @@
       "publishedAt": "2026-10-29T09:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-28T19:19:58.000Z"
-    },
-    {
-      "id": "the-decoder-google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board",
-      "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
-      "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced security capabilities, access is limited to selected security experts at first....",
-      "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+      "id": "the-decoder-a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making",
+      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living mammal. But when a calibration error hit mid-surgery, the agent refused to continue and couldn't be talked out of it....",
+      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
       "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-28T19:17:58.000Z"
-    },
-    {
-      "id": "openai-news-retell-uses-openai-models-to-help-power-100m-monthly-calls",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "url": "https://openai.com/index/retell-ai",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
+      "score": 9.5,
       "tags": [
         "Model",
         "Agent AI",
-        "Research",
-        "Business"
+        "Research"
       ],
-      "publishedAt": "2026-10-27T15:00:00.000Z"
+      "publishedAt": "2026-10-30T19:42:59.000Z"
     },
     {
       "id": "techcrunch-ai-mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
@@ -78,6 +64,19 @@
         "Policy"
       ],
       "publishedAt": "2026-10-29T17:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-the-ladder-is-missing-rungs-engineering-progression-when-ai-ate-the-middle",
+      "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
+      "summary": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context loss, and threatens the long-term engineering pipeline needed to oversee autonomous systems effectively. By Alasdair Allan",
+      "url": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.1,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-10-30T11:00:00.000Z"
     },
     {
       "id": "openai-news-an-updated-model-spec-for-more-capable-and-beneficial-ai",
@@ -107,56 +106,16 @@
       "publishedAt": "2026-10-29T15:17:00.000Z"
     },
     {
-      "id": "openai-news-openai-and-servicenow-expand-partnership-across-enterprise-workflows",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-10-28T13:15:00.000Z"
-    },
-    {
-      "id": "google-deepmind-gemini-4-carbon-our-next-frontier-model",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Carbon: Our next frontier model\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "sourceName": "Google DeepMind",
-      "score": 9,
+      "id": "the-decoder-openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control",
+      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Whether the models follow these rules is another matter....",
+      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-10-28T17:00:58.000Z"
-    },
-    {
-      "id": "the-decoder-google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
-      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too....",
-      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-10-28T16:59:59.000Z"
-    },
-    {
-      "id": "the-decoder-openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform",
-      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
-      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January....",
-      "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-10-28T16:25:02.000Z"
+      "publishedAt": "2026-10-30T17:44:59.000Z"
     },
     {
       "id": "the-decoder-openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up",
@@ -169,6 +128,42 @@
         "Model"
       ],
       "publishedAt": "2026-10-29T20:01:27.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-how-to-make-artificial-intelligence-more-environmentally-sustainable",
+      "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
+      "summary": "IT is responsible for about 2 - 4% of all global emissions, and electricity use at Microsoft and Google has climbed because of AI, according to their own reports. Sustainability ought to be a top-level architectural concern. Some recommendations are: use pre-built and smaller models, run compute where low-carbon electricity is abundant, and train on renewable energy. By Ben Linders",
+      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-29T11:41:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-backed-thrive-holdings-acquires-adt",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-10-29T19:56:19.000Z"
+    },
+    {
+      "id": "techcrunch-ai-google-s-first-data-center-satellite-is-online-and-writing-poetry",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.4,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-10-30T17:00:00.000Z"
     }
   ]
 }
