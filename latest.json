@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-11-01T00:13:29.132Z",
-  "latestPublishedAt": "2026-10-31T19:20:55.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-11-01",
+  "generatedAt": "2026-11-02T00:54:45.510Z",
+  "latestPublishedAt": "2026-11-01T22:28:27.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-11-02",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 211,
+  "totalCount": 209,
   "items": [
+    {
+      "id": "the-decoder-empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk....",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-01T14:36:49.000Z"
+    },
     {
       "id": "the-decoder-anthropic-s-watermark-rollout-leaves-a-loophole-on-two-older-claude-models",
       "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
@@ -65,26 +79,12 @@
       "publishedAt": "2026-10-31T06:20:00.000Z"
     },
     {
-      "id": "the-decoder-a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making",
-      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
-      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living mammal. But when a calibration error hit mid-surgery, the agent refused to continue and couldn't be talked out of it....",
-      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-30T19:42:59.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-presentation-the-ladder-is-missing-rungs-engineering-progression-when-ai-ate-the-middle",
       "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
       "summary": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context loss, and threatens the long-term engineering pipeline needed to oversee autonomous systems effectively. By Alasdair Allan",
       "url": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.1,
+      "score": 8.4,
       "tags": [
         "Research",
         "Policy"
@@ -92,82 +92,78 @@
       "publishedAt": "2026-10-30T11:00:00.000Z"
     },
     {
-      "id": "openai-news-how-we-detect-frontier-model-misalignment",
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "sourceName": "OpenAI News",
-      "score": 9,
+      "id": "avartha-ai-avartha-fastest-open-weight-frontier-voice-ai-beats-openai-google-and-xai",
+      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "summary": "Tin AI từ Hacker News AI về \"Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://avartha.ai/blog/introducing-avartha/",
+      "sourceName": "avartha.ai",
+      "score": 8.2,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-01T22:28:27.000Z"
+    },
+    {
+      "id": "kilasec-com-show-hn-building-an-ai-traffic-guardrail-kilasec",
+      "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+      "summary": "Show HN: An AI traffic guardrail Building something based on 2 decades of support experience. It's a guardrail for AI traffic where you can apply policies, redact PII and API keys, set model destinations, catch destructive actions before execution, etc. The whole thing is built with Claude and can also be configured and troubleshot via Claude/AI tools (it acts as an MCP server). It acts as a proxy for AI traffic....",
+      "url": "https://kilasec.com",
+      "sourceName": "kilasec.com",
+      "score": 8.2,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-01T21:37:05.000Z"
+    },
+    {
+      "id": "anonce-io-show-hn-nonce-open-source-least-privilege-gmail-access-for-ai-agents",
+      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+      "summary": "Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Calendar, Drive and more. Today, if you connect Gmail to an AI agent like Muse, it can read your entire inbox. Whether on purpose or not, they can read far more emails than needed. This poses a huge data-privilege risk, in which personal data is accessed without limits....",
+      "url": "https://www.anonce.io/",
+      "sourceName": "anonce.io",
+      "score": 7.9,
       "tags": [
         "Model",
         "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-10-29T09:00:00.000Z"
+      "publishedAt": "2026-11-01T21:44:21.000Z"
     },
     {
-      "id": "techcrunch-ai-google-s-first-data-center-satellite-is-online-and-writing-poetry",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "id": "techcrunch-ai-openai-reportedly-lowers-funding-target-for-new-round",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "sourceName": "TechCrunch AI",
-      "score": 8.4,
+      "score": 7.9,
       "tags": [
-        "Model"
+        "Business"
       ],
-      "publishedAt": "2026-10-30T17:00:00.000Z"
+      "publishedAt": "2026-10-31T16:12:55.000Z"
     },
     {
-      "id": "openai-news-an-updated-model-spec-for-more-capable-and-beneficial-ai",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-10-29T17:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-bug0-releases-qa-agent-to-automate-regression-testing-with-cached-playwright-replays",
-      "title": "Bug0 Releases QA Agent to Automate Regression Testing with Cached Playwright Replays",
-      "summary": "QA Agent is a new source-available Playwright library for agentic browser regression testing. The agent associates test instructions expressed in natural language to actions on the user interface, caches those when appropriate for faster CI replays, remapping them to test specifications when the user interface changes. Verification is based on multi-model consensus and vision model evaluations. By Bruno Couriol",
-      "url": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-10-29T15:17:00.000Z"
-    },
-    {
-      "id": "openai-news-community-safety-report-and-new-protections-for-teens",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "sourceName": "OpenAI News",
-      "score": 8.3,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "id": "openai-news-making-it-easier-for-websites-to-express-ai-training-preferences",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "sourceName": "OpenAI News",
-      "score": 8,
+      "id": "techcrunch-ai-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
       "tags": [
         "AI"
       ],
-      "publishedAt": "2026-10-30T09:30:00.000Z"
+      "publishedAt": "2026-11-01T21:55:23.000Z"
+    },
+    {
+      "id": "techcrunch-ai-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west-virginia",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-31T01:20:05.000Z"
     }
   ]
 }
