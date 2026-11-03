@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T00:54:45.510Z",
-  "latestPublishedAt": "2026-11-01T22:28:27.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-11-02",
+  "generatedAt": "2026-11-03T02:57:45.905Z",
+  "latestPublishedAt": "2026-11-02T23:05:45.000Z",
+  "newItemCount": 9,
+  "dateKey": "2026-11-03",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 209,
+  "totalCount": 213,
   "items": [
     {
       "id": "the-decoder-empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
@@ -23,53 +23,12 @@
       "publishedAt": "2026-11-01T14:36:49.000Z"
     },
     {
-      "id": "the-decoder-anthropic-s-watermark-rollout-leaves-a-loophole-on-two-older-claude-models",
-      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-      "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compliance warning....",
-      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-10-31T19:20:55.000Z"
-    },
-    {
-      "id": "the-decoder-openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits",
-      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
-      "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute with mathematicians who suspected OpenAI used their unpublished research for training without consent....",
-      "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-31T16:38:37.000Z"
-    },
-    {
-      "id": "the-decoder-beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight",
-      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
-      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature....",
-      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-31T15:06:14.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-google-discloses-pagebreak-ai-security-agent-that-found-500-xss-bugs",
       "title": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
       "summary": "According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full operation in January. PageBreak uses Gemini models to autonomously investigate potential vulnerabilities, but reports them only after deterministic validators successfully reproduce the exploit against a running application. By Renato Losio",
       "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.7,
+      "score": 9.4,
       "tags": [
         "Model",
         "Agent AI",
@@ -79,67 +38,103 @@
       "publishedAt": "2026-10-31T06:20:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-presentation-the-ladder-is-missing-rungs-engineering-progression-when-ai-ate-the-middle",
-      "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
-      "summary": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context loss, and threatens the long-term engineering pipeline needed to oversee autonomous systems effectively. By Alasdair Allan",
-      "url": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-10-30T11:00:00.000Z"
-    },
-    {
-      "id": "avartha-ai-avartha-fastest-open-weight-frontier-voice-ai-beats-openai-google-and-xai",
-      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
-      "summary": "Tin AI từ Hacker News AI về \"Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://avartha.ai/blog/introducing-avartha/",
-      "sourceName": "avartha.ai",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-01T22:28:27.000Z"
-    },
-    {
-      "id": "kilasec-com-show-hn-building-an-ai-traffic-guardrail-kilasec",
-      "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
-      "summary": "Show HN: An AI traffic guardrail Building something based on 2 decades of support experience. It's a guardrail for AI traffic where you can apply policies, redact PII and API keys, set model destinations, catch destructive actions before execution, etc. The whole thing is built with Claude and can also be configured and troubleshot via Claude/AI tools (it acts as an MCP server). It acts as a proxy for AI traffic....",
-      "url": "https://kilasec.com",
-      "sourceName": "kilasec.com",
-      "score": 8.2,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-01T21:37:05.000Z"
-    },
-    {
-      "id": "anonce-io-show-hn-nonce-open-source-least-privilege-gmail-access-for-ai-agents",
-      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
-      "summary": "Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Calendar, Drive and more. Today, if you connect Gmail to an AI agent like Muse, it can read your entire inbox. Whether on purpose or not, they can read far more emails than needed. This poses a huge data-privilege risk, in which personal data is accessed without limits....",
-      "url": "https://www.anonce.io/",
-      "sourceName": "anonce.io",
-      "score": 7.9,
+      "id": "the-decoder-one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts",
+      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they independently downloaded the game's source code to win....",
+      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
       "tags": [
         "Model",
-        "Agent AI",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-01T21:44:21.000Z"
+      "publishedAt": "2026-11-02T15:42:27.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-reportedly-lowers-funding-target-for-new-round",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.9,
+      "id": "openai-news-introducing-the-grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T15:00:00.000Z"
+    },
+    {
+      "id": "openai-news-openai-appoints-dan-driscoll-as-senior-counselor-for-national-security-modernization",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers",
+      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff. Now the bank cites \"productivity and risk management\" as the reason for the reversal....",
+      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-02T20:00:03.000Z"
+    },
+    {
+      "id": "openai-news-lifeval",
+      "title": "LifeVal",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "url": "https://openai.com/index/lifeval",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-11-02T09:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product",
+      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+      "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenAI and Anthropic are also tightening their flat-rate plans as they grapple with the high costs of AI agents....",
+      "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+      "sourceName": "The Decoder",
+      "score": 8.3,
+      "tags": [
+        "Agent AI",
         "Business"
       ],
-      "publishedAt": "2026-10-31T16:12:55.000Z"
+      "publishedAt": "2026-11-02T18:15:39.000Z"
+    },
+    {
+      "id": "techcrunch-ai-new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-11-02T19:19:17.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-warns-that-it-s-very-close-to-rsi-capability-aka-self-building-ai",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T22:14:50.000Z"
     },
     {
       "id": "techcrunch-ai-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
@@ -154,16 +149,17 @@
       "publishedAt": "2026-11-01T21:55:23.000Z"
     },
     {
-      "id": "techcrunch-ai-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west-virginia",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
+      "id": "cloudopsbench-ai-cloudopsbench-ai-benchmark-shows-fai-models-struggling-with-cloud-infra",
+      "title": "CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra",
+      "summary": "Tin AI từ Hacker News AI về \"CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://cloudopsbench.ai",
+      "sourceName": "cloudopsbench.ai",
+      "score": 7.5,
       "tags": [
-        "AI"
+        "Model",
+        "Research"
       ],
-      "publishedAt": "2026-10-31T01:20:05.000Z"
+      "publishedAt": "2026-11-02T23:05:45.000Z"
     }
   ]
 }
