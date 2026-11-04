@@ -1,54 +1,104 @@
 {
-  "generatedAt": "2026-11-03T02:57:45.905Z",
-  "latestPublishedAt": "2026-11-02T23:05:45.000Z",
-  "newItemCount": 9,
-  "dateKey": "2026-11-03",
+  "generatedAt": "2026-11-04T01:30:06.803Z",
+  "latestPublishedAt": "2026-11-03T23:45:40.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-11-04",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 213,
+  "totalCount": 219,
   "items": [
     {
-      "id": "the-decoder-empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
-      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
-      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk....",
-      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-how-cisco-defends-at-machine-speed-with-openai",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "url": "https://openai.com/index/cisco-cyber",
+      "sourceName": "OpenAI News",
       "score": 9.7,
       "tags": [
         "Model",
-        "Research",
-        "Policy"
+        "Policy",
+        "Business"
       ],
-      "publishedAt": "2026-11-01T14:36:49.000Z"
+      "publishedAt": "2026-11-03T08:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-google-discloses-pagebreak-ai-security-agent-that-found-500-xss-bugs",
-      "title": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
-      "summary": "According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full operation in January. PageBreak uses Gemini models to autonomously investigate potential vulnerabilities, but reports them only after deterministic validators successfully reproduce the exploit against a running application. By Renato Losio",
-      "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.4,
+      "id": "openai-news-rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
       "tags": [
-        "Model",
-        "Agent AI",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-10-31T06:20:00.000Z"
+      "publishedAt": "2026-11-02T18:00:00.000Z"
     },
     {
-      "id": "the-decoder-one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts",
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they independently downloaded the game's source code to win....",
-      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "id": "the-decoder-bug-hunters-can-now-earn-up-to-172-000-from-openai-as-company-ramps-up-security",
+      "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+      "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder .",
+      "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+      "sourceName": "The Decoder",
+      "score": 9.1,
+      "tags": [
+        "Hot News",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-03T10:42:44.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-03T22:41:03.000Z"
+    },
+    {
+      "id": "the-decoder-openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week",
+      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances....",
+      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-11-02T15:42:27.000Z"
+      "publishedAt": "2026-11-03T20:15:45.000Z"
+    },
+    {
+      "id": "mit-technology-review-how-reverse-game-theory-could-keep-ai-agents-in-check",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-03T10:43:41.000Z"
+    },
+    {
+      "id": "openai-news-preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-11-02T18:00:00.000Z"
     },
     {
       "id": "openai-news-introducing-the-grid-protectors-program",
@@ -63,54 +113,42 @@
       "publishedAt": "2026-11-02T15:00:00.000Z"
     },
     {
-      "id": "openai-news-openai-appoints-dan-driscoll-as-senior-counselor-for-national-security-modernization",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
+      "id": "the-decoder-openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom",
+      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies....",
+      "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+      "sourceName": "The Decoder",
+      "score": 8.4,
       "tags": [
         "Policy"
       ],
-      "publishedAt": "2026-11-02T00:00:00.000Z"
+      "publishedAt": "2026-11-03T15:03:02.000Z"
     },
     {
-      "id": "the-decoder-goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers",
-      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
-      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff. Now the bank cites \"productivity and risk management\" as the reason for the reversal....",
-      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "id": "the-decoder-anthropic-s-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations",
+      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic's Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
       "sourceName": "The Decoder",
       "score": 8.4,
+      "tags": [
+        "Hot News",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-03T12:35:49.000Z"
+    },
+    {
+      "id": "modelpeers-com-show-hn-modelpeers-a-changelog-for-the-ai-models-and-agents-you-use",
+      "title": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
+      "summary": "Earlier this year, I had one of my product's features down for 48 hours because Anthropic retired Claude 3 Haiku. In another instance, an API parameter started returning errors. I grew sick of not being able to follow and track the endless changes of AI models every week, so I decided to build Modelpeers. It's basically a feed of all these changes....",
+      "url": "https://modelpeers.com",
+      "sourceName": "modelpeers.com",
+      "score": 8.2,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-02T20:00:03.000Z"
-    },
-    {
-      "id": "openai-news-lifeval",
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "url": "https://openai.com/index/lifeval",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-11-02T09:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product",
-      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-      "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenAI and Anthropic are also tightening their flat-rate plans as they grapple with the high costs of AI agents....",
-      "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
-      "sourceName": "The Decoder",
-      "score": 8.3,
-      "tags": [
-        "Agent AI",
-        "Business"
-      ],
-      "publishedAt": "2026-11-02T18:15:39.000Z"
+      "publishedAt": "2026-11-03T23:45:40.000Z"
     },
     {
       "id": "techcrunch-ai-new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
@@ -123,43 +161,6 @@
         "Policy"
       ],
       "publishedAt": "2026-11-02T19:19:17.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-warns-that-it-s-very-close-to-rsi-capability-aka-self-building-ai",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-02T22:14:50.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-01T21:55:23.000Z"
-    },
-    {
-      "id": "cloudopsbench-ai-cloudopsbench-ai-benchmark-shows-fai-models-struggling-with-cloud-infra",
-      "title": "CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra",
-      "summary": "Tin AI từ Hacker News AI về \"CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://cloudopsbench.ai",
-      "sourceName": "cloudopsbench.ai",
-      "score": 7.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-02T23:05:45.000Z"
     }
   ]
 }
