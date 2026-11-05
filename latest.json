@@ -1,13 +1,42 @@
 {
-  "generatedAt": "2026-11-04T01:30:06.803Z",
-  "latestPublishedAt": "2026-11-03T23:45:40.000Z",
-  "newItemCount": 10,
-  "dateKey": "2026-11-04",
+  "generatedAt": "2026-11-05T01:31:28.817Z",
+  "latestPublishedAt": "2026-11-04T19:30:04.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-11-05",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 219,
+  "totalCount": 224,
   "items": [
+    {
+      "id": "techcrunch-ai-building-on-open-source-ai-hugging-face-s-policy-chief-on-the-costs-risks-and-trade-offs",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy",
+        "Business"
+      ],
+      "publishedAt": "2026-11-04T18:44:57.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-s-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights",
+      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new prototype proves which model wrote an AI response without exposing its weights appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-04T15:23:49.000Z"
+    },
     {
       "id": "openai-news-how-cisco-defends-at-machine-speed-with-openai",
       "title": "How Cisco defends at machine speed with OpenAI",
@@ -23,12 +52,39 @@
       "publishedAt": "2026-11-03T08:00:00.000Z"
     },
     {
+      "id": "the-decoder-gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights",
+      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach could fundamentally simplify AI optimization but still hits clear limits....",
+      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-04T15:44:44.000Z"
+    },
+    {
+      "id": "openai-news-daybreak-red-is-now-available-in-aws-govcloud-us-east",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "sourceName": "OpenAI News",
+      "score": 9.4,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-04T07:00:00.000Z"
+    },
+    {
       "id": "openai-news-rewarding-defenders-with-bigger-bug-bounties",
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "sourceName": "OpenAI News",
-      "score": 9.7,
+      "score": 9.4,
       "tags": [
         "Research",
         "Policy"
@@ -36,17 +92,56 @@
       "publishedAt": "2026-11-02T18:00:00.000Z"
     },
     {
-      "id": "the-decoder-bug-hunters-can-now-earn-up-to-172-000-from-openai-as-company-ramps-up-security",
-      "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
-      "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder .",
-      "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "sourceName": "OpenAI News",
       "score": 9.1,
       "tags": [
-        "Hot News",
-        "Policy"
+        "Model",
+        "Business"
       ],
-      "publishedAt": "2026-11-03T10:42:44.000Z"
+      "publishedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "sourceName": "TechCrunch AI",
+      "score": 9,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-11-04T19:30:04.000Z"
+    },
+    {
+      "id": "the-decoder-openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents",
+      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+      "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side. The article OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-04T18:41:03.000Z"
+    },
+    {
+      "id": "the-decoder-anthropic-s-text-watermark-is-easy-to-bypass-on-several-older-claude-models",
+      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning....",
+      "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-04T19:03:55.000Z"
     },
     {
       "id": "techcrunch-ai-anthropic-is-working-on-a-system-to-prove-ai-models-identity",
@@ -59,19 +154,6 @@
         "Model"
       ],
       "publishedAt": "2026-11-03T22:41:03.000Z"
-    },
-    {
-      "id": "the-decoder-openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week",
-      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
-      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances....",
-      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-03T20:15:45.000Z"
     },
     {
       "id": "mit-technology-review-how-reverse-game-theory-could-keep-ai-agents-in-check",
@@ -87,80 +169,6 @@
         "Policy"
       ],
       "publishedAt": "2026-11-03T10:43:41.000Z"
-    },
-    {
-      "id": "openai-news-preparing-our-next-security-sprint-to-harden-openai",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "id": "openai-news-introducing-the-grid-protectors-program",
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-02T15:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom",
-      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
-      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies....",
-      "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-11-03T15:03:02.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-s-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations",
-      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
-      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic's Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
-      "sourceName": "The Decoder",
-      "score": 8.4,
-      "tags": [
-        "Hot News",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-03T12:35:49.000Z"
-    },
-    {
-      "id": "modelpeers-com-show-hn-modelpeers-a-changelog-for-the-ai-models-and-agents-you-use",
-      "title": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
-      "summary": "Earlier this year, I had one of my product's features down for 48 hours because Anthropic retired Claude 3 Haiku. In another instance, an API parameter started returning errors. I grew sick of not being able to follow and track the endless changes of AI models every week, so I decided to build Modelpeers. It's basically a feed of all these changes....",
-      "url": "https://modelpeers.com",
-      "sourceName": "modelpeers.com",
-      "score": 8.2,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-03T23:45:40.000Z"
-    },
-    {
-      "id": "techcrunch-ai-new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-11-02T19:19:17.000Z"
     }
   ]
 }
