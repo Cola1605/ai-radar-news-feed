@@ -1,68 +1,120 @@
 {
-  "generatedAt": "2026-11-05T01:31:28.817Z",
-  "latestPublishedAt": "2026-11-04T19:30:04.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-11-05",
+  "generatedAt": "2026-11-06T01:39:39.943Z",
+  "latestPublishedAt": "2026-11-05T20:36:25.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-11-06",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 224,
+  "totalCount": 228,
   "items": [
     {
-      "id": "techcrunch-ai-building-on-open-source-ai-hugging-face-s-policy-chief-on-the-costs-risks-and-trade-offs",
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "id": "the-decoder-openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them",
+      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor....",
+      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-05T20:36:25.000Z"
+    },
+    {
+      "id": "techcrunch-ai-openai-released-a-new-cybersecurity-model-is-that-enough",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "sourceName": "TechCrunch AI",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Policy",
-        "Business"
+        "Policy"
       ],
-      "publishedAt": "2026-11-04T18:44:57.000Z"
+      "publishedAt": "2026-11-05T19:06:12.000Z"
     },
     {
-      "id": "the-decoder-anthropic-s-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights",
-      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
-      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new prototype proves which model wrote an AI response without exposing its weights appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "id": "the-decoder-google-s-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent",
+      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more....",
+      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-05T19:05:31.000Z"
+    },
+    {
+      "id": "the-decoder-meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers",
+      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them....",
+      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-04T15:23:49.000Z"
+      "publishedAt": "2026-11-05T15:01:09.000Z"
     },
     {
-      "id": "openai-news-how-cisco-defends-at-machine-speed-with-openai",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber",
+      "id": "the-decoder-openai-s-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles",
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+      "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives....",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-05T14:08:22.000Z"
+    },
+    {
+      "id": "openai-news-gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-agents",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "sourceName": "OpenAI News",
       "score": 9.7,
       "tags": [
         "Model",
-        "Policy",
-        "Business"
+        "Agent AI",
+        "Policy"
       ],
-      "publishedAt": "2026-11-03T08:00:00.000Z"
+      "publishedAt": "2026-11-05T09:00:00.000Z"
     },
     {
-      "id": "the-decoder-gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights",
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach could fundamentally simplify AI optimization but still hits clear limits....",
-      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "openai-news-setting-a-new-standard-for-responsible-ai-infrastructure",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
       "tags": [
-        "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-11-04T15:44:44.000Z"
+      "publishedAt": "2026-11-05T02:00:00.000Z"
+    },
+    {
+      "id": "openai-news-franklin-templeton-uses-openai-to-support-investment-research",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "url": "https://openai.com/index/franklin-templeton",
+      "sourceName": "OpenAI News",
+      "score": 9.4,
+      "tags": [
+        "Agent AI",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-05T00:00:00.000Z"
     },
     {
       "id": "openai-news-daybreak-red-is-now-available-in-aws-govcloud-us-east",
@@ -79,32 +131,6 @@
       "publishedAt": "2026-11-04T07:00:00.000Z"
     },
     {
-      "id": "openai-news-rewarding-defenders-with-bigger-bug-bounties",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "sourceName": "OpenAI News",
-      "score": 9.4,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-02T18:00:00.000Z"
-    },
-    {
-      "id": "openai-news-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
       "id": "techcrunch-ai-open-source-ai-is-booming-hugging-face-explains-who-profits",
       "title": "Open source AI is booming. Hugging Face explains who profits.",
       "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
@@ -119,56 +145,31 @@
       "publishedAt": "2026-11-04T19:30:04.000Z"
     },
     {
-      "id": "the-decoder-openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents",
-      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
-      "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side. The article OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
+      "id": "techcrunch-ai-box-taps-nvidia-s-nemotron-for-new-agent-first-content-retrieval-system",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.6,
+      "tags": [
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-05T14:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-google-cloud-api-gateway-introduces-streaming-support-for-real-time-and-ai-powered-applications",
+      "title": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+      "summary": "Google has announced the public preview of streaming support for API Gateway, extending its traditional request-response model to support applications requiring real-time communication. According to Google, this is particularly relevant for AI applications that provide streaming model responses, multi-step agent workflows, and interactive sessions. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
       "tags": [
         "Hot News",
+        "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-11-04T18:41:03.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-s-text-watermark-is-easy-to-bypass-on-several-older-claude-models",
-      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
-      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning....",
-      "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-04T19:03:55.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-03T22:41:03.000Z"
-    },
-    {
-      "id": "mit-technology-review-how-reverse-game-theory-could-keep-ai-agents-in-check",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-03T10:43:41.000Z"
+      "publishedAt": "2026-11-05T16:00:00.000Z"
     }
   ]
 }
