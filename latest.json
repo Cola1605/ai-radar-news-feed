@@ -1,163 +1,174 @@
 {
-  "generatedAt": "2026-11-09T01:02:34.589Z",
-  "latestPublishedAt": "2026-11-09T00:51:19.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-11-09",
+  "generatedAt": "2026-11-10T03:39:22.753Z",
+  "latestPublishedAt": "2026-11-09T22:46:09.000Z",
+  "newItemCount": 12,
+  "dateKey": "2026-11-10",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 211,
+  "totalCount": 216,
   "items": [
     {
-      "id": "the-decoder-ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds",
-      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks....",
-      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "id": "the-decoder-claude-fable-5-2-and-mythos-5-2-cement-anthropic-s-ai-lead-just-before-its-ipo",
+      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company....",
+      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-09T21:15:23.000Z"
+    },
+    {
+      "id": "the-decoder-meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do",
+      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks....",
+      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
         "Model",
         "Agent AI",
+        "Infra"
+      ],
+      "publishedAt": "2026-11-09T19:41:51.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-google-releases-gemini-4-argon-for-robotics-control-simulation-and-policy-improvement",
+      "title": "Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement",
+      "summary": "Google has released Gemini 4 Argon framing it as a general-purpose physical-reasoning model for robot control, Real2Sim scene construction, multimodal labeling of robot video, and iterative policy improvement, rather than as a single end-effector policy. By Daniel Dominguez",
+      "url": "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-09T15:44:00.000Z"
+    },
+    {
+      "id": "openai-news-control-room-a-central-system-to-track-and-stop-model-workloads-across-our-research-infrastructure",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "url": "https://openai.com/index/control-room",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-11-07T16:56:38.000Z"
+      "publishedAt": "2026-11-09T13:00:00.000Z"
     },
     {
-      "id": "the-decoder-ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test",
-      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on The Decoder .",
-      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "id": "techcrunch-ai-anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-09T19:24:51.000Z"
+    },
+    {
+      "id": "the-decoder-bytedance-s-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift",
+      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+      "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst in realism. A Pro version is planned....",
+      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Agent AI",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-08T09:50:59.000Z"
+      "publishedAt": "2026-11-09T18:50:01.000Z"
     },
     {
-      "id": "the-decoder-the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking",
-      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
-      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast....",
-      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "id": "the-decoder-tencent-s-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isn-t-the-answer",
+      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively....",
+      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Research"
+        "Policy"
       ],
-      "publishedAt": "2026-11-07T15:35:50.000Z"
+      "publishedAt": "2026-11-09T15:44:53.000Z"
     },
     {
-      "id": "the-decoder-the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts",
-      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-      "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap....",
-      "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-chatgpt-enterprise-now-available-in-aws-marketplace",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "id": "openai-news-coderabbit-scales-agentic-software-development-and-ships-20x-more",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "sourceName": "OpenAI News",
       "score": 9.1,
       "tags": [
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-08T11:44:41.000Z"
+      "publishedAt": "2026-11-09T08:00:00.000Z"
     },
     {
-      "id": "openai-news-partnering-with-hacktron-to-find-vulnerabilities-in-openai-s-systems",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
+      "id": "techcrunch-ai-meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
       "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-09T18:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-aws-launches-torchneuron-to-run-pytorch-models-on-aws-trainium-without-modifications",
+      "title": "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications",
+      "summary": "At the recent PyTorch Conference North America 2026, Amazon introduced TorchNeuron, a native PyTorch backend that enables developers to run existing PyTorch code on AWS Trainium AI chips with virtually no code modifications. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.3,
+      "tags": [
+        "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-11-06T08:00:00.000Z"
+      "publishedAt": "2026-11-09T11:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "id": "techcrunch-ai-a-short-seller-flagged-nvidia-ceo-s-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "sourceName": "TechCrunch AI",
       "score": 8.1,
       "tags": [
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-11-07T21:17:08.000Z"
-    },
-    {
-      "id": "techcrunch-ai-nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-possible-chinese-spy",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-08T21:00:11.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-how-grab-improved-mobile-app-stability-by-safely-handling-surge-in-ai-generated-code-changes",
-      "title": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
-      "summary": "The growing adoption of AI coding assistants has accelerated development and increased the volume of code changes per release, bringing more opportunities for defects and crashes, says Grab. To address these challenges, they implemented a layered defense strategy to prevent, detect, and contain crashes throughout the development and release lifecycle. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.3,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-11-07T11:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.2,
-      "tags": [
-        "Business"
-      ],
-      "publishedAt": "2026-11-06T22:53:46.000Z"
-    },
-    {
-      "id": "techcrunch-ai-ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.1,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-06T15:54:47.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-open-source-pg-vectorsearch-brings-more-scalable-vector-search-to-postgresql",
-      "title": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
-      "summary": "Tiger Data has released pg_vectorsearch, an open source PostgreSQL extension for vector similarity search, currently in alpha. Its PRISM index uses data partitioning and compression instead of the graph-based approach used by pgvector’s HNSW index, reducing memory requirements and index build times. By Renato Losio",
-      "url": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 6.8,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-11-07T09:49:00.000Z"
-    },
-    {
-      "id": "twitter-com-learning-abstractions-the-next-frontier-for-ai",
-      "title": "Learning Abstractions: The Next Frontier for AI",
-      "summary": "Tin AI từ Hacker News AI về \"Learning Abstractions: The Next Frontier for AI\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://twitter.com/jmugan/status/2119593410268999700",
-      "sourceName": "twitter.com",
-      "score": 6.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-09T00:51:19.000Z"
+      "publishedAt": "2026-11-09T22:46:09.000Z"
     }
   ]
 }
