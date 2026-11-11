@@ -1,13 +1,54 @@
 {
-  "generatedAt": "2026-11-10T03:39:22.753Z",
-  "latestPublishedAt": "2026-11-09T22:46:09.000Z",
-  "newItemCount": 12,
-  "dateKey": "2026-11-10",
+  "generatedAt": "2026-11-11T01:19:17.590Z",
+  "latestPublishedAt": "2026-11-10T19:03:52.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-11-11",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 216,
+  "totalCount": 224,
   "items": [
+    {
+      "id": "techcrunch-ai-psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-10T19:03:52.000Z"
+    },
+    {
+      "id": "the-decoder-gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterday-s-news-in-the-fastest-model-cycle-yet",
+      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+      "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time....",
+      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-10T18:19:13.000Z"
+    },
+    {
+      "id": "openai-news-work-at-the-frontier-ai-s-effect-on-freelance-work",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-10T07:00:00.000Z"
+    },
     {
       "id": "the-decoder-claude-fable-5-2-and-mythos-5-2-cement-anthropic-s-ai-lead-just-before-its-ipo",
       "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
@@ -66,43 +107,29 @@
       "publishedAt": "2026-11-09T13:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
+      "id": "the-decoder-google-deepmind-s-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot",
+      "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+      "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent....",
+      "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
-        "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-11-09T19:24:51.000Z"
+      "publishedAt": "2026-11-10T17:11:10.000Z"
     },
     {
-      "id": "the-decoder-bytedance-s-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift",
-      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-      "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst in realism. A Pro version is planned....",
-      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "id": "openai-news-closing-the-ai-guidance-gap-in-education",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "sourceName": "OpenAI News",
+      "score": 9.3,
       "tags": [
-        "Model",
-        "Agent AI"
+        "Research",
+        "Business"
       ],
-      "publishedAt": "2026-11-09T18:50:01.000Z"
-    },
-    {
-      "id": "the-decoder-tencent-s-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isn-t-the-answer",
-      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively....",
-      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-09T15:44:53.000Z"
+      "publishedAt": "2026-11-10T09:00:00.000Z"
     },
     {
       "id": "openai-news-chatgpt-enterprise-now-available-in-aws-marketplace",
@@ -119,56 +146,30 @@
       "publishedAt": "2026-11-09T19:00:00.000Z"
     },
     {
-      "id": "openai-news-coderabbit-scales-agentic-software-development-and-ships-20x-more",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "sourceName": "OpenAI News",
+      "id": "google-deepmind-gemini-robotics-2-5-accelerates-real-world-general-dexterity",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "sourceName": "Google DeepMind",
+      "score": 9.2,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-09T19:51:47.000Z"
+    },
+    {
+      "id": "google-deepmind-gemini-4-carbon-is-now-available",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Carbon is now available\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "sourceName": "Google DeepMind",
       "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-09T08:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-09T18:00:00.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-aws-launches-torchneuron-to-run-pytorch-models-on-aws-trainium-without-modifications",
-      "title": "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications",
-      "summary": "At the recent PyTorch Conference North America 2026, Amazon introduced TorchNeuron, a native PyTorch backend that enables developers to run existing PyTorch code on AWS Trainium AI chips with virtually no code modifications. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.3,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-11-09T11:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-a-short-seller-flagged-nvidia-ceo-s-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-11-09T22:46:09.000Z"
+      "publishedAt": "2026-11-10T16:03:47.000Z"
     }
   ]
 }
