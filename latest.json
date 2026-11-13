@@ -1,25 +1,122 @@
 {
-  "generatedAt": "2026-11-12T02:19:29.568Z",
-  "latestPublishedAt": "2026-11-11T20:12:46.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-11-12",
+  "generatedAt": "2026-11-13T01:58:42.565Z",
+  "latestPublishedAt": "2026-11-12T21:27:10.000Z",
+  "newItemCount": 10,
+  "dateKey": "2026-11-13",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 227,
+  "totalCount": 231,
   "items": [
     {
-      "id": "techcrunch-ai-psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence",
+      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+      "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though....",
+      "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+      "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-12T13:48:19.000Z"
+    },
+    {
+      "id": "the-decoder-google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2",
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platform Antigravity....",
+      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-12T12:09:43.000Z"
+    },
+    {
+      "id": "the-decoder-google-s-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch",
+      "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+      "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding....",
+      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+      "sourceName": "The Decoder",
+      "score": 9.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-12T19:58:43.000Z"
+    },
+    {
+      "id": "the-decoder-claude-meetings-lets-anthropic-s-ai-join-your-video-calls",
+      "title": "Claude Meetings lets Anthropic's AI join your video calls",
+      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder .",
+      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "sourceName": "The Decoder",
+      "score": 9.4,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-11-12T20:26:50.000Z"
+    },
+    {
+      "id": "techcrunch-ai-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-11-12T18:39:23.000Z"
+    },
+    {
+      "id": "openai-news-supporting-research-on-ai-and-children-s-safety",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "sourceName": "OpenAI News",
+      "score": 9.4,
+      "tags": [
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "openai-news-how-amplitude-ships-product-improvements-in-1-2-days-with-openai",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 4 Hydrogen\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
+      "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-10T19:03:52.000Z"
+      "publishedAt": "2026-11-12T18:00:50.000Z"
     },
     {
       "id": "openai-news-work-at-the-frontier-ai-s-effect-on-freelance-work",
@@ -27,7 +124,7 @@
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "sourceName": "OpenAI News",
-      "score": 9.7,
+      "score": 9.1,
       "tags": [
         "Model",
         "Research"
@@ -35,18 +132,29 @@
       "publishedAt": "2026-11-10T07:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-google-releases-gemini-4-argon-for-robotics-control-simulation-and-policy-improvement",
-      "title": "Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement",
-      "summary": "Google has released Gemini 4 Argon framing it as a general-purpose physical-reasoning model for robot control, Real2Sim scene construction, multimodal labeling of robot video, and iterative policy improvement, rather than as a single end-effector policy. By Daniel Dominguez",
-      "url": "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "techcrunch-ai-nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-12T21:27:10.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-azure-logic-apps-standard-gets-a-local-cli-in-preview",
+      "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
+      "summary": "Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run inspection, and test scaffolding for Logic Apps Standard, work that previously required the VS Code extension. The product team pitches the terminal surface as determinism for AI-assisted development. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.4,
+      "score": 8.8,
       "tags": [
         "Hot News",
-        "Model",
-        "Policy"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-09T15:44:00.000Z"
+      "publishedAt": "2026-11-12T10:23:00.000Z"
     },
     {
       "id": "openai-news-closing-the-ai-guidance-gap-in-education",
@@ -54,114 +162,12 @@
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "sourceName": "OpenAI News",
-      "score": 9.3,
+      "score": 8.6,
       "tags": [
         "Research",
         "Business"
       ],
       "publishedAt": "2026-11-10T09:00:00.000Z"
-    },
-    {
-      "id": "openai-news-control-room-a-central-system-to-track-and-stop-model-workloads-across-our-research-infrastructure",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "url": "https://openai.com/index/control-room",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-09T13:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1-000-questions-in-a-single-pass",
-      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-      "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google....",
-      "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-11T20:12:46.000Z"
-    },
-    {
-      "id": "google-deepmind-gemini-4-carbon-is-now-available",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "Tin AI từ Google DeepMind về \"Gemini 4 Carbon is now available\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-11-10T16:03:47.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-says-ai-is-eroding-nvidia-s-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days",
-      "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-      "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies....",
-      "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-11T14:25:20.000Z"
-    },
-    {
-      "id": "openai-news-introducing-businesses-in-chatgpt",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-10T10:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats",
-      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
-      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward. To save the credibility of degrees, universities now have to return to traditional exams or face sanctions....",
-      "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-11T11:54:46.000Z"
-    },
-    {
-      "id": "techcrunch-ai-openai-anthropic-face-new-oversight-as-new-york-s-ai-safety-law-takes-effect",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Policy"
-      ],
-      "publishedAt": "2026-11-10T20:52:13.000Z"
-    },
-    {
-      "id": "google-deepmind-gemini-robotics-2-5-accelerates-real-world-general-dexterity",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "sourceName": "Google DeepMind",
-      "score": 8.5,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-09T19:51:47.000Z"
     }
   ]
 }
