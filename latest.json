@@ -1,13 +1,27 @@
 {
-  "generatedAt": "2026-11-14T01:30:37.861Z",
-  "latestPublishedAt": "2026-11-13T18:40:30.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-11-14",
+  "generatedAt": "2026-11-15T01:08:14.601Z",
+  "latestPublishedAt": "2026-11-14T23:53:20.000Z",
+  "newItemCount": 7,
+  "dateKey": "2026-11-15",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 229,
+  "totalCount": 225,
   "items": [
+    {
+      "id": "the-decoder-runway-s-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
+      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though....",
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-14T09:45:45.000Z"
+    },
     {
       "id": "techcrunch-ai-export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-models-uh-oh-jensen",
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -22,82 +36,69 @@
       "publishedAt": "2026-11-13T18:40:30.000Z"
     },
     {
-      "id": "the-decoder-former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models",
-      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars....",
-      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "id": "the-decoder-gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
+      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-11-13T15:21:04.000Z"
+      "publishedAt": "2026-11-14T16:48:01.000Z"
     },
     {
-      "id": "the-decoder-claude-meetings-lets-anthropic-s-ai-join-your-video-calls",
-      "title": "Claude Meetings lets Anthropic's AI join your video calls",
-      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder .",
-      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "id": "the-decoder-openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary",
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts....",
+      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
       "sourceName": "The Decoder",
-      "score": 9.4,
+      "score": 9.5,
       "tags": [
-        "Hot News",
         "Model",
-        "Business"
+        "Research"
       ],
-      "publishedAt": "2026-11-12T20:26:50.000Z"
+      "publishedAt": "2026-11-14T11:40:51.000Z"
     },
     {
-      "id": "techcrunch-ai-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "id": "the-decoder-anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon",
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity....",
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-14T11:21:41.000Z"
+    },
+    {
+      "id": "news-ycombinator-com-ask-hn-is-post-training-make-ai-models-dumber",
+      "title": "Ask HN: Is post-training make AI models dumber?",
+      "summary": "Post-training is making models better at benchmarks. They seem more consistent at coding, but dumber to me and I want to know what y'all are noticing. Here are the big three I'm noticing (mostly in claude): 1) Agents cannot write natural language well. Claude uses vague phrases to avoid any technical term such as \"What the caller calls\" instead of saying \"callee\"....",
+      "url": "https://news.ycombinator.com/item?id=50502344",
+      "sourceName": "news.ycombinator.com",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-14T23:53:20.000Z"
+    },
+    {
+      "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "sourceName": "TechCrunch AI",
-      "score": 9.4,
+      "score": 8.9,
       "tags": [
-        "Model",
-        "Business"
+        "Hot News"
       ],
-      "publishedAt": "2026-11-12T18:39:23.000Z"
-    },
-    {
-      "id": "the-decoder-openai-enters-the-cybersecurity-market-with-two-daybreak-products",
-      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
-      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
-      "sourceName": "The Decoder",
-      "score": 9.1,
-      "tags": [
-        "Hot News",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-13T15:08:57.000Z"
-    },
-    {
-      "id": "openai-news-how-amplitude-ships-product-improvements-in-1-2-days-with-openai",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-12T20:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-introducing-gemini-4-hydrogen",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 4 Hydrogen\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-12T18:00:50.000Z"
+      "publishedAt": "2026-11-14T17:30:00.000Z"
     },
     {
       "id": "techcrunch-ai-chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
@@ -114,55 +115,55 @@
       "publishedAt": "2026-11-13T16:00:12.000Z"
     },
     {
-      "id": "the-decoder-anthropic-s-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows",
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that....",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
+      "id": "openai-news-introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
       "tags": [
         "Model",
         "Agent AI"
       ],
-      "publishedAt": "2026-11-13T16:37:01.000Z"
+      "publishedAt": "2026-11-13T15:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "id": "techcrunch-ai-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "sourceName": "TechCrunch AI",
-      "score": 8.8,
+      "score": 8.7,
+      "tags": [
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-11-12T18:39:23.000Z"
+    },
+    {
+      "id": "openai-news-how-amplitude-ships-product-improvements-in-1-2-days-with-openai",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "sourceName": "OpenAI News",
+      "score": 8.4,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "id": "google-deepmind-introducing-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 4 Hydrogen\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "sourceName": "Google DeepMind",
+      "score": 8.4,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-12T21:27:10.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-azure-logic-apps-standard-gets-a-local-cli-in-preview",
-      "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
-      "summary": "Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run inspection, and test scaffolding for Logic Apps Standard, work that previously required the VS Code extension. The product team pitches the terminal surface as determinism for AI-assisted development. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.8,
-      "tags": [
-        "Hot News",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-12T10:23:00.000Z"
-    },
-    {
-      "id": "openai-news-supporting-research-on-ai-and-children-s-safety",
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "url": "https://openai.com/index/children-first-declaration",
-      "sourceName": "OpenAI News",
-      "score": 8.8,
-      "tags": [
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-12T00:00:00.000Z"
+      "publishedAt": "2026-11-12T18:00:50.000Z"
     }
   ]
 }
