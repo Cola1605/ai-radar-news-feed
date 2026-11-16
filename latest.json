@@ -1,13 +1,28 @@
 {
-  "generatedAt": "2026-11-15T01:08:14.601Z",
-  "latestPublishedAt": "2026-11-14T23:53:20.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-11-15",
+  "generatedAt": "2026-11-16T01:10:35.351Z",
+  "latestPublishedAt": "2026-11-15T22:00:01.000Z",
+  "newItemCount": 5,
+  "dateKey": "2026-11-16",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
   "totalCount": 225,
   "items": [
+    {
+      "id": "the-decoder-meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs....",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Infra"
+      ],
+      "publishedAt": "2026-11-15T10:06:06.000Z"
+    },
     {
       "id": "the-decoder-runway-s-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
       "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
@@ -21,19 +36,6 @@
         "Research"
       ],
       "publishedAt": "2026-11-14T09:45:45.000Z"
-    },
-    {
-      "id": "techcrunch-ai-export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-models-uh-oh-jensen",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "sourceName": "TechCrunch AI",
-      "score": 9.6,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-13T18:40:30.000Z"
     },
     {
       "id": "the-decoder-gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
@@ -62,33 +64,6 @@
       "publishedAt": "2026-11-14T11:40:51.000Z"
     },
     {
-      "id": "the-decoder-anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon",
-      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity....",
-      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-14T11:21:41.000Z"
-    },
-    {
-      "id": "news-ycombinator-com-ask-hn-is-post-training-make-ai-models-dumber",
-      "title": "Ask HN: Is post-training make AI models dumber?",
-      "summary": "Post-training is making models better at benchmarks. They seem more consistent at coding, but dumber to me and I want to know what y'all are noticing. Here are the big three I'm noticing (mostly in claude): 1) Agents cannot write natural language well. Claude uses vague phrases to avoid any technical term such as \"What the caller calls\" instead of saying \"callee\"....",
-      "url": "https://news.ycombinator.com/item?id=50502344",
-      "sourceName": "news.ycombinator.com",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-11-14T23:53:20.000Z"
-    },
-    {
       "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -101,12 +76,63 @@
       "publishedAt": "2026-11-14T17:30:00.000Z"
     },
     {
+      "id": "techcrunch-ai-export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-models-uh-oh-jensen",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-13T18:40:30.000Z"
+    },
+    {
+      "id": "openai-news-our-new-blog-for-science",
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Research"
+      ],
+      "publishedAt": "2026-11-15T22:00:00.000Z"
+    },
+    {
+      "id": "openai-news-a-step-toward-defining-the-standard-model-on-a-lattice",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-15T22:00:01.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-anthropic-outlines-its-ai-powered-code-review-process-for-claude-code",
+      "title": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code",
+      "summary": "Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase. The approach relies on multiple layers of automated verification, AI-powered reviews, and risk-based human approval, aiming to reduce manual review time without increasing regressions or production incidents. By Robert Krzaczyński",
+      "url": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.4,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-15T09:55:00.000Z"
+    },
+    {
       "id": "techcrunch-ai-chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "sourceName": "TechCrunch AI",
-      "score": 8.9,
+      "score": 8.3,
       "tags": [
         "Hot News",
         "Model",
@@ -115,55 +141,29 @@
       "publishedAt": "2026-11-13T16:00:12.000Z"
     },
     {
+      "id": "techcrunch-ai-where-was-nvidia-s-security-team",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.1,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-11-15T00:08:07.000Z"
+    },
+    {
       "id": "openai-news-introducing-chatgpt-wallet",
       "title": "Introducing ChatGPT Wallet",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "sourceName": "OpenAI News",
-      "score": 8.7,
+      "score": 8,
       "tags": [
         "Model",
         "Agent AI"
       ],
       "publishedAt": "2026-11-13T15:00:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.7,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-11-12T18:39:23.000Z"
-    },
-    {
-      "id": "openai-news-how-amplitude-ships-product-improvements-in-1-2-days-with-openai",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "sourceName": "OpenAI News",
-      "score": 8.4,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-12T20:00:00.000Z"
-    },
-    {
-      "id": "google-deepmind-introducing-gemini-4-hydrogen",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 4 Hydrogen\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "sourceName": "Google DeepMind",
-      "score": 8.4,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-12T18:00:50.000Z"
     }
   ]
 }
