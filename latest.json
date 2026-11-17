@@ -1,13 +1,81 @@
 {
-  "generatedAt": "2026-11-16T01:10:35.351Z",
-  "latestPublishedAt": "2026-11-15T22:00:01.000Z",
-  "newItemCount": 5,
-  "dateKey": "2026-11-16",
+  "generatedAt": "2026-11-17T04:01:04.189Z",
+  "latestPublishedAt": "2026-11-16T20:07:13.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-11-17",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 225,
+  "totalCount": 229,
   "items": [
+    {
+      "id": "techcrunch-ai-openai-will-embed-safety-researchers-to-investigate-ai-subversion",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "sourceName": "TechCrunch AI",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-16T17:02:43.000Z"
+    },
+    {
+      "id": "openai-news-broadening-access-to-ai-for-scientists",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-16T17:00:00.000Z"
+    },
+    {
+      "id": "openai-news-lvmh-s-media-division-announces-strategic-partnership-with-openai",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Business"
+      ],
+      "publishedAt": "2026-11-16T09:00:00.000Z"
+    },
+    {
+      "id": "openai-news-our-first-phase-of-embedded-assessments",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Research",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "id": "openai-news-the-king-s-trust-and-openai-launch-1m-partnership",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Business"
+      ],
+      "publishedAt": "2026-11-16T00:00:00.000Z"
+    },
     {
       "id": "the-decoder-meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
       "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
@@ -24,146 +92,83 @@
       "publishedAt": "2026-11-15T10:06:06.000Z"
     },
     {
-      "id": "the-decoder-runway-s-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
-      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though....",
-      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "id": "the-decoder-alibaba-s-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices",
+      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source....",
+      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-16T16:56:04.000Z"
+    },
+    {
+      "id": "the-decoder-australia-s-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service",
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers....",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Infra"
       ],
-      "publishedAt": "2026-11-14T09:45:45.000Z"
+      "publishedAt": "2026-11-15T10:45:58.000Z"
     },
     {
-      "id": "the-decoder-gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "id": "the-decoder-openai-s-gpt-6-astra-tackles-the-standard-model-s-toughest-math-problem-on-a-lattice",
+      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible....",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
       "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-14T16:48:01.000Z"
-    },
-    {
-      "id": "the-decoder-openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary",
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts....",
-      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-14T11:40:51.000Z"
-    },
-    {
-      "id": "techcrunch-ai-the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-11-14T17:30:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-models-uh-oh-jensen",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-13T18:40:30.000Z"
-    },
-    {
-      "id": "openai-news-our-new-blog-for-science",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "sourceName": "OpenAI News",
       "score": 8.8,
-      "tags": [
-        "Research"
-      ],
-      "publishedAt": "2026-11-15T22:00:00.000Z"
-    },
-    {
-      "id": "openai-news-a-step-toward-defining-the-standard-model-on-a-lattice",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-15T22:00:01.000Z"
+      "publishedAt": "2026-11-16T19:19:56.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-anthropic-outlines-its-ai-powered-code-review-process-for-claude-code",
-      "title": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code",
-      "summary": "Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase. The approach relies on multiple layers of automated verification, AI-powered reviews, and risk-based human approval, aiming to reduce manual review time without increasing regressions or production incidents. By Robert Krzaczyński",
-      "url": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "id": "infoq-ai-ml-data-engineering-airbnb-introduces-castle-for-training-natural-language-search-models-with-synthetic-data",
+      "title": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
+      "summary": "Airbnb researchers have introduced CASTLE, a framework designed to address the cold-start problem in natural language search. The approach uses de-identified booking sessions and large language models (LLMs) to jointly generate synthetic search queries and relevance labels, enabling model training before sufficient real search traffic is available. By Robert Krzaczyński",
+      "url": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
       "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-15T09:55:00.000Z"
-    },
-    {
-      "id": "techcrunch-ai-chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.3,
+      "score": 8.6,
       "tags": [
         "Hot News",
         "Model",
-        "Agent AI"
+        "Research"
       ],
-      "publishedAt": "2026-11-13T16:00:12.000Z"
+      "publishedAt": "2026-11-16T12:25:00.000Z"
     },
     {
-      "id": "techcrunch-ai-where-was-nvidia-s-security-team",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "id": "techcrunch-ai-california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "sourceName": "TechCrunch AI",
-      "score": 8.1,
+      "score": 8.5,
       "tags": [
+        "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-11-15T00:08:07.000Z"
+      "publishedAt": "2026-11-16T20:07:13.000Z"
     },
     {
-      "id": "openai-news-introducing-chatgpt-wallet",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "sourceName": "OpenAI News",
-      "score": 8,
+      "id": "techcrunch-ai-openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
       "tags": [
-        "Model",
-        "Agent AI"
+        "Hot News",
+        "Model"
       ],
-      "publishedAt": "2026-11-13T15:00:00.000Z"
+      "publishedAt": "2026-11-16T17:00:00.000Z"
     }
   ]
 }
