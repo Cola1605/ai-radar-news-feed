@@ -1,26 +1,55 @@
 {
-  "generatedAt": "2026-11-17T04:01:04.189Z",
-  "latestPublishedAt": "2026-11-16T20:07:13.000Z",
-  "newItemCount": 11,
-  "dateKey": "2026-11-17",
+  "generatedAt": "2026-11-18T02:58:29.307Z",
+  "latestPublishedAt": "2026-11-17T23:38:43.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-11-18",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 229,
+  "totalCount": 239,
   "items": [
     {
-      "id": "techcrunch-ai-openai-will-embed-safety-researchers-to-investigate-ai-subversion",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "sourceName": "TechCrunch AI",
+      "id": "the-decoder-openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk....",
+      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+      "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
+        "Hot News",
         "Model",
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-11-16T17:02:43.000Z"
+      "publishedAt": "2026-11-17T20:30:50.000Z"
+    },
+    {
+      "id": "the-decoder-california-s-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face",
+      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder .",
+      "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-17T14:54:10.000Z"
+    },
+    {
+      "id": "openai-news-astra-for-law-leads-in-legal-intelligence",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-11-17T00:00:00.000Z"
     },
     {
       "id": "openai-news-broadening-access-to-ai-for-scientists",
@@ -64,71 +93,29 @@
       "publishedAt": "2026-11-16T08:00:00.000Z"
     },
     {
-      "id": "openai-news-the-king-s-trust-and-openai-launch-1m-partnership",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Business"
-      ],
-      "publishedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
-      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs....",
-      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "id": "the-decoder-openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments",
+      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models....",
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
       "sourceName": "The Decoder",
-      "score": 9.7,
+      "score": 9,
       "tags": [
-        "Hot News",
         "Model",
-        "Agent AI",
-        "Infra"
+        "Policy"
       ],
-      "publishedAt": "2026-11-15T10:06:06.000Z"
+      "publishedAt": "2026-11-17T15:02:03.000Z"
     },
     {
-      "id": "the-decoder-alibaba-s-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices",
-      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source....",
-      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-11-16T16:56:04.000Z"
-    },
-    {
-      "id": "the-decoder-australia-s-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service",
-      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers....",
-      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Infra"
-      ],
-      "publishedAt": "2026-11-15T10:45:58.000Z"
-    },
-    {
-      "id": "the-decoder-openai-s-gpt-6-astra-tackles-the-standard-model-s-toughest-math-problem-on-a-lattice",
-      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible....",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "id": "the-decoder-the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output",
+      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+      "summary": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models....",
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
       "sourceName": "The Decoder",
       "score": 8.8,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-16T19:19:56.000Z"
+      "publishedAt": "2026-11-17T16:47:21.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-airbnb-introduces-castle-for-training-natural-language-search-models-with-synthetic-data",
@@ -145,30 +132,43 @@
       "publishedAt": "2026-11-16T12:25:00.000Z"
     },
     {
-      "id": "techcrunch-ai-california-state-ag-sues-openai-over-rogue-agent-incidents",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "id": "mit-technology-review-building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.4,
       "tags": [
         "Agent AI",
         "Policy"
       ],
-      "publishedAt": "2026-11-16T20:07:13.000Z"
+      "publishedAt": "2026-11-16T16:04:28.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "id": "infoq-ai-ml-data-engineering-uber-s-legal-ai-agent-cuts-contract-review-time-by-20-with-rules-and-rag",
+      "title": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
+      "summary": "Uber’s Legal Redlining Agent reviews contract changes in Microsoft Word using RAG, historical lawyer feedback, and deterministic policy rules. Built with LangGraph, OpenSearch, and Redis, the system reports more than 20% lower average contract review time and 91% accuracy in AI-generated decisions. Uber is exploring agentic harnesses, skills, legal ontologies, and knowledge graphs. By Leela Kumili",
+      "url": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.4,
+      "tags": [
+        "Agent AI",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-16T14:37:00.000Z"
+    },
+    {
+      "id": "2tinteractive-com-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
+      "summary": "Tin AI từ Hacker News AI về \"OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://2tinteractive.com/watch/episodes/5726/",
+      "sourceName": "2tinteractive.com",
+      "score": 8.3,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-11-16T17:00:00.000Z"
+      "publishedAt": "2026-11-17T23:38:43.000Z"
     }
   ]
 }
