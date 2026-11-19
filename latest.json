@@ -1,18 +1,62 @@
 {
-  "generatedAt": "2026-11-18T02:58:29.307Z",
-  "latestPublishedAt": "2026-11-17T23:38:43.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-11-18",
+  "generatedAt": "2026-11-19T02:40:54.170Z",
+  "latestPublishedAt": "2026-11-18T23:45:01.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-11-19",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 239,
+  "totalCount": 250,
   "items": [
     {
-      "id": "the-decoder-openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains",
-      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk....",
-      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+      "id": "frontier-lab-observatory-lucentcarrot1-chatgpt-site-show-hn-frontier-observatory-a-visual-timeline-of-what-the-ai-labs-ship",
+      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
+      "summary": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thought was a bad name so now its called Frontier Observatory, which is a tad less terrible. Prompt: You know what I'd like to build.....",
+      "url": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "sourceName": "frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-18T23:45:01.000Z"
+    },
+    {
+      "id": "the-decoder-google-deepmind-s-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing",
+      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created....",
+      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-18T19:26:25.000Z"
+    },
+    {
+      "id": "the-decoder-microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives",
+      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+      "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises....",
+      "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Policy",
+        "Business",
+        "Infra"
+      ],
+      "publishedAt": "2026-11-18T18:47:36.000Z"
+    },
+    {
+      "id": "the-decoder-openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time",
+      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question....",
+      "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
       "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
@@ -21,20 +65,61 @@
         "Research",
         "Policy"
       ],
-      "publishedAt": "2026-11-17T20:30:50.000Z"
+      "publishedAt": "2026-11-18T14:36:42.000Z"
     },
     {
-      "id": "the-decoder-california-s-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face",
-      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
-      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder .",
-      "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
-      "sourceName": "The Decoder",
+      "id": "openai-news-research-acceleration-the-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "sourceName": "OpenAI News",
       "score": 9.7,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "id": "openai-news-managing-frontier-ai-risk-from-training-to-deployment",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "sourceName": "OpenAI News",
+      "score": 9.7,
+      "tags": [
+        "Model",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month",
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models....",
+      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
         "Hot News",
         "Model"
       ],
-      "publishedAt": "2026-11-17T14:54:10.000Z"
+      "publishedAt": "2026-11-18T21:03:23.000Z"
+    },
+    {
+      "id": "openai-news-introducing-chatgpt-for-sales",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceName": "OpenAI News",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
       "id": "openai-news-astra-for-law-leads-in-legal-intelligence",
@@ -42,7 +127,7 @@
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "url": "https://openai.com/index/astra-law-6-2",
       "sourceName": "OpenAI News",
-      "score": 9.7,
+      "score": 9.3,
       "tags": [
         "Hot News",
         "Model",
@@ -52,123 +137,41 @@
       "publishedAt": "2026-11-17T00:00:00.000Z"
     },
     {
-      "id": "openai-news-broadening-access-to-ai-for-scientists",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
+      "id": "google-deepmind-introducing-gemini-4-neon",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 4 Neon\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
       "tags": [
-        "Model",
-        "Research"
+        "Model"
       ],
-      "publishedAt": "2026-11-16T17:00:00.000Z"
+      "publishedAt": "2026-11-18T21:35:43.000Z"
     },
     {
-      "id": "openai-news-lvmh-s-media-division-announces-strategic-partnership-with-openai",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
+      "id": "google-deepmind-genie-4-is-now-available",
+      "title": "Genie 4 is now available",
+      "summary": "Tin AI từ Google DeepMind về \"Genie 4 is now available\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "sourceName": "Google DeepMind",
+      "score": 9.1,
       "tags": [
-        "Hot News",
-        "Model",
-        "Business"
+        "Hot News"
       ],
-      "publishedAt": "2026-11-16T09:00:00.000Z"
+      "publishedAt": "2026-11-18T18:13:42.000Z"
     },
     {
-      "id": "openai-news-our-first-phase-of-embedded-assessments",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-16T08:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments",
-      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
-      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models....",
-      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
-      "sourceName": "The Decoder",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-17T15:02:03.000Z"
-    },
-    {
-      "id": "the-decoder-the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output",
-      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
-      "summary": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models....",
-      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "sourceName": "TechCrunch AI",
       "score": 8.8,
       "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-17T16:47:21.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-airbnb-introduces-castle-for-training-natural-language-search-models-with-synthetic-data",
-      "title": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
-      "summary": "Airbnb researchers have introduced CASTLE, a framework designed to address the cold-start problem in natural language search. The approach uses de-identified booking sessions and large language models (LLMs) to jointly generate synthetic search queries and relevance labels, enabling model training before sufficient real search traffic is available. By Robert Krzaczyński",
-      "url": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.6,
-      "tags": [
-        "Hot News",
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-16T12:25:00.000Z"
-    },
-    {
-      "id": "mit-technology-review-building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.4,
-      "tags": [
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-16T16:04:28.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-uber-s-legal-ai-agent-cuts-contract-review-time-by-20-with-rules-and-rag",
-      "title": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
-      "summary": "Uber’s Legal Redlining Agent reviews contract changes in Microsoft Word using RAG, historical lawyer feedback, and deterministic policy rules. Built with LangGraph, OpenSearch, and Redis, the system reports more than 20% lower average contract review time and 91% accuracy in AI-generated decisions. Uber is exploring agentic harnesses, skills, legal ontologies, and knowledge graphs. By Leela Kumili",
-      "url": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 8.4,
-      "tags": [
-        "Agent AI",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-16T14:37:00.000Z"
-    },
-    {
-      "id": "2tinteractive-com-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
-      "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
-      "summary": "Tin AI từ Hacker News AI về \"OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://2tinteractive.com/watch/episodes/5726/",
-      "sourceName": "2tinteractive.com",
-      "score": 8.3,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-11-17T23:38:43.000Z"
+      "publishedAt": "2026-11-18T22:58:11.000Z"
     }
   ]
 }
