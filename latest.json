@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-11-19T02:40:54.170Z",
-  "latestPublishedAt": "2026-11-18T23:45:01.000Z",
-  "newItemCount": 11,
-  "dateKey": "2026-11-19",
+  "generatedAt": "2026-11-20T02:26:37.249Z",
+  "latestPublishedAt": "2026-11-19T21:15:01.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-11-20",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 250,
+  "totalCount": 251,
   "items": [
     {
-      "id": "frontier-lab-observatory-lucentcarrot1-chatgpt-site-show-hn-frontier-observatory-a-visual-timeline-of-what-the-ai-labs-ship",
-      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
-      "summary": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thought was a bad name so now its called Frontier Observatory, which is a tad less terrible. Prompt: You know what I'd like to build.....",
-      "url": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
-      "sourceName": "frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "id": "the-decoder-google-s-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago",
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder .",
+      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "sourceName": "The Decoder",
       "score": 9.7,
       "tags": [
         "Hot News",
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-11-18T23:45:01.000Z"
+      "publishedAt": "2026-11-19T11:18:18.000Z"
     },
     {
       "id": "the-decoder-google-deepmind-s-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing",
@@ -53,21 +53,6 @@
       "publishedAt": "2026-11-18T18:47:36.000Z"
     },
     {
-      "id": "the-decoder-openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time",
-      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
-      "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question....",
-      "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-18T14:36:42.000Z"
-    },
-    {
       "id": "openai-news-research-acceleration-the-jagged-frontier",
       "title": "Research acceleration: The jagged frontier",
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
@@ -96,45 +81,18 @@
       "publishedAt": "2026-11-18T06:00:00.000Z"
     },
     {
-      "id": "the-decoder-google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month",
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models....",
-      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+      "id": "the-decoder-an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool",
+      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause....",
+      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-11-18T21:03:23.000Z"
-    },
-    {
-      "id": "openai-news-introducing-chatgpt-for-sales",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "sourceName": "OpenAI News",
-      "score": 9.4,
-      "tags": [
         "Model",
-        "Research"
+        "Agent AI",
+        "Policy"
       ],
-      "publishedAt": "2026-11-17T08:00:00.000Z"
-    },
-    {
-      "id": "openai-news-astra-for-law-leads-in-legal-intelligence",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "sourceName": "OpenAI News",
-      "score": 9.3,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research",
-        "Business"
-      ],
-      "publishedAt": "2026-11-17T00:00:00.000Z"
+      "publishedAt": "2026-11-19T21:15:01.000Z"
     },
     {
       "id": "google-deepmind-introducing-gemini-4-neon",
@@ -172,6 +130,45 @@
         "Agent AI"
       ],
       "publishedAt": "2026-11-18T22:58:11.000Z"
+    },
+    {
+      "id": "openai-news-how-sumitomo-life-s-leaders-helped-teams-adopt-chatgpt-enterprise",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Research",
+        "Business"
+      ],
+      "publishedAt": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "id": "openai-news-introducing-chatgpt-for-sales",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceName": "OpenAI News",
+      "score": 8.8,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-17T08:00:00.000Z"
+    },
+    {
+      "id": "techcrunch-ai-the-unfolding-jensen-huang-scandal-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Policy"
+      ],
+      "publishedAt": "2026-11-19T20:18:49.000Z"
     }
   ]
 }
