@@ -1,85 +1,13 @@
 {
-  "generatedAt": "2026-11-20T02:26:37.249Z",
-  "latestPublishedAt": "2026-11-19T21:15:01.000Z",
-  "newItemCount": 4,
-  "dateKey": "2026-11-20",
+  "generatedAt": "2026-11-21T02:35:58.182Z",
+  "latestPublishedAt": "2026-11-20T23:30:30.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-11-21",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 251,
+  "totalCount": 248,
   "items": [
-    {
-      "id": "the-decoder-google-s-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago",
-      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder .",
-      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-19T11:18:18.000Z"
-    },
-    {
-      "id": "the-decoder-google-deepmind-s-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing",
-      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created....",
-      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model"
-      ],
-      "publishedAt": "2026-11-18T19:26:25.000Z"
-    },
-    {
-      "id": "the-decoder-microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives",
-      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
-      "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises....",
-      "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI",
-        "Policy",
-        "Business",
-        "Infra"
-      ],
-      "publishedAt": "2026-11-18T18:47:36.000Z"
-    },
-    {
-      "id": "openai-news-research-acceleration-the-jagged-frontier",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-11-18T08:00:00.000Z"
-    },
-    {
-      "id": "openai-news-managing-frontier-ai-risk-from-training-to-deployment",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "sourceName": "OpenAI News",
-      "score": 9.7,
-      "tags": [
-        "Model",
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-11-18T06:00:00.000Z"
-    },
     {
       "id": "the-decoder-an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool",
       "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
@@ -95,68 +23,124 @@
       "publishedAt": "2026-11-19T21:15:01.000Z"
     },
     {
-      "id": "google-deepmind-introducing-gemini-4-neon",
-      "title": "Introducing Gemini 4 Neon",
-      "summary": "Tin AI từ Google DeepMind về \"Introducing Gemini 4 Neon\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-18T21:35:43.000Z"
-    },
-    {
-      "id": "google-deepmind-genie-4-is-now-available",
-      "title": "Genie 4 is now available",
-      "summary": "Tin AI từ Google DeepMind về \"Genie 4 is now available\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "sourceName": "Google DeepMind",
-      "score": 9.1,
-      "tags": [
-        "Hot News"
-      ],
-      "publishedAt": "2026-11-18T18:13:42.000Z"
-    },
-    {
-      "id": "techcrunch-ai-satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.8,
-      "tags": [
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-18T22:58:11.000Z"
-    },
-    {
-      "id": "openai-news-how-sumitomo-life-s-leaders-helped-teams-adopt-chatgpt-enterprise",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "id": "openai-news-hebbia-sees-improvements-in-financial-research-with-gpt-6-astra",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
       "sourceName": "OpenAI News",
-      "score": 8.8,
+      "score": 9.4,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-ai-industry-growth-remains-strong-but-the-pace-is-slowing",
+      "title": "AI industry growth remains strong, but the pace is slowing",
+      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling....",
+      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+      "sourceName": "The Decoder",
+      "score": 9.3,
       "tags": [
         "Model",
-        "Research",
         "Business"
+      ],
+      "publishedAt": "2026-11-19T19:28:19.000Z"
+    },
+    {
+      "id": "openai-news-research-acceleration-the-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "sourceName": "OpenAI News",
+      "score": 9.1,
+      "tags": [
+        "Model",
+        "Agent AI",
+        "Research"
       ],
       "publishedAt": "2026-11-18T08:00:00.000Z"
     },
     {
-      "id": "openai-news-introducing-chatgpt-for-sales",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "id": "openai-news-managing-frontier-ai-risk-from-training-to-deployment",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
       "sourceName": "OpenAI News",
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy",
+        "Infra"
+      ],
+      "publishedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "the-decoder-apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors",
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder .",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "sourceName": "The Decoder",
+      "score": 8.9,
+      "tags": [
+        "Hot News",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-20T15:03:25.000Z"
+    },
+    {
+      "id": "the-decoder-openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think",
+      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns....",
+      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "sourceName": "The Decoder",
       "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-20T20:31:50.000Z"
+    },
+    {
+      "id": "google-research-how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "summary": "Tin AI từ Google Research về \"How Google Duplex evolved to also call businesses for you in Gemini\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "sourceName": "Google Research",
+      "score": 8.6,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-11-17T08:00:00.000Z"
+      "publishedAt": "2026-11-20T23:30:30.000Z"
+    },
+    {
+      "id": "openai-news-combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "sourceName": "OpenAI News",
+      "score": 8.6,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-20T10:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-aws-releases-a-free-local-emulator-of-aws-built-entirely-by-agents",
+      "title": "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+      "summary": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain all of the code and publishes per-release fidelity scores. The docs say it does not evaluate IAM, and practitioners are split on trusting an emulator nobody reviewed. By Steef-Jan Wiggers",
+      "url": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.6,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-20T06:53:00.000Z"
     },
     {
       "id": "techcrunch-ai-the-unfolding-jensen-huang-scandal-a-timeline",
@@ -169,6 +153,18 @@
         "Policy"
       ],
       "publishedAt": "2026-11-19T20:18:49.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-s-ipo-could-deliver-156b-to-charity",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.4,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-19T19:10:45.000Z"
     }
   ]
 }
