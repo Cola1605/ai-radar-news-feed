@@ -1,26 +1,67 @@
 {
-  "generatedAt": "2026-11-21T02:35:58.182Z",
-  "latestPublishedAt": "2026-11-20T23:30:30.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-11-21",
+  "generatedAt": "2026-11-22T01:26:41.303Z",
+  "latestPublishedAt": "2026-11-21T16:23:45.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-11-22",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 248,
+  "totalCount": 243,
   "items": [
     {
-      "id": "the-decoder-an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool",
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause....",
-      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+      "id": "the-decoder-bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model",
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available....",
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI",
+        "Research"
+      ],
+      "publishedAt": "2026-11-21T09:17:24.000Z"
+    },
+    {
+      "id": "the-decoder-nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end",
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The team even proposes a new class of models that works with short notes instead of long context....",
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
-        "Agent AI",
-        "Policy"
+        "Research"
       ],
-      "publishedAt": "2026-11-19T21:15:01.000Z"
+      "publishedAt": "2026-11-21T16:23:45.000Z"
+    },
+    {
+      "id": "the-decoder-openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions",
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality....",
+      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
+        "Hot News",
+        "Model"
+      ],
+      "publishedAt": "2026-11-21T13:32:35.000Z"
+    },
+    {
+      "id": "the-decoder-hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up....",
+      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "sourceName": "The Decoder",
+      "score": 9.2,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-21T11:19:49.000Z"
     },
     {
       "id": "openai-news-hebbia-sees-improvements-in-financial-research-with-gpt-6-astra",
@@ -28,79 +69,13 @@
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "url": "https://openai.com/business/customer-stories/hebbia",
       "sourceName": "OpenAI News",
-      "score": 9.4,
+      "score": 8.8,
       "tags": [
         "Hot News",
         "Model",
         "Research"
       ],
       "publishedAt": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-ai-industry-growth-remains-strong-but-the-pace-is-slowing",
-      "title": "AI industry growth remains strong, but the pace is slowing",
-      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling....",
-      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-      "sourceName": "The Decoder",
-      "score": 9.3,
-      "tags": [
-        "Model",
-        "Business"
-      ],
-      "publishedAt": "2026-11-19T19:28:19.000Z"
-    },
-    {
-      "id": "openai-news-research-acceleration-the-jagged-frontier",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "sourceName": "OpenAI News",
-      "score": 9.1,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-11-18T08:00:00.000Z"
-    },
-    {
-      "id": "openai-news-managing-frontier-ai-risk-from-training-to-deployment",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "sourceName": "OpenAI News",
-      "score": 9,
-      "tags": [
-        "Model",
-        "Policy",
-        "Infra"
-      ],
-      "publishedAt": "2026-11-18T06:00:00.000Z"
-    },
-    {
-      "id": "the-decoder-apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors",
-      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder .",
-      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-      "sourceName": "The Decoder",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-20T15:03:25.000Z"
-    },
-    {
-      "id": "the-decoder-openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think",
-      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-      "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns....",
-      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-      "sourceName": "The Decoder",
-      "score": 8.8,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-20T20:31:50.000Z"
     },
     {
       "id": "google-research-how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
@@ -143,12 +118,25 @@
       "publishedAt": "2026-11-20T06:53:00.000Z"
     },
     {
+      "id": "mit-technology-review-the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "sourceName": "MIT Technology Review",
+      "score": 8,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-20T18:15:15.000Z"
+    },
+    {
       "id": "techcrunch-ai-the-unfolding-jensen-huang-scandal-a-timeline",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "sourceName": "TechCrunch AI",
-      "score": 8.5,
+      "score": 7.8,
       "tags": [
         "Policy"
       ],
@@ -160,11 +148,24 @@
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "sourceName": "TechCrunch AI",
-      "score": 8.4,
+      "score": 7.7,
       "tags": [
         "Model"
       ],
       "publishedAt": "2026-11-19T19:10:45.000Z"
+    },
+    {
+      "id": "openai-news-can-ai-help-scientists-identify-promising-drug-candidates",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "sourceName": "OpenAI News",
+      "score": 7.6,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-20T00:00:00.000Z"
     }
   ]
 }
