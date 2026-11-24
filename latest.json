@@ -1,65 +1,104 @@
 {
-  "generatedAt": "2026-11-23T01:51:41.861Z",
-  "latestPublishedAt": "2026-11-23T01:25:53.000Z",
-  "newItemCount": 6,
-  "dateKey": "2026-11-23",
+  "generatedAt": "2026-11-24T05:22:44.201Z",
+  "latestPublishedAt": "2026-11-23T22:05:50.000Z",
+  "newItemCount": 11,
+  "dateKey": "2026-11-24",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 241,
+  "totalCount": 245,
   "items": [
     {
-      "id": "the-decoder-ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns",
-      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
-      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actually do....",
-      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "id": "the-decoder-openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits",
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make perplexity an industry-wide progress metric and establish shared limits before control over AI behavior erodes....",
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
       "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-22T13:00:43.000Z"
-    },
-    {
-      "id": "the-decoder-nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end",
-      "title": "Nvidia researchers argue huge AI context windows are a dead end",
-      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The team even proposes a new class of models that works with short notes instead of long context....",
-      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-21T16:23:45.000Z"
-    },
-    {
-      "id": "the-decoder-openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions",
-      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
-      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality....",
-      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
+      "score": 9.7,
       "tags": [
         "Hot News",
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-23T18:42:38.000Z"
+    },
+    {
+      "id": "the-decoder-z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model",
+      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+      "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models....",
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-23T15:13:03.000Z"
+    },
+    {
+      "id": "the-decoder-gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy",
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with 49 of 56 tasks solved....",
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
+      "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-21T13:32:35.000Z"
+      "publishedAt": "2026-11-23T12:17:01.000Z"
     },
     {
-      "id": "the-decoder-hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft",
-      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up....",
-      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "id": "mit-technology-review-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousness-argument",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "sourceName": "MIT Technology Review",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-23T17:36:08.000Z"
+    },
+    {
+      "id": "the-decoder-openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably",
+      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently....",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
       "sourceName": "The Decoder",
-      "score": 9.2,
+      "score": 9,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-23T20:39:18.000Z"
+    },
+    {
+      "id": "techcrunch-ai-anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.9,
       "tags": [
         "Hot News",
         "Model",
-        "Research"
+        "Agent AI"
       ],
-      "publishedAt": "2026-11-21T11:19:49.000Z"
+      "publishedAt": "2026-11-23T22:05:50.000Z"
+    },
+    {
+      "id": "openai-news-openai-and-cisco-introduce-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "sourceName": "OpenAI News",
+      "score": 8.7,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-23T21:20:00.000Z"
     },
     {
       "id": "infoq-ai-ml-data-engineering-claude-code-has-been-leaking-secrets-through-its-don-t-ask-again-feature",
@@ -76,94 +115,54 @@
       "publishedAt": "2026-11-22T11:00:00.000Z"
     },
     {
-      "id": "openai-news-perplexity-and-intelligence",
-      "title": "Perplexity and Intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "sourceName": "OpenAI News",
+      "id": "mit-technology-review-why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "sourceName": "MIT Technology Review",
       "score": 8.3,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-22T00:00:00.000Z"
-    },
-    {
-      "id": "google-research-how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
-      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-      "summary": "Tin AI từ Google Research về \"How Google Duplex evolved to also call businesses for you in Gemini\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-      "sourceName": "Google Research",
-      "score": 7.9,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-20T23:30:30.000Z"
-    },
-    {
-      "id": "openai-news-combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "sourceName": "OpenAI News",
-      "score": 7.9,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-20T10:00:00.000Z"
+      "publishedAt": "2026-11-23T11:00:00.000Z"
     },
     {
-      "id": "infoq-ai-ml-data-engineering-aws-releases-a-free-local-emulator-of-aws-built-entirely-by-agents",
-      "title": "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
-      "summary": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain all of the code and publishes per-release fidelity scores. The docs say it does not evaluate IAM, and practitioners are split on trusting an emulator nobody reviewed. By Steef-Jan Wiggers",
-      "url": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.9,
+      "id": "mit-technology-review-the-download-ai-s-judgment-problem-and-carbon-removal-s-crop-threat",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "sourceName": "MIT Technology Review",
+      "score": 8,
       "tags": [
-        "Hot News",
         "Model",
-        "Agent AI",
         "Research"
       ],
-      "publishedAt": "2026-11-20T06:53:00.000Z"
+      "publishedAt": "2026-11-23T13:10:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.8,
+      "id": "openai-news-connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "sourceName": "OpenAI News",
+      "score": 8,
       "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-22T21:14:07.000Z"
-    },
-    {
-      "id": "techcrunch-ai-how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "sourceName": "TechCrunch AI",
-      "score": 7.3,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-23T01:25:53.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-google-announces-agent-compute-engine-for-secure-ai-agent-execution",
-      "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
-      "summary": "Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments. The design keeps credentials, API keys, and OAuth refresh tokens outside the agent sandbox, using an external Agent Gateway to authenticate requests and inject the required secrets. By Renato Losio",
-      "url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 7.3,
-      "tags": [
-        "Hot News",
         "Agent AI"
       ],
-      "publishedAt": "2026-11-22T06:30:00.000Z"
+      "publishedAt": "2026-11-23T08:00:00.000Z"
+    },
+    {
+      "id": "openai-news-richpanel-helps-companies-automate-50-of-support-in-30-days",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "sourceName": "OpenAI News",
+      "score": 8,
+      "tags": [
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-23T08:00:00.000Z"
     }
   ]
 }
