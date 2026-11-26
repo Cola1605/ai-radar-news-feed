@@ -1,65 +1,64 @@
 {
-  "generatedAt": "2026-11-25T04:21:59.125Z",
-  "latestPublishedAt": "2026-11-25T00:12:02.000Z",
-  "newItemCount": 7,
-  "dateKey": "2026-11-25",
+  "generatedAt": "2026-11-26T03:39:55.026Z",
+  "latestPublishedAt": "2026-11-25T20:51:02.000Z",
+  "newItemCount": 8,
+  "dateKey": "2026-11-26",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 251,
+  "totalCount": 253,
   "items": [
     {
-      "id": "the-decoder-dozens-of-insiders-say-openai-and-anthropic-s-unreleased-models-have-outgrown-their-safety-measures",
-      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
-      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is eroding....",
-      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-      "sourceName": "The Decoder",
-      "score": 9.7,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Policy"
-      ],
-      "publishedAt": "2026-11-24T14:02:31.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout",
-      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.\" He still stands by the math....",
-      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
-      "sourceName": "The Decoder",
+      "id": "techcrunch-ai-anthropic-s-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "sourceName": "TechCrunch AI",
       "score": 9.6,
       "tags": [
-        "Hot News",
+        "Model",
         "Research"
       ],
-      "publishedAt": "2026-11-24T14:28:41.000Z"
+      "publishedAt": "2026-11-25T19:44:24.000Z"
     },
     {
-      "id": "the-decoder-openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress",
-      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-      "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models....",
-      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "id": "the-decoder-us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs",
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap is widening....",
+      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
       "sourceName": "The Decoder",
       "score": 9.5,
       "tags": [
         "Model",
         "Research"
       ],
-      "publishedAt": "2026-11-24T17:58:44.000Z"
+      "publishedAt": "2026-11-25T20:51:02.000Z"
     },
     {
-      "id": "mit-technology-review-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousness-argument",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "sourceName": "MIT Technology Review",
-      "score": 9.4,
+      "id": "the-decoder-ai-agents-now-control-part-of-deepmind-s-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks....",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "sourceName": "The Decoder",
+      "score": 9.5,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI",
+        "Research"
       ],
-      "publishedAt": "2026-11-23T17:36:08.000Z"
+      "publishedAt": "2026-11-25T13:23:36.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-dexterous-and-faster-learners",
+      "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
+      "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world environments. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.4,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-25T17:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-even-the-best-ai-agents-struggle-with-everyday-life",
@@ -81,7 +80,7 @@
       "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "sourceName": "OpenAI News",
-      "score": 9.3,
+      "score": 8.7,
       "tags": [
         "Model",
         "Research"
@@ -89,43 +88,17 @@
       "publishedAt": "2026-11-24T00:00:00.000Z"
     },
     {
-      "id": "the-decoder-openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably",
-      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
-      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently....",
-      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-      "sourceName": "The Decoder",
-      "score": 9,
+      "id": "mit-technology-review-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousness-argument",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "sourceName": "MIT Technology Review",
+      "score": 8.7,
       "tags": [
         "Model",
         "Policy"
       ],
-      "publishedAt": "2026-11-23T20:39:18.000Z"
-    },
-    {
-      "id": "techcrunch-ai-anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.9,
-      "tags": [
-        "Hot News",
-        "Model",
-        "Agent AI"
-      ],
-      "publishedAt": "2026-11-23T22:05:50.000Z"
-    },
-    {
-      "id": "openai-news-openai-and-cisco-introduce-shirudo",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
-      "tags": [
-        "AI"
-      ],
-      "publishedAt": "2026-11-23T21:20:00.000Z"
+      "publishedAt": "2026-11-23T17:36:08.000Z"
     },
     {
       "id": "openai-news-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
@@ -140,28 +113,55 @@
       "publishedAt": "2026-11-24T13:00:00.000Z"
     },
     {
-      "id": "mit-technology-review-why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.3,
+      "id": "techcrunch-ai-openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
       "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-23T11:00:00.000Z"
+      "publishedAt": "2026-11-25T20:03:27.000Z"
     },
     {
-      "id": "techcrunch-ai-yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-champion",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.1,
+      "id": "the-decoder-anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools",
+      "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+      "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures....",
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
       "tags": [
-        "Policy"
+        "Research",
+        "Infra"
       ],
-      "publishedAt": "2026-11-25T00:12:02.000Z"
+      "publishedAt": "2026-11-25T13:14:27.000Z"
+    },
+    {
+      "id": "the-decoder-openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data",
+      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "sourceName": "The Decoder",
+      "score": 8.3,
+      "tags": [
+        "Model",
+        "Infra"
+      ],
+      "publishedAt": "2026-11-25T18:22:02.000Z"
+    },
+    {
+      "id": "google-research-verifiable-social-reasoning-for-llm-assistants",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "summary": "Tin AI từ Google Research về \"Verifiable Social Reasoning for LLM Assistants\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "sourceName": "Google Research",
+      "score": 8.2,
+      "tags": [
+        "Model",
+        "Research"
+      ],
+      "publishedAt": "2026-11-25T17:10:27.000Z"
     }
   ]
 }
