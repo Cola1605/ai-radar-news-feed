@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T03:39:55.026Z",
-  "latestPublishedAt": "2026-11-25T20:51:02.000Z",
-  "newItemCount": 8,
-  "dateKey": "2026-11-26",
+  "generatedAt": "2026-11-27T03:40:52.251Z",
+  "latestPublishedAt": "2026-11-26T19:31:46.000Z",
+  "newItemCount": 4,
+  "dateKey": "2026-11-27",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
@@ -35,20 +35,6 @@
       "publishedAt": "2026-11-25T20:51:02.000Z"
     },
     {
-      "id": "the-decoder-ai-agents-now-control-part-of-deepmind-s-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
-      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks....",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
-      ],
-      "publishedAt": "2026-11-25T13:23:36.000Z"
-    },
-    {
       "id": "infoq-ai-ml-data-engineering-deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-dexterous-and-faster-learners",
       "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
       "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world environments. By Sergio De Simone",
@@ -61,12 +47,24 @@
       "publishedAt": "2026-11-25T17:00:00.000Z"
     },
     {
+      "id": "the-decoder-after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead",
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder .",
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "sourceName": "The Decoder",
+      "score": 8.8,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-26T15:45:08.000Z"
+    },
+    {
       "id": "techcrunch-ai-even-the-best-ai-agents-struggle-with-everyday-life",
       "title": "Even the best AI agents struggle with everyday life",
       "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
       "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "sourceName": "TechCrunch AI",
-      "score": 9.3,
+      "score": 8.6,
       "tags": [
         "Model",
         "Agent AI",
@@ -75,42 +73,43 @@
       "publishedAt": "2026-11-24T21:33:29.000Z"
     },
     {
-      "id": "openai-news-clay-helps-sales-teams-win-with-codex-and-chatgpt",
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "sourceName": "OpenAI News",
-      "score": 8.7,
+      "id": "the-decoder-former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it",
+      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+      "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography....",
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "sourceName": "The Decoder",
+      "score": 8.5,
       "tags": [
-        "Model",
         "Research"
       ],
-      "publishedAt": "2026-11-24T00:00:00.000Z"
+      "publishedAt": "2026-11-26T19:31:46.000Z"
     },
     {
-      "id": "mit-technology-review-a-legendary-philosopher-isn-t-buying-anthropic-s-consciousness-argument",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "sourceName": "MIT Technology Review",
-      "score": 8.7,
+      "id": "techcrunch-ai-grand-theft-auto-vi-proves-why-efficiency-isn-t-a-virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "sourceName": "TechCrunch AI",
+      "score": 8.5,
+      "tags": [
+        "Hot News"
+      ],
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-presentation-finetuning-your-embedding-model-for-better-search-learning-from-agentic-search-at-dell",
+      "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+      "summary": "Rachel Shalom explains how Dell solved enterprise RAG retrieval failures on internal terminology by fine-tuning open-source embedding models. She discusses data prep with hard negatives, distributed InfoNCE loss training on H100 GPUs, automated hyperparameter tuning, and production evaluation using LLM-as-a-judge. By Rachel Shalom",
+      "url": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.5,
       "tags": [
         "Model",
-        "Policy"
+        "Agent AI",
+        "Research",
+        "Business"
       ],
-      "publishedAt": "2026-11-23T17:36:08.000Z"
-    },
-    {
-      "id": "openai-news-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "sourceName": "OpenAI News",
-      "score": 8.6,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-24T13:00:00.000Z"
+      "publishedAt": "2026-11-26T11:00:00.000Z"
     },
     {
       "id": "techcrunch-ai-openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
@@ -123,19 +122,6 @@
         "Model"
       ],
       "publishedAt": "2026-11-25T20:03:27.000Z"
-    },
-    {
-      "id": "the-decoder-anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools",
-      "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
-      "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures....",
-      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
-      "sourceName": "The Decoder",
-      "score": 8.5,
-      "tags": [
-        "Research",
-        "Infra"
-      ],
-      "publishedAt": "2026-11-25T13:14:27.000Z"
     },
     {
       "id": "the-decoder-openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data",
@@ -162,6 +148,18 @@
         "Research"
       ],
       "publishedAt": "2026-11-25T17:10:27.000Z"
+    },
+    {
+      "id": "openai-news-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "sourceName": "OpenAI News",
+      "score": 7.9,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-24T13:00:00.000Z"
     }
   ]
 }
