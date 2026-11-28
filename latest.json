@@ -1,50 +1,52 @@
 {
-  "generatedAt": "2026-11-27T03:40:52.251Z",
-  "latestPublishedAt": "2026-11-26T19:31:46.000Z",
-  "newItemCount": 4,
-  "dateKey": "2026-11-27",
+  "generatedAt": "2026-11-28T03:22:32.766Z",
+  "latestPublishedAt": "2026-11-28T01:38:09.000Z",
+  "newItemCount": 6,
+  "dateKey": "2026-11-28",
   "source": "AI Radar hot AI news feed",
   "sourceUrl": "https://openai.com/news/rss.xml, https://deepmind.google/blog/rss.xml, https://research.google/blog/rss/, https://techcrunch.com/category/artificial-intelligence/feed/, https://venturebeat.com/category/ai/feed/, https://the-decoder.com/feed/, https://www.technologyreview.com/feed/, https://feed.infoq.com/ai-ml-data-eng/, https://hnrss.org/newest?q=AI",
   "selectedCount": 12,
-  "totalCount": 253,
+  "totalCount": 245,
   "items": [
+    {
+      "id": "the-decoder-rockstar-s-ai-dilemma-can-gta-6-s-staggered-release-model-survive-coding-agents",
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rockstar's delayed PC business model is coming under pressure....",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "sourceName": "The Decoder",
+      "score": 9.7,
+      "tags": [
+        "Hot News",
+        "Model",
+        "Agent AI"
+      ],
+      "publishedAt": "2026-11-27T15:37:47.000Z"
+    },
+    {
+      "id": "infoq-ai-ml-data-engineering-meta-brings-code-review-auto-approval-more-mainstream-with-pytorch-greenlight",
+      "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
+      "summary": "PyTorch now lets an AI reviewer approve pull requests from its own maintainers. GreenLight is an open-source take on RADAR, the system Meta uses to auto-land low-risk diffs after safety checks, a risk score and an LLM review. OpenAI, Anthropic and Sonar describe similar ways to automate approval while keeping humans on risky changes. By Andrew Hoblitzell",
+      "url": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 9.4,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-27T14:36:00.000Z"
+    },
     {
       "id": "techcrunch-ai-anthropic-s-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
       "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "sourceName": "TechCrunch AI",
-      "score": 9.6,
+      "score": 8.9,
       "tags": [
         "Model",
         "Research"
       ],
       "publishedAt": "2026-11-25T19:44:24.000Z"
-    },
-    {
-      "id": "the-decoder-us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs",
-      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
-      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap is widening....",
-      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
-      "sourceName": "The Decoder",
-      "score": 9.5,
-      "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-25T20:51:02.000Z"
-    },
-    {
-      "id": "infoq-ai-ml-data-engineering-deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-dexterous-and-faster-learners",
-      "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
-      "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world environments. By Sergio De Simone",
-      "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
-      "sourceName": "InfoQ AI/ML/Data Engineering",
-      "score": 9.4,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-25T17:00:00.000Z"
     },
     {
       "id": "the-decoder-after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead",
@@ -59,18 +61,29 @@
       "publishedAt": "2026-11-26T15:45:08.000Z"
     },
     {
-      "id": "techcrunch-ai-even-the-best-ai-agents-struggle-with-everyday-life",
-      "title": "Even the best AI agents struggle with everyday life",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "sourceName": "TechCrunch AI",
+      "id": "infoq-ai-ml-data-engineering-deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-dexterous-and-faster-learners",
+      "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
+      "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world environments. By Sergio De Simone",
+      "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "sourceName": "InfoQ AI/ML/Data Engineering",
+      "score": 8.7,
+      "tags": [
+        "Model"
+      ],
+      "publishedAt": "2026-11-25T17:00:00.000Z"
+    },
+    {
+      "id": "twitter-com-google-deepmind-s-ai-safety-researcher-i-m-not-optimistic",
+      "title": "Google DeepMind's AI safety researcher: \"I'm not optimistic\"",
+      "summary": "Tin AI từ Hacker News AI về \"Google DeepMind's AI safety researcher: \"I'm not optimistic\"\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://twitter.com/alexmichael/status/2125976282303471643",
+      "sourceName": "twitter.com",
       "score": 8.6,
       "tags": [
-        "Model",
-        "Agent AI",
-        "Research"
+        "Research",
+        "Policy"
       ],
-      "publishedAt": "2026-11-24T21:33:29.000Z"
+      "publishedAt": "2026-11-27T23:59:13.000Z"
     },
     {
       "id": "the-decoder-former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it",
@@ -112,54 +125,41 @@
       "publishedAt": "2026-11-26T11:00:00.000Z"
     },
     {
-      "id": "techcrunch-ai-openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "sourceName": "TechCrunch AI",
-      "score": 8.5,
-      "tags": [
-        "Model"
-      ],
-      "publishedAt": "2026-11-25T20:03:27.000Z"
-    },
-    {
-      "id": "the-decoder-openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data",
-      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-      "sourceName": "The Decoder",
-      "score": 8.3,
-      "tags": [
-        "Model",
-        "Infra"
-      ],
-      "publishedAt": "2026-11-25T18:22:02.000Z"
-    },
-    {
-      "id": "google-research-verifiable-social-reasoning-for-llm-assistants",
-      "title": "Verifiable Social Reasoning for LLM Assistants",
-      "summary": "Tin AI từ Google Research về \"Verifiable Social Reasoning for LLM Assistants\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
-      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
-      "sourceName": "Google Research",
+      "id": "x-com-developers-accuse-claude-models-of-hindering-ai-projects-shift-to-gemini-neon",
+      "title": "Developers Accuse Claude Models of Hindering AI Projects, Shift to Gemini Neon",
+      "summary": "Tin AI từ Hacker News AI về \"Developers Accuse Claude Models of Hindering AI Projects, Shift to Gemini Neon\". Mở bài gốc để đọc chi tiết và đánh giá tác động với team.",
+      "url": "https://x.com/i/trending/2126468075058811175",
+      "sourceName": "x.com",
       "score": 8.2,
       "tags": [
-        "Model",
-        "Research"
-      ],
-      "publishedAt": "2026-11-25T17:10:27.000Z"
-    },
-    {
-      "id": "openai-news-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "sourceName": "OpenAI News",
-      "score": 7.9,
-      "tags": [
         "Model"
       ],
-      "publishedAt": "2026-11-24T13:00:00.000Z"
+      "publishedAt": "2026-11-28T01:38:09.000Z"
+    },
+    {
+      "id": "the-decoder-openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers",
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to compete directly with Apple....",
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "sourceName": "The Decoder",
+      "score": 8,
+      "tags": [
+        "Model",
+        "Policy"
+      ],
+      "publishedAt": "2026-11-27T19:38:37.000Z"
+    },
+    {
+      "id": "techcrunch-ai-nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "sourceName": "TechCrunch AI",
+      "score": 7.8,
+      "tags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-26T20:03:54.000Z"
     }
   ]
 }
